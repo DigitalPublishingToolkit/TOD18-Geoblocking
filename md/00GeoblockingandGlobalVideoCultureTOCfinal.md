@@ -1,29 +1,71 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+Font(s) used: Open Sans
+
+Copyright 2015 Steve Matteson & GoogleFonts
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ...
 
+# colophon
 
-***Geoblocking and Global Video Culture***
+Theory on Demand #18  
+**Geoblocking and Global Video Culture**
 
-**Eds. Ramon Lobato and James Meese**
 
-Contents
+**Editors:** Ramon Lobato and James Meese<br/>
+**Copy-editing:** Leonieke van Dipten<br/>
+**Editorial support:** Miriam Rasch<br/>
 
-**1. Introduction: The new video geography**
+**Design:** Leonieke van Dipten<br/>
+**EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 
+
+**Printer:** Print on Demand<br/>
+**Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>
+**ISBN:** <br/> 
+
+
+**Contact**
+
+Institute of Network Cultures<br/> 
+Phone: +3120 5951865<br/>
+Email: info@networkcultures.org<br/>
+Web: <http://www.networkcultures.org><br/>
+
+This publication is available through various print on demand services.
+For more information, and a freely downloadable PDF:
+<http://networkcultures.org/publications><br/>
+This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br><br/>
+![](imgs/INC-logo.png)
+
+
+# Contents
+
+<a href="ch004.xhtml">Introduction: The new video geography</a><br/>
 
 Ramon Lobato, Swinburne University of Technology
 
