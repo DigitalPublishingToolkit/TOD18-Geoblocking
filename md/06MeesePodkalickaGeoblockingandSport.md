@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Circumvention, media sport and the fragmentation of video culture **
+#Circumvention, media sport and the fragmentation of video culture
 
-*James Meese and Aneta Podkalicka*
+###James Meese and Aneta Podkalicka###
 
-*Introduction *
+##Introduction 
 
 Lurid tales of football officials pocketing millions hit the headlines
 following the recent FIFA scandals The reporting rightly shone a light
@@ -71,7 +71,7 @@ these circumvention practices, which vary in their scope and levels of
 informality, and explore how they are fragmenting the sporting video
 landscape and offering new sites of consumption for fans.
 
-*Beyond the traditional sporting broadcast: challenging exclusivity *
+##Beyond the traditional sporting broadcast: challenging exclusivity
 
 Media sport stands as an interesting case study to explore changing
 media geographies because of the sector’s resilience and longevity. It
@@ -161,7 +161,7 @@ circumvention is not just about access, but about sustaining alternative
 consumption preferences, which are often not catered for in the dominant
 forms of sporting broadcast.
 
-*Circumvention practices in media sport *
+####Circumvention practices in media sport####
 
 Circumvention in media sport occurred from the 1970s onwards, thanks to
 flexible consumer technologies like VCRs, which gave audiences with
@@ -175,7 +175,7 @@ here we outline some of the most common methods. However, we leave a
 discussion around one of the most novel methods, the use of the live
 streaming app Periscope, to Adam Rugg and Ben Burroughs in Chapter X.
 
-*Unauthorized live-streaming websites*
+####Unauthorized live-streaming websites####
 
 One prominent practice is the live streaming of sporting content on
 websites such as *Wiziwig* or *ATDHE*, which offer free unauthorized
@@ -207,7 +207,7 @@ is also worth noting that it is not prohibitively difficult to upload a
 stream of a sporting match for online broadcast, to the extent that
 walkthroughs are available online.
 
-*Circulation of game replays*
+####Circulation of game replays####
 
 An alternative circumvention tactic is based around a number of
 websites, which host delayed highlights of games after the match has
@@ -247,10 +247,10 @@ unlike live sport, there is a limited audience for delayed content.[^06MeesePodk
 
 ![](media/image1.png)
 
-Figure 1: Highlights aggregated by footytube.com from youtube.com. The
-YouTube account associated with this footage has since been terminated.
+Figure 1: *Highlights aggregated by footytube.com from youtube.com. The
+YouTube account associated with this footage has since been terminated*.
 
-*Conventional circumvention tools *
+####Conventional circumvention tools####
 
 Sporting audiences also use commercial Virtual Private Networks and
 Domain Name System proxy services in order to evade geoblocking,
@@ -275,7 +275,7 @@ of the sports broadcasting landscape, the use of circumvention
 technologies challenges this distribution strategy, which has been in
 place for some time.
 
-*Fan recordings on social media *
+####Fan recordings on social media####
 
 Another phenomenon that has emerged in recent years is people posting
 sporting content on social media platforms, either during or after a
@@ -306,7 +306,7 @@ it when a deliberately selected piece of content goes viral, losing
 control over this process is often treated as a direct threat to their
 business model.
 
-*Parallel imports of cable decoders *
+####Parallel imports of cable decoders####
 
 Our final example is a practice that constitutes, perhaps, one of the
 most ingenious methods of circumvention: paying for a cheaper cable
@@ -355,7 +355,7 @@ managing social relationships. When we consider the history of football
 fan violence or even the good-natured tensions between two local teams,
 the provision of multiple games at a local pub is no small matter.
 
-*(Un)authorised circumvention practice*
+##(Un)authorised circumvention practice##
 
 These circumvention practices don't emerge out of thin air. Sporting
 organisations and media networks are actively cultivating some of them,
@@ -381,7 +381,7 @@ reinforce the point made throughout this article, that the threats to
 live broadcasts, are the ones that rights holders respond most strongly
 to.
 
-*The fragmentation of digital sporting video cultures *
+##The fragmentation of digital sporting video cultures##
 
 The circumvention practices outlined above directly challenge
 assumptions about content, which are embedded in the geographically
@@ -401,29 +401,7 @@ quality. While the broadcast is of a high standard the fact that the
 commentary is in a foreign language might impact on the enjoyment of the
 game.
 
-  -----------------------------------------------------------------------------------------------------------------------
-  **Platform**                     **Do you need to pay**   **Timing**     **Geographic Restriction**   **‘Quality’**
-  -------------------------------- ------------------------ -------------- ---------------------------- -----------------
-  TV (Satellite)                   Yes                      Live           Yes                          Excellent
-
-  TV (FTA)                         Sometimes                Live           Yes                          Excellent
-
-  Parallel Import TV               Yes                      Live           No                           Average
-
-  TV (FTA) through VPN             Yes                      Live           No                           Excellent
-
-  Live Streaming                   No                       Live           No                           Average to Poor
-
-  Vine                             No                       Slight Delay   No                           Poor
-
-  YouTube/Other Third Party Site   No                       Delay of a\    No                           Average to Poor
-                                                            few hours                                   
-
-  Skype                            No                       Live           No                           Poor
-
-  Website                          No                       Delay of a\    No                           Average to Poor
-                                                            few hours                                   
-  -----------------------------------------------------------------------------------------------------------------------
+##Table
 
 Figure 2: A breakdown of the relationship between geographic
 restriction, cost and quality
@@ -516,7 +494,7 @@ and DNS proxies to access PSB by these citizens in a similar fashion. Of
 course, the circumvention of geoblocking by non-citizens is a different
 matter and raises a more complex set of questions for PSBs.
 
-*Conclusion *
+##Conclusion##
 
 Thanks to the preponderance of various circumvention practices, sporting
 video culture has fragmented. Because of this we see other interesting
@@ -534,70 +512,54 @@ that a sole ‘official’ broadcast. Paradoxically, in the search for
 access to official broadcasts, sports fans have conjured up an emergent
 petri dish of sporting video cultures – ripe for further study.
 
-**References**
+##References##
 
 ‘2014 FIFA World Cup Breaks Online Streaming Records’, FIFA.com, 7 July
-2014, http://m.fifa.com/aboutfifa/news/newsid=2401405.html.
+2014, [http://m.fifa.com/aboutfifa/news/newsid=2401405.html](http://m.fifa.com/aboutfifa/news/newsid=2401405.html).
 
 Boyle, Raymond. ‘Battle for control? Copyright, Football and European
 Media Rights’, *Media, Culture & Society* 37.3 (2015): 359-375.
 
-David, Matthew and Peter Millward. ‘Football's Coming Home?: Digital
-Reterritorialization, Contradictions in the Transnational Coverage of
-Sport and the Sociology of Alternative Football Broadcasts’, *The
-British Journal of Sociology* 63.2 (2012): 349-369.
+David, Matthew and Peter Millward. ‘Football's Coming Home?: Digital Reterritorialization, Contradictions in the Transnational Coverage of
+Sport and the Sociology of Alternative Football Broadcasts’, *The British Journal of Sociology* 63.2 (2012): 349-369.
 
-Evens, Tom and Katrien Lefever. ‘Watching the Football Game:
-Broadcasting Rights for the European Digital Television Market’,
-*Journal of Sport & Social Issues* 35.1 (2011): 33-49.
+Evens, Tom and Katrien Lefever. ‘Watching the Football Game: Broadcasting Rights for the European Digital Television Market’, *Journal of Sport & Social Issues* 35.1 (2011): 33-49.
 
-Gantz, Walter and Nicky Lewis. ‘Sports on Traditional and Newer Digital
-Media: Is There Really a Fight for Fans?’, *Television & New Media* 15.8
+Gantz, Walter and Nicky Lewis. ‘Sports on Traditional and Newer Digital Media: Is There Really a Fight for Fans?’, *Television & New Media* 15.8
 (2014), p. 760-768.
 
 Given, Jock. ‘Bringing the ABC Back Home’, *Inside Story*, 16 May 2014,
-http://insidestory.org.au/bringing-the-abc-back-home/.
+[http://insidestory.org.au/bringing-the-abc-back-home/](http://insidestory.org.au/bringing-the-abc-back-home/).
 
 Hutchins, Brett. ‘Robbing the World’s Largest Jewellery Store’? Digital
 Sports Piracy, Industry Hyperbole, and Barriers to an Alternative Online
 Business Model’, ANZCA 2011, Waikato, New Zealand, 5-8 July, 2011,
-http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html,
+[http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html](http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html),
 p. 6.
 
-Hutchins, Brett and David Rowe. *Sport Beyond Television: The Internet,
-Digital Media and the Rise of Networked Media Sport,* New York,
-Routledge: 2012, p. 362.
+Hutchins, Brett and David Rowe. *Sport Beyond Television: The Internet, Digital Media and the Rise of Networked Media Sport,* New York, Routledge: 2012, p. 362.
 
 ‘IOC awards Olympic Games Broadcast Rights to NBC Universal through to
-2032’, Official Website of the Olympic Movement, 7 May 2014,
-http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995.
+2032’, Official Website of the Olympic Movement, 7 May 2014, [http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995](http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995).
 
 Longman, Jere. ‘Fox and Telemundo Win U.S. Rights to World Cups’, New
 York Times, 21 October 2011,
-http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html.
+[http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html](http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html).
 
-[^06MeesePodkalickaGeoblockingandSport_1]: Jere Longman, ‘Fox and Telemundo Win U.S. Rights to World Cups’,
-    *New York Times*, 21 October, 2011,
-    http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html.
+[^06MeesePodkalickaGeoblockingandSport_1]: Jere Longman, ‘Fox and Telemundo Win U.S. Rights to World Cups’, *New York Times*, 21 October, 2011, [http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html](http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html).
 
 [^06MeesePodkalickaGeoblockingandSport_2]: ‘IOC Awards Olympic Games Broadcast Rights to NBC Universal
-    through to 2032’, *Official Website of the Olympic Movement,* 7 May,
-    2014,
-    http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995.
+    through to 2032’, *Official Website of the Olympic Movement,* 7 May, 2014, [http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995](http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995).
 
 [^06MeesePodkalickaGeoblockingandSport_3]: ‘2014 FIFA World Cup Breaks Online Streaming Records’, *FIFA.com*,
-    7 July 2014, http://m.fifa.com/aboutfifa/news/newsid=2401405.html.
+    7 July 2014, [http://m.fifa.com/aboutfifa/news/newsid=2401405.html](http://m.fifa.com/aboutfifa/news/newsid=2401405.html).
 
-[^06MeesePodkalickaGeoblockingandSport_4]: Brett Hutchins, ‘Robbing the World’s Largest Jewellery Store’?
-    Digital Sports Piracy, Industry Hyperbole, and Barriers to an
-    Alternative Online Business Model’, ANZCA 2011, Waikato, New
-    Zealand, 5-8 July, 2011,
-    http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html,
+[^06MeesePodkalickaGeoblockingandSport_4]: Brett Hutchins, ‘Robbing the World’s Largest Jewellery Store’? Digital Sports Piracy, Industry Hyperbole, and Barriers to an Alternative Online Business Model’, ANZCA 2011, Waikato, New Zealand, 5-8 July, 2011,
+    [http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html](http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html),
     p. 6.
 
 [^06MeesePodkalickaGeoblockingandSport_5]: Brett Hutchins and David Rowe, *Sport Beyond Television: The
-    Internet, Digital Media and the Rise of Networked Media Sport*, New
-    York, Routledge: 2012, p. 362.
+    Internet, Digital Media and the Rise of Networked Media Sport*, New York, Routledge: 2012, p. 362.
 
 [^06MeesePodkalickaGeoblockingandSport_6]: Hutchins, ‘Robbing the World’s Largest Jewellery Store’, p.1.
 
@@ -607,12 +569,10 @@ http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-
 
 [^06MeesePodkalickaGeoblockingandSport_9]: The details of this case can be found at *Murphy v. Media
     Protection Services* \[2012\] EWHC, 466,
-    http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html.
+    [http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html](http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html).
 
 [^06MeesePodkalickaGeoblockingandSport_10]: Matthew David and Peter Millward, ‘Football's Coming Home?:
-    Digital Reterritorialization, Contradictions in the Transnational
-    Coverage of Sport and the Sociology of Alternative Football
-    Broadcasts’, *The British Journal of Sociology* 63.2 (2012): 360.
+    Digital Reterritorialization, Contradictions in the Transnational Coverage of Sport and the Sociology of Alternative Football Broadcasts’, *The British Journal of Sociology* 63.2 (2012): 360.
 
 [^06MeesePodkalickaGeoblockingandSport_11]: Raymond Boyle, ‘Battle for control? Copyright, Football and
     European Media Rights’, *Media, Culture & Society* 37.3 (2015): 370.
@@ -623,7 +583,7 @@ http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-
     360.
 
 [^06MeesePodkalickaGeoblockingandSport_14]: Jock Given, ‘Bringing the ABC Back Home’, *Inside Story*, 16 May
-    2014, http://insidestory.org.au/bringing-the-abc-back-home/.
+    2014, [http://insidestory.org.au/bringing-the-abc-back-home/](http://insidestory.org.au/bringing-the-abc-back-home/).
 
 [^06MeesePodkalickaGeoblockingandSport_15]: Tom Evens and Katrien Lefever, ‘Watching the Football Game:
     Broadcasting Rights for the European Digital Television Market’,

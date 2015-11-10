@@ -1,34 +1,34 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # Turkey: Coping with internet censorship 
 
-**Çiğdem Bozdağ**
+###Çiğdem Bozdağ###
 
-54%: Proportion of the Turkish population who have access to the
+- 54%: Proportion of the Turkish population who have access to the
 internet
 
-60TL (US\$20): Monthly cost for a 50/mbit fiber connection
+- 60TL (US\$20): Monthly cost for a 50/mbit fiber connection
 
-94%: Proportion of mobile phone subscribers in Turkey
+- 94%: Proportion of mobile phone subscribers in Turkey
 
-31%: Proportion of Turkish internet users who made online purchases in
+- 31%: Proportion of Turkish internet users who made online purchases in
 2014
 
 ![](media/image1.png)
@@ -82,7 +82,7 @@ legal streaming services were available. In other words, the online
 video culture in Turkey is marked on the one hand by internet
 censorship, and pirate consumption of videos on the other.
 
-# Internet Use and Video Consumption in Turkey
+## Internet Use and Video Consumption in Turkey
 
 Although Turkey is one of the world’s fastest growing countries in terms
 of internet adoption, the digital divide is still a crucial issue to
@@ -156,7 +156,7 @@ although Turkish internet users are increasingly paying for online
 services and buying products online, paying for on-demand videos or
 streaming services is still not a common practice.
 
-# Internet Censorship, Circumvention and Resistance Practices
+## Internet Censorship, Circumvention and Resistance Practices
 
 Internet regulation in Turkey was introduced in the early 2000s as
 online content became bound to the RTUK law (2002), which regulated
@@ -269,7 +269,7 @@ Table 1 below, which shows the use of the words DNS, VPN and *sansür*
 
 *Figure 2: During the March 2014 Twitter ban, a global search of tweets
 shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms. *
+both prominent terms.*
 
 On the second day of the Twitter ban in March 2014, access to commonly
 used DNS providers was also blocked from within Turkey. This was a
@@ -334,7 +334,7 @@ curtailing online expression (since people can always get around these
 blocks), the threat of court cases and imprisonment may be more
 effective in silencing dissent.
 
-# Conclusion: Circumvention as a Solution to Internet Censorship? 
+## Conclusion: Circumvention as a Solution to Internet Censorship? 
 
 As the preceding discussion shows, over the last decade circumvention
 activity and online rights discourses have become widespread in Turkey.
@@ -387,18 +387,18 @@ political spectrum come together. In the face of increasing government
 control, organizing well-networked, sustainable and effective action
 against internet censorship seems more important than ever in Turkey.
 
-# References
+## References
 
 Akdeniz, Yaman and Kerem Altıparmak. ‘AİHM Kararı: 5651 Sayılı Yasa
 AİHS'e Aykırı’, *Bianet*, 19 December 2012,
-http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri.
+[http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri](http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri).
 
 Boston Consulting Group. Türkiye’de Internet Ekonomisi Raporu, 2013,
-http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf.
+[http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf](http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf).
 
 Manav, Volkan. ‘Türkiye’den Netflix Izlemek Mümkün Olabilir mi?',
 *Teknoloji Oku,* 12 February 2015,
-http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html.
+[http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html](http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html).
 
 Terkan, Banu and Nurullah Terkan. ‘Analysis of the Political Discourses
 of the Ruling and Opposition Parties Regarding the New Regulations in
@@ -406,22 +406,22 @@ the Internet Law in Turkey’, Proceedings of the 13th International
 Academic Conference, Antibes, 2014.
 
 TUİK. 22 August 2014,
-http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198.
+[http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198](http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198).
 
 Yalkın, Çağrı, Finola Kerrigan and Dirk vom Lehn. ‘Legitimisation of the
 Role of the Nation State: Understanding of and Reactions to Internet
 Censorship in Turkey’, *New Media and Society* 16 (2014): 271-288.
 
-Yaman Akdeniz and Kerem Altıparmak*.* ‘5651 sayılı Kanunun Değişiklik
+Yaman Akdeniz and Kerem Altıparmak. ‘5651 sayılı Kanunun Değişiklik
 Tasarısının Getirdiği Değişiklikler Üzerine Bir Değerlendirme’, online
 report, *Cyber Rights,* 2014,
-http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf.
+[http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf](http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf).
 
 [^11BozdagTurkey_1]: TUİK, 22 August 2014,
-    http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198.
+    [http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198](http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198).
 
 [^11BozdagTurkey_2]: TUİK, 22 August 2014,
-    http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198.
+    [http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198](http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198).
 
 [^11BozdagTurkey_3]: Boston Consulting Group, Türkiye’de Internet Ekonomisi Raporu,
     2013, p. 5.
@@ -433,17 +433,17 @@ http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf.
 
 [^11BozdagTurkey_5]: Yaman Akdeniz and Kerem Altıparmak, ‘AİHM Kararı: 5651 Sayılı Yasa
     AİHS'e Aykırı’, Bianet, 19 December 2012,
-    http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri.
+    [http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri](http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri).
 
 [^11BozdagTurkey_6]: Yaman Akdeniz and Kerem Altıparmak, ‘5651 sayılı Kanunun
     Değişiklik Tasarısının Getirdiği Değişiklikler Üzerine Bir
     Değerlendirme’, *Cyber Rights*, 2014, p. 14,
-    http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf.
+    [http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf]( http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf).
 
 [^11BozdagTurkey_7]: Yaman Akdeniz and Kerem Altıparmak, ‘5651 sayılı Kanunun
     Değişiklik Tasarısının Getirdiği Değişiklikler Üzerine Bir
     Değerlendirme’, *Cyber Rights*, 2014, p.14,
-    http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf.
+    [http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf](http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf).
 
 [^11BozdagTurkey_8]: Çağrı Yalkın, Finola Kerrigan and Dirk vom Lehn, ‘Legitimisation
     of the Role of the Nation State: Understanding of and Reactions to
@@ -451,4 +451,4 @@ http://cyber-rights.org.tr/docs/5651\_Tasari\_Rapor.pdf.
     271.
 
 [^11BozdagTurkey_9]: Engelli Web,
-    [http://engelliweb.com/istatistikler/](numbering.xml).
+    [http://engelliweb.com/istatistikler/numbering.xml](http://engelliweb.com/istatistikler/numbering.xml).

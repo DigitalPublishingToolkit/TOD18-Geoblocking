@@ -1,25 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # Malaysia: Global Binge-Viewing in a Restrictive State\
 
-*Sandra Hanchard*
+###Sandra Hanchard###
 
 *Pull Quotes:*
 
@@ -37,7 +37,7 @@ video at least once a month[^13HanchardMalaysia_2]
 
 **140%**: Mobile penetration rate, of which 35% are smartphones[^13HanchardMalaysia_4]
 
-**RM8 (US\$1.86)**: Monthly cost of an iFlix annual subscription
+RM8 (US\1.86): Monthly cost of an iFlix annual subscription
 
 Internet circumvention practices in Malaysia are driven by two factors –
 the desire for global video content, and the need to avoid surveillance
@@ -115,9 +115,9 @@ is mainstream adoption of iFlix.
 
 ![](media/image1.jpeg)
 
-Fig 1: iFlix launched in Malaysia and Philippines in May 2015, as an
+Fig 1: *iFlix launched in Malaysia and Philippines in May 2015, as an
 equivalent service to Netflix. It provides access to both global and
-local content, including well-loved Malaysian film genres.
+local content, including well-loved Malaysian film genres.*
 
 Malaysian users are not just looking for shows from Hollywood. There is
 strong demand for movies and dramas from wider Asia, in particular
@@ -294,98 +294,89 @@ Project; Su Gim Goh, Security Advisor for F-Secure; Keith Rozario,
 Technology Consultant; and Alan Chong, Founder of MovieGoGo, for their
 insightful comments.
 
-## 
-
-## 
-
-## 
 
 ## References
 
 Asohan, A. ‘Govt Stealthily Gazettes Evidence Act Amendment, Law is Now
 in Operation’, *Digital News Asia*, 8 August 2012,
-http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation.
+[http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation](http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation).
 
 \_\_\_\_\_\_\_\_\_\_\_ ‘Netflix-type Wars: Grove’s Catcha Takes on
 Singtel’s Hooq with iflix’, *Digital News Asia*, 10 March 2015,
-https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix.
+[https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix](https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix).
 
 Boo, Su-lyn and Shaun Tan. ‘With Revised Sedition Act, Only “Cute
 Kittens” Left on Social Media’, *The Malay Mail Online*, 10 April 2015,
-http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media.
+[http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media](http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media).
 
 ecommerceMilo. ‘With 140% Mobile Penetration, Malaysia has 10M
 Smartphone Users”, *e27*, 5 March 2014,
 
-e27 http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/.
+e27 [http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/](http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/).
 
 Internet World Stats. ‘Asia Internet Usage Stats Facebook and Population
-Statistics’, 30 June 2015, http://www.internetworldstats.com/stats3.htm.
+Statistics’, 30 June 2015, [http://www.internetworldstats.com/stats3.html](http://www.internetworldstats.com/stats3.html).
 
 The Malay Mail Online. ‘”Rewind” the Year — YouTube Recaps 2014’s Top
 Videos,’ 10 December 2014,
-http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos.
+[http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos](http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos).
 
 The Star Online. ‘Rais: Malaysia Will Stop Access to “Innocence of
 Muslims” Film’, 1 June 2013,
-http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/.
+[http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/](http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/).
 
 Tay, Daniel. ‘iFlix Brings Hollywood to Southeast Asia’, *Tech In Asia*,
 10 March 2015,
-https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/.
+[https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/](https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/).
 
 The Wall Street Journal, ‘Scandal in Malaysia’, 5 July 2015,
-<http://www.wsj.com/articles/scandal-in-malaysia-1436113149>.
+[http://www.wsj.com/articles/scandal-in-malaysia-1436113149](http://www.wsj.com/articles/scandal-in-malaysia-1436113149).
 
 Wong, Kenneth. ‘2014 Malaysia Digital Media Landscape', presentation at
 ad:tech Roadshow Kuala Lumpur. Data sourced from comScore and Nielsen,
-http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf.
+[http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf](http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf).
 
 [^13HanchardMalaysia_1]: A. Asohan, ‘Netflix-type Wars: Grove’s Catcha Takes on Singtel’s
     Hooq with iflix’, *Digital News Asia,* 10 March 2015,
-    [https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix](../customXml/item1.xml).
+    [https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix](https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix).
 
 [^13HanchardMalaysia_2]: Kenneth Wong, 'Ad:tech Roadshow Kuala Lumpur 2014' (Malaysia
     Digital Association, 2014),
-    http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf. Data
+    [http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf](http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf). Data
     source: Nielsen.
 
 [^13HanchardMalaysia_3]: Christina Chin, 'Speed Slower than Vietnam and Cambodia', *The
     Star Online*, 2014,
-    http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/.
+    [http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/](http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/).
 
 [^13HanchardMalaysia_4]: ecommerceMilo, ‘With 140% Mobile Penetration, Malaysia has 10M
-    Smartphone Users’, *e27*, 5 March 2014,
-
-    e27
-    http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/.
+    Smartphone Users’, *e27*, 5 March 2014, [http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/](http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/).
 
 [^13HanchardMalaysia_5]: Internet World Stats, 'Asia Internet Usage Stats Facebook and
-    Population Statistics',http://www.internetworldstats.com/stats3.htm.
+    Population Statistics', [http://www.internetworldstats.com/stats3.html](http://www.internetworldstats.com/stats3.html).
 
-[^13HanchardMalaysia_6]: Kenneth Wong, '2014 Malaysia Digital Media Landscape',
-    presentation at ad:tech Roadshow Kuala Lumpur, 2014,
-    http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf. Data
+[^13HanchardMalaysia_6]: Kenneth Wong, '2014 Malaysia Digital Media Landscape', presentation at ad:tech Roadshow Kuala Lumpur, 2014,
+    [http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf](http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf). Data
     sourced from comScore and Nielsen.
 
-[^13HanchardMalaysia_7]: https://forum.lowyat.net/topic/905692/all.
+[^13HanchardMalaysia_7]: [https://forum.lowyat.net/topic/905692/all](https://forum.lowyat.net/topic/905692/all).
 
 [^13HanchardMalaysia_8]: Daniel Tay, ‘iFlix brings Hollywood to Southeast Asia’, *Tech In
     Asia*, 2015,
-    https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/.
+    [https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/](https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/).
 
 [^13HanchardMalaysia_9]: The Malay Mail Online, '"Rewind" the Year — YouTube Recaps 2014’s
     Top Videos', *The Malay Mail Online*, 2014,
-    http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos.
+    [http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos](http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos).
 
 [^13HanchardMalaysia_10]: Su-lyn Boo and Shaun Tan, 'With Revised Sedition Act, Only "Cute
     Kittens" Left on Social Media', *The Malay Mail Online*, 10 April
     2015,
-    http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media.
+    [http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media](http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media).
 
 [^13HanchardMalaysia_11]: A. Asohan, 'Govt Stealthily Gazettes Evidence Act Amendment, Law
     is Now in Operation', *Digital News Asia*, 8 August 2012,
-    http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation.
+    [http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation](http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation).
 
 [^13HanchardMalaysia_12]: The Wall Street Journal, ‘Scandal in Malaysia’, 5 July 2015,
-    http://www.wsj.com/articles/scandal-in-malaysia-1436113149.
+    [http://www.wsj.com/articles/scandal-in-malaysia-1436113149](http://www.wsj.com/articles/scandal-in-malaysia-1436113149).

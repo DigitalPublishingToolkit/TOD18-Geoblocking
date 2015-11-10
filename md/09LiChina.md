@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # China: The Techno-Politics of the Wall
 
-Jinying Li
+###Jinying Li###
 
 The Great Firewall (GFW) is one of the most sophisticated and effective
 Internet blocking projects, and it functions as a powerful instrument
@@ -131,8 +131,8 @@ to stop outside contents from coming in, but to purge out the unwanted
 information from inside. Therefore, by blocking video-sharing sites such
 as YouTube and Vimeo, what are in fact blocked are not videos from the
 U.S. but underground films, documentaries and citizens’ reportage *from
-China*. **The wall, by and large, is an effective weapon for information
-abjection**.
+China*. The wall, by and large, is an effective weapon for information
+abjection.
 
 In China’s enormous information control systems, the GFW is only a small
 component. But the public response to the GFW is far more pronounced,
@@ -279,8 +279,8 @@ the lovely animal.
 
 ![](media/image1.png)
 
-Fig 1: The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)
+Fig 1: *The Grass Mud Horse became a popular expression of resistance to
+internet censorship source: (CC BY-SA 2.0/chumsdock)*
 
 Equally provocative is the animation series *Kuang Kuang*, which was
 created by artist Pi San and his independent studio Huxiao Animation.
@@ -412,7 +412,7 @@ Anderson, Daniel. 'Splinternet Behind the Great Firewall of China.'
 
 French, Howard W. 'Great Firewall of China Faces Online Rebels', *The
 New York Times*, 4 February 2008,
-http://www.nytimes.com/2008/02/04/world/asia/04china.html.
+[http://www.nytimes.com/2008/02/04/world/asia/04china.html](http://www.nytimes.com/2008/02/04/world/asia/04china.html).
 
 Galloway, Alexander R. *Protocol: How Control Exists After
 Decentralization*. Cambridge, MA: MIT Press, 2004.
@@ -425,53 +425,43 @@ Society* 12. 3 (2010): 347-64.
 
 Globalwebindex. 'GWI Social Q3 2014: The Latest Social Networking
 Trends', 18 November 2014,
-https://www.globalwebindex.net/blog/social-q3-2014.
+[https://www.globalwebindex.net/blog/social-q3-2014](http://www.nytimes.com/2008/02/04/world/asia/04china.html).
 
 Goldsmith, Jack L., and Tim Wu. *Who Controls the Internet?: Illusions
 of a Borderless World*, New York: Oxford University Press, 2008.
 
 'Great Firewall Father Speaks Out'. *Global Times*, 18 February 2011.
 
-Guo Liang. *Surveying Internet Usage and Its Impact in Seven Chinese
-Cities*, Center for Social Development, Chinese Academy of Social
+Guo Liang. *Surveying Internet Usage and Its Impact in Seven Chinese Cities*, Center for Social Development, Chinese Academy of Social
 Sciences, 2007.
 
-Jacobs, Katrien. *People’s Pornography: Sex and Surveillance on the
-Chinese Internet*, Intellect Books, 2012.
+Jacobs, Katrien. *People’s Pornography: Sex and Surveillance on the Chinese Internet*, Intellect Books, 2012.
 
-Jiang, Min. 'Authoritarian Deliberation on Chinese Internet',
-*Electronic Journal of Communication* 20.3&4 (2009).
+Jiang, Min. 'Authoritarian Deliberation on Chinese Internet', *Electronic Journal of Communication* 20.3&4 (2009).
 
-———. 'Authoritarian Informationalism: China’s Approach to Internet
-Sovereignty', *SAIS Review* 30. 2 (2012): 71–89.
+———. 'Authoritarian Informationalism: China’s Approach to Internet Sovereignty', *SAIS Review* 30. 2 (2012): 71–89.
 
-Li, Jinying. 'From "D-Buffs" to the "D-Generation": Piracy, Cinema, and
-an Alternative Public Sphere in Urban China', *International Journal of
-Communication* 6. 0 (April 12, 2012): 542–63.
+Li, Jinying. 'From "D-Buffs" to the "D-Generation": Piracy, Cinema, and an Alternative Public Sphere in Urban China', *International Journal of Communication* 6. 0 (April 12, 2012): 542–63.
 
-MacKinnon, Rebecca. 'China’s "Networked Authoritarianism"', *Journal of
-Democracy* 22. 2 (2011): 32–46.
+MacKinnon, Rebecca. 'China’s "Networked Authoritarianism"', *Journal of Democracy* 22. 2 (2011): 32–46.
 
 Raley, Rita. *Tactical Media*. Minneapolis: University Of Minnesota
 Press, 2009.
 
-The Blog of Biancheng Suixiang. http://program-think.blogspot.com/.
+The Blog of Biancheng Suixiang. [http://program-think.blogspot.com/](http://program-think.blogspot.com/).
 
-Tsui, Lokman. 'An Inadequate Metaphor: The Great Firewall and Chinese
-Internet Censorship', *Global Dialogue* 9. 1/2 (2007): 60–68.
+Tsui, Lokman. 'An Inadequate Metaphor: The Great Firewall and Chinese Internet Censorship', *Global Dialogue* 9. 1/2 (2007): 60–68.
 
-Voci, Paola. *China on Video: Smaller-Screen Realities*. London:
-Routledge, 2010.
+Voci, Paola. *China on Video: Smaller-Screen Realities*. London: Routledge, 2010.
 
 Xiao, Qiang. 'The Battle for the Chinese Internet', *Journal of
 Democracy* 22. 2 (2011): 47–61.
 
 Xuecun, Murong. 'Scaling China’s Great Firewall', *The New York Times*,
 17 August, 2015,
-http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html.
+[http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html](http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html).
 
-[^09LiChina_1]: The term ‘Great Firewall’ was first coined by *Wired* magazine,
-    and it was quickly adopted by Chinese people and media.
+[^09LiChina_1]: The term ‘Great Firewall’ was first and it was quickly adopted by Chinese people and media.
 
 [^09LiChina_2]: Jack L. Goldsmith and Tim Wu, *Who Controls the Internet?:
     Illusions of a Borderless World*, Oxford: Oxford University Press,
@@ -512,24 +502,22 @@ http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-fir
 
 [^09LiChina_11]: Murong Xuecun, 'Scaling China’s Great Firewall', *The New York
     Times*, 17 August 2015,
-    http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html.
+    [http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html](http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html).
 
 [^09LiChina_12]: Xuecun, ‘Scaling China’s Great Firewall’,
 
-[^09LiChina_13]: Jinying Li, 'From "D-Buffs" to the "D-Generation": Piracy,
-    Cinema, and an Alternative Public Sphere in Urban China',
-    *International Journal of Communication* 6 (2012): 542-63.
+[^09LiChina_13]: Jinying Li, 'From "D-Buffs" to the "D-Generation": Piracy,  Cinema, and an Alternative Public Sphere in Urban China',  *International Journal of Communication* 6 (2012): 542-63.
 
 [^09LiChina_14]: Globalwebindex, 'GWI Social Q3 2014: The Latest Social Networking
     Trends', 18 November 2014,
-    https://www.globalwebindex.net/blog/social-q3-2014.
+    [https://www.globalwebindex.net/blog/social-q3-2014](https://www.globalwebindex.net/blog/social-q3-2014).
 
 [^09LiChina_15]: 'Great Firewall Father Speaks Out', *Global Times*, 18 February
     2011.
 
 [^09LiChina_16]: Howard W. French, 'Great Firewall of China Faces Online Rebels',
     *The New York Times*, 4 February 2008,
-    http://www.nytimes.com/2008/02/04/world/asia/04china.html.
+    [http://www.nytimes.com/2008/02/04/world/asia/04china.html](http://www.nytimes.com/2008/02/04/world/asia/04china.html).
 
 [^09LiChina_17]: Katrien Jacobs, *People’s Pornography: Sex and Surveillance on
     the Chinese Internet*, Intellect Books, 2012, p. 38.
@@ -538,7 +526,7 @@ http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-fir
     of "Platforms"', *New Media & Society* 12. 3 (1 May, 2010): 347–64.
 
 [^09LiChina_19]: See: 'The Blog of Biancheng Suixiang',
-    http://program-think.blogspot.com/.
+    [http://program-think.blogspot.com/](http://program-think.blogspot.com/).
 
 [^09LiChina_20]: Alexander R. Galloway, *Protocol: How Control Exists After
     Decentralization*, Cambridge, MA: MIT Press, 2004.

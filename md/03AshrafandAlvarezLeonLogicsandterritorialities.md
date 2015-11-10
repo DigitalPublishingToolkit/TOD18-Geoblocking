@@ -1,39 +1,32 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
-# The Logics and Territorialities of Geoblocking
-
-# 
-
-# Cameran Ashraf and Luis Felipe Alvarez León
+#The Logics and Territorialities of Geoblocking
+ 
+###Cameran Ashraf and Luis Felipe Alvarez León###
 
 ## Introduction
 
-The internet is often represented as an open network threatened by the
-aberrations of internet censorship and control. However, its historical
-development and architecture belie this binary model. The early split of
-the ARPANET by the U.S. Department of Defense into MILNET and ARPANET in
-order to protect sensitive military communications demonstrates that the
-ability to close and control the internet was by design part of its very
-foundation. Indeed, few states would embrace the internet were there not
-sufficient technical mechanisms to ensure an acceptable degree of
-management, surveillance, and control. In order to produce a better
+The internet is often represented as an open network threatened by the aberrations of internet censorship and control. However, its historical
+development and architecture belie this binary model. The early split of the ARPANET by the U.S. Department of Defense into MILNET and ARPANET in order to protect sensitive military communications demonstrates that the
+ability to close and control the internet was by design part of its very foundation. Indeed, few states would embrace the internet were there not
+sufficient technical mechanisms to ensure an acceptable degree of management, surveillance, and control. In order to produce a better
 understanding of the political dimensions of the internet, the binary
 model of an open or closed system should be seen as part of a broader
 range of geopolitical and geoeconomic logics espoused by states and
@@ -53,8 +46,8 @@ perspectives reveal how geoblocking and its corresponding logics of
 deployment produce a range of territorialities that transcend the
 open/closed binary through which the internet is often understood.
 
-## States
 
+## States
 The international state system is predicated upon geographical concepts
 which establish territorial states as distinct and discrete entities.
 The state is free to act within its territory, which is demarcated by
@@ -104,7 +97,7 @@ geopolitically. Censorship implementation and circumvention are a major
 and growing industry, worth at least \$1.2 billion dollars in 2012 and
 including well-known corporations such as Cisco Systems and McAfee.[^03AshrafandAlvarezLeonLogicsandterritorialities_6]
 
-### Activity regulations
+##Activity regulations
 
 According to Jonathan Zittrain and John Palfrey, activity regulations
 embody the many levels in which state territorialities are mapped onto
@@ -149,7 +142,7 @@ confluence of multiple logics. For example, the use of copyright by
 industry groups and enforced by the state can simultaneously advance a
 specific kind of market logic while also enacting state territoriality.
 
-### Technical regulations
+## Technical regulations
 
 While activity regulations focus on *what* is controlled through the
 process of internet blocking, technical regulations focus on the
@@ -517,7 +510,7 @@ information markets. This requires considerable maneuvering and
 negotiation between judicial systems, technology firms, content
 providers, business strategies and consumer demands.
 
-## Conclusion
+### Conclusion
 
 Different actors have different territorial logics through which the
 internet is envisioned and created. Certain actors, such as states and
@@ -537,213 +530,126 @@ and creating multiple internets. This is the internet of lived
 experience rather than one which is only conceptual or rhetorical: an
 internet whose terrain is as varied as the globe it spans.
 
-## Reference List
+## References
 
-Aryan, Simurgh, Homa Aryan, and J. Alex Halderman. ‘Internet Censorship
-in Iran: A First Look’, *Proceedings of the 3^rd^ USENIX Workshop on
-Free and Open Communications on the Internet,* Washington, August 2013,
-https://jhalderm.com/pub/papers/iran-foci13.pdf.
+Aryan, Simurgh, Homa Aryan, and J. Alex Halderman. ‘Internet Censorship in Iran: A First Look’, *Proceedings of the 3^rd^ USENIX Workshop on
+Free and Open Communications on the Internet,* Washington, August 2013, [https://jhalderm.com/pub/papers/iran-foci13.pdf](https://jhalderm.com/pub/papers/iran-foci13.pdf).
 
-Bendrath, Ralf, Johan Eriksson, and Giampiero Giacomello. ‘From
-“Cyberterrorism” to “Cyberwar”, Back and Forth’, in Johan Eriksson and
-Giampiero Giacomello (eds), *International Relations and Security in the
+Bendrath, Ralf, Johan Eriksson, and Giampiero Giacomello. ‘From “Cyberterrorism” to “Cyberwar”, Back and Forth’, in Johan Eriksson and Giampiero Giacomello (eds), *International Relations and Security in the
 Digital Age*, Abingdon: Routledge, 2007, pp. 57-82.
 
-Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace,’ 8
-February 1996, https://homes.eff.org/\~barlow/Declaration-Final.html.
+Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace,’ 8 February 1996, [https://homes.eff.org/\~barlow/Declaration-Final.html](https://homes.eff.org/\~barlow/Declaration-Final.html).
 
-Choucri, Nazli. *Cyberpolitics in International Relations*, Cambridge,
-Mass: The MIT Press, 2012.
+Choucri, Nazli. *Cyberpolitics in International Relations*, Cambridge, Mass: The MIT Press, 2012.
 
-Christophers, Brett. ‘The Territorial Fix: Price, Power and Profit in
-the Geographies of Markets’, *Progress in Human Geography* 38.6 (2014):
-1-17.
+Christophers, Brett. ‘The Territorial Fix: Price, Power and Profit in the Geographies of Markets’, *Progress in Human Geography* 38.6 (2014): 1-17.
 
-Deibert, Ronald. ‘Black Code: Censorship, Surveillance, and the
-Militarisation of Cyberspace’, *Millennium-Journal of International
-Studies* 32.3 (2003): 501-30.
+Deibert, Ronald. ‘Black Code: Censorship, Surveillance, and the Militarisation of Cyberspace’, *Millennium-Journal of International Studies* 32.3 (2003): 501-30.
 
-Deibert, Ronald. ‘The Geopolitics of Internet Control: Censorship,
-Sovereignty, and Cyberspace’, in Andrew Chadwick and Philip N. Howard
-(eds) *The Routledge Handbook of Internet Politics*, Abingdon:
-Routledge, 2009, pp. 323-336.
+Deibert, Ronald. ‘The Geopolitics of Internet Control: Censorship, Sovereignty, and Cyberspace’, in Andrew Chadwick and Philip N. Howard (eds) *The Routledge Handbook of Internet Politics*, Abingdon: Routledge, 2009, pp. 323-336.
 
-Deibert, Ronald et al. *Access Controlled: The Shaping of Power, Rights,
-and Rule in Cyberspace*. Cambridge, Mass: MIT Press, 2010.
+Deibert, Ronald et al. *Access Controlled: The Shaping of Power, Rights,and Rule in Cyberspace*. Cambridge, Mass: MIT Press, 2010.
 
-Deibert, Ronald, and Rafal Rohozinski. ‘Liberation vs. Control: The
-Future of Cyberspace’, *Journal of Democracy* 21.4 (2010): 43-57.
+Deibert, Ronald, and Rafal Rohozinski. ‘Liberation vs. Control: The Future of Cyberspace’, *Journal of Democracy* 21.4 (2010): 43-57.
 
-Digital Element, ‘Geographic Rights Management’, http://www.digital-
-element.net/our\_technology/our\_technology.html
+Digital Element, ‘Geographic Rights Management’, [http://www.digital-element.net/our\_technology/our\_technology.html](http://www.digital-element.net/our\_technology/our\_technology.html).
 
-Eissa, T., and Gi-hwan Cho. ‘Internet Anonymity in Syria, Challenges and
-Solution’, in Kuinam J. Kim and Kyung-Yong Chung (eds), *IT Convergence
-and Security 2012*, Dordrecht: Springer Netherlands, 2012, pp. 177-86.
+Eissa, T., and Gi-hwan Cho. ‘Internet Anonymity in Syria, Challenges and Solution’, in Kuinam J. Kim and Kyung-Yong Chung (eds), *IT Convergence and Security 2012*, Dordrecht: Springer Netherlands, 2012, pp. 177-86.
 
-Foucault, Michel. *Discipline and Punish: The Birth of the Prison*, 2nd
-edition, New York: Vintage, 1995.
+Foucault, Michel. *Discipline and Punish: The Birth of the Prison*, 2nd edition, New York: Vintage, 1995.
 
-Goldsmith, Jack, and Tim Wu. *Who Controls the Internet?: Illusions of a
-Borderless World*, New York: Oxford University Press, 2008.
+Goldsmith, Jack, and Tim Wu. *Who Controls the Internet?: Illusions of a Borderless World*, New York: Oxford University Press, 2008.
 
 Hulu, ‘Why Can't I Use Hulu Internationally?', n.d.,
-http://www.hulu.com/help/articles/171122.
+[http://www.hulu.com/help/articles/171122](http://www.hulu.com/help/articles/171122).
 
 Lessig, Lawrence. *Free Culture*, New York: Penguin, 2004.
 
-MacKinnon, Rebecca. ‘China’s “Networked Authoritarianism”’ *Journal of
-Democracy* 22.2 (2011): 32-46.
+MacKinnon, Rebecca. ‘China’s “Networked Authoritarianism”’ *Journal of Democracy* 22.2 (2011): 32-46.
 
-Murdoch, Steven J., and Ross Anderson. ‘Tools and Technology of Internet
-Filtering’, in Ronald Deibert et al. (eds), *Access Denied: The Practice
-and Policy of Global Internet Filtering*, Cambridge, MA: MIT Press,
+Murdoch, Steven J., and Ross Anderson. ‘Tools and Technology of Internet Filtering’, in Ronald Deibert et al. (eds), *Access Denied: The Practice and Policy of Global Internet Filtering*, Cambridge, MA: MIT Press,
 2008, pp. 57-72.
 
-Newland, Erica et al. 2011. ‘Account Deactivation and Content Removal:
-Guiding Principles and Practices for Companies and Users’, *Berkman
-Center Research Publication*, Harvard University, no. 2011-09.
+Newland, Erica et al. 2011. ‘Account Deactivation and Content Removal: Guiding Principles and Practices for Companies and Users’, *Berkman Center Research Publication*, Harvard University, no. 2011-09.
 
-Orans, L., and P. Firstbrook. 2011. ‘Magic Quadrant for Secure Web
-Gateways.’ *Gartner Inc.,
-http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp.*
+Orans, L., and P. Firstbrook. 2011. ‘Magic Quadrant for Secure Web Gateways.’ *Gartner Inc.*, http://[www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp).
 
-Papacharissi, Zizi. ‘The Virtual Sphere: The Internet as a Public
-Sphere’, *New Media & Society* 4.1 (2002): 9-27.
+Papacharissi, Zizi. ‘The Virtual Sphere: The Internet as a Public Sphere’, *New Media & Society* 4.1 (2002): 9-27.
 
-Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey. 2011.
-“Mapping Local Internet Control.” In Computer Communications Workshop
+Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey. 2011. “Mapping Local Internet Control.” In Computer Communications Workshop
 (Hyannis, CA, 2011), IEEE
 
-Scott, Allen J. *On Hollywood: The Place, The Industry*. Princeton:
-Princeton University Press, 2005.
+Scott, Allen J. *On Hollywood: The Place, The Industry*. Princeton: Princeton University Press, 2005.
 
-Stone, Jeff, ‘Hulu Streaming: How To Evade The Ban On VPNs And Continue
-Watching Online TV’, *IB Times*, 7 July 2014,
-http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940.
+Stone, Jeff, ‘Hulu Streaming: How To Evade The Ban On VPNs And Continue Watching Online TV’, *IB Times*, 7 July 2014, [http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940](http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940).
 
-Stryszowski, Piotr and Danny Scorpecci. *Piracy of Digital Content*,
-Paris: OECD, 2009
+Stryszowski, Piotr and Danny Scorpecci. *Piracy of Digital Content*,Paris: OECD, 2009
 
-Thomas, Julie. ‘Ethics of Hacktivism.’ *Information Security Reading
-Room* 12 (2001).
+Thomas, Julie. ‘Ethics of Hacktivism.’ *Information Security Reading Room* 12 (2001).
 
-Villeneuve, Nart. ‘The Filtering Matrix: Integrated Mechanisms of
-Information Control and the Demarcation of Borders in Cyberspace’,
-*First Monday* 11.1 (2006),
-http://firstmonday.org/ojs/index.php/fm/article/view/1307/1227.
+Villeneuve, Nart. ‘The Filtering Matrix: Integrated Mechanisms of Information Control and the Demarcation of Borders in Cyberspace’, *First Monday* 11.1 (2006),
+[http://firstmonday.org/ojs/index.php/fm/article/view/1307/1227](http://firstmonday.org/ojs/index.php/fm/article/view/1307/1227).
 
-Wang, Shujen. ‘Recontextualizing Copyright: Piracy, Hollywood, the
-State, and Globalization’, *Cinema Journal* 43.1 (2003): 25-43.
+Wang, Shujen. ‘Recontextualizing Copyright: Piracy, Hollywood, the State, and Globalization’, *Cinema Journal* 43.1 (2003): 25-43.
 
-Warf, Barney. ‘The Hermit Kingdom in Cyberspace: Unveiling the North
-Korean Internet’, *Information, Communication & Society* 18.1 (2015):
-109-20.
+Warf, Barney. ‘The Hermit Kingdom in Cyberspace: Unveiling the North Korean Internet’, *Information, Communication & Society* 18.1 (2015):109-20.
 
-Zittrain, Jonathan, and John Gorham Palfrey. ‘Internet Filtering: The
-Politics and Mechanisms of Control’, in Ronald Deibert et al. (eds),
-*Access Denied: The Practice and Policy of Global Internet Filtering*,
+Zittrain, Jonathan, and John Gorham Palfrey. ‘Internet Filtering: The Politics and Mechanisms of Control’, in Ronald Deibert et al. (eds), *Access Denied: The Practice and Policy of Global Internet Filtering*,
 Cambridge, MA: MIT Press, 2007, pp. 29-56.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_1]: John Perry Barlow, 'A Declaration of the Independence of
-    Cyberspace', 8 February 1996,
-    https://projects.eff.org/\~barlow/Declaration-Final.html
+[^03AshrafandAlvarezLeonLogicsandterritorialities_1]: John Perry Barlow, 'A Declaration of the Independence of Cyberspace', 8 February 1996, [https://projects.eff.org/\~barlow/Declaration-Final.html](https://projects.eff.org/\~barlow/Declaration-Final.html)
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_2]: Rebecca MacKinnon, ‘China’s “Networked Authoritarianism”’,
-    *Journal of Democracy* 22.2 (2011): 32-46.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_2]: Rebecca MacKinnon, ‘China’s “Networked Authoritarianism”’, *Journal of Democracy* 22.2 (2011): 32-46.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_3]: Ronald Deibert, ‘The Geopolitics of Internet Control: Censorship,
-    Sovereignty, and Cyberspace’, in Andrew Chadwick and Philip N.
-    Howard (eds) *The Routledge Handbook of Internet Politics*,
-    Abingdon: Routledge, 2009, pp. 323-336; Nart Villeneuve, ‘The
-    Filtering Matrix: Integrated Mechanisms of Information Control and
-    the Demarcation of Borders in Cyberspace’, *First Monday* 11.1
-    (2006); Jack Goldsmith and Tim Wu, *Who Controls the Internet?*, New
-    York: Oxford University Press, 2008.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_3]: Ronald Deibert, ‘The Geopolitics of Internet Control: Censorship, Sovereignty, and Cyberspace’, in Andrew Chadwick and Philip N. Howard (eds) *The Routledge Handbook of Internet Politics*, Abingdon: Routledge, 2009, pp. 323-336; Nart Villeneuve, ‘The Filtering Matrix: Integrated Mechanisms of Information Control and the Demarcation of Borders in Cyberspace’, *First Monday* 11.1 (2006); Jack Goldsmith and Tim Wu, *Who Controls the Internet?*, New York: Oxford University Press, 2008.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_4]: Zizi Papacharissi, ‘The Virtual Sphere: The Internet as a Public
-    Sphere’, *New Media & Society* 4.1 (2002): 9-27.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_4]: Zizi Papacharissi, ‘The Virtual Sphere: The Internet as a Public Sphere’, *New Media & Society* 4.1 (2002): 9-27.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_5]: Nazli Choucri, *Cyberpolitics in International Relations*,
-    Cambridge, Mass: The MIT Press, 2012.Choucri, *Cyberpolitics in
-    International Relations*.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_5]: Nazli Choucri, *Cyberpolitics in International Relations*, Cambridge, Mass: The MIT Press, 2012.Choucri, *Cyberpolitics in International Relations*.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_6]: Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web
-    Gateways.”, Gartner Inc., available at
-    http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_6]: Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web Gateways.”, Gartner Inc., available at [http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp.
+).
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_7]: Michel Foucault, *Discipline and Punish: The Birth of the Prison*,
-    2^nd^ edition, New York: Vintage, 1995.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_7]: Michel Foucault, *Discipline and Punish: The Birth of the Prison*, 2^nd^ edition, New York: Vintage, 1995.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_8]: Jonathan Zittrain and John Gorham Palfrey, ‘Internet Filtering:
-    The Politics and Mechanisms of Control’, in Ronald Deibert et al.
-    (eds), *Access Denied: The Practice and Policy of Global Internet
-    Filtering*, Cambridge, MA: MIT Press, 2007, pp. 29-56.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_8]: Jonathan Zittrain and John Gorham Palfrey, ‘Internet Filtering: The Politics and Mechanisms of Control’, in Ronald Deibert et al. (eds), *Access Denied: The Practice and Policy of Global Internet Filtering*, Cambridge, MA: MIT Press, 2007, pp. 29-56.
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_9]: Ibid.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_10]: Steven J. Murdoch and Ross Anderson, ‘Tools and Technology of
-    Internet Filtering’, in Ronald Deibert et al. (eds), *Access Denied:
-    The Practice and Policy of Global Internet Filtering*, Cambridge,
-    MA: MIT Press, 2008, pp. 57-72.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_10]: Steven J. Murdoch and Ross Anderson, ‘Tools and Technology of Internet Filtering’, in Ronald Deibert et al. (eds), *Access Denied: The Practice and Policy of Global Internet Filtering*, Cambridge, MA: MIT Press, 2008, pp. 57-72.
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_11]: Ibid.
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_12]: T. Eissa and Gi-hwan Cho, ‘Internet Anonymity in Syria,
-    Challenges and Solution’, in Kuinam J. Kim and Kyung-Yong Chung
-    (eds), *IT Convergence and Security 2012*, Dordrecht: Springer
-    Netherlands, 2012, pp. 177-86.
+Challenges and Solution’, in Kuinam J. Kim and Kyung-Yong Chung (eds), *IT Convergence and Security 2012*, Dordrecht: Springer Netherlands, 2012, pp. 177-86.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_13]: Simurgh Aryan, Homa Aryan, and J. Alex Halderman, ‘Internet
-    Censorship in Iran: A First Look’, *Proceedings of the 3rd USENIX
-    Workshop on Free and Open Communications on the Internet*,
-    Washington, August 2013,
-    https://jhalderm.com/pub/papers/iran-foci13.pdf.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_13]: Simurgh Aryan, Homa Aryan, and J. Alex Halderman, ‘Internet Censorship in Iran: A First Look’, *Proceedings of the 3rd USENIX Workshop on Free and Open Communications on the Internet*, Washington, August 2013, [https://jhalderm.com/pub/papers/iran-foci13.pdf](https://jhalderm.com/pub/papers/iran-foci13.pdf).
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_14]: Ibid.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_15]: Erica Newland et al., ‘Account Deactivation and Content Removal:
-    Guiding Principles and Practices for Companies and Users’, Berkman
-    Center Research Publication, Harvard University, 2011, no. 2011-09.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_15]: Erica Newland et al., ‘Account Deactivation and Content Removal: Guiding Principles and Practices for Companies and Users’, Berkman Center Research Publication, Harvard University, 2011, no. 2011-09.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_16]: Ronald Deibert, ‘Black Code: Censorship, Surveillance, and the
-    Militarisation of Cyberspace’, *Millennium-Journal of International
-    Studies* 32.3 (2003): 501-30; Ronald Deibert and Rafal Rohozinski,
-    ‘Liberation vs. Control: The Future of Cyberspace’, *Journal of
-    Democracy* 21.4 (2010): 43-57.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_16]: Ronald Deibert, ‘Black Code: Censorship, Surveillance, and the Militarisation of Cyberspace’, *Millennium-Journal of International Studies* 32.3 (2003): 501-30; Ronald Deibert and Rafal Rohozinski, ‘Liberation vs. Control: The Future of Cyberspace’, *Journal of  Democracy* 21.4 (2010): 43-57.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_17]: Ronald Deibert et al. (eds), *Access Controlled: The Shaping of
-    Power, Rights, and Rule in Cyberspace*, Cambridge, Mass: MIT Press,
-    2010.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_17]: Ronald Deibert et al. (eds), *Access Controlled: The Shaping of Power, Rights, and Rule in Cyberspace*, Cambridge, Mass: MIT Press, 2010.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_18]: Barney Warf, ‘The Hermit Kingdom in Cyberspace: Unveiling the
-    North Korean Internet’, *Information, Communication & Society* 18.1
-    (2015): 109-20.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_18]: Barney Warf, ‘The Hermit Kingdom in Cyberspace: Unveiling the North Korean Internet’, *Information, Communication & Society* 18.1 (2015): 109-20.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_19]: Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey.
-    2011. “Mapping Local Internet Control.” In Computer Communications
-    Workshop (Hyannis, CA, 2011), IEEE
+[^03AshrafandAlvarezLeonLogicsandterritorialities_19]: Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey. 2011. “Mapping Local Internet Control.” In Computer Communications Workshop (Hyannis, CA, 2011), IEEE
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_20]: Shujen Wang, ‘Recontextualizing Copyright: Piracy, Hollywood, the
-    State, and Globalization’, *Cinema Journal* 43.1 (2003): 30.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_20]: Shujen Wang, ‘Recontextualizing Copyright: Piracy, Hollywood, the State, and Globalization’, *Cinema Journal* 43.1 (2003): 30.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_21]: Brett Christophers, ‘The Territorial Fix: Price, Power and Profit
-    in the Geographies of Markets’, *Progress in Human Geography* 38.6
-    (2014): 754-770.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_21]: Brett Christophers, ‘The Territorial Fix: Price, Power and Profit in the Geographies of Markets’, *Progress in Human Geography* 38.6
+ (2014): 754-770.
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_22]: Shujen Wang, ‘Recontextualizing Copyright’, p. 31.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_23]: Lawrence Lessig, *Free Culture*, New York: The Penguin Press,
-    2004, p. 147.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_23]: Lawrence Lessig, *Free Culture*, New York: The Penguin Press, 2004, p. 147.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_24]: Hulu, ‘Why Can't I Use Hulu Internationally?', n.d.,
-    http://www.hulu.com/help/articles/171122.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_24]: Hulu, ‘Why Can't I Use Hulu Internationally?', n.d., [http://www.hulu.com/help/articles/171122](http://www.hulu.com/help/articles/171122).
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_25]: #  Jeff Stone, ‘Hulu Streaming: How To Evade The Ban On VPNs And Continue Watching Online TV’,*IB Times,* 7 July 2014, http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_25]: Jeff Stone, ‘Hulu Streaming: How To Evade The Ban On VPNs And Continue Watching Online TV’,*IB Times,* 7 July 2014, [http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940](http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940).
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_26]: Allen J. Scott, *On Hollywood: The Place, The Industry*,
-    Princeton: Princeton University Press, 2005.
+[^03AshrafandAlvarezLeonLogicsandterritorialities_26]: Allen J. Scott, *On Hollywood: The Place, The Industry*, Princeton: Princeton University Press, 2005.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_27]: Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey.
-    2011. “Mapping Local Internet Control.” In Computer Communications
-    Workshop (Hyannis, CA, 2011), IEEE
+[^03AshrafandAlvarezLeonLogicsandterritorialities_27]: Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey. 2011. “Mapping Local Internet Control.” In Computer Communications Workshop (Hyannis, CA, 2011), IEEE

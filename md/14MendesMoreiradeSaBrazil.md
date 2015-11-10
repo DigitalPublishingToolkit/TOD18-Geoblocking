@@ -1,27 +1,28 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # Brazil: Netflix, VPNs and the ‘Paying’ Pirates
 
-Vanessa Mendes Moreira de Sa
+###Vanessa Mendes Moreira de Sa
 
-**BRAZIL**
+
+*BRAZIL*
 
 60%: Proportion of the total population in Brazil that has access to the
 internet
@@ -97,7 +98,7 @@ editorials from newspapers, magazines and blogs, as well as online
 reader comments, forums, and other online spaces where these practices
 are discussed.
 
-## **Overview of the Media and Digital Landscape in Brazil**
+## Overview of the Media and Digital Landscape in Brazil
 
 To understand TV streaming in Brazil, it is important to consider the
 context in which these activities take place. Limited access is the main
@@ -239,7 +240,7 @@ not limited to) a lack of law enforcement, the high cost of accessing
 cable television, and restricted access to international video content
 in general.
 
-## **Circumventing Geoblocking in Brazil through VPN and Proxy ‘Pirata’ **
+##Circumventing Geoblocking in Brazil through VPN and Proxy ‘Pirata’
 
 A quick search of Brazilian internet sites will produce hundreds of
 piracy and circumvention resources, such as VPN and proxy services,
@@ -278,8 +279,8 @@ prefer the U.S. service.
 
 ![](media/image1.png)
 
-Fig. 1. English captions on streaming content are highly valued by some
-Brazilian internet users, especially language students.
+*Fig. 1. English captions on streaming content are highly valued by some
+Brazilian internet users, especially language students*.
 
 Interestingly enough, Brazilian Netflix fans have also produced a
 Portuguese subtitling workaround for those using the U.S. site. There
@@ -302,7 +303,7 @@ among Netflix VPN pirates, which is quite different from the attitude of
 audiences that informally download content.[^14MendesMoreiradeSaBrazil_16] Some Netflix
 subscribers even mentioned that they have minimized or even ceased
 torrenting since they signed up for the service. Everyone who mentioned
-the monthly subscription of R\$19.90 (about USD6) per month said the
+the monthly subscription of R\ 19.90 (about USD6) per month said the
 price was fair.
 
 Once again, it is important to note that only 60% of the population in
@@ -314,7 +315,7 @@ connect to the US Netflix). This is an elite community – highly
 educated, middle-class people from the cities. They are the target
 audience not only for Netflix but for other VOD services.
 
-## **Paying Pirates or Netflix Audiences?**
+##Paying Pirates or Netflix Audiences?
 
 The popularity of Netflix in Brazil not only reflects the growing
 interest in VOD but also illustrates a great demand from early adopters
@@ -331,102 +332,90 @@ and market gaps. The many different ways of circumventing geoblocks in
 Brazil raises questions about the differences between pirates versus
 audiences. Are they paying VPN pirates or legitimate Netflix audiences?
 
-## **References**
+##References
 
-<span id="_ENREF_10" class="anchor"></span> ‘Brasil Registra 19,24
+‘Brasil Registra 19,24
 Milhões de Assinantes de TV Paga em Agosto \[Brazil Records 19,24
 Million Cable Subscribers in August\]’, *Anatel*, 1 October 2014,
-http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&codigo=3522.
-
-<span id="_ENREF_170" class="anchor"></span>
+[http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&codigo=3522](http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&codigo=3522).
 
 *Draft Bill Proposition*, The National Congress, Brazil, EMI Nº 00086 -
 MJ/MP/MCT/MC, 2011.
-http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf.
-
-<span id="_ENREF_153" class="anchor"></span>
+[http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf](http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf).
 
 Garcia, Gabriel. ‘Netflix Bloqueia Usuários que Burlam Restrição
 Geográfica \[Netflix Block Users who Circumvent Geographic
 Restriction\]’, *Abril*, 4 January 2015,
-http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml.
+[http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml](http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml).
 
 Feltrin, Ricardo. ‘Assinante de TV Gasta até R\$ 300 por Mês e só vê
 Globo \[Cable Subscribers Spend up to R\$ 300 per month and only Watches
 Rede Globo\]’, *Folha de São Paulo*, 07 March 2014,
-http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml.
+[http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml](http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml).
 
 IPEA. ‘Download de Músicas e Filmes no Brasil: Um Perfil dos Piratas
 Online \[Music and Movies Download in Brazil: The Online Pirates
 Profile\]’, *Communicados do IPEA* 147, Rio de Janeiro, RJ: Institute of
 Applied Economic Research,
-http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510\_comunicadoipea0147.pdf.
+[http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510\_comunicadoipea0147.pdf](http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510\_comunicadoipea0147.pdf).
 
-<span id="_ENREF_172" class="anchor"><span id="_ENREF_208"
-class="anchor"></span></span>
 
 Mander, Jason. ‘GWI Infographic: VPN Users’, *Global Web Index*, 24
-October 2014, http://www.globalwebindex.net/blog/vpn-infographic.
+October 2014, [http://www.globalwebindex.net/blog/vpn-infographic](http://www.globalwebindex.net/blog/vpn-infographic).
 
 Mendes Moreira De Sa, Vanessa. *Rethinking Pirate Audiences: An
 Investigation of TV Audiences' Informal Online Viewing and Distribution
 Practices in Brazil*, PhD diss., School of Communication Arts,
 University of Western Sydney, Australia, 2013.
 
-<span id="_ENREF_245" class="anchor"></span>Messa, Marcia Rejane. ‘A
+Messa, Marcia Rejane. ‘A
 Cultura Desconectada: Sitcoms e Séries Norteamericanas no Contexto
 Brasileiro \[The Disconnected Culture: Sitcoms and North American Series
 in the Brazilian context\]’, *UNIrevista* 1 (2006). Also available from
 <http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF>.
 
-<span id="_ENREF_259" class="anchor"></span>
-
 Neri, Marcelo Cortes, ‘Mapa da Inclusao Digital \[Map of Digital
 Inclusion\]’, report, Centro de Políticas Sociais. Fundacao Getúlio
-Vargas and Fundação Telefônica<span id="_ENREF_262"
-class="anchor"></span>*,* 2012.
+Vargas and Fundação Telefônica, 2012.
 
 ‘Numero de Pessoas com Acesso a Internet no Brasil Supera 120 Milhoes
 \[Number of People with Internet Access in Brazil Exceeds 120
 million\]’, *Nielsen,* 30 July 2014,
-<http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html>.
+[http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html](http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html).
 
-<span id="_ENREF_277" class="anchor"></span>
 
 O'Neill, Jim. *The Growth Map: Economic Opportunity in the BRICs and
 Beyond*, New York: Portfolio/Penguin, 2011.
 
-<span id="_ENREF_299" class="anchor"></span>
-
-<span id="_ENREF_333" class="anchor"></span>Patry, Melody. ‘Brazil:
+Patry, Melody. ‘Brazil:
 Towards an Internet ‘Bill of Rights’, *Index on Censorship*, 12 June
 2014,
-<https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/>.
+[https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/](https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/).
 
 Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
 \[Netflix Blocks Access to VPN Subscribers\]’, *Tecnoblog*, December
-2014, <https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/>.
+2014, [https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/](https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/).
 
 [^14MendesMoreiradeSaBrazil_1]: The quotes have been translated from Portuguese to English, edited
     and de-identified. Sources: Rafael Silva,‘Netflix Bloqueia Acesso de
     Assinantes Usando VPNs \[Netflix Block Access to VPN Subscribers\]’,
     *Tecnoblog*, December 2014,
-    [https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/](../customXml/item1.xml)
+    [https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/](https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/)
     and Gabriel Garcia, ‘Netflix Bloqueia Usuários que Burlam Restrição
     Geográfica \[Netflix Block Users Who Circumvent Geographic
     Restriction\]’, *Abril*, 4 January 2015,
-    http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml.
+    [http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml](http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml).
 
 [^14MendesMoreiradeSaBrazil_2]: Data source: Alexa, www.alexa.com.
 
 [^14MendesMoreiradeSaBrazil_3]: Jason Mander, ‘GWI Infographic: VPN Users’, *Global Web Index*, 24
-    October 2014, http://www.globalwebindex.net/blog/vpn-infographic.
+    October 2014, [http://www.globalwebindex.net/blog/vpn-infographic](http://www.globalwebindex.net/blog/vpn-infographic).
 
 [^14MendesMoreiradeSaBrazil_4]: IPEA, ‘Download de Músicas e Filmes no Brasil: Um Perfil dos
     Piratas Online \[Music and Movies Download in Brazil: The Online
     Pirates Profile\]’, *Communicados do IPEA* 147, Rio de Janeiro, RJ:
     Institute of Applied Economic Research,
-    http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510\_comunicadoipea0147.pdf.
+    [http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510\_comunicadoipea0147.pdf](http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510\_comunicadoipea0147.pdf).
 
 [^14MendesMoreiradeSaBrazil_5]: Jim O'Neill, *The Growth Map: Economic Opportunity in the BRICs
     and Beyond*, New York: Portfolio/Penguin, 2011.
@@ -435,29 +424,27 @@ Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
     Norteamericanas no Contexto Brasileiro \[The Disconnected Culture:
     Sitcoms and North American Series in the Brazilian Context\]’,
     *UNIrevista* 1 (2006). Also available from
-    http://www.unirevista.unisinos.br/\_pdf/UNIrev\_Messa.PDF.
+    [http://www.unirevista.unisinos.br/\_pdf/UNIrev\_Messa.PDF](http://www.unirevista.unisinos.br/\_pdf/UNIrev\_Messa.PDF).
 
 [^14MendesMoreiradeSaBrazil_7]: ‘Cable Subscribers Have a Much Higher Commercial Importance than
     Free-to-Air Audiences, as They Make More Purchases’
-    [http://veja.abril.com.br/110401/p\_142.html](numbering.xml).
+    [http://veja.abril.com.br/110401/p\_142.html](http://veja.abril.com.br/110401/p\_142.html).
 
-[^14MendesMoreiradeSaBrazil_8]: ##  ‘Brasil Registra 19,24 Milhões de Assinantes de TV Paga em Agosto \[Brazil Records 19,24 Million Cable Subscribers in August\]’, *Anatel*, 1 October 2014,
-
-    http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&codigo=35223.
+[^14MendesMoreiradeSaBrazil_8]: ‘Brasil Registra 19,24 Milhões de Assinantes de TV Paga em Agosto \[Brazil Records 19,24 Million Cable Subscribers in August\]’, *Anatel*, 1 October 2014, [http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&codigo=35223](http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&codigo=35223).
 
 [^14MendesMoreiradeSaBrazil_9]: Ricardo Feltrin, ‘Assinante de TV Gasta até R\$ 300 por Mês e só
     vê Globo \[Cable Subscribers Spend up to R\$ 300 per Month and Only
     Watches Rede Globo\]’, *Folha de São Paulo*, 07 March 2014*n
     CensorshipPortfolio / om Lehn, for Free with Torguard' if they are
     advancing*
-    http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml.
+    [http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml](http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml).
 
-[^14MendesMoreiradeSaBrazil_10]: ##  ‘Brasil Registra 19,24 Milhões’, *Anatel*..
+[^14MendesMoreiradeSaBrazil_10]: ‘Brasil Registra 19,24 Milhões’, *Anatel*..
 
 [^14MendesMoreiradeSaBrazil_11]: ‘Numero de Pessoas com Acesso a Internet no Brasil Supera 120
     milhoes \[Number of People with Internet Access in Brazil Exceeds
     120 Million\]’, *Nielsen*, 30 July 2014,
-    http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html.
+    [http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html](http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html).
 
 [^14MendesMoreiradeSaBrazil_12]: Marcelo Cortes Neri, ‘Mapa da Inclusao Digital \[Map of Digital
     Inclusion\]’, report, Centro de Políticas Sociais. Fundacao Getúlio
@@ -468,10 +455,10 @@ Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
 
 [^14MendesMoreiradeSaBrazil_14]: *Draft Bill Proposition*, The National Congress, Brazil, EMI Nº
     00086 - MJ/MP/MCT/MC, 2011.
-    http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf.
+    [http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf](http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf).
 
 [^14MendesMoreiradeSaBrazil_15]: Melody Patry, ‘Brazil: Towards an Internet ‘Bill of Rights’,
     *Index on Censorship*, 12 June 2014,
-    https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/.
+    [https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/](https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/).
 
-[^14MendesMoreiradeSaBrazil_16]: #  This observation emerged from my previous research, which was conducted before Netflix came to Brazil. See Vanessa Mendes Moreira De Sa, *Rethinking Pirate Audiences:An Investigation of TV Audiences' Informal Online Viewing and Distribution Practices in Brazil*, PhD diss., School of Communication Arts, University of Western Sydney, Australia, 2013.
+[^14MendesMoreiradeSaBrazil_16]: This observation emerged from my previous research, which was conducted before Netflix came to Brazil. See Vanessa Mendes Moreira De Sa, *Rethinking Pirate Audiences:An Investigation of TV Audiences' Informal Online Viewing and Distribution Practices in Brazil*, PhD diss., School of Communication Arts, University of Western Sydney, Australia, 2013.

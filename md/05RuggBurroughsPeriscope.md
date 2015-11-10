@@ -1,25 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # Periscope, Live-Streaming and Mobile Video Culture
 
-Adam Rugg and Benjamin Burroughs[^05RuggBurroughsPeriscope_1]
+###Adam Rugg and Benjamin Burroughs[^05RuggBurroughsPeriscope_1]###
 
 <span id="h.9mdc1zkz4t1f" class="anchor"></span>On 26 March 2015,
 Twitter released Periscope, its recently acquired live-streaming mobile
@@ -31,8 +31,8 @@ promise of Periscope were on full display as users found novel and
 sometimes illegal ways of using the app. Perhaps the most infamous use
 of Periscope occurred on 2 May 2015, during a much-hyped boxing match
 between Floyd Mayweather and Manny Pacquiao. After thousands of users
-used Periscope to watch unsanctioned streams -- rather than pay an
-unprecedented \$100 for the official PPV feed of the fight -- *The New
+used Periscope to watch unsanctioned streams - rather than pay an
+unprecedented \$100 for the official PPV feed of the fight - *The New
 York Times* observed that the app had ‘barged its way onto sports’
 biggest stage’, while the CEO of Twitter controversially declared the
 app the real winner of the night.[^05RuggBurroughsPeriscope_2] While most discussion of Periscope
@@ -86,7 +86,7 @@ circulation.
 
 Since its launch, Periscope has been linked to piracy. The app first
 made news when people used it to live-stream the U.S. premiere of the
-5^th^ season of the HBO series *Game of Thrones,* allowing
+5<sup>th</sup> season of the HBO series *Game of Thrones,* allowing
 non-subscribers and those living outside the U.S., where the program had
 a later premiere date, to view the first episode for free. The incident
 resulted in HBO labeling the app as a site for ‘mass copyright
@@ -125,10 +125,10 @@ well.[^05RuggBurroughsPeriscope_13]
 
 ![](media/image1.jpeg)
 
-Fig. 1: The live-streaming app Periscope allows individuals to
+Fig. 1: *The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
 corporate and state media infrastructures Source: (CC BY 2.0/Anthony
-Quintano)
+Quintano)*
 
 In 2007, Viacom waged a long legal battle against YouTube, seeking
 damages for profiting off of the viewing of infringing content. The
@@ -360,13 +360,6 @@ the tension emerging as digital platforms make the production,
 consumption, and distribution of video content exponentially easier for
 corporations and consumers alike.
 
-## 
-
-## 
-
-## 
-
-## 
 
 ## References
 
@@ -384,23 +377,22 @@ Internet Age*, Hoboken: John Wiley & Sons, 2013.
 
 Chaykowski, Kathleen. ‘Twitter Automates “Amplify” as it Pushes the
 Live-Video Ad Product into News, Entertainment’, *Forbes,* 28 May 2015,
-http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/.
+[http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/](http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/).
 
 Chemi, Eric and Jessica Golden. ‘Fan Streaming Apps have Sports World
 Debating TV Rights’, *CNBC,* 21 May 2015,
-http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html.
+[http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html](http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html).
 
 Ericsson. ‘Ericsson Mobility Report: On the Pulse of the Network
 Society’, June 2015,
-http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf.
+[http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf](http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html).
 
-Ereker, Ayşenur. ‘Ekol Hoca Center of Attention on Periscope with his
-Online Prep School’, *Todays Zaman,* 13 August 2015,
-http://www.todayszaman.com/national\_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school\_396440.html.
+Ereker, Ayşenur. ‘Ekol Hoca Center of Attention on Periscope with his Online Prep School’, *Todays Zaman,* 13 August 2015,
+[http://www.todayszaman.com/national\_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school\_396440.html](http://www.todayszaman.com/national\_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school\_396440.html).
 
 Howard, Philip N. et al. ‘Opening Closed Regimes: What Was the Role of
 Social Media During the Arab Spring?’, 2011,
-http://ssrn.com/abstract=259509.
+[http://ssrn.com/abstract=259509](http://ssrn.com/abstract=259509).
 
 Howard, Philip N. and Muzammil M. Hussain. ‘The Role of Digital Media’,
 *Journal of Democracy* 22 (2011): 35-48.
@@ -411,7 +403,7 @@ Practice, Culture and Innovation’, *Media International Australia* 155
 
 Jarvey, Natalie. ‘HBO Criticizes Over “Game of Thrones” Live Streams,
 Issues Takedown Notices’, *The Hollywood Reporter*, 14 April 2015,
-http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734.
+[http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734](http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734).
 
 Lobato, Ramon and Julian Thomas. *The Informal Media Economy*,
 Cambridge: Polity Press, 2015.
@@ -423,7 +415,7 @@ Experience and Audience Innovation’, *Media International Australia* 155
 McKernan, Bethan. ‘This Turkish Maths Teacher is Defying a Government
 Ban by Using Periscope to Teach 1000s of Students’, *The Independent,*
 22 August 2015,
-http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg.
+[http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg](http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg).
 
 Nguyen, An. ‘Journalism in the Wake of Participatory Publishing’,
 *Australian Journalism Review* 28.1 (2006): 47-59.
@@ -432,30 +424,29 @@ Palfrey, John. et al. ‘From Sony to SOPA: The Technology-Content
 Divide.’ *Harvard Law School Case Studies*, 23 February 2013.
 
 Periscope. ‘Periscope by the Numbers’, *Medium*, 12 August 2015,
-https://medium.com/@periscope/periscope-by-the-numbers-6b23dc6a1704.
+[https://medium.com/@periscope/periscope-by-the-numbers-6b23dc6a1704](https://medium.com/@periscope/periscope-by-the-numbers-6b23dc6a1704).
 
 Popper, Ben. ‘There was an Explosion in New York City, and Seconds Later
 I was Watching it Live on Periscope’, *The Verge,* 26 March 2015,
-http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live.
+[http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live](http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live).
 
 Roxborough, Scott and Rhonda Richford. ‘Cannes: Are Periscope and
 Meerkat Threats to the Fest?’, *The Hollywood Reporter,* 13 May 2015,
-http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342.
+[http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342](http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342).
 
 Sandomir, Richard. ‘Periscope, a Streaming Twitter App, Steals the Show
 on Boxing’s Big Night’, *New York Times,* 4 May 2015.
 
 Shipnuck, Alan. ‘The Real Loser in Wei Vs. PGA Tour is the Golf Fans’,
 *Golf.com,* 3 May 2015,
-http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials.
+[http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials](http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials).
 
 Trimble, Marketa. ‘The Future of Cybertravel: Legal Implications of the
-Evasion of Geolocation’, *Fordham Intellectual Property, Media, and
-Entertainment Law Journal* 22 (2012): 654.
+Evasion of Geolocation’, *Fordham Intellectual Property, Media, and Entertainment Law Journal* 22 (2012): 654.
 
 Whitney, Lance. ‘Apple Patent may Foreshadow iPhones that React to
 Location’, *CNET*, 28 August 2012,
-http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location.
+[http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location](http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location).
 
 [^05RuggBurroughsPeriscope_1]: Both authors are first authors.
 
@@ -465,15 +456,13 @@ http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-locat
 [^05RuggBurroughsPeriscope_3]: Bethan McKernan, ‘This Turkish Maths Teacher is Defying a
     Government Ban By Using Periscope to Teach 1000s of Students’, *The
     Independent,* 22 August 2015,
-    http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg.
+    [http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg](http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg).
 
 [^05RuggBurroughsPeriscope_4]: Ayşenur Ereker, ‘Ekol Hoca Center of Attention on Periscope with
-    his Online Prep School’, *Todays Zaman,* 13 August 2015,
-    http://www.todayszaman.com/national\_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school\_396440.html
+    his Online Prep School’, *Todays Zaman,* 13 August 2015, [http://www.todayszaman.com/national\_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school\_396440.html](http://www.todayszaman.com/national\_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school\_396440.html)
 
 [^05RuggBurroughsPeriscope_5]: Benjamin Burroughs and Adam Rugg, ‘Extending the Broadcast:
-    Streaming Culture and the Problems of Digital Geographies’, *Journal
-    of Broadcasting and Electronic Media* 58:3 (2014): 365-380.
+    Streaming Culture and the Problems of Digital Geographies’, *Journal of Broadcasting and Electronic Media* 58:3 (2014): 365-380.
 
 [^05RuggBurroughsPeriscope_6]: Ramon Lobato and Julian Thomas, *The Informal Media Economy*,
     Cambridge: Polity Press, 2015.
@@ -483,25 +472,23 @@ http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-locat
     Australia* 155 (2015): 89-98.
 
 [^05RuggBurroughsPeriscope_8]: Periscope, ‘Periscope by the Numbers’, *Medium*, 12 August 2015,
-    https://medium.com/@periscope/periscope-by-the-numbers-6b23dc6a1704.
+    [https://medium.com/@periscope/periscope-by-the-numbers-6b23dc6a1704](https://medium.com/@periscope/periscope-by-the-numbers-6b23dc6a1704).
 
 [^05RuggBurroughsPeriscope_9]: Natalie Jarvey, ‘HBO Criticizes Over “Game of Thrones” Live
     Streams, Issues Takedown Notices’, *The Hollywood Reporter,* 14
-    April 2015,
-    http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734.
+    April 2015, [http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734](http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734).
 
 [^05RuggBurroughsPeriscope_10]: Eric Chemi and Jessica Golden, ‘Fan Streaming Apps have Sports
     World Debating TV Rights’, *CNBC,* 21 May 2015,
-    http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html.
+    [http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html](http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html).
 
 [^05RuggBurroughsPeriscope_11]: Alan Shipnuck, ‘The Real Loser In Wei Vs. PGA Tour Is The Golf
     Fans’, *Golf.com,* 3 May 2015,
-    http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials.
+    [http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials](http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials).
 
 [^05RuggBurroughsPeriscope_12]: Scott Roxborough and Rhonda Richford, ‘Cannes: Are Periscope and
     Meerkat Threats to the Fest?’, *The Hollywood Reporter,* 13 May
-    2015,
-    http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342.
+    2015, [http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342](http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342).
 
 [^05RuggBurroughsPeriscope_13]: Brett Hutchins, James Meese and Aneta Podkalicka, ‘Media Sport:
     Practice, Culture and Innovation’, *Media International Australia*
@@ -515,39 +502,29 @@ http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-locat
     *Australian Journalism Review* 28.1 (2006): 47-59.
 
 [^05RuggBurroughsPeriscope_16]: Ben Popper, ‘There was an Explosion in New York City, and Seconds
-    Later I was Watching it Live on Periscope’, *The Verge,* 26 March
-    2015,
-    http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live.
+    Later I was Watching it Live on Periscope’, *The Verge,* 26 March 2015, [http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live](http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live).
 
-[^05RuggBurroughsPeriscope_17]: Ericsson, ‘Ericsson Mobility Report: On the Pulse of the Network
-    Society’, June 2015,
-    http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf.
+[^05RuggBurroughsPeriscope_17]: Ericsson, ‘Ericsson Mobility Report: On the Pulse of the Network  Society’, June 2015, [http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf](http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf).
 
 [^05RuggBurroughsPeriscope_18]: Kathleen Chaykowski, ‘Twitter Automates “Amplify” as it Pushes
     the Live-Video Ad Product into News, Entertainment’, *Forbes,* 28
-    May 2015,
-    http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/.
+    May 2015, [http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/](ttp://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/).
 
 [^05RuggBurroughsPeriscope_19]: Cristina Alaimo and Jannis Kallinikos, ‘Encoding the Everyday:
     Social Data and its Media Apparatus’, in Cassidy R. Sugimoto, Hamid
-    Ekbia, and Michael Mattioli (eds) *Big Data is not a Monolith:
-    Policies, Practices, and Problems*, Cambridge: The MIT Press,
-    (forthcoming).
+    Ekbia, and Michael Mattioli (eds) *Big Data is not a Monolith: Policies, Practices, and Problems*, Cambridge: The MIT Press, (forthcoming).
 
 [^05RuggBurroughsPeriscope_20]: Marketa Trimble, ‘The Future of Cybertravel: Legal Implications
-    of the Evasion of Geolocation’, *Fordham Intellectual Property,
-    Media, and Entertainment Law Journal* 22 (2012): 654.
+    of the Evasion of Geolocation’, *Fordham Intellectual Property,  Media, and Entertainment Law Journal* 22 (2012): 654.
 
 [^05RuggBurroughsPeriscope_21]: Lance Whitney, ‘Apple Patent May Foreshadow iPhones That React to
-    Location’, *CNET*, 28 August 2012,
-    http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location.
+    Location’, *CNET*, 28 August 2012, [http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location](http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location).
 
 [^05RuggBurroughsPeriscope_22]: Manuel Castells, *Networks of Outrage and Hope: Social Movements
     in the Internet Age*, Hoboken: John Wiley & Sons, 2013.
 
 [^05RuggBurroughsPeriscope_23]: Philip N. Howard et al., ‘Opening Closed Regimes: What was the
-    Role of Social Media During the Arab Spring?’, 2011,
-    http://ssrn.com/abstract=2595096.
+    Role of Social Media During the Arab Spring?’, 2011, [http://ssrn.com/abstract=2595096](http://ssrn.com/abstract=2595096).
 
 [^05RuggBurroughsPeriscope_24]: Philip N. Howard and Muzammil M. Hussain, ‘The Role of Digital
     Media’, *Journal of Democracy* 22 (2011): 35-48.

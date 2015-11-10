@@ -1,34 +1,32 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
-The Future in a Vault of Plastic: Physical Geolocking in the Era of the
-16-bit Video Game Cartridge, 1988-1993\
-*Roland Burke *
+#The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988-1993\
 
-# 
+###Roland Burke###
 
 ![](media/image1.tiff)
 
-Fig. 1: Drawing the Borders: Detail of the original Sega Megadrive
+Fig. 1: *Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
 Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014.
+Works, n.p: Read Only Memory, 2014.*
 
 IP address geoblocking has been implemented to partition what would
 otherwise be potentially borderless worlds of information and
@@ -195,13 +193,13 @@ cases, the breech was easily and cheaply made.
 
 ![](media/image2.jpeg)
 
-Figure 2. The Japanese Megadrive cartridge with its infuriating rounded
-edge. The owner is mere millimetres away from fun. Image: Roland Burke.
+Figure 2. *The Japanese Megadrive cartridge with its infuriating rounded
+edge. The owner is mere millimetres away from fun. Image: Roland Burke.*
 
 ![](media/image3.JPG)
 
-Figure : The localized Australian Megadrive cartridge, with its
-distinctive curved spline. Image: Roland Burke.
+Figure : *The localized Australian Megadrive cartridge, with its
+distinctive curved spline. Image: Roland Burke.*
 
 Circumvention was not a procedure undertaken without considerable
 deliberation and forethought. Inexperienced hands, no matter how nimble,
@@ -498,7 +496,7 @@ the real geo-, not the stratified one prescribed by corporate entities.
 [^08BurkeGamecartridges_10]: For the state of the relevant segments of semiconductor industry
     in the latter 1980s, see Dataquest, ‘Report on Asian Semiconductor
     and Electronic Technology Service (1991)’, available at
-    http://archive.computerhistory.org/resources/access/text/2013/04/102723217-05-01-acc.pdf.
+    [http://archive.computerhistory.org/resources/access/text/2013/04/102723217-05-01-acc.pdf]( http://archive.computerhistory.org/resources/access/text/2013/04/102723217-05-01-acc.pdf).
 
 [^08BurkeGamecartridges_11]: The early 1990s ‘Console War’ was regarded as something of a
     revolutionary period in gaming development, see generally, Blake
@@ -548,7 +546,7 @@ the real geo-, not the stratified one prescribed by corporate entities.
     which stood at 568AUD in August 1991. See Australian Bureau of
     Statistics, Report on Average Weekly Earnings, August 1991, released
     19 December 1991, available at
-    http://www.ausstats.abs.gov.au/ausstats/free.nsf/0/FAE37DAF57F82D9DCA2574FA00184F33/\$File/63020\_AUG1991.pdf.
+    [http:/www.ausstats.abs.gov.au/ausstats/free.nsf/0/FAE37DAF57F82D9DCA2574FA00184F33/\$File/63020\_AUG1991.pdf](http:/www.ausstats.abs.gov.au/ausstats/free.nsf/0/FAE37DAF57F82D9DCA2574FA00184F33/\$File/63020\_AUG1991.pdf).
 
 [^08BurkeGamecartridges_16]: EMAP Images, publishers of *Computer and Video Games*, and from
     late 1989, the console focussed sibling, *Mean Machines*, were the
@@ -568,8 +566,7 @@ the real geo-, not the stratified one prescribed by corporate entities.
 [^08BurkeGamecartridges_18]: 1992, *Trinity Grammar School Diary*.
 
 [^08BurkeGamecartridges_19]: For Nintendo’s longer genealogy, see the two volumes from Gorges
-    et al. *The History of Nintendo 1889-1980* and *The History of
-    Nintendo 1980-1991*, Triel-sur-Seine, France; London: Les Editions
+    et al. *The History of Nintendo 1889-1980* and *The History of Nintendo 1980-1991*, Triel-sur-Seine, France; London: Les Editions
     Pix'N Love, 2012.
 
 [^08BurkeGamecartridges_20]: Nintendo was perhaps the most extreme example of physical
@@ -586,12 +583,12 @@ the real geo-, not the stratified one prescribed by corporate entities.
 [^08BurkeGamecartridges_21]: For a précis of ROM technology, its characteristics, and
     evolution over time, see note at Computer History Museum,
     ‘Semiconductor Read-Only-Memory Chips Appear’, available at
-    http://www.computerhistory.org/semiconductor/timeline/1965-ROM.html;
+    [http://www.computerhistory.org/semiconductor/timeline/1965-ROM.html](http://www.computerhistory.org/semiconductor/timeline/1965-ROM.html);
     for further detail, see University of Michigan, ‘ROM, EPROM,
     EEPROM’,
-    https://web.eecs.umich.edu/\~prabal/teaching/eecs373-f10/readings/rom-eprom-eeprom-technology.pdf;
+    [https://web.eecs.umich.edu/\~prabal/teaching/eecs373-f10/readings/rom-eprom-eeprom-technology.pdf](https://web.eecs.umich.edu/\~prabal/teaching/eecs373-f10/readings/rom-eprom-eeprom-technology.pdf);
     Smithsonian Institution, ‘The MOS Memory Market (1996)’, available
-    at http://smithsonianchips.si.edu/ice/cd/MEM96/SEC01.pdf.
+    at [http://smithsonianchips.si.edu/ice/cd/MEM96/SEC01.pdf](http://smithsonianchips.si.edu/ice/cd/MEM96/SEC01.pdf).
 
 [^08BurkeGamecartridges_22]: The materiality of games and their conservation has only recently
     begun to emerge as a topic of academic inquiry, see notably Raiford

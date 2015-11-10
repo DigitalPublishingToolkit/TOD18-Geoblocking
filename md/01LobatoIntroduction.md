@@ -1,27 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
-# The new video geography
+# The new video geography:An introduction to Geoblocking and Global Video Culture
 
-# An introduction to *Geoblocking and Global Video Culture*
-
-**Ramon Lobato**
+###Ramon Lobato###
 
 This book is about the cultural geography of video streaming. It is
 about platforms – YouTube, iPlayer, DailyMotion, Netflix, Periscope,
@@ -276,11 +274,11 @@ content (Unblock-US, Getflix).
 
 ![](media/image1.png)
 
-Figure 1: A VPN server selection menu
+*Figure 1: A VPN server selection menu*
 
 ![](media/image2.png)
 
-Figure 2: VPN marketing highlights unblocking functions
+*Figure 2: VPN marketing highlights unblocking functions*
 
 Circumvention is a complex topic, because most technologies used for
 geoblocking circumvention were not designed for this purpose and have
@@ -645,7 +643,7 @@ pp. 124-132.
     viii.
 
 [^01LobatoIntroduction_5]: Derek Kompare, ‘Adverstreaming: Hulu Plus’, *Flow*, 24 Feb 2014,
-    [http://flowtv.org/2014/02/adverstreaming-hulu-plus/](../customXml/item1.xml)
+    [http://flowtv.org/2014/02/adverstreaming-hulu-plus/](http://flowtv.org/2014/02/adverstreaming-hulu-plus/).
 
 [^01LobatoIntroduction_6]: These issues have been explored through key works in video
     geography, to which we are indebted. See: Tom O’Regan, ‘From Piracy
@@ -665,18 +663,18 @@ pp. 124-132.
 
 [^01LobatoIntroduction_9]: Peter Shadbolt, ‘How Misbehaving at School Made One Man a
     Millionaire’, *BBC News*, 18 May 2015,
-    http://www.bbc.com/news/business-32702501.
+    [http://www.bbc.com/news/business-32702501](http://www.bbc.com/news/business-32702501).
 
 [^01LobatoIntroduction_10]: Ian Paul, ‘Ultra-popular Hola VPN Extension Sold Your Bandwidth
     for use in a Botnet Attack’, *PC World*, 29 May 2015,
-    http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html.
+    [http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html](http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html).
 
 [^01LobatoIntroduction_11]: Tama Leaver, ‘Watching “Battlestar Galactica” in Australia and
     the Tyranny of Digital Distance’, *Media International Australia*
     126 (2008), pp. 145-154.
 
 [^01LobatoIntroduction_12]: European Commission, ‘Better Online Access to Digital Services’,
-    http://ec.europa.eu/priorities/digital-single-market/access/index\_en.htm
+    [http://ec.europa.eu/priorities/digital-single-market/access/index\_en.html](http://ec.europa.eu/priorities/digital-single-market/access/index\_en.html).
 
 [^01LobatoIntroduction_13]: Sean Cubitt, ‘Telecommunication Networks: Economy, Ecology,
     Rule’, *Theory, Culture and Society* 31 (2014), p. 191.

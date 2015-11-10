@@ -1,25 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
-Tunnelling Media: Geoblocking and Online Border Resistance
+#Tunnelling Media: Geoblocking and Online Border Resistance
 
-Juan Llamas-Rodriguez
+###Juan Llamas-Rodriguez###
 
 The highway functioned as an early metaphor for the increasingly
 transnational network we now call the internet. The ‘information
@@ -205,10 +205,9 @@ equipment. The exit point was sealed with material that made it seem
 like it was painted concrete, and there was a half-ton winch pulley
 system to hoist up goods up the vertical shaft.
 
-![](media/image1.jpeg)*\[Tunnel found in Otay Mesa, California, in 2011:
-dug through soil and sand.*
-
-*Source: U.S. Customs and Border Protection*\]
+![](media/image1.jpeg)
+*Tunnel found in Otay Mesa, California, in 2011:
+dug through soil and sand. Source: U.S. Customs and Border Protection*
 
 The third type of tunnel is the interconnecting one, which is intended
 to make use of existing subterranean infrastructure such as storm drains
@@ -250,9 +249,7 @@ costly and cumbersome, which explains why finding and shutting down
 these tunnels has been a slow process focused on one tunnel at a
 time.[^02LlamasRodriguezTunnelingmedia_15]![](media/image2.jpeg)
 
-\[Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.
-
-*Source: U.S. Customs and Border Protection*\]
+*Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection*
 
 Tunneling online follows similar deflection techniques. Small-scale
 exploits, such as ad-blocking plugins or DNS proxies, capitalize on the
@@ -364,145 +361,80 @@ occur.
 
 ## References
 
-> Baker, Debbi, and Sandra Dibble, ‘Two Drug Smuggling Tunnels Found’,
-> *San Diego Union-Tribune*, 4 April 2014,
-> http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/.
->
-> Bigo, Didier. ‘Globalized (In)Security: The field and the
-> Ban-Opticon’, in Didier Bigo and Anastassia Tsoukala (eds) *Terror,
-> Insecurity and Liberty: Illiberal practices of liberal regimes after
-> 9/11*, London: Routledge, 2008, pp. 10-48.
->
-> Brenner, Neil. *New State Spaces: Urban Governance and the Rescaling
-> of Statehood*, London: Oxford University Press, 2004.
->
-> Brighenti, Andrea. ‘Visibility: A Category for the Social Sciences’,
-> *Current Sociology* 55.3 (2007): 323-342.
->
-> Burroughs, Benjamin, and Adam Rugg. ‘Extending the Broadcast:
-> Streaming Culture and the Problems of Digital Geographies’, *Journal
-> of Broadcasting & Electronic Media* 58.3 (2014): 365-380.
->
-> Department of Homeland Security Science and Technology Directorate,
-> ‘Tunnel Detection: Going Underground to Enhance Security’, 31 October
-> 2014,
-> http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf.
->
-> Edwards, Paul N. *The Closed World*, Cambridge: MIT Press, 1997.
->
-> Gandy, Oscar. *The Panoptic Sort: A Political Economy of Personal
-> Information*, Boulder, CO: Westview, 1993.
->
-> Graham, Stephen D.N. ‘The Software Sorted City: Rethinking the Digital
-> Divide’, in Stephen Graham (ed) *The Cybercities Reader*, Oxford:
-> Blackwell, 2004, pp. 324-330.
->
-> Hay, James. ‘The Invention of Air Space, Outer Space and Cyberspace’,
-> in Lisa Parks and James Schwoch (eds) *Down to Earth: Satellite
-> Technologies, Industries and Cultures*, New Brunswick: Rutgers
-> University Press, 2012, pp. 19-42.
->
-> Lobato, Ramon, and Julian Thomas. “The Business of Anti-Piracy: New
-> Zones of Enterprise in the Copyright Wars,” *International Journal of
-> Communication* 6 (2012): 606-625.
->
-> Moores, Shaun. ‘The Doubling of Place: Electronic Media, Time-Space
-> Arrangements, and Social Relationships’, in Nick Couldry and Anna
-> McCarthy (eds) *MediaSpace: Place, Scale, and Culture in a Media Age*,
-> New York: Routledge, 2003, pp. 21-36.
->
-> Mosco, Vincent. *The Digital Sublime: Myth, Power, and Cyberspace*,
-> Cambridge: MIT Press, 2005.
->
-> Parks, Lisa. ‘Mapping Orbit: Towards a Vertical Public Space,’ in
-> Chris Berry, Janet Hardon, Rachel Moore (eds) *Media Space, Public
-> Space,* New York: Palgrave Macmillan, 2013, pp. 61-87.
+Baker, Debbi, and Sandra Dibble, ‘Two Drug Smuggling Tunnels Found’,*San Diego Union-Tribune*, 4 April 2014,
+[http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/](http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/).
 
-Sharma, Sarah. *In the Meantime: Temporality and Cultural Politics*,
-Durham: Duke University Press, 2014.
+Bigo, Didier. ‘Globalized (In)Security: The field and the Ban-Opticon’, in Didier Bigo and Anastassia Tsoukala (eds) *Terror,Insecurity and Liberty: Illiberal practices of liberal regimes after
+9/11*, London: Routledge, 2008, pp. 10-48.
 
-> Smith, Neil, and Cindi Katz, ‘Grounding Metaphor – Towards a
-> Spatialized Politics’, in Michael Keith and Steve Pile (eds) *Place
-> and the Politics of Identity*, New York: Routledge, 1993, pp. 66-81.
->
-> Tinic, Serra. *On Location: Canada’s Television Industry in a Global
-> Market*, Toronto: University of Toronto Press, 2005.
->
-> U.S. Immigration and Customs Enforcement, ‘US, Mexican authorities
-> shut down smuggling tunnel under construction in Nogales’, 26 June
-> 2013,
-> https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales.
->
-> U.S. Immigration and Customs Enforcement, ‘Nogales Tunnel Task Force
-> shuts down drug tunnel in backyard shed’, 18 December 2013,
-> http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed.
+Brenner, Neil. *New State Spaces: Urban Governance and the Rescaling of Statehood*, London: Oxford University Press, 2004.
 
-[^02LlamasRodriguezTunnelingmedia_1]: As Paul Edwards argues, struggles over sovereignty and control
-    were always a constitutive part of the internet despite claims
-    otherwise. See Paul N. Edwards, *The Closed World*, Cambridge: MIT
-    Press, 1997.
+Brighenti, Andrea. ‘Visibility: A Category for the Social Sciences’,*Current Sociology* 55.3 (2007): 323-342.
 
-[^02LlamasRodriguezTunnelingmedia_2]: Neil Smith and Cindi Katz, ‘Grounding Metaphor – Towards a
-    Spatialized Politics’, in Michael Keith and Steve Pile (eds) *Place
-    and the Politics of Identity*, New York: Routledge, 1993, p. 68.
+Burroughs, Benjamin, and Adam Rugg. ‘Extending the Broadcast: Streaming Culture and the Problems of Digital Geographies’, *Journalof Broadcasting & Electronic Media* 58.3 (2014): 365-380.
 
-[^02LlamasRodriguezTunnelingmedia_3]: James Hay, ‘The Invention of Air Space, Outer Space and
-    Cyberspace’, in Lisa Parks and James Schwoch (eds) *Down to Earth:
-    Satellite Technologies, Industries and Cultures*, New Brunswick:
-    Rutgers University Press, 2012, p. 19.
+Department of Homeland Security Science and Technology Directorate, ‘Tunnel Detection: Going Underground to Enhance Security’, 31 October 2014,
+[http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf](http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf).
 
-[^02LlamasRodriguezTunnelingmedia_4]: Serra Tinic, *On Location: Canada’s Television Industry in a
-    Global Market*, Toronto: University of Toronto Press, 2005, p. 17.
+Edwards, Paul N. *The Closed World*, Cambridge: MIT Press, 1997.
 
-[^02LlamasRodriguezTunnelingmedia_5]: Shaun Moores, ‘The Doubling of Place: Electronic Media, Time-Space
-    Arrangements, and Social Relationships’, in Nick Couldry and Anna
-    McCarthy (eds) *MediaSpace: Place, Scale, and Culture in a Media
-    Age*, New York: Routledge, 2003, p. 21.
+Gandy, Oscar. *The Panoptic Sort: A Political Economy of Personal Information*, Boulder, CO: Westview, 1993.
 
-[^02LlamasRodriguezTunnelingmedia_6]: Benjamin Burroughs and Adam Rugg, ‘Extending the Broadcast:
-    Streaming Culture and the Problems of Digital Geographies’, *Journal
-    of Broadcasting & Electronic Media* 58.3 (2014): 377.
+Graham, Stephen D.N. ‘The Software Sorted City: Rethinking the Digital Divide’, in Stephen Graham (ed) *The Cybercities Reader*, Oxford: Blackwell, 2004, pp. 324-330.
 
-[^02LlamasRodriguezTunnelingmedia_7]: Andrea Brighenti, ‘Visibility: A Category for the Social
-    Sciences’, *Current Sociology* 55.3 (May, 2007): 337.
+Hay, James. ‘The Invention of Air Space, Outer Space and Cyberspace’,in Lisa Parks and James Schwoch (eds) *Down to Earth: Satellite Technologies, Industries and Cultures*, New Brunswick: Rutgers University Press, 2012, pp. 19-42.
 
-[^02LlamasRodriguezTunnelingmedia_8]: Oscar Gandy, *The Panoptic Sort: A Political Economy of Personal
-    Information*, Boulder, CO: Westview, 1993, p. 15.
+Lobato, Ramon, and Julian Thomas. “The Business of Anti-Piracy: New Zones of Enterprise in the Copyright Wars,” *International Journal of Communication* 6 (2012): 606-625.
 
-[^02LlamasRodriguezTunnelingmedia_9]: Didier Bigo, ‘Globalized (In)Security: The field and the
-    Ban-Opticon’, in Didier Bigo and Anastassia Tsoukala (eds) *Terror,
-    Insecurity and Liberty: Illiberal practices of liberal regimes after
-    9/11*, London: Routledge, 2008, p. 28.
+Moores, Shaun. ‘The Doubling of Place: Electronic Media, Time-Space Arrangements, and Social Relationships’, in Nick Couldry and Anna McCarthy (eds) *MediaSpace: Place, Scale, and Culture in a Media Age*,
+New York: Routledge, 2003, pp. 21-36.
 
-[^02LlamasRodriguezTunnelingmedia_10]: Stephen D.N. Graham, ‘The Software Sorted City: Rethinking the
-    Digital Divide’, in Stephen Graham (ed.) *The Cybercities Reader*,
-    Oxford: Blackwell, 2004, p. 329.
+Mosco, Vincent. *The Digital Sublime: Myth, Power, and Cyberspace*, Cambridge: MIT Press, 2005.
 
-[^02LlamasRodriguezTunnelingmedia_11]: Neil Brenner, *New State Spaces: Urban Governance and the
-    Rescaling of Statehood*, London: Oxford University Press, 2004, p.
-    57.
+Parks, Lisa. ‘Mapping Orbit: Towards a Vertical Public Space,’ in Chris Berry, Janet Hardon, Rachel Moore (eds) *Media Space, Public Space,* New York: Palgrave Macmillan, 2013, pp. 61-87.
 
-[^02LlamasRodriguezTunnelingmedia_12]: U.S. Immigration and Customs Enforcement, ‘Nogales Tunnel Task
-    Force shuts down drug tunnel in backyard shed’, 18 December 2013,
-    http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed.
+Sharma, Sarah. *In the Meantime: Temporality and Cultural Politics*, Durham: Duke University Press, 2014.
 
-[^02LlamasRodriguezTunnelingmedia_13]: Debbi Baker and Sandra Dibble, ‘Two Drug Smuggling Tunnels
-    Found’, *San Diego Union-Tribune*, 4 April 2014,
-    http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/.
+Smith, Neil, and Cindi Katz, ‘Grounding Metaphor – Towards a Spatialized Politics’, in Michael Keith and Steve Pile (eds) *Place and the Politics of Identity*, New York: Routledge, 1993, pp. 66-81.
 
-[^02LlamasRodriguezTunnelingmedia_14]: U.S. Immigration and Customs Enforcement, ‘US, Mexican
-    authorities shut down smuggling tunnel under construction in
-    Nogales’, press release, 26 June 2013,
-    https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales.
+Tinic, Serra. *On Location: Canada’s Television Industry in a Global Market*, Toronto: University of Toronto Press, 2005.
 
-[^02LlamasRodriguezTunnelingmedia_15]: Department of Homeland Security Science and Technology
-    Directorate, ‘Tunnel Detection: Going Underground to Enhance
-    Security’, 31 October 2014,
-    http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf.
+U.S. Immigration and Customs Enforcement, ‘US, Mexican authorities shut down smuggling tunnel under construction in Nogales’, 26 June 2013,
+[https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales](https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales).
 
-[^02LlamasRodriguezTunnelingmedia_16]: Ramon Lobato and Julian Thomas, ‘The Business of Anti-Piracy: New
-    Zones of Enterprise in the Copyright Wars’, *International Journal
-    of Communication* 6 (2012): 613.
+U.S. Immigration and Customs Enforcement, ‘Nogales Tunnel Task Force shuts down drug tunnel in backyard shed’, 18 December 2013,[http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed](http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed).
 
-[^02LlamasRodriguezTunnelingmedia_17]: Sarah Sharma, *In the Meantime: Temporality and Cultural
-    Politics*. Durham: Duke University Press, 2014, p. 13.
+
+[^02LlamasRodriguezTunnelingmedia_1]: As Paul Edwards argues, struggles over sovereignty and control were always a constitutive part of the internet despite claims otherwise. See Paul N. Edwards, *The Closed World*, Cambridge: MIT Press, 1997.
+
+[^02LlamasRodriguezTunnelingmedia_2]: Neil Smith and Cindi Katz, ‘Grounding Metaphor – Towards a Spatialized Politics’, in Michael Keith and Steve Pile (eds) *Place and the Politics of Identity*, New York: Routledge, 1993, p. 68.
+
+[^02LlamasRodriguezTunnelingmedia_3]: James Hay, ‘The Invention of Air Space, Outer Space and Cyberspace’, in Lisa Parks and James Schwoch (eds) *Down to Earth:Satellite Technologies, Industries and Cultures*, New Brunswick:Rutgers University Press, 2012, p. 19.
+
+[^02LlamasRodriguezTunnelingmedia_4]: Serra Tinic, *On Location: Canada’s Television Industry in a Global Market*, Toronto: University of Toronto Press, 2005, p. 17.
+
+[^02LlamasRodriguezTunnelingmedia_5]: Shaun Moores, ‘The Doubling of Place: Electronic Media, Time-Space Arrangements, and Social Relationships’, in Nick Couldry and Anna McCarthy (eds) *MediaSpace: Place, Scale, and Culture in a Media Age*, New York: Routledge, 2003, p. 21.
+
+[^02LlamasRodriguezTunnelingmedia_6]: Benjamin Burroughs and Adam Rugg, ‘Extending the Broadcast: Streaming Culture and the Problems of Digital Geographies’, *Journal of Broadcasting & Electronic Media* 58.3 (2014): 377.
+
+[^02LlamasRodriguezTunnelingmedia_7]: Andrea Brighenti, ‘Visibility: A Category for the Social Sciences’, *Current Sociology* 55.3 (May, 2007): 337.
+
+[^02LlamasRodriguezTunnelingmedia_8]: Oscar Gandy, *The Panoptic Sort: A Political Economy of Personal rInformation*, Boulder, CO: Westview, 1993, p. 15.
+
+[^02LlamasRodriguezTunnelingmedia_9]: Didier Bigo, ‘Globalized (In)Security: The field and the Ban-Opticon’, in Didier Bigo and Anastassia Tsoukala (eds) *Terror, Insecurity and Liberty: Illiberal practices of liberal regimes after 9/11*, London: Routledge, 2008, p. 28.
+
+[^02LlamasRodriguezTunnelingmedia_10]: Stephen D.N. Graham, ‘The Software Sorted City: Rethinking the Digital Divide’, in Stephen Graham (ed.) *The Cybercities Reader*, Oxford: Blackwell, 2004, p. 329.
+
+[^02LlamasRodriguezTunnelingmedia_11]: Neil Brenner, *New State Spaces: Urban Governance and the Rescaling of Statehood*, London: Oxford University Press, 2004, p. 57.
+
+[^02LlamasRodriguezTunnelingmedia_12]: U.S. Immigration and Customs Enforcement, ‘Nogales Tunnel Task Force shuts down drug tunnel in backyard shed’, 18 December 2013, [http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed](http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed).
+
+[^02LlamasRodriguezTunnelingmedia_13]: Debbi Baker and Sandra Dibble, ‘Two Drug Smuggling Tunnels Found’, *San Diego Union-Tribune*, 4 April 2014, [http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/](http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/).
+
+[^02LlamasRodriguezTunnelingmedia_14]: U.S. Immigration and Customs Enforcement, ‘US, Mexican authorities shut down smuggling tunnel under construction in Nogales’, press release, 26 June 2013, [https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales](https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales).
+
+[^02LlamasRodriguezTunnelingmedia_15]: Department of Homeland Security Science and Technology Directorate, ‘Tunnel Detection: Going Underground to Enhance Security’, 31 October 2014, [http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf](http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf).
+
+[^02LlamasRodriguezTunnelingmedia_16]: Ramon Lobato and Julian Thomas, ‘The Business of Anti-Piracy: New Zones of Enterprise in the Copyright Wars’, *International Journal of Communication* 6 (2012): 613.
+
+[^02LlamasRodriguezTunnelingmedia_17]: Sarah Sharma, *In the Meantime: Temporality and Cultural Politics*. Durham: Duke University Press, 2014, p. 13.

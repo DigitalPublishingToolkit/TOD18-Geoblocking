@@ -1,25 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
-**Australia: circumvention goes mainstream **
+#Australia: circumvention goes mainstream 
 
-***Ramon Lobato and James Meese***
+###Ramon Lobato and James Meese###
 
 ***PULL QUOTES***
 
@@ -98,7 +98,7 @@ discussions around copyright protection, global governance, and tax
 evasion. In other words, they are trigger points for a wider
 conversation about Australia’s place in the world.
 
-**Australian screen culture and the politics of distance**
+##Australian screen culture and the politics of distance
 
 To understand the effects of geoblocking in Australia, we must first
 consider the national broadcast system and how it has evolved over time.
@@ -167,7 +167,7 @@ are ‘fed on a diet of geo-blocking, slow content delivery and price
 gouging’.[^10LobatoandMeeseAustralia_3] This adds fuel to the fire of consumer resentment, and
 provides a rhetorical justification for piracy and geo-hacking.
 
-**Geoblocking and cultural nationalism**
+##Geoblocking and cultural nationalism
 
 By 2012 geoblocking had become a political issue. Sensing the mood of
 the public, Australian regulators were questioning the
@@ -233,7 +233,7 @@ victims of cultural globalization. A politics of resentment has taken
 hold, tinged with nationalist overtones. Its central figure: the
 ripped-off Aussie consumer.
 
-**The VPN explosion**
+##The VPN explosion
 
 Renewed attention to the parallel-import issue has naturally drawn
 attention to geoblocking. Taking a cue from their elected
@@ -287,7 +287,7 @@ mass-scale internet circumvention in this way would in other
 circumstances appear unusual. In Australia, it is now par for the
 course.
 
-**Governing circumvention**
+##Governing circumvention
 
 Running through this debate about geoblocking are several unresolved
 legal and policy issues. One of these is the uncertain legal status of
@@ -346,7 +346,7 @@ an identity-masking tool for P2P users. In this complex game of
 whack-a-mole, public awareness of VPNs, proxies and other circumvention
 tools is always on the rise.
 
-**The coming of Netflix**
+##The coming of Netflix
 
 Another recent development is the launch in March 2015 of Netflix’s
 Australian service. For the first time Australians can now access an
@@ -410,11 +410,11 @@ citizenship. The end result is something quite unexpected: the
 mainstreaming of DIY privacy protection and anonymization as everyday
 practices among a substantial minority of the population.
 
-**References**
+##References
 
 ‘Choice tells Australians to become digital smugglers’, ABC Radio *AM*
 program, 23 March 2013,
-http://www.abc.net.au/am/content/2013/s3722193.htm.
+[http://www.abc.net.au/am/content/2013/s3722193.html](http://www.abc.net.au/am/content/2013/s3722193.html).
 
 Australian Copyright Council, information sheet G127v01, ‘Geo-blocking,
 VPNs & Copyright’, July 2015.
@@ -424,7 +424,7 @@ and Communications. ‘At what cost? IT Pricing and the “Australia tax”’,
 The Parliament of the Commonwealth of Australia, 2013.
 
 Cartwright, Madison. ‘Australians pay more’, *Choice*, 13 October 2014,
-https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax
+[https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax](https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax).
 
 Christensen, Nic. ‘Harvey Norman Mulls Next Move after Questions on Sale
 of McTivia’, *The Australian*, 12 September 2011.
@@ -435,7 +435,7 @@ Australia: An Industry Profile*, Melbourne: The Swinburne Institute,
 
 Gregory, Mark. ‘Turnbull's piracy crackdown and the fate of VPNs’,
 *Technology Spectator*, 21 April 2015,
-http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns
+[http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns](http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns).
 
 Larsson, Stefan et al. ‘Law, Norms, Piracy and Online Anonymity:
 Practices of De-identification in the Global File Sharing Community’,
@@ -443,15 +443,15 @@ Practices of De-identification in the Global File Sharing Community’,
 
 Lobato, Ramon and Scott Ewing. ‘Unlocking the Geoblock: Australians
 Embrace VPNs’, *The Conversation*, October 2 2014,
-https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373.
+[https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373](https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373).
 
 Richardson, David. ‘Copyright and Monopoly Profits: Books, Records and
 Software’, Current Issues Brief 15, 1996, The Parliament of Australia,
-http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15
+[http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15](http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15).
 
 Suzor, Nicolas. ‘Using a VPN to Access Netflix: Is it Legal?’,
 *NicSuzor.Net*, July 22, 2013,
-http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/
+[http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/](http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15).
 
 [^10LobatoandMeeseAustralia_1]: Jock Given, Rosemary Curtis and Marion McCutcheon, *Cinema in
     Australia: An Industry Profile*, Melbourne: The Swinburne Institute,
@@ -459,13 +459,13 @@ http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/
 
 [^10LobatoandMeeseAustralia_2]: Madison Cartwright, ‘Australians pay more’, *Choice*, 13 October
     2014,
-    [https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax](../customXml/item1.xml)
+    [https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax](../customXml/item1.xml).
 
 [^10LobatoandMeeseAustralia_3]: Mark Gregory, ‘Turnbull's piracy crackdown and the fate of VPNs’,
     *Technology Spectator*, 21 April 2015,
-    [http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns](numbering.xml)
+    [http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns](numbering.xml).
 
-[^10LobatoandMeeseAustralia_4]: See http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/
+[^10LobatoandMeeseAustralia_4]: See [http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/](http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/).
 
 [^10LobatoandMeeseAustralia_5]: ‘At what cost? IT Pricing and the “Australia tax”’, Australian
     House of Representatives Standing Committee on Infrastructure and
@@ -474,12 +474,12 @@ http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/
 
 [^10LobatoandMeeseAustralia_6]: ‘Choice tells Australians to become digital smugglers’, ABC Radio
     *AM* program, 23 March 2013,
-    http://www.abc.net.au/am/content/2013/s3722193.htm.
+    [http://www.abc.net.au/am/content/2013/s3722193.html](http://www.abc.net.au/am/content/2013/s3722193.html).
 
 [^10LobatoandMeeseAustralia_7]: David Richardson, ‘Copyright and Monopoly Profits: Books, Records
     and Software’, Current Issues Brief 15, 1996, The Parliament of
     Australia,
-    http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15
+    [http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15]( http://www.aph.gov.au/About\_Parliament/Parliamentary\_Departments/Parliamentary\_Library/Publications\_Archive/CIB/CIB9697/97cib15).
 
 [^10LobatoandMeeseAustralia_8]: Books can be legally parallel imported in specific circumstances
     to fill market gaps. For example, if an order for a book is not
@@ -490,7 +490,7 @@ http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/
 
 [^10LobatoandMeeseAustralia_10]: Ramon Lobato and Scott Ewing, ‘Unlocking the Geoblock:
     Australians Embrace VPNs’, *The Conversation*, October 2 2014,
-    https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373.
+    [https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373](https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373.).
 
 [^10LobatoandMeeseAustralia_11]: These usage levels are broadly in line with other early-adopter
     countries. In Sweden, for example, VPNs are used by 18% of the
@@ -506,8 +506,8 @@ http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/
     Zapruder argues that these tools inhibit the ability of these
     companies to sell the same content to different regions, which is
     how ‘they make \[their\] money’. See
-    http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634
+    [http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634](http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634).
 
 [^10LobatoandMeeseAustralia_14]: Nicolas Suzor, ‘Using a VPN to Access Netflix: Is it Legal?’,
     *NicSuzor.Net*, July 22, 2013,
-    http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/
+    [http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/](http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/).

@@ -1,30 +1,27 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # Geoblocking, Technical Standards and the Law
 
-# Marketa Trimble
-
-## 
+###Marketa Trimble###
 
 ## Introduction
-
 In a world where countries cannot agree on a single set of laws that
 would apply uniformly around the globe, most national laws need to be
 territorially confined. Without territorial limits, laws have
@@ -73,11 +70,11 @@ regulation. The three stages will likely begin at different times in
 different countries, industries, and contexts, but will eventually
 overlap and thereafter develop concurrently.
 
-![](media/image1.jpeg)
+![](imgs/image1.jpeg)
 
-Fig 1: Geoblocking has a complicated relationship with national legal
+Fig 1: *Geoblocking has a complicated relationship with national legal
 systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)
+tool for legal compliance. Source: (CC BY 2.0/Karen Roe)*
 
 ## Geoblocking as a Tool of Regulation and Enforcement
 
@@ -390,7 +387,7 @@ geoblocking where the use of geoblocking exceeds what is required by
 law. For example, a system of “digital passports” could facilitate
 access to users who travel abroad.[^04TrimbleGeoblockingandEvasion_35]
 
-## Reference List
+## References
 
 ‘A Digital Single Market Strategy for Europe – Analysis and Evidence’,
 European Commission, SWD (2015) 100 final, 6 May 2015.
@@ -400,7 +397,7 @@ Agreement on Trade-Related Aspects of Intellectual Property Rights, WTO,
 
 Baker, Liana B., and Yinka Adegoke. ‘Olympics Fans Find Ways to
 Circumvent NBC’s Online Control’, *Reuters*, 31 July 2012,
-http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731.
+[http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731](http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731).
 
 Commission Decision of 6 May 2015 initiating an inquiry into the
 e-commerce sector pursuant to Article 17 of Council Regulation (EC) No
@@ -420,17 +417,15 @@ Geist, Michael. ‘Cyberlaw 2.0’, *Boston College Law Review* 44 (2003):
 Geist, Michael. ‘Nobody’s Perfect: Leaked Contract Reveals Sony Requires
 Netflix to Geo-Block But Acknowledges Technology is Imperfect’, Michael
 Geist’s blog, 17 April 2015,
-http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/.
+[http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/](http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/).
 
-Gell, Aaron. ‘Reinventing the Web: A New App Lets You Watch Whatever TV
-Program You Want, Including the Olympics, Anywhere in the World’,
+Gell, Aaron. ‘Reinventing the Web: A New App Lets You Watch Whatever TV Program You Want, Including the Olympics, Anywhere in the World’,
 *Business Insider*, 25 January 2014,
-http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1.
+[http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1](http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1).
 
 General Agreement on Trade in Services.
 
-Goldsmith, Jack L., and Tim Wu. *Who Controls the Internet?: Illusions
-of A Borderless World*, New York: Oxford University Press, 2006.
+Goldsmith, Jack L., and Tim Wu. *Who Controls the Internet?: Illusions of A Borderless World*, New York: Oxford University Press, 2006.
 
 Hilliard, Christopher. ‘Evaluating the Legitimacy of Geo-Location
 Circumvention in the Context of Technical Protection Measures’, *Queen
@@ -441,7 +436,7 @@ of Kentucky, 2014 WL 689044, 21 February 2014.
 
 Kirk, Jeremy. ‘Geoblocking Question Unresolved After New Zealand Lawsuit
 Ends’, PCWorld, 23 June 2015,
-http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html.
+[http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html](http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html).
 
 Muir, James A., and Paul C. Van Oorschot. ‘Internet Geolocation: Evasion
 and Counterevasion’, *ACM Computing Surveys* 4 (December 2009).

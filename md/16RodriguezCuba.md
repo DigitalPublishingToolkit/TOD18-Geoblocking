@@ -1,25 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
-# **Cuba: *Videos to the left –* circumvention practices and audiovisual ecologies **
+# Cuba: *Videos to the left –* circumvention practices and audiovisual ecologies
 
-**Fidel A. Rodriguez**
+###Fidel A. Rodriguez###
 
 **DATA BOX**
 
@@ -230,9 +230,6 @@ distribution methods within Cuba.
 
 ## Videos without time or space: ‘the package’
 
-  --
-  --
-
 In parallel to these structural constraints on internet access, various
 workarounds have emerged in Cuba. One well-documented phenomenon is USB
 sharing, which since the mid-2000s has become an efficient system for
@@ -269,7 +266,7 @@ only during the final stage of street-level distribution.[^16RodriguezCuba_17]
 
 ![](media/image1.png)
 
-Fig. 1. An example of a *paquete*
+*Fig. 1. An example of a paquete*
 
 Distribution of the *paquete* is typically carried out discreetly, often
 through licensed streetside DVD vendors or private photocopying and
@@ -300,8 +297,8 @@ TV series.
 
 ![](media/image2.jpeg)
 
-Fig. 2. A private photocopying and printing business in Havana openly
-advertises pirated videos. Photo: Fidel A. Rodriguez
+*Fig. 2. A private photocopying and printing business in Havana openly
+advertises pirated videos. Photo: Fidel A. Rodriguez*
 
 The spread of *paquete* distribution has also led to the development of
 an advertising market, including unregistered advertising agencies.
@@ -339,8 +336,8 @@ temporarily ‘banned’ through IP address blocking.
 
 ![](media/image3.png)
 
-Fig. 3. A *Game of Thrones* file transfer on an informal wireless
-network
+*Fig. 3. A Game of Thrones file transfer on an informal wireless
+network*
 
 The network is also used to check the scores of European football league
 matches. While the Cuban TV networks regularly broadcast live Bundesliga
@@ -404,7 +401,7 @@ infrastructure.
 
 ![](media/image4.png)
 
-Fig. 4. A VPN advertisement in Revolico.com
+*Fig. 4. A VPN advertisement in Revolico.com*
 
 ## The future
 
@@ -451,7 +448,7 @@ trade guidelines or government restrictions.
 
 Abad, Karina. *La piratería en Cuba*, Law School, Guantánamo University,
 2013, Cuba,
-http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf.
+[http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf](http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf).
 
 Barrera, Yanet. *La revuelta del espectador. Estudio exploratorio sobre
 el consumo mediático alternativo*, MA Thesis, Havana University, Cuba,
@@ -479,7 +476,7 @@ capitalinos*, Bachelor Thesis, Havana University, Cuba, 2015.
 
 Díaz, Elaine and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas Para
 un Debate Sobre Políticas Públicas, *Temas*, La Habana, 2013,
-www.temas.cult.cu/revistas/74/08%20elaine.pdf.
+[www.temas.cult.cu/revistas/74/08%20elaine.pdf](www.temas.cult.cu/revistas/74/08%20elaine.pdf).
 
 Echemendía, Isabel, *Copi@ y Comp@rte una vez a la semana. Acercamiento
 a los principales rasgos que caracterizan el consumo audiovisual
@@ -492,7 +489,7 @@ informales en La Habana*, Bachelor Thesis, Havana University, Cuba,
 
 International Telecommunication Union. ‘Measuring the Information
 Society Report’, Geneva, Switzerland 2014,
-http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf.
+[http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf](http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf).
 
 Linares, Cecilia et al. *El consumo cultural y sus prácticas en Cuba*,
 Cuban Institute of Cultural Investigation Juan Marinello, La Habana,
@@ -504,11 +501,11 @@ version, 2015.
 
 Moloney, Patricia. ‘Promoting Global Internet Freedom: Policy and
 Technology’, Congressional Research Service, 2013,
-https://www.fas.org/sgp/crs/row/R41837.pdf.
+[https://www.fas.org/sgp/crs/row/R41837.pdf](https://www.fas.org/sgp/crs/row/R41837.pdf).
 
 National Statistics Office. ‘Tecnologías de Información y las
 Comunicaciones: Indicadores Seleccionados’, 2015,
-http://www.one.cu/ticis2014.htm.
+[http://www.one.cu/ticis2014.html](http://www.one.cu/ticis2014.html).
 
 Pertierra, Anna Cristina. ‘Private Pleasures: Watching Videos in
 Post-Soviet Cuba’, *International Journal of Cultural Studies* 12.2
@@ -524,7 +521,7 @@ Century in Cuba’*,* *Television and New Media* 13.5 (2012): 399–414.
 Recio, Milena. ‘La hora de los desconectados. Evaluación del diseño de
 la política de “acceso social” a Internet en Cuba en un contexto de
 cambios*.*’ *Bimestre Cubana* 116.4 (2014),
-http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177.
+[http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177](http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177).
 
 Toirac, Yanet. *Política cultural:* *Una propuesta de enfoque
 comunicológico para su estudio*, PhD diss., Havana University, Cuba,
@@ -542,9 +539,7 @@ comunicológico para su estudio*, PhD diss., Havana University, Cuba,
     (2009): 113-130.
 
 [^16RodriguezCuba_4]: Karina Abad, *La piratería en Cuba*, Law School, Guantánamo
-    University, 2013, Cuba,
-
-    http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf.
+    University, 2013, Cuba, [http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf](http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf).
 
 [^16RodriguezCuba_5]: Yanet Barrera, *La revuelta del espectador: Estudio exploratorio
     sobre el consumo mediático alternativo*, MA Thesis, Havana
@@ -552,22 +547,22 @@ comunicológico para su estudio*, PhD diss., Havana University, Cuba,
 
 [^16RodriguezCuba_6]: National Statistics Office, *Tecnologías de información y las
     comunicaciones: Indicadores seleccionados*, 2015,
-    http://www.one.cu/ticis2014.htm.
+   [http://www.one.cu/ticis2014.html](http://www.one.cu/ticis2014.html).
 
 [^16RodriguezCuba_7]: Milena Recio, ‘La hora de los desconectados. Evaluación del diseño
     de la política de “acceso social” a Internet en Cuba en un contexto
     de cambios’, *Bimestre Cubana* 116.41 (2014),
-    http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177.
+    [http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177](http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177).
 
-[^16RodriguezCuba_8]: Milena Recio, ‘La hora de los desconectados’*.*
+[^16RodriguezCuba_8]: Milena Recio, ‘La hora de los desconectados’.
 
 [^16RodriguezCuba_9]: Elaine Díaz and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas
     para un debate sobre políticas públicas’, *Temas* 2013,
-    www.temas.cult.cu/revistas/74/08%20elaine.pdf.
+    [www.temas.cult.cu/revistas/74/08%20elaine.pdf](www.temas.cult.cu/revistas/74/08%20elaine.pdf).
 
 [^16RodriguezCuba_10]: Patricia Moloney, ‘Promoting Global Internet Freedom: Policy and
     Technology’, Congressional Research Service, 2013,
-    https://www.fas.org/sgp/crs/row/R41837.pdf.
+    [https://www.fas.org/sgp/crs/row/R41837.pdf](https://www.fas.org/sgp/crs/row/R41837.pdf).
 
 [^16RodriguezCuba_11]: Milena Recio, ‘La hora de los desconectados’.
 

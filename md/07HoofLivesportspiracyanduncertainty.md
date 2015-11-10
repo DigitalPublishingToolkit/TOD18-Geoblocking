@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming Aggregation Platforms
 
-# Florian Hoof
+###Florian Hoof##
 
 ## Geoblocked in Australia
 
@@ -191,18 +191,18 @@ rate, and language of the commentary.
 
 ![](media/image1.png)
 
-Fig. 1. Categories displayed on the starting page of the streaming
-aggregation platform Stream2watch.me.
+Fig. 1. *Categories displayed on the starting page of the streaming
+aggregation platform Stream2watch.me.*
 
 ![](media/image2.png)
 
-Fig. 2. Live stream selection submenu of a streaming aggregation
-platform.
+Fig. 2. *Live stream selection submenu of a streaming aggregation
+platform.*
 
 ![](media/image3.tif)
 
-Fig. 3. Variable quality, freezing and signal disruption are persistent
-risks when live-streaming sport.
+Fig. 3. *Variable quality, freezing and signal disruption are persistent
+risks when live-streaming sport.*
 
 Streams available for the German Bundesliga are either pirated coverage
 from the German branch of Sky Sports or from foreign broadcasters based
@@ -227,8 +227,8 @@ address.
 
 ![](media/image4.tif)
 
-Fig. 4. Malware is a common security hazard people have to negotiate
-when using streaming platforms
+Fig. 4. *Malware is a common security hazard people have to negotiate
+when using streaming platforms*
 
 There is also the risk that there are no streams available at all, or
 that the quality is too low. Previously stable, high-quality streams can
@@ -335,46 +335,32 @@ Luhmann, Niklas. *Risk. A Sociological Theory*, Berlin/New York: De
 Gruyter, 1993.
 
 Star, Susan L. ‘This Is Not a Boundary Object: Reflections on the Origin
-of a Concept’, *Science, Technology and Human Values* 35.5 (2010):
-601-617.
+of a Concept’, *Science, Technology and Human Values* 35.5 (2010): 601-617.
 
 tz. ‘Hier sehen Sie Borussia Dortmund gegen FK Krasnodar jetzt im TV und
 Live-Stream’, 17 September 2015,
-https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/.
+[https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/](https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/).
 
 [^07HoofLivesportspiracyanduncertainty_1]: Michael Hutter, ‘Information Goods’, in Ruth Towse (ed.), *A
     Handbook of Cultural Economics,* Cheltenham: Edward Elgar, 2006, pp.
     263-268.
 
-[^07HoofLivesportspiracyanduncertainty_2]: See, for example, Michael Curtin, Jennifer Holt, and Kevin Sanson
-    (eds), *Distribution Revolution: Conversations about the Digital
-    Future of Film and Television*, Berkley: University of California
+[^07HoofLivesportspiracyanduncertainty_2]: See, for example, Michael Curtin, Jennifer Holt, and Kevin Sanson (eds), *Distribution Revolution: Conversations about the Digital Future of Film and Television*, Berkley: University of California
     Press, 2014.
 
 [^07HoofLivesportspiracyanduncertainty_3]: See: Sophie Rohringer, ‘Hier sehen Sie Borussia Dortmund gegen FK
     Krasnodar jetzt im TV und Live-Stream’, *tz*, 30 September 2015,
-    https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html.
+    [https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html](https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html).
 
-[^07HoofLivesportspiracyanduncertainty_4]: G. A. Akerlof, ‘The Market for “Lemons”: Quality Uncertainty and
-    the Market Mechanism’, *Quarterly Journal of Economics* 84.3 (1970):
-    488-500.
+[^07HoofLivesportspiracyanduncertainty_4]: G. A. Akerlof, ‘The Market for “Lemons”: Quality Uncertainty and the Market Mechanism’, *Quarterly Journal of Economics* 84.3 (1970): 488-500.
 
-[^07HoofLivesportspiracyanduncertainty_5]: Nick Couldry, ‘Liveness, “Reality”, and the Mediated Habitus from
-    Television to the Mobile Phone’, *Communication Review* 7.4 (2004):
-    353-361.; Elena Levine, ‘Distinguishing Television. The Changing
-    Meanings of Television Liveness’, *Media, Culture & Society* 30.3
-    (2008): 393-409; Jane Feuer, ‘The Concept of Live Television:
-    Ontology as Ideology’, in E.A. Kaplan (ed.), *Regarding Television:
-    Critical Approaches – An Anthology*, Los Angeles: American Film
-    Institute, 1983, pp. 12-21.
+[^07HoofLivesportspiracyanduncertainty_5]: Nick Couldry, ‘Liveness, “Reality”, and the Mediated Habitus from Television to the Mobile Phone’, *Communication Review* 7.4 (2004): 353-361.; Elena Levine, ‘Distinguishing Television. The Changing
+    Meanings of Television Liveness’, *Media, Culture & Society* 30.3 (2008): 393-409; Jane Feuer, ‘The Concept of Live Television: Ontology as Ideology’, in E.A. Kaplan (ed.), *Regarding Television: Critical Approaches – An Anthology*, Los Angeles: American Film Institute, 1983, pp. 12-21.
 
-[^07HoofLivesportspiracyanduncertainty_6]: Susan L. Star, ‘This Is Not a Boundary Object: Reflections on the
-    Origin of a Concept’, *Science, Technology and Human Values* 35.5
-    (2010): 601-617, p. 614.
+[^07HoofLivesportspiracyanduncertainty_6]: Susan L. Star, ‘This Is Not a Boundary Object: Reflections on the Origin of a Concept’, *Science, Technology and Human Values* 35.5 (2010): 601-617, p. 614.
 
 [^07HoofLivesportspiracyanduncertainty_7]: Star, ‘This Is Not a Boundary Object’, p. 614.
 
 [^07HoofLivesportspiracyanduncertainty_8]: See: Ulrich Beck, *Risk Society. Towards a New Modernity*, London:
-    Sage, 1992; Anthony Giddens, ‘Risk and Responsibility’, *Modern Law
-    Review* 62.1 (1999): 1-10; Niklas Luhmann, *Risk. A Sociological
+    Sage, 1992; Anthony Giddens, ‘Risk and Responsibility’, *Modern Law Review* 62.1 (1999): 1-10; Niklas Luhmann, *Risk. A Sociological
     Theory*, Berlin/New York: De Gruyter, 1993.

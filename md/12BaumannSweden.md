@@ -1,25 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # Sweden: Circumvention and the Quest for Privacy
 
-**Chris Baumann**
+###Chris Baumann###
 
 In mid-October 2012, Netflix flew its top three executives, co-founder
 and CEO Reed Hastings, Chief Product Officer Neil Hunt, and Chief
@@ -178,7 +178,7 @@ infrastructure to be much better than anywhere else they had previously
 been. For Time Warner, too, Sweden continues to play a significant role.
 In 2012 the decision to make HBO’s entire library available to stream as
 a standalone subscription service under the moniker of HBO Nordic raised
-many eyebrows in Sweden, and abroad.[^12BaumannSweden_13]However, in light of the
+many eyebrows in Sweden, and abroad.[^12BaumannSweden_13] However, in light of the
 company’s recent announcement to launch its HBO Now video streaming
 service—essentially a carbon copy of HBO Nordic destined for the U.S.
 market—it can be argued that the Nordic countries, and Sweden in
@@ -314,7 +314,7 @@ or ‘secure.’ This, of course, is hardly a coincidence.
 
 ![](media/image1.png)
 
-Fig. 1: The website of Anonine, a popular Swedish VPN provider.
+*Fig. 1: The website of Anonine, a popular Swedish VPN provider.*
 
 Another reason for Anonine’s popularity among Swedish Internet users is
 the company’s “local” brand. Swedes tend to be loyal to homegrown
@@ -364,50 +364,49 @@ privacy.
 
 *The author wishes to thank Patrick Vonderau for helpful suggestions.*
 
-**References**
+##References##
 
 BeatriceAsk. ‘Den Stora Frågetråden om VPN-tjänsten Anonine!
 \[Sammanfogad\]’, *Flashback,* 20 April 2012.
-https://www.flashback.org/p36938188\#p36938188.
+[https://www.flashback.org/p36938188\#p36938188](https://www.flashback.org/p36938188\#p36938188).
 
 Bie, Nanok. ‘Strömmande Film ökar när Nedladdning Minskar’, *SVT
 Nyheter*, 20 March 2013,
-http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar.
+[http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar](http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar).
 
 Brandel, Tobias. ‘Svensk Illegal Streaming Växer Snabbt’, *Svenska
 Dagbladet*, 29 April 2013,
-http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt\_8129082.svd.
+[http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt\_8129082.svd](http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt\_8129082.svd).
 
 Court of Justice of the European Union.
-<http://curia.europa.eu/jcms/upload/docs/application/>
-pdf/2014-04/cp140054en.pdf.
+[http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf).
 
 Findahl, Olle. *Svenskarna och Internet 2014,* Stockholm, 2014.
 
-Flashback. <https://www.flashback.org/>.
+Flashback. [https://www.flashback.org/](https://www.flashback.org/).
 
 \_\_\_\_\_. ‘Den Bästa Appen för att Surfa Anonymt Med iPhone?
-(proxy/VPN)’, https://www.flashback.org/t2516629.
+(proxy/VPN)’, [https://www.flashback.org/t2516629](https://www.flashback.org/t2516629).
 
 \_\_\_\_\_. ‘Den Stora Frågetraden om VPN-tjänsten Anonine!
-\[Sammanfogad\]’, https://www.flashback.org/t926057.
+\[Sammanfogad\]’, [https://www.flashback.org/t926057](https://www.flashback.org/t926057).
 
 \_\_\_\_\_. ‘Hur Anonymt är VPN Över Wifi, När det Kommer till Kritan’,
-https://www.flashback.org/t2449802.
+[https://www.flashback.org/t2449802](https://www.flashback.org/t2449802).
 
 Förvaltningsrätten i Stockholm.
-http://www.forvaltningsrattenistockholm.domstol.se/
-Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf.
+[http://www.forvaltningsrattenistockholm.domstol.se/
+Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf](http://www.forvaltningsrattenistockholm.domstol.se/
+Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf).
 
-Google Trends. https://www.google.com/trends/topcharts\#vm=cat&geo=
-SE&date=2012&cid.
+Google Trends. [https://www.google.com/trends/topcharts\#vm=cat&geo=SE&date=2012&cid](https://www.google.com/trends/topcharts\#vm=cat&geo=SE&date=2012&cid).
 
 Karlung, Jon. ‘Bahnhof aktiverar ”plan B”: erbjuder fri anonymisering.’
 *Bahnhof*. 16 November 2014.
-https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering.
+[https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering](https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering).
 
 Lewan, Mats. ‘Netflix: Därför valde vi Sverige’, *NyTeknik*, 16 October
-2012, http://www.nyteknik.se/nyheter/it\_telekom/tv/article3560911.ece.
+2012, [http://www.nyteknik.se/nyheter/it\_telekom/tv/article3560911.ece](http://www.nyteknik.se/nyheter/it\_telekom/tv/article3560911.ece).
 
 Mediavision. *TV-insikt Q3 2014*, Stockholm, 2014.
 
@@ -417,7 +416,7 @@ MMS. *Trend och Tema 2014:4*, Stockholm, 2015.
 
 Muskelknutt. ‘Den stora frågetråden om VPN-tjänsten Anonine!
 \[Sammanfogad\]’, *Flashback*, 13 May 2012,
-https://www.flashback.org/p37334359\#p37334359.
+[https://www.flashback.org/p37334359\#p37334359](https://www.flashback.org/p37334359\#p37334359).
 
 PostNord, Svensk Digital Handel, and HUI Research, *E-barometern 2014*,
 Stockholm, 2014.
@@ -431,23 +430,23 @@ bredbandstillgången i Sverige, Stockholm, 2014.
 \_\_\_\_\_. PTS prisrapport 2014: Prisutvecklingen på mobiltelefoni och
 bredband, Stockholm, 2014.
 
-Schwartz, Oscar. ‘LEX Integrity’, *5^th^ of July Foundation*, 16
-November 2014, https://5july.org/2014/11/16/lex-integrity/.
+Schwartz, Oscar. ‘LEX Integrity’, *5<sup>th</sup> of July Foundation*, 16
+November 2014, [https://5july.org/2014/11/16/lex-integrity/](https://5july.org/2014/11/16/lex-integrity/).
 
 Spangler, Todd. ‘Netflix Streaming Eats Up 35% of Downstream Internet
 Traffic: Study’, *Variety*, 20 November 2014,
-http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/.
+[http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/](http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/).
 
 Statiska Centralbyrån. *Privatpersoners användning av datorer och
 internet 2014*, Stockholm, 2014.
 
 Szalai, Georg. ‘HBO Unveils Scandinavian Joint Venture as Netflix Also
 Plans Nordic Launch’, *The Hollywood Reporter*, 15 August 2012,
-http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920.
+[http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920](http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920).
 
 Tung, Liam. ‘Four of Sweden's Telcos Stop Storing Customer Data after EU
 Retention Directive Overthrown’, *ZDNet*, 11 April 2014,
-http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/.
+[http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/](http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/).
 
 Vonderau, Patrick. ‘Beyond Piracy: Understanding Digital Markets’, in
 Jennifer Holt and Kevin Sanson (eds.) *Connected Viewing: Selling,
@@ -459,7 +458,7 @@ Geneva, 2014.
 
 [^12BaumannSweden_1]: Todd Spangler, ‘Netflix Streaming Eats Up 35% of Downstream
     Internet Traffic: Study’, *Variety,* 20 November 2014,
-    [http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/](../customXml/item1.xml).
+    [http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/](http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/).
 
 [^12BaumannSweden_2]: Mediavision, *TV-insikt Q3 2014*, Stockholm, 2014.
 
@@ -471,10 +470,9 @@ Geneva, 2014.
 
 [^12BaumannSweden_6]: Tobias Brandel, ‘Svensk illegal streaming växer snabbt’, *Svenska
     Dagbladet*, 29 April 2013,
-    [http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt\_8129082.svd](numbering.xml).
+    [http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt\_8129082.svd](http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt\_8129082.svd).
 
-[^12BaumannSweden_7]: In 2012, ‘swefilmer’ was the third-most searched term on
-    [google.se](styles.xml), according to Google Trends.
+[^12BaumannSweden_7]: In 2012, ‘swefilmer’ was the third-most searched term on google.se, according to Google Trends.
 
 [^12BaumannSweden_8]: World Economic Forum, *The Global Information Technology Report
     2014*, Geneva, 2014.
@@ -491,7 +489,7 @@ Geneva, 2014.
 
 [^12BaumannSweden_12]: Mats Lewan, ‘Netflix: Därför valde vi Sverige’, *NyTeknik*, 16
     October 2012,
-    [http://www.nyteknik.se/nyheter/it\_telekom/tv/article3560911.ece](stylesWithEffects.xml).
+    [http://www.nyteknik.se/nyheter/it\_telekom/tv/article3560911.ece](http://www.nyteknik.se/nyheter/it\_telekom/tv/article3560911.ece).
 
 [^12BaumannSweden_13]: In addition to Sweden, HBO Nordic is also available in Norway,
     Denmark, and Finland.
@@ -510,23 +508,23 @@ Geneva, 2014.
 
 [^12BaumannSweden_18]: Court of Justice of the European Union, Press release 54/14, 8
     April 2014,
-    http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf.
+    [http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf).
 
 [^12BaumannSweden_19]: Liam Tung, ‘Four of Sweden's Telcos Stop Storing Customer Data
     after EU retention Directive Overthrown,’ *ZDNet*, 11 April 2014,
-    http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/.
+    [http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/](http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/).
 
 [^12BaumannSweden_20]: Förvaltningsrätten i Stockholm,
-    http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf.
+    [http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf](http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf).
     rvaltningsrätten i Stockholm, in Sweden 1 reason for VPN usenother
     ting customer data, with Bahnhof g customers' Court of Jus
 
-[^12BaumannSweden_21]: Oscar Schwartz, ‘LEX Integrity’, *5^th^ of July Foundation*, 16
+[^12BaumannSweden_21]: Oscar Schwartz, ‘LEX Integrity’, *5<sup>th</sup> of July Foundation*, 16
     November 2014, https://5july.org/2014/11/16/lex-integrity/.
 
 [^12BaumannSweden_22]: Jon Karlung, ‘Bahnhof aktiverar ”plan B”: erbjuder fri
     anonymisering’, *Bahnhof*, 16 November 2014,
-    https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering.
+    [https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering](https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering).
 
 [^12BaumannSweden_23]: BeatriceAsk, ‘Den stora frågetråden om VPN-tjänsten Anonine!
     \[Sammanfogad\]’, *Flashback,* 20 April 2012,

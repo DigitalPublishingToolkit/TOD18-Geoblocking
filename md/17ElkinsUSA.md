@@ -1,27 +1,25 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
 Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 
 # The USA: Geoblocking in a Privileged Market
 
-# 
-
-# Evan Elkins
+### Evan Elkins
 
 STAT BOX:
 
@@ -173,7 +171,7 @@ familiar with the experience of video geoblocking, given the industrial
 might of Hollywood, a few common scenarios can nonetheless be identified
 and are described below.
 
-### VOD Platforms Developed in or for Another Territory
+#### VOD Platforms Developed in or for Another Territory
 
 A commonly repeated axiom holds that the development of VOD platforms
 has lead to – or at least sustains – an increasingly fragmented media
@@ -205,7 +203,7 @@ Save the frustrations of British ex-pats, tourists, or business
 travelers from the UK looking to access their home platform, geoblocking
 in this instance shores up a more banal kind of market segmentation.
 
-### Local, National, and Regional Television Platforms 
+#### Local, National, and Regional Television Platforms 
 
 As TV networks and channels around the world develop online platforms or
 distribute their content to VOD services, they face the problem of
@@ -264,7 +262,7 @@ particular content and platforms can be complicated for diasporic
 viewers in the US, and it’s often contingent on how highly the American
 media industries value that audience.
 
-### YouTube, UGC, and Independent Videos Unavailable in the US
+#### YouTube, UGC, and Independent Videos Unavailable in the US
 
 Geoblocking in the US (and elsewhere) is not limited to individual
 platforms, nor is it necessarily limited to platforms that were
@@ -444,11 +442,11 @@ disjunctures that viewers around the world experience more regularly.
 
 ‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*, 13 May
 2010,
-<http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World>.
+[http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World](http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World).
 
 Appelbaum, Jacob et al., ‘Prying Eyes: Inside the NSA’s War on Internet
 Security’, *Der Spiegel*, 28 December 2014,
-http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html.
+[http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
 
 Becker, Christine. ‘Access is Elementary: Crossing Television’s
 Distribution Borders’, *FlowTV.org*, 13 January 2014,
@@ -456,42 +454,42 @@ Distribution Borders’, *FlowTV.org*, 13 January 2014,
 
 Blumenthal, Max. ‘Exclusive: Al Jazeera’s English Online US Broadcast to
 End with the Launch of Al Jazeera America’, *Mondoweiss*, 1 August 2013,
-<http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america>.
+[http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
 
 ‘Buy Safe and Secure VPN’, *Private Internet Access*,
-https://www.privateinternetaccess.com/pages/buy-vpn.
+[https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
 
 ‘Committee Seeks IT Pricing Equity’, *AAP General News Wire* (Sydney),
 29 July 2013.
 
 Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent Freak*,
 29 August 2013,
-https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829.
+[https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829).
 
 Hern, Alex. ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’, *New
 Statesman*, 19 June 2012,
-<http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks>.
+[http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
 
 Hilderbrand, Lucas. *Inherent Vice: Bootleg Histories of Video and
 Copyright*, Durham, NC: Duke University Press, 2009.
 
 ‘How Content ID Works’, *YouTube Help*, 2015,
-https://support.google.com/youtube/answer/2797370?hl=en.
+[https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
 
 Luh, James C. ‘Breaking Down DVD Borders’, *Washington Post*, 1 June
 2001.
 
 Pash, Adam. ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from
 Outside the U.K’, *Lifehacker*, 29 March 2010,
-<http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk>.
+[http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
 
 Roettgers, Janko. ‘Al Jazeera English Unblocks its YouTube Videos for
 US-based Viewers’, *Gigaom*, 24 September 2013,
-<https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers>.
+[https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
 
 Santus, Rex, ‘Netflix is Now in 36% of Homes Across the United States’
 *Mashable*, 12 March 2015,
-http://mashable.com/2015/03/12/nielsen-ratings-2014.
+[http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
 
 Stelter, Brian. ‘Hiccup for Debut of Al Jazeera America’, *New York
 Times*, 21 August 2013.
@@ -502,32 +500,32 @@ Chicago Press, 1996.
 
 Turner, Adam. ‘Content Unlimited’, *Sydney Morning Herald*, 14 July
 2013,
-<http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html>.
+[http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html](http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html).
 
 Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
 and Video Content*, Burlington, MA: Focal Press, 2000.
 
 [^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
     States’ *Mashable*, 12 March 2015,
-    http://mashable.com/2015/03/12/nielsen-ratings-2014.
+    [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
 
 [^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
     Internet Security’, *Der Spiegel*, 28 December 2014,
-    http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html.
+    [http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
 
 [^17ElkinsUSA_3]: ‘Buy Safe and Secure VPN’, *Private Internet Access*,
-    https://www.privateinternetaccess.com/pages/buy-vpn.
+    [https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
 
 [^17ElkinsUSA_4]: Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent
     Freak*, 29 August 2013,
-    https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829.
+    [https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://www.privateinternetaccess.com/pages/buy-vpn).
 
 [^17ElkinsUSA_5]: Jeff Ulin, *The Business of Media Distribution: Monetizing Film,
     TV, and Video Content*, Burlington, MA: Focal Press, 2000, p. 5.
 
 [^17ElkinsUSA_6]: ‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*,
     13 May 2010,
-    [http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World](numbering.xml).
+    [http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World](http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World).
     My emphasis.
 
 [^17ElkinsUSA_7]: Space is far too limited to catalog the scores of VOD platforms
@@ -542,7 +540,7 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
     of Chicago Press, 1996, p. 61.
 
 [^17ElkinsUSA_9]: ‘How Content ID Works’, *YouTube Help*, 2015,
-    https://support.google.com/youtube/answer/2797370?hl=en.
+    [https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
 
 [^17ElkinsUSA_10]: A 2001 *Washington Post* piece reporting on DVD region codes
     suggested that the major consumers of region-free DVD players in the
@@ -559,21 +557,21 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
 
 [^17ElkinsUSA_13]: Alex Hern, ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’,
     *New Statesman*, 19 June 2012,
-    [http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](styles.xml).
+    [http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
 
 [^17ElkinsUSA_14]: Brian Stelter, ‘Hiccup for Debut of Al Jazeera America’, *New
     York Times*, 21 August 2013. On dropping the YouTube geoblock, see
     Janko Roettgers, ‘Al Jazeera English Unblocks its YouTube Videos for
     US-based Viewers’, *Gigaom*, 24 September 2013,
-    [https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](stylesWithEffects.xml).
+    [https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
 
 [^17ElkinsUSA_15]: For more on the issues that attend geoblocking between the US and
     UK specifically, see Christine Becker, ‘Access is Elementary:
     Crossing Television’s Distribution Borders’, *FlowTV.org*, 13
     January 2014,
-    [http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](settings.xml).
+    [http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame).
 
 [^17ElkinsUSA_16]: Max Blumenthal, ‘Exclusive: Al Jazeera’s English Online US
     Broadcast to End with the Launch of Al Jazeera America’,
     *Mondoweiss*, 1 August 2013,
-    [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](webSettings.xml).
+    [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
