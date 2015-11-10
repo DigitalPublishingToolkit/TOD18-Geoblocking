@@ -272,12 +272,11 @@ Addtele), subscription VPNs (Private internet Access, HotSpotNordVPN,
 TigerVPN), and DNS proxies designed explicitly for unlocking offshore
 content (Unblock-US, Getflix).
 
-![](media/image1.png)
-
+![Figure 1: A VPN server selection menu](imgs/Lobato-Image1.png)
 *Figure 1: A VPN server selection menu*
 
-![](media/image2.png)
 
+![](imgs/Lobato-Image2.png)
 *Figure 2: VPN marketing highlights unblocking functions*
 
 Circumvention is a complex topic, because most technologies used for
