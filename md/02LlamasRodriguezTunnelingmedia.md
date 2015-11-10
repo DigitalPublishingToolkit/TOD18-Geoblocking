@@ -205,8 +205,9 @@ equipment. The exit point was sealed with material that made it seem
 like it was painted concrete, and there was a half-ton winch pulley
 system to hoist up goods up the vertical shaft.
 
-![](media/image1.jpeg)
-*Tunnel found in Otay Mesa, California, in 2011:
+![*Figure 1*Tunnel found in Otay Mesa, California, in 2011:
+dug through soil and sand. Source: U.S. Customs and Border Protection](imgs/RodriguezImage1.jpg)
+*Figure 1 Tunnel found in Otay Mesa, California, in 2011:
 dug through soil and sand. Source: U.S. Customs and Border Protection*
 
 The third type of tunnel is the interconnecting one, which is intended
@@ -247,9 +248,10 @@ types of soil across the entire area they wanted to surveil. These
 features mean that standardizing border tunneling detection highly
 costly and cumbersome, which explains why finding and shutting down
 these tunnels has been a slow process focused on one tunnel at a
-time.[^02LlamasRodriguezTunnelingmedia_15]![](media/image2.jpeg)
+time.[^02LlamasRodriguezTunnelingmedia_15]
 
-*Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection*
+![Figure 2 Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection](imgs/RodriguezImage2.jpg)
+*Figure 2 Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection*
 
 Tunneling online follows similar deflection techniques. Small-scale
 exploits, such as ad-blocking plugins or DNS proxies, capitalize on the

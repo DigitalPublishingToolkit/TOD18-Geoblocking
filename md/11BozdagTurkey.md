@@ -31,8 +31,9 @@ internet
 - 31%: Proportion of Turkish internet users who made online purchases in
 2014
 
-![](media/image1.png)
-
+![Figure 1: This image promoting DNS proxies circulated widely during the
+2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
+unknown)](imgs/BozdagImage1.png)
 *Figure 1: This image promoting DNS proxies circulated widely during the
 2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
 unknown)*
@@ -265,8 +266,9 @@ online for information about changing DNS settings. This can be seen in
 Table 1 below, which shows the use of the words DNS, VPN and *sansür*
 (censorship) on Twitter during the first days of the blocks in Turkey.
 
-![](media/image2.png)
-
+![Figure 2: During the March 2014 Twitter ban, a global search of tweets
+shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
+both prominent terms.](imgs/BozdagImage1.png)
 *Figure 2: During the March 2014 Twitter ban, a global search of tweets
 shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
 both prominent terms.*

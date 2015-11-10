@@ -276,7 +276,7 @@ content (Unblock-US, Getflix).
 *Figure 1: A VPN server selection menu*
 
 
-![](imgs/Lobato-Image2.png)
+![Figure 2: VPN marketing highlights unblocking functions](imgs/Lobato-Image2.png)
 *Figure 2: VPN marketing highlights unblocking functions*
 
 Circumvention is a complex topic, because most technologies used for

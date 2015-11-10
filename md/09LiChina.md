@@ -277,9 +277,9 @@ accessed on YouTube), the phenomenon continued in countless Internet
 memes, video games, toys, and even clothing lines that all referenced
 the lovely animal.
 
-![](media/image1.png)
-
-Fig 1: *The Grass Mud Horse became a popular expression of resistance to
+![Figure 1 The Grass Mud Horse became a popular expression of resistance to
+internet censorship source: (CC BY-SA 2.0/chumsdock)](imgs/Li-image1.png)
+*Figure 1 The Grass Mud Horse became a popular expression of resistance to
 internet censorship source: (CC BY-SA 2.0/chumsdock)*
 
 Equally provocative is the animation series *Kuang Kuang*, which was

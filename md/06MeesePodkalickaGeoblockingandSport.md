@@ -245,9 +245,8 @@ However, industry professionals tend to see these services as ‘an
 irritation’, an issue we will discuss later in this chapter, because
 unlike live sport, there is a limited audience for delayed content.[^06MeesePodkalickaGeoblockingandSport_8]
 
-![](media/image1.png)
-
-Figure 1: *Highlights aggregated by footytube.com from youtube.com. The
+![Figure 1 Highlights aggregated by footytube.com from youtube.com. The YouTube account associated with this footage has since been terminated](imgs/MeesePodkalicka-Image1.png)
+*Figure 1 Highlights aggregated by footytube.com from youtube.com. The
 YouTube account associated with this footage has since been terminated*.
 
 ####Conventional circumvention tools####

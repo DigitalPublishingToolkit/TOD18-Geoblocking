@@ -21,9 +21,11 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ###Roland Burke###
 
-![](media/image1.tiff)
-
-Fig. 1: *Drawing the Borders: Detail of the original Sega Megadrive
+![figure 1 Drawing the Borders: Detail of the original Sega Megadrive
+design schematic, with the assorted cartridge slot shapes indicated.
+Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
+Works, n.p: Read Only Memory, 2014.](imgs/Burke-Image1.jpg)
+*figure 1 Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
 Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
 Works, n.p: Read Only Memory, 2014.*
@@ -191,14 +193,14 @@ hole in the geo-fence; for the Super Nintendo, it required a ‘native’
 regional escort providing a fleeting moment of diplomatic cover. In both
 cases, the breech was easily and cheaply made.
 
-![](media/image2.jpeg)
-
-Figure 2. *The Japanese Megadrive cartridge with its infuriating rounded
+![Figure 2 The Japanese Megadrive cartridge with its infuriating rounded
+edge. The owner is mere millimetres away from fun. Image: Roland Burke](imgs/Burke-Image2.jpg)
+*Figure 2 The Japanese Megadrive cartridge with its infuriating rounded
 edge. The owner is mere millimetres away from fun. Image: Roland Burke.*
 
-![](media/image3.JPG)
-
-Figure : *The localized Australian Megadrive cartridge, with its
+![Figure 3 The localized Australian Megadrive cartridge, with its
+distinctive curved spline. Image: Roland Burke.](imgs/Burke-Image3.jpg)
+*Figure 3 The localized Australian Megadrive cartridge, with its
 distinctive curved spline. Image: Roland Burke.*
 
 Circumvention was not a procedure undertaken without considerable

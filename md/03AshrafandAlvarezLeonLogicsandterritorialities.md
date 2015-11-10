@@ -297,11 +297,13 @@ which geoblocking produces a broad range of territorialities which
 transcend attempts to understand the internet through an open/closed
 binary perspective.
 
-![](media/image1.jpg)
-
-Fig 1: Source: States are enforcing their territorial boundaries online
+![Figure 1: Source: States are enforcing their territorial boundaries online
 and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)
+sovereignty (Nicolas Sanson/Wikimedia Commons)](imgs/AshrafImage1.jpg)
+
+*Figure 1: Source: States are enforcing their territorial boundaries online
+and in doing so adapt existing notions of territory, borders, and
+sovereignty (Nicolas Sanson/Wikimedia Commons)*
 
 ## Markets
 
@@ -510,7 +512,7 @@ information markets. This requires considerable maneuvering and
 negotiation between judicial systems, technology firms, content
 providers, business strategies and consumer demands.
 
-### Conclusion
+## Conclusion
 
 Different actors have different territorial logics through which the
 internet is envisioned and created. Certain actors, such as states and

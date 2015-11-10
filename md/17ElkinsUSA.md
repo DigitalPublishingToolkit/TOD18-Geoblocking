@@ -53,9 +53,8 @@ an escape from NBC’s jingoistic slant. Upon navigating to that platform,
 however, Americans found this message: ‘BBC iPlayer TV programmes are
 available to play in the UK only’.
 
-![](media/image1.png)
-
-Fig 1: An example of geoblocked content on BBC iPlayer
+![Figure 1 An example of geoblocked content on BBC iPlayer](imgs/ElkinsGeoblocking1.png)
+*Figure 1 An example of geoblocked content on BBC iPlayer*
 
 In these moments, US residents confronted an experience of transnational
 viewing with which many around the world were already familiar. Viewers

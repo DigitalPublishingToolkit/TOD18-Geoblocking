@@ -189,19 +189,19 @@ event a submenu appears (Fig. 2), listing the diverse live streams
 available. The streams are sorted by resolution, quality, data transfer
 rate, and language of the commentary.
 
-![](media/image1.png)
-
-Fig. 1. *Categories displayed on the starting page of the streaming
+![Figure 1 Categories displayed on the starting page of the streaming
+aggregation platform Stream2watch.me.](imgs/Hoof-Image1.png)
+*Figure 1 Categories displayed on the starting page of the streaming
 aggregation platform Stream2watch.me.*
 
-![](media/image2.png)
-
-Fig. 2. *Live stream selection submenu of a streaming aggregation
+![Figure 2 Live stream selection submenu of a streaming aggregation
+platform.](imgs/Hoof-Image2.png)
+*Figure 2 Live stream selection submenu of a streaming aggregation
 platform.*
 
-![](media/image3.tif)
-
-Fig. 3. *Variable quality, freezing and signal disruption are persistent
+![Figure 3 Variable quality, freezing and signal disruption are persistent
+risks when live-streaming sport.](imgs/Hoof-Image3.png)
+*Figure 3 Variable quality, freezing and signal disruption are persistent
 risks when live-streaming sport.*
 
 Streams available for the German Bundesliga are either pirated coverage
@@ -225,9 +225,9 @@ notices. URLs for streaming aggregation platforms change frequently, and
 platforms often disappear then reappear with a slightly different
 address.
 
-![](media/image4.tif)
-
-Fig. 4. *Malware is a common security hazard people have to negotiate
+![Figure 4 Malware is a common security hazard people have to negotiate
+when using streaming platforms](imgs/Hoof-Image4.png)
+*Figure 4 Malware is a common security hazard people have to negotiate
 when using streaming platforms*
 
 There is also the risk that there are no streams available at all, or

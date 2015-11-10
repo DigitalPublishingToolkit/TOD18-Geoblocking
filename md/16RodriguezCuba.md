@@ -264,9 +264,8 @@ have implemented feedback mechanisms to cater to their customers’
 demand, user involvement in the selection of programming usually happens
 only during the final stage of street-level distribution.[^16RodriguezCuba_17]
 
-![](media/image1.png)
-
-*Fig. 1. An example of a paquete*
+![Figure 1 An example of a paquete](imgs/Rodriguez-Image1.png)
+*Figure 1 An example of a paquete*
 
 Distribution of the *paquete* is typically carried out discreetly, often
 through licensed streetside DVD vendors or private photocopying and
@@ -295,9 +294,9 @@ compilation created by government-linked cultural organizations,
 offering a selection of pirated ‘quality’ content, including movies and
 TV series.
 
-![](media/image2.jpeg)
-
-*Fig. 2. A private photocopying and printing business in Havana openly
+![Figure 2 A private photocopying and printing business in Havana openly
+advertises pirated videos. Photo: Fidel A. Rodriguez](imgs/Rodriguez-Image2.png)
+*Figure 2 A private photocopying and printing business in Havana openly
 advertises pirated videos. Photo: Fidel A. Rodriguez*
 
 The spread of *paquete* distribution has also led to the development of
@@ -334,9 +333,9 @@ informally regulated, and has become a source of controversy within the
 community. Inappropriate downloading behavior can lead to a user being
 temporarily ‘banned’ through IP address blocking.
 
-![](media/image3.png)
-
-*Fig. 3. A Game of Thrones file transfer on an informal wireless
+![Figure 3 A Game of Thrones file transfer on an informal wireless
+network](imgs/Rodriguez-Image3.png)
+*Figure 3 A Game of Thrones file transfer on an informal wireless
 network*
 
 The network is also used to check the scores of European football league
@@ -399,9 +398,8 @@ mediascape is nonetheless full of emergent forms of digital video
 consumption and communication that make efficient use of limited
 infrastructure.
 
-![](media/image4.png)
-
-*Fig. 4. A VPN advertisement in Revolico.com*
+![Figure 4 A VPN advertisement in Revolico.com](imgs/Rodriguez-Image3.png)
+*Figure 4 A VPN advertisement in Revolico.com*
 
 ## The future
 

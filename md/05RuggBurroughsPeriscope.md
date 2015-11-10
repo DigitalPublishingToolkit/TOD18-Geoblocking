@@ -123,9 +123,12 @@ of networked individuals to not only redistribute copyrighted content
 from their television screens, but straight from the source as
 well.[^05RuggBurroughsPeriscope_13]
 
-![](media/image1.jpeg)
+![Figure 1 The live-streaming app Periscope allows individuals to
+distribute and consume content in new ways that circumvent existing
+corporate and state media infrastructures Source: (CC BY 2.0/Anthony
+Quintano)](imgs/BurroughsRugg-Image1.jpg)
 
-Fig. 1: *The live-streaming app Periscope allows individuals to
+*Figure 1 The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
 corporate and state media infrastructures Source: (CC BY 2.0/Anthony
 Quintano)*

@@ -312,9 +312,8 @@ name, which is a wordplay on *anonym*, the Swedish version of
 *anonymous*), in addition to multiple uses of related terms like ‘safe’
 or ‘secure.’ This, of course, is hardly a coincidence.
 
-![](media/image1.png)
-
-*Fig. 1: The website of Anonine, a popular Swedish VPN provider.*
+![Figure 1 The website of Anonine, a popular Swedish VPN provider.](imgs/BaumannImage1.png)
+*Figure 1 The website of Anonine, a popular Swedish VPN provider.*
 
 Another reason for Anonine’s popularity among Swedish Internet users is
 the company’s “local” brand. Swedes tend to be loyal to homegrown

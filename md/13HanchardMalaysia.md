@@ -113,9 +113,10 @@ strictly following Malaysian censorship restrictions. This of course
 could change as a result of greater scrutiny by the authorities if there
 is mainstream adoption of iFlix.
 
-![](media/image1.jpeg)
-
-Fig 1: *iFlix launched in Malaysia and Philippines in May 2015, as an
+![Digure 1 iFlix launched in Malaysia and Philippines in May 2015, as an
+equivalent service to Netflix. It provides access to both global and
+local content, including well-loved Malaysian film genres.](imgs/Hanchard_image1.jpeg)
+*Digure 1 iFlix launched in Malaysia and Philippines in May 2015, as an
 equivalent service to Netflix. It provides access to both global and
 local content, including well-loved Malaysian film genres.*
 

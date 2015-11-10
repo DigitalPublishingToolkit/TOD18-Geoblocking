@@ -1,11 +1,27 @@
-**Iran: A Friction between State Ideology and Network Society **
+---
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 18
+Type (formerly called Item): book 
+Book-type: anthology
+Anthology item: article
+Item-id: 
+Article-title: Geoblocking and Global Video Culture
+Article-status: accepted
+Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
+Author-bio:
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+...
 
-*Hadi Sohrabi*
+#Iran: A Friction between State Ideology and Network Society
 
+###Hadi Sohrabi###
 *Swinburne University of Technology*
 
-*Behzad Dowran*
-
+###Behzad Dowran###
 *Iranian Research Institute for Information Science & Technology
 (IranDoc)*
 
@@ -83,7 +99,7 @@ satellite television, the technologies that have generated significant
 political and cultural conflicts in Iran and created video cultures
 outside official channels.
 
-***Satellite Television: a New Video Culture***
+##Satellite Television: a New Video Culture
 
 To understand Internet circumvention in Iran, we must take a step back
 to consider an earlier kind of unauthorised media. Since the 1990s,
@@ -109,7 +125,7 @@ abseiled down the sides of tall buildings in search of dishes. These
 methods have largely been futile because the dishes have soon reappeared
 on rooftops. These familiar cat-and-mouse games have been memorably
 depicted in Iranian movies such as Parisa Bakhtavar’s *Tambourine* and
-Abdolreza Kahani’s *Absolute Rest*^.^
+Abdolreza Kahani’s *Absolute Rest*.
 
 The state has also employed more sophisticated and effective methods
 such as satellite jamming. Powerful noise signals are sent directly to
@@ -141,14 +157,14 @@ have managed to reach out to viewers and help create a video culture
 very different from the ideologically-fuelled one promoted by the state
 television.
 
-***A *Halal* Internet***
+##A Halal Internet
 
 Statistics on the number of Iranian internet users are inconsistent.
 While the Iranian government counts about 40 million internet users out
 of a population of 75 million, the World Bank estimates the number to be
-around 23 million[^3]. The Iranian Minister of Culture and Islamic
+around 23 million.[^3] The Iranian Minister of Culture and Islamic
 Guidance, Ali Jannati, reported that 9.5 million Iranians use Viber and
-4 to 5 million use Facebook[^4]. Although the Universal Declaration of
+4 to 5 million use Facebook.[^4] Although the Universal Declaration of
 Human Rights considers everyone entitled ‘to seek, receive and impart
 information and ideas through any media and regardless of frontiers’,
 Iran, which is a signatory, has blocked social media sites such as
@@ -167,7 +183,7 @@ censorship through monitoring, tracking and blocking internet traffic.
 Lastly, internet activists and developers are arrested and connections
 are throttled during political turmoils.[^5]
 
-![](media/image1.png)
+![](imgs/iran.png)
 
 Fig. 1: Iranian internet users see this government notice when trying to
 access blocked websites. It reads: “Access to the requested website is
@@ -219,7 +235,7 @@ arsenal was overtaken by a computer virus, thus highlighting the
 perceived threat posed by foreign, unauthorised digital technologies to
 the Iranian state.
 
-***Internet Circumvention Tools***
+##Internet Circumvention Tools
 
 Despite government restrictions, users often find ways to get around
 internet censorship. In a survey conducted by Iran’s Ministry of Youth
@@ -253,7 +269,7 @@ users.[^13] Other surveys have also reported the widespread use of the
 web proxy service Hotspot Shield and Psiphon3, a peer-to-peer VPN app
 for Android and Windows.[^14] As of 2013, Psiphon claimed to have
 700,000 to 900,000 daily unique users in Iran. This number is now
-believed to have surpassed one million[^15].
+believed to have surpassed one million.[^15]
 
 Small Media reports that the terrain of Internet circumvention is
 increasingly shifting to mobile, with the most popular tools having
@@ -267,7 +283,7 @@ has been widely used since 2009; due to its small size (1 MB), users
 with low speed connection can download it easily. It is also free. This
 software has been recently used by Syrian dissidents.[^16]
 
-***The Political Context of Circumvention***
+##The Political Context of Circumvention
 
 Despite common perceptions, most Iranians do not go online specifically
 in search of ‘forbidden’ political material; rather they wish to ‘live
@@ -300,7 +316,7 @@ much as internet speed. Authorities have kept the speed extremely slow
 as a deliberate method to frustrate users and discourage them from
 downloading photos and videos. Based on nationwide regulations, ISPs are
 permitted to provide speed connection only up to 128 kbps to home users,
-which is 50 times slower than the internet speed in the US[^17].
+which is 50 times slower than the internet speed in the US.[^17]
 Academics and professionals could receive higher speed up to 512 kbps
 and in special circumstances up to 2 mbps. As mentioned earlier, the
 government attempt at providing higher speed 3G and 4G licences to
@@ -312,7 +328,7 @@ reveals their concerns about the cultural impact of the free internet
 and the potential rise of a video culture that could jeopardise their
 cherished values.
 
-***Future Trends ***
+##Future Trends 
 
 The Islamic Republic of Iran has struggled to maintain and strengthen
 cultural sovereignty within its borders. By establishing numerous
@@ -337,7 +353,7 @@ censorship. While Twitter is blocked in Iran, Rouhani’s Twitter account
 has over 330,000 followers. Zarif, the foreign minister, actively tweets
 about Iran’s foreign policy issues. Rouhani has called internet
 filtering ‘futile’, saying: ‘We cannot close the gates of the world to
-our young generation’[^18]. Despite these positive signs, as far as
+our young generation’.[^18] Despite these positive signs, as far as
 media censorship is concerned, Rouhani’s discretion is limited. The
 decision-making bodies are supra-governmental and mostly controlled by
 the conservatives. The Supreme Council of Cyberspace (SCC), which is the
@@ -364,70 +380,70 @@ to actively resist pressure from the western-controlled global media in
 order to maintain the existing media communication boundaries in the
 foreseeable future.
 
-**References**
+##References
 
 Bowen, Kyle and James Marchant. ‘Internet Censorship in Iran:
 Preventative, Interceptive, and reactive, *Small Media report:
 Revolution Decoded*, 2014, p.26,
-http://smallmedia.org.uk/revolutiondecoded/.
+[http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
 
 Derakhshesh, Setareh. ‘Breaking the Law to Go Online in Iran’, New York
 Times, 24 June 2014,
-http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html.
+[http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
 
 Erdbrink, Thomas. ‘Tehran Unfetters Cellphones, and the Pictures Start
 Flowing’, *The New York Times*, 2 September 2014,
-http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html.
+[http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
 
 Freedom House. ‘Country Report for End Users in Iran’, 2011,
-https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf.
+[https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
 
 Iranian Student News Agency. ‘69 Per Cent of Iranian Youth Use
 Anti-Filtering, According to the Findings of a New Survey’, 27 April
-2015, http://isna.ir/fa/news/93061710204.
+2015, [http://isna.ir/fa/news/93061710204](http://isna.ir/fa/news/93061710204).
 
 Iran’s Internet Penetration Management Portal. Penetration Rate Report,
-2014, http://www.iriu.ir/matma/;.
+2014, [http://www.iriu.ir/matma/;](http://www.iriu.ir/matma/;).
 
 Kamali-Dehghan, Saeed. ‘Iran’s President Signals Softer Line on Web
 Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
-http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views.
+[http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
 
 Karami, Arash. ‘Iran Cleric Explains He’s Not Opposed to “Filtered” 3G
 Phones’, *Almonitor*, 1 September 2014,
-http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#.
+[http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
 
 Lee, Timothy B. ‘Here’s How Iran Censors the Internet’, *The Washington
 Post*, 15 August 2015,
-https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/.
+[https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
 
 Mehr News Agency. ‘9.5 Million Viber Users in Iran’, 5 Feb 2015,
-http://www.mehrnews.com/news/.
+[http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
 
 Mohabbat-Kar Resa and Hausdorf Nicolas. ‘Internet Freedom, Snapshot of
 the Case of Iran’, *Transparency for Iran*, 2010,
-http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf.
+[http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf).
 
 O’Neill, Patrick Howell. ‘The Big Money Behind Iran’s Internet
 Censorship’, 22 Feb 2015,
-http://www.dailydot.com/politics/iran-censorship-circumvention-tech/.
+[http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
 
 Pizzi, Michael. ‘Iran Government Minister: Media Bans May Seem
 “Laughable” in 5 Years’, Aljazeera America, 19 Dec 2013,
-http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html.
+[http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
 
 Rhoads, Christopher and Farnaz Fassihi. ‘Iran Vows to Unplug Internet’,
 *Wall Street Journal*, 28 May 2011,
-http://www.wsj.com/articles/SB10001424052748704889404576277391449002016.
+[http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
 
-Small Media. http://www.smallmedia.org.uk/.
+Small Media. [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
 
 The Citizen Lab. ‘Iranian Anti-Censorship Software “Simurgh” Circulated
 with Malicious Backdoor’, 25 May 2015,
-https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/.
+[https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
 
 The World Bank. Internet Users by Country, 2014,
-http://data.worldbank.org/indicator/IT.NET.USER.P2.
+[http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
 
 [^1]: ‘New Ahangaran’ means, a new eulogy from Sadegh Ahangaran, an
     iconic eulogist during Iran-Iraq war in the 1980s. His performance
@@ -435,53 +451,53 @@ http://data.worldbank.org/indicator/IT.NET.USER.P2.
 
 [^2]: Setareh Derakhshesh, Breaking the Law to go Online in Iran, *New
     York Times*, 24 June 2014,
-    http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html.
+    [http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
 
 [^3]: Iran’s Internet Penetration Management Portal, 2014, Penetration
-    Rate Report, 2014, http://www.iriu.ir/matma/; The World Bank,
+    Rate Report, 2014, [http://www.iriu.ir/matma/](http://www.iriu.ir/matma/); The World Bank,
     Internet users by country, 2014,
-    http://data.worldbank.org/indicator/IT.NET.USER.P2.
+    [http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
 
 [^4]: Mehr News Agency, ‘9.5 Million Viber users in Iran’, 5 Feb 2015,
-    http://www.mehrnews.com /news/.
+    [http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
 
 [^5]: Kyle Bowen and James Marchant, ‘Internet Censorship in Iran:
     Preventative, Interceptive, and reactive’, *Small Media report:
     Revolution decoded*, 2014, p.26,
-    http://smallmedia.org.uk/revolutiondecoded/.
+    [http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
 
 [^6]: Thomas Erdbrink, ‘Tehran unfetters cell phones, and the pictures
     start flowing’, *The New York Times*, 2 September 2014,
-    http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html.
+    [http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
 
-[^7]: Small Media, http://www.smallmedia.org.uk/.
+[^7]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
 
 [^8]: Christopher Rhoads and Farnaz Fassihi, ‘Iran vows to unplug
     internet’, *Wall Street Journal*, 28 May 2011,
-    http://www.wsj.com/articles/SB10001424052748704889404576277391449002016.
+    [http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
 
 [^9]: Iranian Student News Agency, 69 Per cent of Iranian Youth use
     Anti-filtering, According to the Findings of a New Survey, 27 April
-    2015, http://isna.ir/fa/news/.
+    2015, [http://isna.ir/fa/news/](http://isna.ir/fa/news/).
 
-[^10]: Small Media, http://smallmedia.org.uk/.
+[^10]: Small Media, [http://smallmedia.org.uk/](http://smallmedia.org.uk/).
 
 [^11]: Saeed Kamali-Dehghan, ‘Iran’s President Signals Softer Line on
     Web Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
-    http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views.
+    [http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
 
 [^12]: Freedom House, ‘Country Report for End Users in Iran’, 2011,
-    https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf.
+    [https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
 
-[^13]: Small Media, http://www.smallmedia.org.uk/.
+[^13]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
 
 [^14]: Patrick Howell O’Neill, ‘The Big Money Behind Iran’s Internet
     Censorship’, *The Daily Dot,* 22 Feb 2015,
-    http://www.dailydot.com/politics/iran-censorship-circumvention-tech/.
+    [http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
 
 [^15]: Resa Mohabbat-Kar and Nicolas Hausdorf, ‘Internet Freedom,
     Snapshot of the Case of Iran’, *Transparency for* *Iran*, 2010,
-    http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf,
+    [http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf),
     p.45.
 
 [^16]: It was recently announced that a malicious copy of this software
@@ -489,16 +505,16 @@ http://data.worldbank.org/indicator/IT.NET.USER.P2.
     information on the infected computer. See: The Citizen Lab, ‘Iranian
     Anti-Censorship Software “Simurgh” Circulated with Malicious
     Backdoor’, 25 May 2015,
-    https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/.
+    [https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
 
 [^17]: Timothy B. Lee, ‘Here’s How Iran Censors the Internet’, *The
     Washington Post*, 15 August 2015,
-    https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/.
+    [https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
 
 [^18]: Arash Karami, ‘Iran Cleric Explains He’s Not Opposed to
     “Filtered” 3G Phones, *Almonitor*, 1 September 2014,
-    http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#.
+    [http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
 
 [^19]: Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem
     “laughable” in 5 years’, Aljazeera America, 19 Dec 2013,
-    http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html.
+    [http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).

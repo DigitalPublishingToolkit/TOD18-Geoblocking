@@ -70,9 +70,11 @@ regulation. The three stages will likely begin at different times in
 different countries, industries, and contexts, but will eventually
 overlap and thereafter develop concurrently.
 
-![](imgs/image1.jpeg)
+![Figure 1: Geoblocking has a complicated relationship with national legal
+systems but it is starting to be increasingly recognized as a useful
+tool for legal compliance. Source: (CC BY 2.0/Karen Roe)](imgs/TrimbleImage1.jpg)
 
-Fig 1: *Geoblocking has a complicated relationship with national legal
+*Figure 1: Geoblocking has a complicated relationship with national legal
 systems but it is starting to be increasingly recognized as a useful
 tool for legal compliance. Source: (CC BY 2.0/Karen Roe)*
 
@@ -532,7 +534,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
 [^04TrimbleGeoblockingandEvasion_14]: Michael Geist, ‘Nobody’s Perfect: Leaked Contract Reveals Sony
     Requires Netflix to Geo-Block But Acknowledges Technology is
     Imperfect’, Michael Geist’s blog, 17 April 2015,
-    http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/.
+    [http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/](http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/).
 
 [^04TrimbleGeoblockingandEvasion_15]: *Id.*
 
@@ -554,15 +556,15 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
 [^04TrimbleGeoblockingandEvasion_21]: For example, Liana B. Baker and Yinka Adegoke, ‘Olympics Fans
     Find Ways to Circumvent NBC’s Online Control’, *Reuters*, 31 July
     2012,
-    http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731;
+    [http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731](http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731);
     Aaron Gell, ‘Reinventing the Web: A New App Lets You Watch Whatever
     TV Program You Want, Including the Olympics, Anywhere in the World’,
     *Business Insider*, 25 January 2014,
-    http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1.
+    [http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1](http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1).
 
 [^04TrimbleGeoblockingandEvasion_22]: Nutzungsbedingunen für die Nutzung des Videoportals von Sat.1, §
     4.1(g),
-    http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1.
+    [http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1](http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1).
 
 [^04TrimbleGeoblockingandEvasion_23]: Trimble, *supra* note 3.
 
@@ -577,7 +579,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
 
 [^04TrimbleGeoblockingandEvasion_27]: Jeremy Kirk, ‘Geoblocking Question Unresolved After New Zealand
     Lawsuit Ends’, PCWorld, 23 June 2015,
-    http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html.
+    [http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html](http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html).
 
 [^04TrimbleGeoblockingandEvasion_28]: *Supra* note 30.
 
@@ -595,7 +597,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
     Commerce, 16 September 2013. *See also* Marketa Trimble, Local
     Hosting and the Draft “Trade in Services Agreement”, Technology &
     Marketing Law Blog, 22 September 2015,
-    http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm.
+    [http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html](http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html).
 
 [^04TrimbleGeoblockingandEvasion_33]: For example General Agreement on Trade in Services, Article
     XIV(a); North American Free Trade Agreement, Chapter 21; Treaty on
