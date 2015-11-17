@@ -22,19 +22,15 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ###Vanessa Mendes Moreira de Sa
 
 
-*BRAZIL*
-
-60%: Proportion of the total population in Brazil that has access to the
+####DATA BOX{.statbox}
+- 60%: Proportion of the total population in Brazil that has access to the
 internet
-
-37th: Netflix is the 37^th^ most visited website in Brazil (Alexa
+- 37th: Netflix is the 37^th^ most visited website in Brazil (Alexa
 ranking)
+- 2.2 million: Estimated number of subscribers to Netflix Brazil
+- 38%: Proportion of VPN users from Brazil who have accessed the US Netflix in December 2014
 
-2.2 million: Estimated number of subscribers to Netflix Brazil
-
-38%: Proportion of VPN users from Brazil who have accessed the US
-Netflix in December 2014
-
+####
 From late 2014, the ‘news’ that Netflix had started to block anonymous
 or unidentified IP addresses spread all over the internet. The overall
 reaction from Brazilians who used location-masking practices presented

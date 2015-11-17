@@ -21,16 +21,15 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ###Çiğdem Bozdağ###
 
+####DATABOX{.statbox}
 - 54%: Proportion of the Turkish population who have access to the
 internet
-
 - 60TL (US\$20): Monthly cost for a 50/mbit fiber connection
-
 - 94%: Proportion of mobile phone subscribers in Turkey
-
 - 31%: Proportion of Turkish internet users who made online purchases in
 2014
 
+####
 ![Figure 1: This image promoting DNS proxies circulated widely during the
 2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
 unknown)](imgs/BozdagImage1.png)

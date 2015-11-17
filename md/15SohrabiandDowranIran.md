@@ -25,27 +25,18 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 *Iranian Research Institute for Information Science & Technology
 (IranDoc)*
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  PULL QUOTES
+  
+####DATA BOX{.statbox}
+- 75 million: total population
+- 23 million: estimated number of internet users
+- 69 %: percentage of internet users who use circumvention tools
+- 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
+  
+President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
 
-  President Rouhani: ‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
+(Images)A government notice for blocked websites
 
-  DATA BOX
-
-  75 million: total population
-
-  23 million: estimated number of internet users
-
-  69 %: percentage of internet users who use circumvention tools
-
-  330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
-
-  IMAGES
-
-  A government notice for blocked websites
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+####
 The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
 rise of audio-visual black markets after the 1979 Islamic revolution.
 Losing his music store during Islamization, our protagonist Salim starts

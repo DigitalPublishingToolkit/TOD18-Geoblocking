@@ -21,6 +21,10 @@ Rights: CC BY-NC 4.0
 
 ###Jinying Li###
 
+ ####DATA BOX{.statbox}- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
+'*If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’*' – Murong Xuecun, Writer, in 2015
+
+####
 The Great Firewall (GFW) is one of the most sophisticated and effective
 Internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a

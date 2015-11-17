@@ -21,6 +21,15 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ###Ramon Lobato and James Meese###
 
+
+####DATA BOX{.statbox}
+- 18%: proportion of Australians who use VPNs or proxies to access the
+internet
+- 200,000: estimated number of unauthorised Netflix subscribers in
+Australia, as of late 2014
+- \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
+- \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
+
 ***PULL QUOTES***
 
 *‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
@@ -28,24 +37,11 @@ when you go online ... I know that ... anyway, I won’t go on.’* –
 Australia’s former Minister for Communications (and current Prime
 Minister), Malcolm Turnbull, in 2014
 
-***DATA BOX***
-
-**18%**: proportion of Australians who use VPNs or proxies to access the
-internet
-
-**200,000**: estimated number of unauthorised Netflix subscribers in
-Australia, as of late 2014
-
-**\$25- \$134:** Monthly cost of a Foxtel pay-TV subscription, in A\$
-
-**\$15-\$20:** Monthly cost of a US Netflix subscription and VPN, in A\$
-
-***IMAGES ***
-
+IMAGES 
 McTivia
-
 Malcolm Turnbull
 
+####
 Over the last decade Australia has become an unlikely hotspot of
 circumvention activity. Frustrated by the high cost and slow delivery of
 first-release TV and movies from the United States – and by their own

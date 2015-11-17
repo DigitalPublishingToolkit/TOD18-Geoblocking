@@ -21,25 +21,20 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ###Fidel A. Rodriguez###
 
-**DATA BOX**
-
-30%: Proportion of Cubans aged 16-54 who have access to the Internet
-
-\$2: Hourly cost for a 100 Mbit/s fiber connection in CUC/USD
-
-0%: Proportion of internet users who made online purchases in 2014 from
+####DATA BOX {.statbox}
+- 30%: Proportion of Cubans aged 16-54 who have access to the Internet
+- \$2: Hourly cost for a 100 Mbit/s fiber connection in CUC/USD
+- 0%: Proportion of internet users who made online purchases in 2014 from
 Cuban accounts
-
-0%: Proportion of internet users who paid for a video streaming service
+- 0%: Proportion of internet users who paid for a video streaming service
 in 2014 from Cuban accounts
 
-**QUOTES**
-
-“Starting today, people in Cuba with Internet connections and access to
+*“Starting today, people in Cuba with Internet connections and access to
 international payment methods will be able to subscribe to Netflix and
-instantly watch a curated selection of popular movies and TV shows.” –
+instantly watch a curated selection of popular movies and TV shows.”* –
 Netflix press release, 9 February 2015
 
+####
 Havana, January 2015. A young reggaeton singer is detained by the police
 in a luxurious house on the outskirts of the city. The arrest is quickly
 reported in foreign news media outlets, with Reuters first breaking the

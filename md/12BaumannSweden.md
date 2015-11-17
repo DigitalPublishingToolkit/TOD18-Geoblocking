@@ -19,8 +19,12 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Sweden: Circumvention and the Quest for Privacy
 
-###Chris Baumann###
+###Chris Baumann
 
+####DATA BOX{.statbox}- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
+*‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013‘*We believe that the time is ripe for everyone to start using VPN services*’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014IMAGESScreenshot Anonine
+
+####
 In mid-October 2012, Netflix flew its top three executives, co-founder
 and CEO Reed Hastings, Chief Product Officer Neil Hunt, and Chief
 Content Officer Ted Sarandos over to Sweden to have cocktails with a

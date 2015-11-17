@@ -17,28 +17,25 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ...
 
 
-# Malaysia: Global Binge-Viewing in a Restrictive State\
+# Malaysia: Global Binge-Viewing in a Restrictive State
 
 ###Sandra Hanchard###
 
-*Pull Quotes:*
+
+
+####DATABOX{.statbox}
+- 80%: Proportion of Malaysian internet users who stream or download
+video at least once a month[^13HanchardMalaysia_2]
+- 5.48 Mbps: Average internet speed[^13HanchardMalaysia_3]
+- 140%: Mobile penetration rate, of which 35% are smartphones[^13HanchardMalaysia_4]
+- RM8 (US\1.86): Monthly cost of an iFlix annual subscription
 
 *“iflix will fight entertainment piracy and provide an entirely new and
 legitimate way for the region’s hundreds of millions of Internet users
 to enjoy their favourite films and television shows.” -* Press release
 from Catcha Group’s iFlix, March 2015.[^13HanchardMalaysia_1]
 
-*Data Box:*
-
-**80%**: Proportion of Malaysian internet users who stream or download
-video at least once a month[^13HanchardMalaysia_2]
-
-**5.48 Mbps**: Average internet speed[^13HanchardMalaysia_3]
-
-**140%**: Mobile penetration rate, of which 35% are smartphones[^13HanchardMalaysia_4]
-
-RM8 (US\1.86): Monthly cost of an iFlix annual subscription
-
+####
 Internet circumvention practices in Malaysia are driven by two factors –
 the desire for global video content, and the need to avoid surveillance
 by local authorities. The population’s growing interest in digital

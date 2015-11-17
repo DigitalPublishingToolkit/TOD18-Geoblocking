@@ -24,7 +24,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ![figure 1 Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
 Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014.](imgs/Burke-Image1.jpg)
+Works, n.p: Read Only Memory, 2014.](imgs/Burke-Image0.png)
 *figure 1 Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
 Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
