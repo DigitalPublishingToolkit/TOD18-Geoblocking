@@ -65,83 +65,44 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-<a href="ch004.xhtml">Introduction: The new video geography</a><br/>
+<a href="ch001.xhtml">Introduction: The new video geography</a><br/>
+*Ramon Lobato, Swinburne University of Technology*<br/>
 
-Ramon Lobato, Swinburne University of Technology
+####PERSPECTIVES ON GEOBLOCKING
 
-****Section One: PERSPECTIVES ON GEOBLOCKING****
+<a href="ch002.xhtml">Tunnelling media: Geoblocking and online border resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
 
-**2 Tunnelling media: Geoblocking and online border resistance**
+<a href="ch003.xhtml">The logics and territorialities of geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León, UCLA*<br/>
 
-Juan Llamas-Rodriguez, University of California, Santa Barbara
+<a href="ch004.xhtml">Geoblocking, technical standards and the law</a><br/>*Marketa Trimble, University of Nevada, Las Vegas*<br/>
 
-**3 The logics and territorialities of geoblocking**
+<a href="ch005.xhtml">Periscope, live streaming and mobile video culture</a><br/>*Adam Rugg, University of Iowa, and Ben Burroughs, University of Nevada, Las Vegas*
 
-> Cameran Ashraf, UCLA\
-> Luis Felipe Alvarez León, UCLA
+<a href="ch006.xhtml">Geoblocking and sport: Circumvention practices and the emergence of
+vernacular video cultures</a><br/>*James Meese, University of Technology Sydney, and Aneta Podkalicka, Swinburne University of Technology*
 
-**4 Geoblocking, technical standards and the law**
+<a href="ch007.xhtml">Live sports, piracy and uncertainty: Understanding illegal streaming
+aggregation platforms</a><br/>*Florian Hoof, Frankfurt University*
 
-Marketa Trimble, University of Nevada, Las Vegas 
+<a href="ch008.xhtml">The future in a vault of plastic: Physical geolocking in the era of the 16-bit video game cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
 
-**5 Periscope, live streaming and mobile video culture**
+####CIRCUMVENTION CASE STUDIES<br/>
 
-> Adam Rugg, University of Iowa\
-> Ben Burroughs, University of Nevada, Las Vegas
+<a href="ch009.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
 
-**6 Geoblocking and sport: Circumvention practices and the emergence of
-vernacular video cultures**
+<a href="ch010.xhtml">Australia: Circumvention goes mainstream</a><br/>*Ramon Lobato and James Meese, SUT*
 
-> James Meese, University of Technology Sydney\
-> Aneta Podkalicka, Swinburne University of Technology
+<a href="ch011.xhtml">11 Turkey: Coping with internet censorship</a><br/>*Çiğdem Bozdağ, Kadir Has University*
 
-**7 Live sports, piracy and uncertainty: Understanding illegal streaming
-aggregation platforms**
+<a href="ch012.xhtml"> Sweden: Circumvention and the quest for privacy</a><br/>*Chris Baumann, Stockholm University*
 
-Florian Hoof, Frankfurt University
+<a href="ch013.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard, SUT*
 
-**8 The future in a vault of plastic: Physical geolocking in the era of
-the 16-bit video game cartridge, 1988-1993**
+<a href="ch014.xhtml">Brazil: Netflix, VPNs, and the “paying pirates”</a><br/>*Vanessa Mendes Moreira de Sa, Queensland University of Technology*
 
-Roland Burke, Latrobe University
+<a href="ch015.xhtml">Iran: A friction between state ideology and network society</a><br/>*Hadi Sohrabi, Swinburne University of Technology, and Behzad Dowran, Iranian Research Institute for Information Science and Technology*
 
-****Section Two: CIRCUMVENTION CASE STUDIES ****
+<a href="ch016.xhtml">Cuba: *Videos to the left* – circumvention practices and
+audiovisual ecologies</a><br/>*Fidel Alejandro Rodriguez, University of Habana*
 
-**9 China: The techno-politics of the Wall**
-
-Jinying Li, University of Pittsburgh
-
-**10 Australia: Circumvention goes mainstream**
-
-Ramon Lobato and James Meese, SUT
-
-**11 Turkey: Coping with internet censorship**
-
-Çiğdem Bozdağ, Kadir Has University
-
-**12 Sweden: Circumvention and the quest for privacy**
-
-Chris Baumann, Stockholm University
-
-**13 Malaysia: Global Binge-Viewing in a Restrictive State**
-
-Sandra Hanchard, SUT
-
-**14 Brazil:** **Netflix, VPNs, and the “paying pirates”**
-
-Vanessa Mendes Moreira de Sa, Queensland University of Technology
-
-**15 Iran: A friction between state ideology and network society**
-
-> Hadi Sohrabi, Swinburne University of Technology\
-> Behzad Dowran, Iranian Research Institute for Information Science and
-> Technology
-
-**16 Cuba: *Videos to the left* – circumvention practices and
-audiovisual ecologies **
-
-Fidel Alejandro Rodriguez, University of Habana
-
-**17 United States: Geoblocking in a privileged market**
-
-Evan Elkins, University of Miami
+<a href="ch017.xhtml">United States: Geoblocking in a privileged market</a><br/>*Evan Elkins, University of Miami*

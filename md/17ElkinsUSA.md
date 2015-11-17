@@ -21,23 +21,20 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ### Evan Elkins
 
-STAT BOX:
 
-36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1]
-
+<div class="StatBox">
+####STAT BOX
+36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1] <br>
 20,000: Number of VPN communications the NSA aimed to survey per hour in
-2011, according to the Edward Snowden documents.[^17ElkinsUSA_2]
-
+2011, according to the Edward Snowden documents.[^17ElkinsUSA_2] <br>
 \$39.95: Cost for a yearly subscription to popular VPN service Private
-Internet Access, in US\$.[^17ElkinsUSA_3]
-
+Internet Access, in US\$.[^17ElkinsUSA_3]<br>
 22.6%: Percentage of North American Pirate Bay users who use a VPN
-service, according to a 2013 survey.[^17ElkinsUSA_4]
-
-PULL QUOTE
-
+service, according to a 2013 survey.[^17ElkinsUSA_4]<br>
+####PULL QUOTE
 ‘every now and then we feel the burn in the States, too.’ – *Lifehacker*
-blogger Adam Pash, in 2010.
+blogger Adam Pash, in 2010. </div>
+
 
 The hashtag \#NBCFail, which popped up regularly on social media in the
 summer of 2012, represented yet another chapter in the long story of
