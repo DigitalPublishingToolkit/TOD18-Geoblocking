@@ -557,7 +557,7 @@ think about the geopolitics of internet control.
 ## References
 
 Christophers, Brett. *Envisioning Media Power: On Capital and
-Geographies of Television* Lanham: Lexington Books, 2009.
+Geographies of Television*, Lanham: Lexington Books, 2009.
 
 Cubitt, Sean. ‘Telecommunication Networks: Economy, Ecology, Rule’,
 *Theory, Culture and Society* 31 (2014): 185-199.
@@ -572,20 +572,20 @@ Deibert, Ronald et al. (eds). *Access Denied: The Practice and Policy of
 Global Internet Filtering*, Cambridge, MA: MIT Press, 2008.
 
 European Commission, ‘Better Online Access to Digital Services’, n.d.,
-http://ec.europa.eu/priorities/digital-single-market/access/index\_en.htm.
+[http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm](http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm).
 
 Goldsmith, Jack and Tim Wu. *Who Controls the Internet? Illusions of a
 Borderless World*, Oxford: Oxford University Press, 2006.
 
 Kompare, Derek. ‘Adverstreaming: Hulu Plus’, *Flow*, 24 Feb 2014,
-<http://flowtv.org/2014/02/adverstreaming-hulu-plus/>
+[http://flowtv.org/2014/02/adverstreaming-hulu-plus/](http://flowtv.org/2014/02/adverstreaming-hulu-plus/).
 
 Leaver, Tama. ‘Watching “Battlestar Galactica” in Australia and the
-Tyranny of Digital Distance’, *Media International Australia* 126
+Tyranny of Digital Distance’, *Media International Australia*, 126
 (2008): 145-154.
 
 O’Regan, Tom. ‘From Piracy to Sovereignty: International VCR Trends’,
-*Continuum: The Australian Journal of Media & Culture* 4.2 (1991):
+*Continuum: The Australian Journal of Media & Culture*, 4.2 (1991):
 112-135.
 
 Parks, Lisa and Nicole Starosielski. *Signal Traffic: Critical Studies
@@ -611,7 +611,7 @@ Understanding Television in the Post-Broadcast Era*, London: Routledge,
 
 Wagman, Ira and Peter Urquhart. ‘“This content is not available in your
 region”: Geoblocking culture in Canada’, in Darren Wershle, Rosemary
-Coombe and Martin Zeilinger (eds) *Dynamic Fair Dealing: Creating
+Coombe and Martin Zeilinger (eds), *Dynamic Fair Dealing: Creating
 Canadian Culture Online*, Toronto: University of Toronto Press, 2014,
 pp. 124-132.
 
@@ -647,7 +647,7 @@ pp. 124-132.
 [^01LobatoIntroduction_6]: These issues have been explored through key works in video
     geography, to which we are indebted. See: Tom O’Regan, ‘From Piracy
     to Sovereignty: International VCR Trends’, *Continuum: The
-    Australian Journal of Media & Culture* 4.2 (1991): 112-135; Brett
+    Australian Journal of Media & Culture*, 4.2 (1991): 112-135; Brett
     Christophers, *Envisioning Media Power: On Capital and Geographies
     of Television* Lanham: Lexington Books, 2009.
 

@@ -68,7 +68,7 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 <a href="ch003.xhtml">Introduction: The new video geography</a><br/>
 *Ramon Lobato, Swinburne University of Technology*<br/>
 
-####PART I: PERSPECTIVES ON GEOBLOCKING
+##PART I: PERSPECTIVES ON GEOBLOCKING
 
 <a href="ch004.xhtml">Tunnelling media: Geoblocking and online border resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
 
@@ -86,7 +86,7 @@ aggregation platforms</a><br/>*Florian Hoof, Frankfurt University*
 
 <a href="ch010.xhtml">The future in a vault of plastic: Physical geolocking in the era of the 16-bit video game cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
 
-####PART II:CIRCUMVENTION CASE STUDIES<br/>
+##PART II:CIRCUMVENTION CASE STUDIES<br/>
 
 <a href="ch011.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
 

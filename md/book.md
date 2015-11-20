@@ -68,7 +68,7 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 <a href="ch003.xhtml">Introduction: The new video geography</a><br/>
 *Ramon Lobato, Swinburne University of Technology*<br/>
 
-####PERSPECTIVES ON GEOBLOCKING
+##PART I: PERSPECTIVES ON GEOBLOCKING
 
 <a href="ch004.xhtml">Tunnelling media: Geoblocking and online border resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
 
@@ -86,7 +86,7 @@ aggregation platforms</a><br/>*Florian Hoof, Frankfurt University*
 
 <a href="ch010.xhtml">The future in a vault of plastic: Physical geolocking in the era of the 16-bit video game cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
 
-####CIRCUMVENTION CASE STUDIES<br/>
+##PART II:CIRCUMVENTION CASE STUDIES<br/>
 
 <a href="ch011.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
 
@@ -650,7 +650,7 @@ think about the geopolitics of internet control.
 ## References
 
 Christophers, Brett. *Envisioning Media Power: On Capital and
-Geographies of Television* Lanham: Lexington Books, 2009.
+Geographies of Television*, Lanham: Lexington Books, 2009.
 
 Cubitt, Sean. ‘Telecommunication Networks: Economy, Ecology, Rule’,
 *Theory, Culture and Society* 31 (2014): 185-199.
@@ -665,20 +665,20 @@ Deibert, Ronald et al. (eds). *Access Denied: The Practice and Policy of
 Global Internet Filtering*, Cambridge, MA: MIT Press, 2008.
 
 European Commission, ‘Better Online Access to Digital Services’, n.d.,
-http://ec.europa.eu/priorities/digital-single-market/access/index\_en.htm.
+[http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm](http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm).
 
 Goldsmith, Jack and Tim Wu. *Who Controls the Internet? Illusions of a
 Borderless World*, Oxford: Oxford University Press, 2006.
 
 Kompare, Derek. ‘Adverstreaming: Hulu Plus’, *Flow*, 24 Feb 2014,
-<http://flowtv.org/2014/02/adverstreaming-hulu-plus/>
+[http://flowtv.org/2014/02/adverstreaming-hulu-plus/](http://flowtv.org/2014/02/adverstreaming-hulu-plus/).
 
 Leaver, Tama. ‘Watching “Battlestar Galactica” in Australia and the
-Tyranny of Digital Distance’, *Media International Australia* 126
+Tyranny of Digital Distance’, *Media International Australia*, 126
 (2008): 145-154.
 
 O’Regan, Tom. ‘From Piracy to Sovereignty: International VCR Trends’,
-*Continuum: The Australian Journal of Media & Culture* 4.2 (1991):
+*Continuum: The Australian Journal of Media & Culture*, 4.2 (1991):
 112-135.
 
 Parks, Lisa and Nicole Starosielski. *Signal Traffic: Critical Studies
@@ -704,7 +704,7 @@ Understanding Television in the Post-Broadcast Era*, London: Routledge,
 
 Wagman, Ira and Peter Urquhart. ‘“This content is not available in your
 region”: Geoblocking culture in Canada’, in Darren Wershle, Rosemary
-Coombe and Martin Zeilinger (eds) *Dynamic Fair Dealing: Creating
+Coombe and Martin Zeilinger (eds), *Dynamic Fair Dealing: Creating
 Canadian Culture Online*, Toronto: University of Toronto Press, 2014,
 pp. 124-132.
 
@@ -740,7 +740,7 @@ pp. 124-132.
 [^01LobatoIntroduction_6]: These issues have been explored through key works in video
     geography, to which we are indebted. See: Tom O’Regan, ‘From Piracy
     to Sovereignty: International VCR Trends’, *Continuum: The
-    Australian Journal of Media & Culture* 4.2 (1991): 112-135; Brett
+    Australian Journal of Media & Culture*, 4.2 (1991): 112-135; Brett
     Christophers, *Envisioning Media Power: On Capital and Geographies
     of Television* Lanham: Lexington Books, 2009.
 
@@ -771,6 +771,47 @@ pp. 124-132.
 [^01LobatoIntroduction_13]: Sean Cubitt, ‘Telecommunication Networks: Economy, Ecology,
     Rule’, *Theory, Culture and Society* 31 (2014), p. 191.
 
+
+
+#PART I: PERSPECTIVES ON GEOBLOCKING
+
+
+##Global streaming: scale and infrastructure
+
+![Figure 1 A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019](imgs/dataviz4.jpg)
+
+Caption
+
+
+
+![Figure 2](imgs/dataviz1.jpg "Income status of global internet users.Data source: The World Bank")
+
+
+
+![Figure 3 Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014](imgs/dataviz2.jpg)
+*Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014*
+
+
+##Netflix by numbers
+![Figure 4 U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports](imgs/dataviz7.jpg)
+*U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports*
+
+![Figure 5 Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)](imgs/dataviz8.jpg)
+
+Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
+
+![Figure 6 Size of Netflix catalogue in various countries (Number of available titles).Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)](imgs/dataviz10.jpg)
+*Size of Netflix catalogue in various countries (Number of available titles).Data source: UnblockUS, https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region*
+
+![Figure 7 Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast](imgs/dataviz9a.jpg)
+*Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast*
+
+##VPN geography
+![Figure 8 Most popular VPN server locations.Data source: Swinburne University](imgs/dataviz5.jpg)
+*Most popular VPN server locations.Data source: Swinburne University*
+
+![Figure 9 Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society](imgs/dataviz6.jpg)
+*Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society*
 
 
 
@@ -4467,6 +4508,28 @@ the real geo-, not the stratified one prescribed by corporate entities.
 
 
 
+#PART II:CIRCUMVENTION CASE STUDIES
+
+
+
+The following chapters focus on ground-level internet circumvention practices – how people around the world negotiate different kinds of blocks, including both commercial geo-blocking and government censorship. Together, these chapters reveal that the use of VPNs, proxies, and other workarounds is now a global phenomenon, even though tools and habits vary from country to country. Our comparison of nine countries – China, Australia, Turkey, Sweden, Malaysia, Brazil, Iran, Cuba and the United States – illuminates some of the continuities and specificities of global circumvention. As we will see, each region has its own mix of drivers and practices. In some parts of the world, circumvention is mostly driven by demand for first-release entertainment content. In other countries it is about gaining access to social networks or communication tools that have been blocked by the government. But in all cases, the use of circumvention software, apps and plugins changes the official geography of video access. The authors in this section tell richly detailed stories about these circumvention practices and discuss their implications for how digital media circulate today.
+
+![Figure 1 Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014
+](imgs/dataviz.jpg)
+*Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014*
+
+
+![Figure 2 Internet users per 100 people. Data source: The World Bank](imgs/dataviz.jpg)
+*Internet users per 100 people. Data source: The World Bank*
+
+![Figure 3 ](imgs/dataviz13.jpg)
+*Figure 3 *
+
+
+
+
+
+
 # China: The Techno-Politics of the Wall
 
 ###Jinying Li###
@@ -7255,499 +7318,558 @@ Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
 
 
 
-#Iran: A Friction between State Ideology and Network Society
 
-###Hadi Sohrabi###
-*Swinburne University of Technology*
+# The USA: Geoblocking in a Privileged Market
 
-###Behzad Dowran###
-*Iranian Research Institute for Information Science & Technology
-(IranDoc)*
+### Evan Elkins
 
-  
-####DATA BOX{.statbox}
-- 75 million: total population
-- 23 million: estimated number of internet users
-- 69 %: percentage of internet users who use circumvention tools
-- 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
-  
-President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
 
-(Images)A government notice for blocked websites
+
+####DATA BOX {.statbox}
+- 36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1]<br/>
+- 20,000: Number of VPN communications the NSA aimed to survey per hour in 2011, according to the Edward Snowden documents.[^17ElkinsUSA_2]<br/>
+- \$39.95: Cost for a yearly subscription to popular VPN service Private Internet Access, in US\$.[^17ElkinsUSA_3]<br/>
+- 22.6%: Percentage of North American Pirate Bay users who use a VPN service, according to a 2013 survey [^17ElkinsUSA_4]<br/> 
+
+>‘every now and then we feel the burn in the States, too.’ –*Lifehacker* blogger Adam Pash, in 2010. 
 
 ####
-The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
-rise of audio-visual black markets after the 1979 Islamic revolution.
-Losing his music store during Islamization, our protagonist Salim starts
-to sell unauthorized products on the black market. In one scene, Salim
-leaves his house with a bag full of unauthorized audio cassette tapes.
-At a street stall, a chubby boy is calling out ‘New Cassette!’, ‘New
-Cassette!’, but he changes his words to ‘New Ahangaran![^1]’ when an
-Islamist militiaman is passing. Salim meets his business partner in a
-public park to deliver the bag, but the Revolutionary Guard officers
-chase them and arrest his partner; Salim manages to run away. Twenty
-years later, we see Salim has upgraded his devices to CDs and DVDs
-instead of audio cassettes. He is also negotiating with a partner to
-enter into an emerging market: satellite dishes.
-
-The movie portrays the black market keeping pace with technological
-changes, from audio and video cassettes in the 1980s to DVDs and
-satellite television in the 2000s. Soon after the 1979 Islamic
-revolution, the clerical rulers imposed Islamic principles on almost all
-social and political institutions, from marriage, divorce and penal
-codes to banking and commerce. The state attempted not only to transform
-social and political structures, but also to control people’s moral
-attitudes. Books, newspapers, magazines, music, and movies were
-subjected to extensive regulation and censorship. The state-owned
-television and radio dominated the media landscape in the
-post-revolutionary era.
-
-The new regime presented its restrictive policies as defending Islam and
-Iranian national interests against western ‘cultural invasion’ and ‘soft
-war’. Underlying these representations were the authorities’ concerns
-about the increasing secularization of society and the growing
-alienation of youth from the state. Unwilling to acknowledge the
-ineffectiveness of forceful Islamization, the hardliners have accused
-the western media of subverting Islamic values and threatening the
-state’s political legitimacy.
-
-The black market of CDs and DVDs is still alive. Around Enqelab square
-in Tehran, many video dealers sell uncensored Hollywood movies. At times
-the police raid the area and confiscate the DVDs. Nevertheless, the
-internet and satellite television have largely replaced such markets.
-Reducing the regime’s grip on information flow, new communication
-technologies have provided Iranians with unprecedented access to global
-news, information, and images. Feeling gravely threatened, the
-government has invested vast sums of money, instituted several councils
-and bodies, and devised many policies, laws and regulations to control
-and curb cross-border information flow. In what follows, we describe the
-methods employed by the government to restrict citizens’ access to
-global media content and those employed by citizens to circumvent
-censorship – from illegal satellite dishes to VPNs, proxies and
-peer-to-peer networking. In particular, we focus on the internet and
-satellite television, the technologies that have generated significant
-political and cultural conflicts in Iran and created video cultures
-outside official channels.
-
-##Satellite Television: a New Video Culture
-
-To understand Internet circumvention in Iran, we must take a step back
-to consider an earlier kind of unauthorised media. Since the 1990s,
-foreign-based Persian-language satellite channels have mushroomed,
-posing a serious challenge to the regime’s monopoly over broadcast
-media. The satellite television networks offer all sorts of programs,
-ranging from news, commentary and politics to music, entertainment and
-soap operas. The state has banned satellite television ‘to protect the
-country’s cultural borders and the foundations of family’ against
-immoral content. The law bans selling, buying, installing, and using
-satellite television equipment such as dishes and receivers.
-Nevertheless, the majority of Iranians easily access these channels by
-installing dishes on rooftops and balconies. The Minister of Culture and
-Islamic Guidance, Ali Jannati, reported that 71 per cent of people in
-Tehran watch satellite TV.[^2] Although this figure is likely to be
-inflated, watching satellite TV has no doubt become a widespread
-practice among city dwellers.
-
-The authorities have used various methods of crackdown. At times, the
-police raid buildings and confiscate dishes. They have used helicopters
-to scan rooftops and cranes to seize dishes from balconies. Police have
-abseiled down the sides of tall buildings in search of dishes. These
-methods have largely been futile because the dishes have soon reappeared
-on rooftops. These familiar cat-and-mouse games have been memorably
-depicted in Iranian movies such as Parisa Bakhtavar’s *Tambourine* and
-Abdolreza Kahani’s *Absolute Rest*.
-
-The state has also employed more sophisticated and effective methods
-such as satellite jamming. Powerful noise signals are sent directly to
-satellites such as HotBird and Eutelsat, mixing frequencies and jamming
-their signals. Home viewers then see scrambled images on screen. BBC
-Persian and Voice of America (VoA) have been the typical targets. Iran
-has never acknowledged using such methods, but international
-organizations have claimed that the jamming signals are sent from within
-Iran. The UN telecommunications body (ITU) and the European Union have
-called on the Iranian government to stop satellite jamming and
-‘electronic interference’. It is also widely believed that the
-Revolutionary Guard runs the jamming system. Not surprisingly, the
-regime uses this method more actively at times of political upheaval and
-during elections.
-
-Despite the attempts outlined above, Iranians have integrated satellite
-television into their daily lives. Political channels such as BBC
-Persian and Voice of America (VoA) continue to influence public opinion
-by highlighting and disseminating news, images, videos and information
-that the state tries to suppress. Persian-language entertainment
-channels such as Manoto have attracted large audience by running
-western-style talent shows and competitions. Other channels such as GEM
-TV and Farsi One have attracted viewers by screening popular movies and
-soap operas. None of the above mentioned methods have proved effective
-in discouraging ordinary people from watching satellite TV. At times of
-political upheaval, the state has been relatively successful in jamming
-some political channels; at other times, however, satellite channels
-have managed to reach out to viewers and help create a video culture
-very different from the ideologically-fuelled one promoted by the state
-television.
-
-##A Halal Internet
-
-Statistics on the number of Iranian internet users are inconsistent.
-While the Iranian government counts about 40 million internet users out
-of a population of 75 million, the World Bank estimates the number to be
-around 23 million.[^3] The Iranian Minister of Culture and Islamic
-Guidance, Ali Jannati, reported that 9.5 million Iranians use Viber and
-4 to 5 million use Facebook.[^4] Although the Universal Declaration of
-Human Rights considers everyone entitled ‘to seek, receive and impart
-information and ideas through any media and regardless of frontiers’,
-Iran, which is a signatory, has blocked social media sites such as
-Facebook and YouTube, political dissidents’ blogs and websites, and
-international news websites.
-
-The London-based advocacy group Small Media reports a threefold strategy
-employed by the government to control the internet. Firstly, Authorities
-aim to ‘prevent’ users from accessing the perceived threatening content
-through keyword filtering, URL blacklisting, and broadband speed
-limitations. For example, users who attempt to access YouTube see the
-following image, which reads: ‘Access to the requested website is not
-possible’, and introduces a list of miscellaneous websites. Next, they
-exploit technology to ‘intercept’ those who have managed to get around
-censorship through monitoring, tracking and blocking internet traffic.
-Lastly, internet activists and developers are arrested and connections
-are throttled during political turmoils.[^5]
-
-![](imgs/iran.png)
-
-Fig. 1: Iranian internet users see this government notice when trying to
-access blocked websites. It reads: “Access to the requested website is
-not possible. Please click here to access reports and complaints.”
-
-Taking office as President in 2013, Hassan Rouhani criticized internet
-censorship, raising hopes for reducing internet barriers (to be
-discussed further below). However, he faced fierce opposition from
-conservative rivals. In 2014, as soon as the ICT ministry issued 3G and
-4G licenses to two mobile-phone operators, a leading cleric called on
-the government to revoke them because ‘dirty pictures and clips’ could
-poison young minds.[^6] Comparing these technologies to ‘unsanitary and
-muddy water’, and worrying about ‘all sorts of polluted films without
-any filtering’, he declared that ‘3G mobile communication services and
-higher are against Sharia \[Islamic law\] and moral and human norms’.
-
-Perhaps Iran’s most ambitious plan for extending its control over the
-internet has been the launching of a “walled-off” national internet. The
-network will connect government ministries, universities, banks,
-healthcare, tax systems, and other state institutions through local
-servers. Although users will benefit from higher speed and better
-cyber-security, many are concerned that the government’s main motive is
-to consolidate its control over the internet. In response to such
-concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national
-internet ‘is not in competition with the Internet’ and that ‘if users
-cannot find the data that they are looking for on the national internet,
-then they will be able to access the Internet to search for it,
-instead’.[^7] Put it simply, the government aims to obtain the capacity
-of switching off the internet without disrupting public services, banks,
-and corporations. It is, however, unlikely that the government could
-completely detach Iran from the global internet; the more likely outcome
-would be a ‘dual-internet structure’ like that currently used in some
-other authoritarian countries.[^8]
-
-Work on the national internet project started in 2005, and has
-progressed slowly since then. In recent years, at least two events
-caused the conservative authorities to be more determined to carry the
-project through. In the aftermath of the 2009 presidential election,
-where millions of Iranians took to the streets to protest against
-Mahmoud Ahmadinejad’s disputed victory, the regime experienced an
-unprecedented challenge to official media control. During rallies,
-protesters used their mobile phones to take pictures and video footage
-of police brutality and violence, posting them on social media. Global
-news coverage of the regime’s brutal crackdown led to the condemnation
-of the regime by many international human rights organizations and
-governments. The second alarming event was the Stuxnet attacks on
-Iranian nuclear facilities in 2010, where the country’s prized nuclear
-arsenal was overtaken by a computer virus, thus highlighting the
-perceived threat posed by foreign, unauthorised digital technologies to
-the Iranian state.
-
-##Internet Circumvention Tools
-
-Despite government restrictions, users often find ways to get around
-internet censorship. In a survey conducted by Iran’s Ministry of Youth
-Affairs and Sport, 69 per cent of respondents said they use
-anti-filtering software.[^9] Ironically, users can even buy VPNs through
-official online payment gateways, such as PardakhtNet! Given how easily
-available these VPN services are, it is widely believed that segments of
-the ruling establishment (including elements within the Revolutionary
-Guard) facilitate the trade to earn money.[^10] In this environment,
-critics rightly question the effectiveness of numerous laws, policies,
-and regulations in place to control internet access. Criticizing his
-conservative opponents, the moderate president Hassan Rouhani asked:
-‘Supporters of internet filtering should explain whether they've
-successfully restricted access to information? Which important piece of
-news has filtering been able to black out in recent years?’ He
-continued: ‘Filtering has not even stopped people from accessing
-unethical \[pornographic\] websites. Widespread online filtering will
-only increase distrust between the people and the state’[^11].
-
-Users take advantage of numerous tools to get around censorship. A
-Freedom House survey revealed that VPNs, Google (Reader, Translation,
-Cache), and Your Freedom are the most popular circumvention tools in
-Iran. The survey listed the most popular tools in Iran as the following:
-Dynaweb, Freegate, Freenet, Garden GTunnel, Google, Gpass,
-HotspotShield, JAP, Proxy, Psiphon, Tor, Ultrasurf, Your Freedom, and
-VPN.[^12] Filtershekanha (means ‘Filter breakers’) is an email list with
-over 100,000 subscribers through which information about VPNs is
-distributed among users. Another survey of 423 users, conducted by Small
-Media, found that Hotspot Shield, Psiphon, and Kerio are favored by
-users.[^13] Other surveys have also reported the widespread use of the
-web proxy service Hotspot Shield and Psiphon3, a peer-to-peer VPN app
-for Android and Windows.[^14] As of 2013, Psiphon claimed to have
-700,000 to 900,000 daily unique users in Iran. This number is now
-believed to have surpassed one million.[^15]
-
-Small Media reports that the terrain of Internet circumvention is
-increasingly shifting to mobile, with the most popular tools having
-easy-to-use mobile-enabled interfaces now. It also points out that, TOR,
-despite its strong privacy protection, is not very popular among
-Iranians partly because it has been constantly attacked by the
-government. Overall, Iranians seem to care more about ease of access
-than security. There are also anti-filtering tools that are unique to
-Iran. For example, Simurgh is ‘Iranian stand-alone proxy software’ which
-has been widely used since 2009; due to its small size (1 MB), users
-with low speed connection can download it easily. It is also free. This
-software has been recently used by Syrian dissidents.[^16]
-
-##The Political Context of Circumvention
-
-Despite common perceptions, most Iranians do not go online specifically
-in search of ‘forbidden’ political material; rather they wish to ‘live
-their normal lives’ by accessing social media such as Telegram, Viber,
-Facebook and the like to communicate with their family members and
-friends. They share photos, music videos, comedies, shows, and
-educational material within their social circles; they look for
-entertainment, search for all sorts of information and read news online.
-A question that naturally arises is: why then are authorities so
-sensitive about the free internet? The answer has to do with the
-ideological nature of the Iranian state.
-
-The clerics and conservative rulers censor the internet for the same
-reason that they have put in place extremely restrictive measures to
-uphold Islamic principles and moral standards in public spaces. They are
-concerned that freedom will inevitably give rise to western lifestyles,
-mixing with the opposite sex and promiscuity. Despite extensive
-regulation, conservatives are constantly complaining about the growing
-un-Islamic practices in society. The same concerns lead them to oppose
-the unfettered internet. In their view, the free internet would weaken
-their grip over cultural production and consumption. In a country where
-interactions between young men and women are severely controlled, it is
-not surprising that the authorities are worried about online
-communication. The political power of religion in Iran does not allow
-for a cultural sphere separate from politics.
-
-Finally, it is worth noting an important difference between Iran and
-other cases discussed in this book. Iranians struggle with filtering as
-much as internet speed. Authorities have kept the speed extremely slow
-as a deliberate method to frustrate users and discourage them from
-downloading photos and videos. Based on nationwide regulations, ISPs are
-permitted to provide speed connection only up to 128 kbps to home users,
-which is 50 times slower than the internet speed in the US.[^17]
-Academics and professionals could receive higher speed up to 512 kbps
-and in special circumstances up to 2 mbps. As mentioned earlier, the
-government attempt at providing higher speed 3G and 4G licences to
-mobile operators was strongly opposed by Parliament and influential
-clerics. Conservatives continue to obstruct any attempt at raising
-internet speed until the national internet comes into full operation.
-They call the national internet a ‘Halal’ internet, an expression that
-reveals their concerns about the cultural impact of the free internet
-and the potential rise of a video culture that could jeopardise their
-cherished values.
-
-##Future Trends 
-
-The Islamic Republic of Iran has struggled to maintain and strengthen
-cultural sovereignty within its borders. By establishing numerous
-cultural, political, and legal institutions, the regime has invested
-enormously in constructing and imposing Islamic identity on all spheres
-of social life. The state has set itself the ambitious task not only of
-restructuring the entire society on the basis of Islamic values, but
-also of controlling and guiding people’s thoughts and morality. The
-policies, however, have not been executed very effectively and
-consistently. Constitutionally, Iranians vote in the government through
-elections, and despite all state restrictions, at times people have
-defeated the ruling conservatives. President Khatami (1997-2005)
-campaigned for social and political freedom and sought constructive
-engagement with the West, policies that were strongly resisted by
-hardliners. In 2013, Hassan Rouhani won the presidential election after
-campaigning on moderate foreign and domestic policies. Many hoped that
-his government would reduce internet barriers and relax
-ultraconservative regulation of culture and politics.
-
-President Rouhani has symbolically and rhetorically opposed state
-censorship. While Twitter is blocked in Iran, Rouhani’s Twitter account
-has over 330,000 followers. Zarif, the foreign minister, actively tweets
-about Iran’s foreign policy issues. Rouhani has called internet
-filtering ‘futile’, saying: ‘We cannot close the gates of the world to
-our young generation’.[^18] Despite these positive signs, as far as
-media censorship is concerned, Rouhani’s discretion is limited. The
-decision-making bodies are supra-governmental and mostly controlled by
-the conservatives. The Supreme Council of Cyberspace (SCC), which is the
-highest state organization responsible for devising cyber policies,
-works under the supreme leader’s directive. Given these limitations, a
-radical and thoroughgoing change would be unlikely to happen. At best,
-Rouhani’s policies will bring about slow and incremental changes in the
-coming years.
-
-The friction between state policies and social reality in Iran offers an
-intriguing case for media analysts. Technological changes have provided
-a good opportunity for ordinary citizens to circumvent barriers and
-access global media content. On the other hand, the state has
-sophisticated its methods and technologies to maintain its dominance
-over information flows. Iranian moderate politicians feel the state will
-ultimately lose this game. The Culture and Islamic Guidance minister,
-Ali Jannati, compared the current prohibition of satellite television
-and social media to the banning of video cassettes in the 1980s, as
-portrayed in the movie Bullet Proof. Calling such policies ‘ridiculous’,
-he said: ‘Maybe in five years we will laugh at today’s actions’.[^19]
-However, given that the Iranian Islamic state has defined its identity
-in opposition to western culture and imperial powers, it will continue
-to actively resist pressure from the western-controlled global media in
-order to maintain the existing media communication boundaries in the
-foreseeable future.
-
-##References
-
-Bowen, Kyle and James Marchant. ‘Internet Censorship in Iran:
-Preventative, Interceptive, and reactive, *Small Media report:
-Revolution Decoded*, 2014, p.26,
-[http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
-
-Derakhshesh, Setareh. ‘Breaking the Law to Go Online in Iran’, New York
-Times, 24 June 2014,
-[http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
-
-Erdbrink, Thomas. ‘Tehran Unfetters Cellphones, and the Pictures Start
-Flowing’, *The New York Times*, 2 September 2014,
-[http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
-
-Freedom House. ‘Country Report for End Users in Iran’, 2011,
-[https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
-
-Iranian Student News Agency. ‘69 Per Cent of Iranian Youth Use
-Anti-Filtering, According to the Findings of a New Survey’, 27 April
-2015, [http://isna.ir/fa/news/93061710204](http://isna.ir/fa/news/93061710204).
-
-Iran’s Internet Penetration Management Portal. Penetration Rate Report,
-2014, [http://www.iriu.ir/matma/;](http://www.iriu.ir/matma/;).
-
-Kamali-Dehghan, Saeed. ‘Iran’s President Signals Softer Line on Web
-Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
-[http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
-
-Karami, Arash. ‘Iran Cleric Explains He’s Not Opposed to “Filtered” 3G
-Phones’, *Almonitor*, 1 September 2014,
-[http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
-
-Lee, Timothy B. ‘Here’s How Iran Censors the Internet’, *The Washington
-Post*, 15 August 2015,
-[https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
-
-Mehr News Agency. ‘9.5 Million Viber Users in Iran’, 5 Feb 2015,
-[http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
-
-Mohabbat-Kar Resa and Hausdorf Nicolas. ‘Internet Freedom, Snapshot of
-the Case of Iran’, *Transparency for Iran*, 2010,
-[http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf).
-
-O’Neill, Patrick Howell. ‘The Big Money Behind Iran’s Internet
-Censorship’, 22 Feb 2015,
-[http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
-
-Pizzi, Michael. ‘Iran Government Minister: Media Bans May Seem
-“Laughable” in 5 Years’, Aljazeera America, 19 Dec 2013,
-[http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
-
-Rhoads, Christopher and Farnaz Fassihi. ‘Iran Vows to Unplug Internet’,
-*Wall Street Journal*, 28 May 2011,
-[http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
-
-Small Media. [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
-
-The Citizen Lab. ‘Iranian Anti-Censorship Software “Simurgh” Circulated
-with Malicious Backdoor’, 25 May 2015,
-[https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
-
-The World Bank. Internet Users by Country, 2014,
-[http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
-
-[^1]: ‘New Ahangaran’ means, a new eulogy from Sadegh Ahangaran, an
-    iconic eulogist during Iran-Iraq war in the 1980s. His performance
-    encouraged many young Iranians to volunteer in the war.
-
-[^2]: Setareh Derakhshesh, Breaking the Law to go Online in Iran, *New
-    York Times*, 24 June 2014,
-    [http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
-
-[^3]: Iran’s Internet Penetration Management Portal, 2014, Penetration
-    Rate Report, 2014, [http://www.iriu.ir/matma/](http://www.iriu.ir/matma/); The World Bank,
-    Internet users by country, 2014,
-    [http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
-
-[^4]: Mehr News Agency, ‘9.5 Million Viber users in Iran’, 5 Feb 2015,
-    [http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
-
-[^5]: Kyle Bowen and James Marchant, ‘Internet Censorship in Iran:
-    Preventative, Interceptive, and reactive’, *Small Media report:
-    Revolution decoded*, 2014, p.26,
-    [http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
-
-[^6]: Thomas Erdbrink, ‘Tehran unfetters cell phones, and the pictures
-    start flowing’, *The New York Times*, 2 September 2014,
-    [http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
-
-[^7]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
-
-[^8]: Christopher Rhoads and Farnaz Fassihi, ‘Iran vows to unplug
-    internet’, *Wall Street Journal*, 28 May 2011,
-    [http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
-
-[^9]: Iranian Student News Agency, 69 Per cent of Iranian Youth use
-    Anti-filtering, According to the Findings of a New Survey, 27 April
-    2015, [http://isna.ir/fa/news/](http://isna.ir/fa/news/).
-
-[^10]: Small Media, [http://smallmedia.org.uk/](http://smallmedia.org.uk/).
-
-[^11]: Saeed Kamali-Dehghan, ‘Iran’s President Signals Softer Line on
-    Web Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
-    [http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
-
-[^12]: Freedom House, ‘Country Report for End Users in Iran’, 2011,
-    [https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
-
-[^13]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
-
-[^14]: Patrick Howell O’Neill, ‘The Big Money Behind Iran’s Internet
-    Censorship’, *The Daily Dot,* 22 Feb 2015,
-    [http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
-
-[^15]: Resa Mohabbat-Kar and Nicolas Hausdorf, ‘Internet Freedom,
-    Snapshot of the Case of Iran’, *Transparency for* *Iran*, 2010,
-    [http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf),
-    p.45.
-
-[^16]: It was recently announced that a malicious copy of this software
-    has been circulated as ‘Simurgh-setup.zip’ that compromises all
-    information on the infected computer. See: The Citizen Lab, ‘Iranian
-    Anti-Censorship Software “Simurgh” Circulated with Malicious
-    Backdoor’, 25 May 2015,
-    [https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
-
-[^17]: Timothy B. Lee, ‘Here’s How Iran Censors the Internet’, *The
-    Washington Post*, 15 August 2015,
-    [https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
-
-[^18]: Arash Karami, ‘Iran Cleric Explains He’s Not Opposed to
-    “Filtered” 3G Phones, *Almonitor*, 1 September 2014,
-    [http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
-
-[^19]: Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem
-    “laughable” in 5 years’, Aljazeera America, 19 Dec 2013,
-    [http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
+
+The hashtag \#NBCFail, which popped up regularly on social media in the
+summer of 2012, represented yet another chapter in the long story of
+American audiences’ irritation at the often shallow, shoddy character of
+their national broadcast networks. This time, the target of viewers’ ire
+was NBC’s coverage of that year’s Summer Olympics in London. Frustrated
+with tape-delayed events and the network’s US-centric commentary, United
+States viewers naturally sought out the BBC’s telecast as an
+alternative. Savvy viewers who did their research may have stumbled upon
+the BBC’s iPlayer platform. The iPlayer was livestreaming the BBC’s
+coverage of the Olympics, and thus promised live, superior coverage and
+an escape from NBC’s jingoistic slant. Upon navigating to that platform,
+however, Americans found this message: ‘BBC iPlayer TV programmes are
+available to play in the UK only’.
+
+![Figure 1 An example of geoblocked content on BBC iPlayer](imgs/ElkinsGeoblocking1.png)
+*Figure 1 An example of geoblocked content on BBC iPlayer*
+
+In these moments, US residents confronted an experience of transnational
+viewing with which many around the world were already familiar. Viewers
+living in other countries understand geoblocking as a form of power
+emanating from major media conglomerates, many of which are rooted in
+Hollywood-based (yet globalized) cultural industries. As many of this
+book’s other chapters make clear, geoblocking is just a part of the
+everyday viewing experience for people around the globe – albeit an
+often-frustrating one. Many of these experiences involve attempts at
+accessing American programming through platforms like Hulu or the
+American version of Netflix. But given that many of the platforms
+usually targeted in global complaints about geoblocking are, in fact,
+available in the US, what does geoblocking look like from *within* the
+United States? And how and why do people circumvent it?
+
+Geoblocking in the United States is generally invisible – until it
+isn’t. In other words, whereas viewers around the world have grown used
+to (which is not to say complacent about) geoblocking as a banal
+occurrence, it’s something that many Americans likely only have a faint
+awareness of, to the extent that they even know it exists. American
+viewers that do encounter geoblocking are likely to fall within two
+overlapping audiences: diasporic groups and viewers who consciously seek
+out media from across borders (for example, cinephiles or fans of
+British television). This makes it a somewhat difficult phenomenon to
+grasp onto in the country. Geoblocking circumvention certainly doesn’t
+have the same currency as it does in, say, Australia or the European
+Union. Put simply, most Americans have likely never experienced
+geoblocking or, at the very least, do not run into it regularly. Their
+relative wealth of access makes geoblocking – and its circumvention –
+less of a nationwide *cause célèbre* and more of a ‘niche’ or
+intermittent experience.
+
+## Geoblocking and Market Hierarchies
+
+Many platforms that distribute American content use geoblocking, because
+the US cultural industries have been particularly militant with regard
+to preserving and controlling the distribution paths of intellectual
+properties. They do so following a business strategy that industry
+executive and author Jeff Ulin refers to as, naturally enough, ‘Ulin's
+Rule’, wherein the distribution value of media content is maximized
+through the exploitation of four factors: ‘time, repeat consumption
+(platforms), exclusivity, and differential pricing’.[^17ElkinsUSA_5] These factors
+are controlled through the development and maintenance of distinct
+spatial and temporal distribution windows that geoblocking helps
+maintain. So, for instance, a film’s US theatrical run would represent
+one window, and subsequent availability of that film on Netflix in
+Germany a few months later would represent another. In retaining
+distribution windows and ordering them along geographic borders (whether
+local, national, regional, continental, etc.), certain territories
+become more valuable or ‘useful’ to American media firms as markets, and
+release dates, prices, and different versions of texts and platforms are
+set accordingly. At the risk of generalizing what are in fact rather
+complex decisions about global distribution markets, this strategy
+enables powerful American media industries to ‘rank’ (even implicitly)
+the importance and value of particular markets relative to each other.
+In the age of DVD, this ranking was made apparent through the numerical
+region code system, with North America designated as Region 1. These
+rankings are still present in the practice of geoblocking even if they
+are less overt.
+
+As this might indicate, if geoblocking can be explained functionally and
+practically by pointing to long-established industry practices, its
+cultural impacts are, for many viewers, more damaging and insulting in
+their valuing of certain territories over others. For instance, one
+*Wired* wiki article on how to access Pandora via VPN refers to
+geoblocking as a system of ‘*xenophobic* restrictions \[that\] are the
+result of U.S. and international copyright laws and restrictions.’[^17ElkinsUSA_6]
+Although it’s not entirely accurate to suggest that geoblocking exists
+purely because of copyright law (rather, it comes about through a
+combination of copyright restrictions, the media industries’
+international distribution and licensing agreements, and platforms not
+having been introduced to particular territories), the fact that some
+see it as a xenophobic and discriminatory practice spurred on by
+predominantly American corporate interests reflects the entanglements
+between geoblocking, American industrial power, and cultural difference.
+So, in addition to its more practical functions of shaping the
+distribution of media content, geoblocking reminds people who live in
+particular territories of their place within a global hierarchy of media
+access. If geoblocking is about access, and access is connected to
+power, then we can begin to think about the cultural and political
+consequences of geoblocking and, in turn, the reasons it makes people so
+angry. In addition, inquiring about what platforms are unavailable where
+(or, if they are technically available, how their costs and content
+libraries differ from the same platforms in other countries) raises
+questions about *why* the world is marked by differential access to new
+media.
+
+If the US and its corporate interests are usually considered major
+forces shaping the geoblocking of platforms and content around the
+world, this makes geoblocking a tricky and curious phenomenon to
+investigate *within* the nation’s borders. Many major entertainment
+platforms that remain geoblocked in territories around the world –
+Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
+US-based corporate entities to serve the American market first and
+foremost. Hulu in particular can essentially be considered a national
+broadcasting platform. Although its library has since grown to
+incorporate film, cable and “international” TV programs, trailers, and
+news, it was created by two of the major American commercial television
+networks (NBC and Fox) as a nationally bound exhibitor of broadcast
+programming. So, while geoblocking is not a part of the national
+conversation as much as it is in other countries, this doesn’t mean that
+it is nonexistent in the US.
+
+## Major Geoblocked Platforms in the United States
+
+The most infamous geoblocked platform in the United States – at least
+until 2011 – was the Swedish streaming music platform Spotify. Spotify
+was initially only available in Europe, and during its early years
+American listeners, critics, and industry figures alike made a lot of
+noise about the cornucopia of free (or at least cheap) music that
+remained just out of their grasp. While American consumers are less
+familiar with the experience of video geoblocking, given the industrial
+might of Hollywood, a few common scenarios can nonetheless be identified
+and are described below.
+
+#### VOD Platforms Developed in or for Another Territory
+
+A commonly repeated axiom holds that the development of VOD platforms
+has lead to – or at least sustains – an increasingly fragmented media
+environment. Even a quick look at the vast array of global streaming and
+OTT services geoblocked outside of their home countries (BBC’s iPlayer,
+Hulu Japan, France’s TF1 on-demand platform, to name just a few) bears
+this out.[^17ElkinsUSA_7] Whereas, in the age of DVD, the region-code system ensured
+that viewers had to contend with one relatively centralized system of
+regional lockout, the issue becomes more complex for viewers contending
+with a VOD environment marked by many different options, contingent
+availability, and constantly shifting libraries. While seeking out
+geographically available platforms can be frustrating for viewers,
+sometimes when a VOD platform is geoblocked in the United States, it
+doesn’t matter much to American users both because the US offers a
+comparable service and because geoblocked platforms naturally will not
+expend promotional energy in a territory where it doesn’t exist. For
+example, LoveFilm, a Netflix-like British VOD service that was
+incorporated into Amazon Prime Instant Video UK in early 2014, was never
+particularly missed or lamented in the US. Ask American users if they
+wish they had access to LoveFilm, and the only ones likely to have heard
+of it will be British expats or tourists. Put simply, with Netflix,
+Hulu, and Amazon Prime Instant Video (US) taking up so much space in the
+market, American viewers needn’t bother with LoveFilm. Unlike, say,
+Spotify, which before its entry into the US market offered something
+quite literally unavailable (free, unlimited a la carte streaming of a
+seemingly comprehensive popular music library), LoveFilm was just
+another VOD service meant for a specific market of UK-based viewers.
+Save the frustrations of British ex-pats, tourists, or business
+travelers from the UK looking to access their home platform, geoblocking
+in this instance shores up a more banal kind of market segmentation.
+
+#### Local, National, and Regional Television Platforms 
+
+As TV networks and channels around the world develop online platforms or
+distribute their content to VOD services, they face the problem of
+maintaining spatial control over distribution routes. The putatively
+global nature of the internet theoretically makes broadcasting’s
+long-held and difficult-to-regulate ‘omnidirectionality’ (to quote media
+historian Thomas Streeter) even more pronounced.[^17ElkinsUSA_8] However, the
+ability to trace the geo-location of internet-connected devices through
+IP address filtering actually makes it quite easy for TV networks to
+control the distribution of television programming through official,
+commercial or public-service streaming platforms.
+
+Given a healthy contingent of Brit TV fans (and \#NBCFail advocates) in
+the US, the BBC’s aforementioned iPlayer is routinely one of the most
+sought-after geoblocked VOD platforms. An on-demand platform available
+via the web and some mobile devices, the iPlayer offers BBC television
+and radio programs for streaming or download primarily to users based in
+the United Kingdom. Those who pay the UK’s television license fee (an
+annual £145.50 fee for all television-owning households that funds the
+BBC), have access to both the platform’s livestreamed and on-demand
+programming. So, the iPlayer is unavailable to those who don’t or can’t
+pay this fee (such as viewers living in the US). And while this
+particular geoblocking arrangement reflects the public nature of the
+BBC, private-sector platforms in the UK like Sky Go are also geoblocked
+to preserve territorial exclusivity of international distribution deals
+and to minimize bandwidth costs incurred by out-of-market audiences.
+
+Beyond the US/UK axis, many public and private national or regional
+television platforms are unavailable in the US for similar reasons
+(i.e., Americans don’t pay taxes and license fees to use the service
+and/or broadcasters are beholden to territory-based distribution and
+licensing agreements). France’s TF1, Canada’s CBC, Qatar’s Al-Jazeera
+(more on them in a bit), Australia’s ABC, and many others have developed
+streaming video services that are geoblocked in the US. This can be a
+problem for diasporic viewers in particular – including students,
+tourists and foreign workers in the United States – who might not care
+as much about accessing HBO Go but may want to access media from their
+home countries via one of these geoblocked platforms. At the same time,
+some media industries that envision their audience as fundamentally
+transnational (e.g., Nollywood, Bollywood, various East Asian and Latin
+American media companies) distribute their content to VOD platforms that
+are *not* geoblocked in the US. These include platforms that specialize
+in various kinds of “international” or non-US content (e.g., the
+Nollywood streaming service iRokoTV and the Korean TV portal DramaFever)
+as well as major US-based platforms like Netflix and Hulu. The latter
+have overtly targeted Latino and Mexican-American diasporic audiences in
+particular, with Hulu carrying a number of telenovelas through its
+partnership with American Spanish-language media company Univision. So,
+while VOD and OTT platforms from throughout Latin America, like
+Televisa’s Veo app, remain geoblocked within the US, these programs may
+be available through other avenues. Indeed, part of the reason these
+services are geoblocked in the US is because American cable and
+streaming companies own the local rights to programs that would
+otherwise be available through those apps. So, the availability of
+particular content and platforms can be complicated for diasporic
+viewers in the US, and it’s often contingent on how highly the American
+media industries value that audience.
+
+#### YouTube, UGC, and Independent Videos Unavailable in the US
+
+Geoblocking in the US (and elsewhere) is not limited to individual
+platforms, nor is it necessarily limited to platforms that were
+developed as extensions of corporate brands. Often, individual videos or
+channels on digital distribution platforms like YouTube will be
+geoblocked to certain territories. This has become an issue as the
+platform has shifted from distributing exclusively user-generated
+content to partnering with major corporations and multi-channel networks
+(MCNs). Indeed, YouTube’s policy on geoblocking limits the practice to
+corporate users who have a Content ID account (i.e., those who “own
+exclusive rights to a substantial body of original material that is
+frequently uploaded by the YouTube user community”).[^17ElkinsUSA_9] So, individual
+user accounts don’t have the option to geoblock videos, but corporate
+media and brand accounts do. And while many of these accounts follow the
+standard practice of serving the United States first and foremost and
+blocking out other countries, others (again, like the BBC) block US
+viewers from their content. Other online video platforms, such as
+Dailymotion, allow developers to geoblock videos in particular countries
+(including the US) using the platform’s API.
+
+## Moments of Circumvention: Making Geoblocking Visible
+
+These conditions suggest that geoblocking circumvention is a more
+specialized practice in the US. This reflects the different standing of
+region-free DVD in the US relative to much of the rest of the world
+during the DVD era. While region-free players were common in many
+nations during the 1990s and 2000s, in the United States they were
+harder to come by, and mostly found within immigrant and cinephile
+communities.[^17ElkinsUSA_10] Although the fragmented nature of the streaming video
+environment and the secretive nature of circumventing geoblocking make
+it difficult to precisely calculate who regularly engages in the
+practice, one can surmise that these same audience segments would be
+drawn to circumvention practices for many of the same reasons that they
+sought out region-free DVD players.
+
+But beyond speculating, where can we actually observe the most visible
+and pronounced moments of geoblocking circumvention in the US? As I
+alluded to, Americans more broadly tend to become aware of geoblocking
+during moments like the Olympics or the World Cup, when they seek out
+broadcasts (and announcers) perceived as superior to the US’s often poor
+coverage. Diasporic viewers and ex-pats looking for media from their
+home countries can also run into geoblocking – British-American viewers
+attempting to access the iPlayer or Venezuelan-Americans bumping into
+the geoblocked Venevisión YouTube channel, for instance. As with many of
+the other examples in this book, these viewers look to proxies and VPNs.
+Of course, most online guides instructing users on how to use VPNs
+address, even implicitly, a non-US audience, as these tend to be the
+viewers who more regularly experience the frustration of geoblocking.
+Even some of the exceptions to this rule acknowledge that geoblocking is
+not primarily a US concern. Many of these come from the blog Lifehacker,
+which regularly instructs its primarily US-based readership on a variety
+of tips and hacks meant to make life easier. The blog has posted several
+tutorials on how to use VPNs, with one suggesting, ‘Non-U.S. users
+frequently encounter the annoyance of geoblocked content when trying to
+access popular sites like Hulu, but every now and then we feel the burn
+in the States, too.’[^17ElkinsUSA_11] Regardless, popular VPN services like Private
+Internet Access, Hide My Ass, and Hola have drawn Americans to their
+user base who use it to access platforms like the iPlayer.
+
+Still, VPN use in the US is as much about online security and privacy
+broadly as it is about circumventing geoblocks. VPN use is part of a
+larger culture of suspicion and caution spurred largely by whistleblower
+Edward Snowden’s massive leak of documents revealing the National
+Security Agency’s (NSA) spying program. One doesn’t need to spend too
+much time on tech sites and forums like Ars Technica, Boing Boing, and
+Reddit to find questions, suggestions, and debates surrounding the use
+of VPNs and other privacy and security technologies. Much of this
+discourse follows a familiar and distinctly American blend of
+libertarianism, tech-utopianism, and intense valuation of privacy, and
+from the perspective of American users it touches on geoblocking
+specifically only intermittently – a state of affairs that contrasts
+with many of the global case studies provided in the rest of this book.
+Americans concerned with online surveillance compare and contrast VPNs
+against other kinds of security and encryption systems (e.g., HTTPS,
+Tor), and indeed the security status of the VPN has come into question
+as of late due to the recent revelation from the Snowden docs that the
+NSA can decrypt VPN communications.
+
+Whether used as a way to circumvent geoblocks or as a more general
+anti-surveillance maneuver, VPNs have an anti-establishment edge to
+them. Because users often regard geoblocking as an oppressive – or at
+least unfair – system of discrimination, there’s a tendency in popular
+and academic discourse to celebrate its circumvention as a form of
+rebellion against anti-competitive media industries and unjust copyright
+regimes. Indeed, in keeping with the close correspondences between the
+American tech industries and libertarian ideology, users often argue
+that geoblocking violates the free market and oppresses personal
+freedoms. But looking at circumvention in the United States, and
+considering the privilege that Americans generally enjoy, it’s worth
+asking whether US-based users circumventing the geoblocked iPlayer
+platform, for example, should be considered resistant – particularly in
+an era when public media is routinely under attack. Indeed, a premise
+that often shapes popular debates and discussions about geoblocking is
+that everyone *should* have access to the same content at the same time
+and the same price, regardless of geographic location – a version of a
+broader cultural attitude that media scholar Lucas Hilderbrand has
+called ‘access entitlement.’[^17ElkinsUSA_12] Because American audiences have
+generally enjoyed the privilege that comes with living in a premier
+media market, US frustrations about geoblocked platforms reflect
+assumptions that Americans should be able to access online art and
+entertainment made available to those living in other parts of the
+world.
+
+This all indicates that it’s important to consider *why* particular
+platforms are geoblocked and under what conditions, as well as what it
+means when people try to circumvent geoblocking in these different
+conditions. There’s a tendency to assume that because a particular
+platform is not available in a territory, the platform owners should be
+to blame. But the lack of iPlayer and Al Jazeera English in the United
+States in fact speaks not only to the desires of those agencies to
+prohibit American viewers from accessing these platforms but also to the
+power of the American cable companies in shaping what US viewers do and
+don’t have access to. Regarding the iPlayer, the BBC announced that the
+platform would be made available in the United States, but that was put
+on hold after threats from cable companies who were worried that the
+iPlayer would carry shows already aired by US cable network BBC America.
+So, the cable networks threatened to stop carrying BBC America if BBC
+Worldwide introduced the iPlayer to the US.[^17ElkinsUSA_13] Al Jazeera English is
+unavailable for similar reasons. At the launch of cable channel Al
+Jazeera America in the United States in 2013, Al Jazeera English
+geoblocked its livestream and its YouTube news reports in the US at the
+behest of the American cable and satellite companies (though it
+eventually dropped the geoblock on the YouTube videos).[^17ElkinsUSA_14]
+Essentially, the cable companies wanted to avoid competition from Al
+Jazeera English.
+
+One consequence of this is that instead of gaining access to the
+‘original’ national version of a platform, US viewers can watch a
+different adaptation of it. In other words, geoblocking helps sustain a
+‘glocalized’ approach to international expansion wherein products are
+adapted to local markets. Now, this isn’t always and necessarily a bad
+thing. Presumably, tailoring a product to a local market could make it
+more appealing to consumers in that market by making it feel closer to
+their own cultural experience. At the same time, British ex-pats and
+Anglophiles in the US might want access to the national public BBC
+platform rather than (or in addition to) a commercial BBC America
+channel that’s clogged with James Bond films and *Star Trek: The Next
+Generation* reruns and that offers commercial-interrupted BBC
+programming later than its initial UK airdate.[^17ElkinsUSA_15]
+
+More seriously, though, when viewers in the United States, whether part
+of a diasporic community or not, want to keep up with news about and
+from the Middle East, they have turned to Al Jazeera. Many viewers in
+the US perceive Al Jazeera’s coverage as superior to US cable news, and
+journalist Max Blumenthal captures the cultural significance of the
+geoblocking of Al Jazeera English in his lament that American viewers
+will need to use a VPN to find ‘an alternative to the mind-numbing,
+sensationalistic content familiar to CNN, Fox News, and MSNBC.’[^17ElkinsUSA_16]
+Here, the circumvention of geoblocking takes on a particular social
+value in that it enables an escape from the dreck that US news consumers
+regularly see. Further, for diasporic viewers living in the US,
+circumventing these geoblocks can help them access news or entertainment
+from their home territories. Either way, the circumvention of
+geoblocking can figure as relief from the hegemony of dominant American
+media.
+
+## Conclusion
+
+All this is to say that within a territory that has long operated as a
+seat of global power, geoblocking reminds viewers of their place within
+hierarchies of cultural power and privilege in a variety of ways. As a
+result, the practice of circumvention means something different in
+different contexts. On one hand, diasporic viewers who are unable to
+access particular platforms might see this as yet another experience
+indicating their geo-cultural displacement and their position as viewers
+not regularly and immediately catered to by the cultural industries. On
+the other hand, for US-based audiences, circumventing geoblocked
+platforms can represent a kind of access entitlement presuming that in a
+digitally connected age, one *should* be able to access everything. When
+this access is interrupted, as in when \#NBCFail led many Americans to
+engage in geoblocking circumvention, they serve as reminders that the
+United States is not a placeless, universal entity in the global media
+economy and that it can be subject to many of the disconnections and
+disjunctures that viewers around the world experience more regularly.
+
+**References**
+
+‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*, 13 May
+2010,
+[http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World](http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World).
+
+Appelbaum, Jacob et al., ‘Prying Eyes: Inside the NSA’s War on Internet
+Security’, *Der Spiegel*, 28 December 2014,
+[http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
+
+Becker, Christine. ‘Access is Elementary: Crossing Television’s
+Distribution Borders’, *FlowTV.org*, 13 January 2014,
+[http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame).
+
+Blumenthal, Max. ‘Exclusive: Al Jazeera’s English Online US Broadcast to
+End with the Launch of Al Jazeera America’, *Mondoweiss*, 1 August 2013,
+[http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
+
+‘Buy Safe and Secure VPN’, *Private Internet Access*,
+[https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
+
+‘Committee Seeks IT Pricing Equity’, *AAP General News Wire* (Sydney),
+29 July 2013.
+
+Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent Freak*,
+29 August 2013,
+[https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829).
+
+Hern, Alex. ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’, *New
+Statesman*, 19 June 2012,
+[http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
+
+Hilderbrand, Lucas. *Inherent Vice: Bootleg Histories of Video and
+Copyright*, Durham, NC: Duke University Press, 2009.
+
+‘How Content ID Works’, *YouTube Help*, 2015,
+[https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
+
+Luh, James C. ‘Breaking Down DVD Borders’, *Washington Post*, 1 June
+2001.
+
+Pash, Adam. ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from
+Outside the U.K’, *Lifehacker*, 29 March 2010,
+[http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
+
+Roettgers, Janko. ‘Al Jazeera English Unblocks its YouTube Videos for
+US-based Viewers’, *Gigaom*, 24 September 2013,
+[https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
+
+Santus, Rex, ‘Netflix is Now in 36% of Homes Across the United States’
+*Mashable*, 12 March 2015,
+[http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
+
+Stelter, Brian. ‘Hiccup for Debut of Al Jazeera America’, *New York
+Times*, 21 August 2013.
+
+Streeter, Thomas. *Selling the Air: A Critique of the Policy of
+Commercial Broadcasting in the United States*, Chicago: University of
+Chicago Press, 1996.
+
+Turner, Adam. ‘Content Unlimited’, *Sydney Morning Herald*, 14 July
+2013,
+[http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html](http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html).
+
+Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
+and Video Content*, Burlington, MA: Focal Press, 2000.
+
+[^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
+    States’ *Mashable*, 12 March 2015,
+    [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
+
+[^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
+    Internet Security’, *Der Spiegel*, 28 December 2014,
+    [http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
+
+[^17ElkinsUSA_3]: ‘Buy Safe and Secure VPN’, *Private Internet Access*,
+    [https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
+
+[^17ElkinsUSA_4]: Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent
+    Freak*, 29 August 2013,
+    [https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://www.privateinternetaccess.com/pages/buy-vpn).
+
+[^17ElkinsUSA_5]: Jeff Ulin, *The Business of Media Distribution: Monetizing Film,
+    TV, and Video Content*, Burlington, MA: Focal Press, 2000, p. 5.
+
+[^17ElkinsUSA_6]: ‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*,
+    13 May 2010,
+    [http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World](http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World).
+    My emphasis.
+
+[^17ElkinsUSA_7]: Space is far too limited to catalog the scores of VOD platforms
+    available around the world, but a comprehensive, if by this point
+    somewhat out-of-date, snapshot of the global streaming film
+    landscape can be found in the appendices in Dina Iordanova and
+    Stuart Cunningham (eds) *Digital Disruption: Cinema Moves On-Line*,
+    St. Andrews: St. Andrews Film Studies, 2012.
+
+[^17ElkinsUSA_8]: Thomas Streeter, *Selling the Air: A Critique of the Policy of
+    Commercial Broadcasting in the United States*, Chicago: University
+    of Chicago Press, 1996, p. 61.
+
+[^17ElkinsUSA_9]: ‘How Content ID Works’, *YouTube Help*, 2015,
+    [https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
+
+[^17ElkinsUSA_10]: A 2001 *Washington Post* piece reporting on DVD region codes
+    suggested that the major consumers of region-free DVD players in the
+    US comprised a ‘small market’ made up of ‘immigrants who want to
+    watch movies from their home countries, language students, and
+    foreign-film enthusiasts.’ James C. Luh, ‘Breaking Down DVD
+    Borders’, *Washington Post*, 1 June 2001.
+
+[^17ElkinsUSA_11]: Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor
+    Who) from Outside the U.K’.
+
+[^17ElkinsUSA_12]: Lucas Hilderbrand, *Inherent Vice: Bootleg Histories of Video and
+    Copyright*, Durham, NC: Duke University Press, 2009, p. 229.
+
+[^17ElkinsUSA_13]: Alex Hern, ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’,
+    *New Statesman*, 19 June 2012,
+    [http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
+
+[^17ElkinsUSA_14]: Brian Stelter, ‘Hiccup for Debut of Al Jazeera America’, *New
+    York Times*, 21 August 2013. On dropping the YouTube geoblock, see
+    Janko Roettgers, ‘Al Jazeera English Unblocks its YouTube Videos for
+    US-based Viewers’, *Gigaom*, 24 September 2013,
+    [https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
+
+[^17ElkinsUSA_15]: For more on the issues that attend geoblocking between the US and
+    UK specifically, see Christine Becker, ‘Access is Elementary:
+    Crossing Television’s Distribution Borders’, *FlowTV.org*, 13
+    January 2014,
+    [http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame).
+
+[^17ElkinsUSA_16]: Max Blumenthal, ‘Exclusive: Al Jazeera’s English Online US
+    Broadcast to End with the Launch of Al Jazeera America’,
+    *Mondoweiss*, 1 August 2013,
+    [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
 
 
 
@@ -8347,556 +8469,994 @@ comunicológico para su estudio*, PhD diss., Havana University, Cuba,
 
 
 
+#Iran: A Friction between State Ideology and Network Society
 
-# The USA: Geoblocking in a Privileged Market
+###Hadi Sohrabi###
+*Swinburne University of Technology*
 
-### Evan Elkins
+###Behzad Dowran###
+*Iranian Research Institute for Information Science & Technology
+(IranDoc)*
 
+  
+####DATA BOX{.statbox}
+- 75 million: total population
+- 23 million: estimated number of internet users
+- 69 %: percentage of internet users who use circumvention tools
+- 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
+  
+President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
 
-
-####DATA BOX {.statbox}
-- 36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1]<br/>
-- 20,000: Number of VPN communications the NSA aimed to survey per hour in 2011, according to the Edward Snowden documents.[^17ElkinsUSA_2]<br/>
-- \$39.95: Cost for a yearly subscription to popular VPN service Private Internet Access, in US\$.[^17ElkinsUSA_3]<br/>
-- 22.6%: Percentage of North American Pirate Bay users who use a VPN service, according to a 2013 survey [^17ElkinsUSA_4]<br/> 
-
->‘every now and then we feel the burn in the States, too.’ –*Lifehacker* blogger Adam Pash, in 2010. 
+(Images)A government notice for blocked websites
 
 ####
+The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
+rise of audio-visual black markets after the 1979 Islamic revolution.
+Losing his music store during Islamization, our protagonist Salim starts
+to sell unauthorized products on the black market. In one scene, Salim
+leaves his house with a bag full of unauthorized audio cassette tapes.
+At a street stall, a chubby boy is calling out ‘New Cassette!’, ‘New
+Cassette!’, but he changes his words to ‘New Ahangaran![^1]’ when an
+Islamist militiaman is passing. Salim meets his business partner in a
+public park to deliver the bag, but the Revolutionary Guard officers
+chase them and arrest his partner; Salim manages to run away. Twenty
+years later, we see Salim has upgraded his devices to CDs and DVDs
+instead of audio cassettes. He is also negotiating with a partner to
+enter into an emerging market: satellite dishes.
 
-The hashtag \#NBCFail, which popped up regularly on social media in the
-summer of 2012, represented yet another chapter in the long story of
-American audiences’ irritation at the often shallow, shoddy character of
-their national broadcast networks. This time, the target of viewers’ ire
-was NBC’s coverage of that year’s Summer Olympics in London. Frustrated
-with tape-delayed events and the network’s US-centric commentary, United
-States viewers naturally sought out the BBC’s telecast as an
-alternative. Savvy viewers who did their research may have stumbled upon
-the BBC’s iPlayer platform. The iPlayer was livestreaming the BBC’s
-coverage of the Olympics, and thus promised live, superior coverage and
-an escape from NBC’s jingoistic slant. Upon navigating to that platform,
-however, Americans found this message: ‘BBC iPlayer TV programmes are
-available to play in the UK only’.
+The movie portrays the black market keeping pace with technological
+changes, from audio and video cassettes in the 1980s to DVDs and
+satellite television in the 2000s. Soon after the 1979 Islamic
+revolution, the clerical rulers imposed Islamic principles on almost all
+social and political institutions, from marriage, divorce and penal
+codes to banking and commerce. The state attempted not only to transform
+social and political structures, but also to control people’s moral
+attitudes. Books, newspapers, magazines, music, and movies were
+subjected to extensive regulation and censorship. The state-owned
+television and radio dominated the media landscape in the
+post-revolutionary era.
 
-![Figure 1 An example of geoblocked content on BBC iPlayer](imgs/ElkinsGeoblocking1.png)
-*Figure 1 An example of geoblocked content on BBC iPlayer*
+The new regime presented its restrictive policies as defending Islam and
+Iranian national interests against western ‘cultural invasion’ and ‘soft
+war’. Underlying these representations were the authorities’ concerns
+about the increasing secularization of society and the growing
+alienation of youth from the state. Unwilling to acknowledge the
+ineffectiveness of forceful Islamization, the hardliners have accused
+the western media of subverting Islamic values and threatening the
+state’s political legitimacy.
 
-In these moments, US residents confronted an experience of transnational
-viewing with which many around the world were already familiar. Viewers
-living in other countries understand geoblocking as a form of power
-emanating from major media conglomerates, many of which are rooted in
-Hollywood-based (yet globalized) cultural industries. As many of this
-book’s other chapters make clear, geoblocking is just a part of the
-everyday viewing experience for people around the globe – albeit an
-often-frustrating one. Many of these experiences involve attempts at
-accessing American programming through platforms like Hulu or the
-American version of Netflix. But given that many of the platforms
-usually targeted in global complaints about geoblocking are, in fact,
-available in the US, what does geoblocking look like from *within* the
-United States? And how and why do people circumvent it?
+The black market of CDs and DVDs is still alive. Around Enqelab square
+in Tehran, many video dealers sell uncensored Hollywood movies. At times
+the police raid the area and confiscate the DVDs. Nevertheless, the
+internet and satellite television have largely replaced such markets.
+Reducing the regime’s grip on information flow, new communication
+technologies have provided Iranians with unprecedented access to global
+news, information, and images. Feeling gravely threatened, the
+government has invested vast sums of money, instituted several councils
+and bodies, and devised many policies, laws and regulations to control
+and curb cross-border information flow. In what follows, we describe the
+methods employed by the government to restrict citizens’ access to
+global media content and those employed by citizens to circumvent
+censorship – from illegal satellite dishes to VPNs, proxies and
+peer-to-peer networking. In particular, we focus on the internet and
+satellite television, the technologies that have generated significant
+political and cultural conflicts in Iran and created video cultures
+outside official channels.
 
-Geoblocking in the United States is generally invisible – until it
-isn’t. In other words, whereas viewers around the world have grown used
-to (which is not to say complacent about) geoblocking as a banal
-occurrence, it’s something that many Americans likely only have a faint
-awareness of, to the extent that they even know it exists. American
-viewers that do encounter geoblocking are likely to fall within two
-overlapping audiences: diasporic groups and viewers who consciously seek
-out media from across borders (for example, cinephiles or fans of
-British television). This makes it a somewhat difficult phenomenon to
-grasp onto in the country. Geoblocking circumvention certainly doesn’t
-have the same currency as it does in, say, Australia or the European
-Union. Put simply, most Americans have likely never experienced
-geoblocking or, at the very least, do not run into it regularly. Their
-relative wealth of access makes geoblocking – and its circumvention –
-less of a nationwide *cause célèbre* and more of a ‘niche’ or
-intermittent experience.
+##Satellite Television: a New Video Culture
 
-## Geoblocking and Market Hierarchies
+To understand Internet circumvention in Iran, we must take a step back
+to consider an earlier kind of unauthorised media. Since the 1990s,
+foreign-based Persian-language satellite channels have mushroomed,
+posing a serious challenge to the regime’s monopoly over broadcast
+media. The satellite television networks offer all sorts of programs,
+ranging from news, commentary and politics to music, entertainment and
+soap operas. The state has banned satellite television ‘to protect the
+country’s cultural borders and the foundations of family’ against
+immoral content. The law bans selling, buying, installing, and using
+satellite television equipment such as dishes and receivers.
+Nevertheless, the majority of Iranians easily access these channels by
+installing dishes on rooftops and balconies. The Minister of Culture and
+Islamic Guidance, Ali Jannati, reported that 71 per cent of people in
+Tehran watch satellite TV.[^2] Although this figure is likely to be
+inflated, watching satellite TV has no doubt become a widespread
+practice among city dwellers.
 
-Many platforms that distribute American content use geoblocking, because
-the US cultural industries have been particularly militant with regard
-to preserving and controlling the distribution paths of intellectual
-properties. They do so following a business strategy that industry
-executive and author Jeff Ulin refers to as, naturally enough, ‘Ulin's
-Rule’, wherein the distribution value of media content is maximized
-through the exploitation of four factors: ‘time, repeat consumption
-(platforms), exclusivity, and differential pricing’.[^17ElkinsUSA_5] These factors
-are controlled through the development and maintenance of distinct
-spatial and temporal distribution windows that geoblocking helps
-maintain. So, for instance, a film’s US theatrical run would represent
-one window, and subsequent availability of that film on Netflix in
-Germany a few months later would represent another. In retaining
-distribution windows and ordering them along geographic borders (whether
-local, national, regional, continental, etc.), certain territories
-become more valuable or ‘useful’ to American media firms as markets, and
-release dates, prices, and different versions of texts and platforms are
-set accordingly. At the risk of generalizing what are in fact rather
-complex decisions about global distribution markets, this strategy
-enables powerful American media industries to ‘rank’ (even implicitly)
-the importance and value of particular markets relative to each other.
-In the age of DVD, this ranking was made apparent through the numerical
-region code system, with North America designated as Region 1. These
-rankings are still present in the practice of geoblocking even if they
-are less overt.
+The authorities have used various methods of crackdown. At times, the
+police raid buildings and confiscate dishes. They have used helicopters
+to scan rooftops and cranes to seize dishes from balconies. Police have
+abseiled down the sides of tall buildings in search of dishes. These
+methods have largely been futile because the dishes have soon reappeared
+on rooftops. These familiar cat-and-mouse games have been memorably
+depicted in Iranian movies such as Parisa Bakhtavar’s *Tambourine* and
+Abdolreza Kahani’s *Absolute Rest*.
 
-As this might indicate, if geoblocking can be explained functionally and
-practically by pointing to long-established industry practices, its
-cultural impacts are, for many viewers, more damaging and insulting in
-their valuing of certain territories over others. For instance, one
-*Wired* wiki article on how to access Pandora via VPN refers to
-geoblocking as a system of ‘*xenophobic* restrictions \[that\] are the
-result of U.S. and international copyright laws and restrictions.’[^17ElkinsUSA_6]
-Although it’s not entirely accurate to suggest that geoblocking exists
-purely because of copyright law (rather, it comes about through a
-combination of copyright restrictions, the media industries’
-international distribution and licensing agreements, and platforms not
-having been introduced to particular territories), the fact that some
-see it as a xenophobic and discriminatory practice spurred on by
-predominantly American corporate interests reflects the entanglements
-between geoblocking, American industrial power, and cultural difference.
-So, in addition to its more practical functions of shaping the
-distribution of media content, geoblocking reminds people who live in
-particular territories of their place within a global hierarchy of media
-access. If geoblocking is about access, and access is connected to
-power, then we can begin to think about the cultural and political
-consequences of geoblocking and, in turn, the reasons it makes people so
-angry. In addition, inquiring about what platforms are unavailable where
-(or, if they are technically available, how their costs and content
-libraries differ from the same platforms in other countries) raises
-questions about *why* the world is marked by differential access to new
-media.
+The state has also employed more sophisticated and effective methods
+such as satellite jamming. Powerful noise signals are sent directly to
+satellites such as HotBird and Eutelsat, mixing frequencies and jamming
+their signals. Home viewers then see scrambled images on screen. BBC
+Persian and Voice of America (VoA) have been the typical targets. Iran
+has never acknowledged using such methods, but international
+organizations have claimed that the jamming signals are sent from within
+Iran. The UN telecommunications body (ITU) and the European Union have
+called on the Iranian government to stop satellite jamming and
+‘electronic interference’. It is also widely believed that the
+Revolutionary Guard runs the jamming system. Not surprisingly, the
+regime uses this method more actively at times of political upheaval and
+during elections.
 
-If the US and its corporate interests are usually considered major
-forces shaping the geoblocking of platforms and content around the
-world, this makes geoblocking a tricky and curious phenomenon to
-investigate *within* the nation’s borders. Many major entertainment
-platforms that remain geoblocked in territories around the world –
-Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
-US-based corporate entities to serve the American market first and
-foremost. Hulu in particular can essentially be considered a national
-broadcasting platform. Although its library has since grown to
-incorporate film, cable and “international” TV programs, trailers, and
-news, it was created by two of the major American commercial television
-networks (NBC and Fox) as a nationally bound exhibitor of broadcast
-programming. So, while geoblocking is not a part of the national
-conversation as much as it is in other countries, this doesn’t mean that
-it is nonexistent in the US.
+Despite the attempts outlined above, Iranians have integrated satellite
+television into their daily lives. Political channels such as BBC
+Persian and Voice of America (VoA) continue to influence public opinion
+by highlighting and disseminating news, images, videos and information
+that the state tries to suppress. Persian-language entertainment
+channels such as Manoto have attracted large audience by running
+western-style talent shows and competitions. Other channels such as GEM
+TV and Farsi One have attracted viewers by screening popular movies and
+soap operas. None of the above mentioned methods have proved effective
+in discouraging ordinary people from watching satellite TV. At times of
+political upheaval, the state has been relatively successful in jamming
+some political channels; at other times, however, satellite channels
+have managed to reach out to viewers and help create a video culture
+very different from the ideologically-fuelled one promoted by the state
+television.
 
-## Major Geoblocked Platforms in the United States
+##A Halal Internet
 
-The most infamous geoblocked platform in the United States – at least
-until 2011 – was the Swedish streaming music platform Spotify. Spotify
-was initially only available in Europe, and during its early years
-American listeners, critics, and industry figures alike made a lot of
-noise about the cornucopia of free (or at least cheap) music that
-remained just out of their grasp. While American consumers are less
-familiar with the experience of video geoblocking, given the industrial
-might of Hollywood, a few common scenarios can nonetheless be identified
-and are described below.
+Statistics on the number of Iranian internet users are inconsistent.
+While the Iranian government counts about 40 million internet users out
+of a population of 75 million, the World Bank estimates the number to be
+around 23 million.[^3] The Iranian Minister of Culture and Islamic
+Guidance, Ali Jannati, reported that 9.5 million Iranians use Viber and
+4 to 5 million use Facebook.[^4] Although the Universal Declaration of
+Human Rights considers everyone entitled ‘to seek, receive and impart
+information and ideas through any media and regardless of frontiers’,
+Iran, which is a signatory, has blocked social media sites such as
+Facebook and YouTube, political dissidents’ blogs and websites, and
+international news websites.
 
-#### VOD Platforms Developed in or for Another Territory
+The London-based advocacy group Small Media reports a threefold strategy
+employed by the government to control the internet. Firstly, Authorities
+aim to ‘prevent’ users from accessing the perceived threatening content
+through keyword filtering, URL blacklisting, and broadband speed
+limitations. For example, users who attempt to access YouTube see the
+following image, which reads: ‘Access to the requested website is not
+possible’, and introduces a list of miscellaneous websites. Next, they
+exploit technology to ‘intercept’ those who have managed to get around
+censorship through monitoring, tracking and blocking internet traffic.
+Lastly, internet activists and developers are arrested and connections
+are throttled during political turmoils.[^5]
 
-A commonly repeated axiom holds that the development of VOD platforms
-has lead to – or at least sustains – an increasingly fragmented media
-environment. Even a quick look at the vast array of global streaming and
-OTT services geoblocked outside of their home countries (BBC’s iPlayer,
-Hulu Japan, France’s TF1 on-demand platform, to name just a few) bears
-this out.[^17ElkinsUSA_7] Whereas, in the age of DVD, the region-code system ensured
-that viewers had to contend with one relatively centralized system of
-regional lockout, the issue becomes more complex for viewers contending
-with a VOD environment marked by many different options, contingent
-availability, and constantly shifting libraries. While seeking out
-geographically available platforms can be frustrating for viewers,
-sometimes when a VOD platform is geoblocked in the United States, it
-doesn’t matter much to American users both because the US offers a
-comparable service and because geoblocked platforms naturally will not
-expend promotional energy in a territory where it doesn’t exist. For
-example, LoveFilm, a Netflix-like British VOD service that was
-incorporated into Amazon Prime Instant Video UK in early 2014, was never
-particularly missed or lamented in the US. Ask American users if they
-wish they had access to LoveFilm, and the only ones likely to have heard
-of it will be British expats or tourists. Put simply, with Netflix,
-Hulu, and Amazon Prime Instant Video (US) taking up so much space in the
-market, American viewers needn’t bother with LoveFilm. Unlike, say,
-Spotify, which before its entry into the US market offered something
-quite literally unavailable (free, unlimited a la carte streaming of a
-seemingly comprehensive popular music library), LoveFilm was just
-another VOD service meant for a specific market of UK-based viewers.
-Save the frustrations of British ex-pats, tourists, or business
-travelers from the UK looking to access their home platform, geoblocking
-in this instance shores up a more banal kind of market segmentation.
+![](imgs/iran.png)
 
-#### Local, National, and Regional Television Platforms 
+Fig. 1: Iranian internet users see this government notice when trying to
+access blocked websites. It reads: “Access to the requested website is
+not possible. Please click here to access reports and complaints.”
 
-As TV networks and channels around the world develop online platforms or
-distribute their content to VOD services, they face the problem of
-maintaining spatial control over distribution routes. The putatively
-global nature of the internet theoretically makes broadcasting’s
-long-held and difficult-to-regulate ‘omnidirectionality’ (to quote media
-historian Thomas Streeter) even more pronounced.[^17ElkinsUSA_8] However, the
-ability to trace the geo-location of internet-connected devices through
-IP address filtering actually makes it quite easy for TV networks to
-control the distribution of television programming through official,
-commercial or public-service streaming platforms.
+Taking office as President in 2013, Hassan Rouhani criticized internet
+censorship, raising hopes for reducing internet barriers (to be
+discussed further below). However, he faced fierce opposition from
+conservative rivals. In 2014, as soon as the ICT ministry issued 3G and
+4G licenses to two mobile-phone operators, a leading cleric called on
+the government to revoke them because ‘dirty pictures and clips’ could
+poison young minds.[^6] Comparing these technologies to ‘unsanitary and
+muddy water’, and worrying about ‘all sorts of polluted films without
+any filtering’, he declared that ‘3G mobile communication services and
+higher are against Sharia \[Islamic law\] and moral and human norms’.
 
-Given a healthy contingent of Brit TV fans (and \#NBCFail advocates) in
-the US, the BBC’s aforementioned iPlayer is routinely one of the most
-sought-after geoblocked VOD platforms. An on-demand platform available
-via the web and some mobile devices, the iPlayer offers BBC television
-and radio programs for streaming or download primarily to users based in
-the United Kingdom. Those who pay the UK’s television license fee (an
-annual £145.50 fee for all television-owning households that funds the
-BBC), have access to both the platform’s livestreamed and on-demand
-programming. So, the iPlayer is unavailable to those who don’t or can’t
-pay this fee (such as viewers living in the US). And while this
-particular geoblocking arrangement reflects the public nature of the
-BBC, private-sector platforms in the UK like Sky Go are also geoblocked
-to preserve territorial exclusivity of international distribution deals
-and to minimize bandwidth costs incurred by out-of-market audiences.
+Perhaps Iran’s most ambitious plan for extending its control over the
+internet has been the launching of a “walled-off” national internet. The
+network will connect government ministries, universities, banks,
+healthcare, tax systems, and other state institutions through local
+servers. Although users will benefit from higher speed and better
+cyber-security, many are concerned that the government’s main motive is
+to consolidate its control over the internet. In response to such
+concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national
+internet ‘is not in competition with the Internet’ and that ‘if users
+cannot find the data that they are looking for on the national internet,
+then they will be able to access the Internet to search for it,
+instead’.[^7] Put it simply, the government aims to obtain the capacity
+of switching off the internet without disrupting public services, banks,
+and corporations. It is, however, unlikely that the government could
+completely detach Iran from the global internet; the more likely outcome
+would be a ‘dual-internet structure’ like that currently used in some
+other authoritarian countries.[^8]
 
-Beyond the US/UK axis, many public and private national or regional
-television platforms are unavailable in the US for similar reasons
-(i.e., Americans don’t pay taxes and license fees to use the service
-and/or broadcasters are beholden to territory-based distribution and
-licensing agreements). France’s TF1, Canada’s CBC, Qatar’s Al-Jazeera
-(more on them in a bit), Australia’s ABC, and many others have developed
-streaming video services that are geoblocked in the US. This can be a
-problem for diasporic viewers in particular – including students,
-tourists and foreign workers in the United States – who might not care
-as much about accessing HBO Go but may want to access media from their
-home countries via one of these geoblocked platforms. At the same time,
-some media industries that envision their audience as fundamentally
-transnational (e.g., Nollywood, Bollywood, various East Asian and Latin
-American media companies) distribute their content to VOD platforms that
-are *not* geoblocked in the US. These include platforms that specialize
-in various kinds of “international” or non-US content (e.g., the
-Nollywood streaming service iRokoTV and the Korean TV portal DramaFever)
-as well as major US-based platforms like Netflix and Hulu. The latter
-have overtly targeted Latino and Mexican-American diasporic audiences in
-particular, with Hulu carrying a number of telenovelas through its
-partnership with American Spanish-language media company Univision. So,
-while VOD and OTT platforms from throughout Latin America, like
-Televisa’s Veo app, remain geoblocked within the US, these programs may
-be available through other avenues. Indeed, part of the reason these
-services are geoblocked in the US is because American cable and
-streaming companies own the local rights to programs that would
-otherwise be available through those apps. So, the availability of
-particular content and platforms can be complicated for diasporic
-viewers in the US, and it’s often contingent on how highly the American
-media industries value that audience.
+Work on the national internet project started in 2005, and has
+progressed slowly since then. In recent years, at least two events
+caused the conservative authorities to be more determined to carry the
+project through. In the aftermath of the 2009 presidential election,
+where millions of Iranians took to the streets to protest against
+Mahmoud Ahmadinejad’s disputed victory, the regime experienced an
+unprecedented challenge to official media control. During rallies,
+protesters used their mobile phones to take pictures and video footage
+of police brutality and violence, posting them on social media. Global
+news coverage of the regime’s brutal crackdown led to the condemnation
+of the regime by many international human rights organizations and
+governments. The second alarming event was the Stuxnet attacks on
+Iranian nuclear facilities in 2010, where the country’s prized nuclear
+arsenal was overtaken by a computer virus, thus highlighting the
+perceived threat posed by foreign, unauthorised digital technologies to
+the Iranian state.
 
-#### YouTube, UGC, and Independent Videos Unavailable in the US
+##Internet Circumvention Tools
 
-Geoblocking in the US (and elsewhere) is not limited to individual
-platforms, nor is it necessarily limited to platforms that were
-developed as extensions of corporate brands. Often, individual videos or
-channels on digital distribution platforms like YouTube will be
-geoblocked to certain territories. This has become an issue as the
-platform has shifted from distributing exclusively user-generated
-content to partnering with major corporations and multi-channel networks
-(MCNs). Indeed, YouTube’s policy on geoblocking limits the practice to
-corporate users who have a Content ID account (i.e., those who “own
-exclusive rights to a substantial body of original material that is
-frequently uploaded by the YouTube user community”).[^17ElkinsUSA_9] So, individual
-user accounts don’t have the option to geoblock videos, but corporate
-media and brand accounts do. And while many of these accounts follow the
-standard practice of serving the United States first and foremost and
-blocking out other countries, others (again, like the BBC) block US
-viewers from their content. Other online video platforms, such as
-Dailymotion, allow developers to geoblock videos in particular countries
-(including the US) using the platform’s API.
+Despite government restrictions, users often find ways to get around
+internet censorship. In a survey conducted by Iran’s Ministry of Youth
+Affairs and Sport, 69 per cent of respondents said they use
+anti-filtering software.[^9] Ironically, users can even buy VPNs through
+official online payment gateways, such as PardakhtNet! Given how easily
+available these VPN services are, it is widely believed that segments of
+the ruling establishment (including elements within the Revolutionary
+Guard) facilitate the trade to earn money.[^10] In this environment,
+critics rightly question the effectiveness of numerous laws, policies,
+and regulations in place to control internet access. Criticizing his
+conservative opponents, the moderate president Hassan Rouhani asked:
+‘Supporters of internet filtering should explain whether they've
+successfully restricted access to information? Which important piece of
+news has filtering been able to black out in recent years?’ He
+continued: ‘Filtering has not even stopped people from accessing
+unethical \[pornographic\] websites. Widespread online filtering will
+only increase distrust between the people and the state’[^11].
 
-## Moments of Circumvention: Making Geoblocking Visible
+Users take advantage of numerous tools to get around censorship. A
+Freedom House survey revealed that VPNs, Google (Reader, Translation,
+Cache), and Your Freedom are the most popular circumvention tools in
+Iran. The survey listed the most popular tools in Iran as the following:
+Dynaweb, Freegate, Freenet, Garden GTunnel, Google, Gpass,
+HotspotShield, JAP, Proxy, Psiphon, Tor, Ultrasurf, Your Freedom, and
+VPN.[^12] Filtershekanha (means ‘Filter breakers’) is an email list with
+over 100,000 subscribers through which information about VPNs is
+distributed among users. Another survey of 423 users, conducted by Small
+Media, found that Hotspot Shield, Psiphon, and Kerio are favored by
+users.[^13] Other surveys have also reported the widespread use of the
+web proxy service Hotspot Shield and Psiphon3, a peer-to-peer VPN app
+for Android and Windows.[^14] As of 2013, Psiphon claimed to have
+700,000 to 900,000 daily unique users in Iran. This number is now
+believed to have surpassed one million.[^15]
 
-These conditions suggest that geoblocking circumvention is a more
-specialized practice in the US. This reflects the different standing of
-region-free DVD in the US relative to much of the rest of the world
-during the DVD era. While region-free players were common in many
-nations during the 1990s and 2000s, in the United States they were
-harder to come by, and mostly found within immigrant and cinephile
-communities.[^17ElkinsUSA_10] Although the fragmented nature of the streaming video
-environment and the secretive nature of circumventing geoblocking make
-it difficult to precisely calculate who regularly engages in the
-practice, one can surmise that these same audience segments would be
-drawn to circumvention practices for many of the same reasons that they
-sought out region-free DVD players.
+Small Media reports that the terrain of Internet circumvention is
+increasingly shifting to mobile, with the most popular tools having
+easy-to-use mobile-enabled interfaces now. It also points out that, TOR,
+despite its strong privacy protection, is not very popular among
+Iranians partly because it has been constantly attacked by the
+government. Overall, Iranians seem to care more about ease of access
+than security. There are also anti-filtering tools that are unique to
+Iran. For example, Simurgh is ‘Iranian stand-alone proxy software’ which
+has been widely used since 2009; due to its small size (1 MB), users
+with low speed connection can download it easily. It is also free. This
+software has been recently used by Syrian dissidents.[^16]
 
-But beyond speculating, where can we actually observe the most visible
-and pronounced moments of geoblocking circumvention in the US? As I
-alluded to, Americans more broadly tend to become aware of geoblocking
-during moments like the Olympics or the World Cup, when they seek out
-broadcasts (and announcers) perceived as superior to the US’s often poor
-coverage. Diasporic viewers and ex-pats looking for media from their
-home countries can also run into geoblocking – British-American viewers
-attempting to access the iPlayer or Venezuelan-Americans bumping into
-the geoblocked Venevisión YouTube channel, for instance. As with many of
-the other examples in this book, these viewers look to proxies and VPNs.
-Of course, most online guides instructing users on how to use VPNs
-address, even implicitly, a non-US audience, as these tend to be the
-viewers who more regularly experience the frustration of geoblocking.
-Even some of the exceptions to this rule acknowledge that geoblocking is
-not primarily a US concern. Many of these come from the blog Lifehacker,
-which regularly instructs its primarily US-based readership on a variety
-of tips and hacks meant to make life easier. The blog has posted several
-tutorials on how to use VPNs, with one suggesting, ‘Non-U.S. users
-frequently encounter the annoyance of geoblocked content when trying to
-access popular sites like Hulu, but every now and then we feel the burn
-in the States, too.’[^17ElkinsUSA_11] Regardless, popular VPN services like Private
-Internet Access, Hide My Ass, and Hola have drawn Americans to their
-user base who use it to access platforms like the iPlayer.
+##The Political Context of Circumvention
 
-Still, VPN use in the US is as much about online security and privacy
-broadly as it is about circumventing geoblocks. VPN use is part of a
-larger culture of suspicion and caution spurred largely by whistleblower
-Edward Snowden’s massive leak of documents revealing the National
-Security Agency’s (NSA) spying program. One doesn’t need to spend too
-much time on tech sites and forums like Ars Technica, Boing Boing, and
-Reddit to find questions, suggestions, and debates surrounding the use
-of VPNs and other privacy and security technologies. Much of this
-discourse follows a familiar and distinctly American blend of
-libertarianism, tech-utopianism, and intense valuation of privacy, and
-from the perspective of American users it touches on geoblocking
-specifically only intermittently – a state of affairs that contrasts
-with many of the global case studies provided in the rest of this book.
-Americans concerned with online surveillance compare and contrast VPNs
-against other kinds of security and encryption systems (e.g., HTTPS,
-Tor), and indeed the security status of the VPN has come into question
-as of late due to the recent revelation from the Snowden docs that the
-NSA can decrypt VPN communications.
+Despite common perceptions, most Iranians do not go online specifically
+in search of ‘forbidden’ political material; rather they wish to ‘live
+their normal lives’ by accessing social media such as Telegram, Viber,
+Facebook and the like to communicate with their family members and
+friends. They share photos, music videos, comedies, shows, and
+educational material within their social circles; they look for
+entertainment, search for all sorts of information and read news online.
+A question that naturally arises is: why then are authorities so
+sensitive about the free internet? The answer has to do with the
+ideological nature of the Iranian state.
 
-Whether used as a way to circumvent geoblocks or as a more general
-anti-surveillance maneuver, VPNs have an anti-establishment edge to
-them. Because users often regard geoblocking as an oppressive – or at
-least unfair – system of discrimination, there’s a tendency in popular
-and academic discourse to celebrate its circumvention as a form of
-rebellion against anti-competitive media industries and unjust copyright
-regimes. Indeed, in keeping with the close correspondences between the
-American tech industries and libertarian ideology, users often argue
-that geoblocking violates the free market and oppresses personal
-freedoms. But looking at circumvention in the United States, and
-considering the privilege that Americans generally enjoy, it’s worth
-asking whether US-based users circumventing the geoblocked iPlayer
-platform, for example, should be considered resistant – particularly in
-an era when public media is routinely under attack. Indeed, a premise
-that often shapes popular debates and discussions about geoblocking is
-that everyone *should* have access to the same content at the same time
-and the same price, regardless of geographic location – a version of a
-broader cultural attitude that media scholar Lucas Hilderbrand has
-called ‘access entitlement.’[^17ElkinsUSA_12] Because American audiences have
-generally enjoyed the privilege that comes with living in a premier
-media market, US frustrations about geoblocked platforms reflect
-assumptions that Americans should be able to access online art and
-entertainment made available to those living in other parts of the
-world.
+The clerics and conservative rulers censor the internet for the same
+reason that they have put in place extremely restrictive measures to
+uphold Islamic principles and moral standards in public spaces. They are
+concerned that freedom will inevitably give rise to western lifestyles,
+mixing with the opposite sex and promiscuity. Despite extensive
+regulation, conservatives are constantly complaining about the growing
+un-Islamic practices in society. The same concerns lead them to oppose
+the unfettered internet. In their view, the free internet would weaken
+their grip over cultural production and consumption. In a country where
+interactions between young men and women are severely controlled, it is
+not surprising that the authorities are worried about online
+communication. The political power of religion in Iran does not allow
+for a cultural sphere separate from politics.
 
-This all indicates that it’s important to consider *why* particular
-platforms are geoblocked and under what conditions, as well as what it
-means when people try to circumvent geoblocking in these different
-conditions. There’s a tendency to assume that because a particular
-platform is not available in a territory, the platform owners should be
-to blame. But the lack of iPlayer and Al Jazeera English in the United
-States in fact speaks not only to the desires of those agencies to
-prohibit American viewers from accessing these platforms but also to the
-power of the American cable companies in shaping what US viewers do and
-don’t have access to. Regarding the iPlayer, the BBC announced that the
-platform would be made available in the United States, but that was put
-on hold after threats from cable companies who were worried that the
-iPlayer would carry shows already aired by US cable network BBC America.
-So, the cable networks threatened to stop carrying BBC America if BBC
-Worldwide introduced the iPlayer to the US.[^17ElkinsUSA_13] Al Jazeera English is
-unavailable for similar reasons. At the launch of cable channel Al
-Jazeera America in the United States in 2013, Al Jazeera English
-geoblocked its livestream and its YouTube news reports in the US at the
-behest of the American cable and satellite companies (though it
-eventually dropped the geoblock on the YouTube videos).[^17ElkinsUSA_14]
-Essentially, the cable companies wanted to avoid competition from Al
-Jazeera English.
+Finally, it is worth noting an important difference between Iran and
+other cases discussed in this book. Iranians struggle with filtering as
+much as internet speed. Authorities have kept the speed extremely slow
+as a deliberate method to frustrate users and discourage them from
+downloading photos and videos. Based on nationwide regulations, ISPs are
+permitted to provide speed connection only up to 128 kbps to home users,
+which is 50 times slower than the internet speed in the US.[^17]
+Academics and professionals could receive higher speed up to 512 kbps
+and in special circumstances up to 2 mbps. As mentioned earlier, the
+government attempt at providing higher speed 3G and 4G licences to
+mobile operators was strongly opposed by Parliament and influential
+clerics. Conservatives continue to obstruct any attempt at raising
+internet speed until the national internet comes into full operation.
+They call the national internet a ‘Halal’ internet, an expression that
+reveals their concerns about the cultural impact of the free internet
+and the potential rise of a video culture that could jeopardise their
+cherished values.
 
-One consequence of this is that instead of gaining access to the
-‘original’ national version of a platform, US viewers can watch a
-different adaptation of it. In other words, geoblocking helps sustain a
-‘glocalized’ approach to international expansion wherein products are
-adapted to local markets. Now, this isn’t always and necessarily a bad
-thing. Presumably, tailoring a product to a local market could make it
-more appealing to consumers in that market by making it feel closer to
-their own cultural experience. At the same time, British ex-pats and
-Anglophiles in the US might want access to the national public BBC
-platform rather than (or in addition to) a commercial BBC America
-channel that’s clogged with James Bond films and *Star Trek: The Next
-Generation* reruns and that offers commercial-interrupted BBC
-programming later than its initial UK airdate.[^17ElkinsUSA_15]
+##Future Trends 
 
-More seriously, though, when viewers in the United States, whether part
-of a diasporic community or not, want to keep up with news about and
-from the Middle East, they have turned to Al Jazeera. Many viewers in
-the US perceive Al Jazeera’s coverage as superior to US cable news, and
-journalist Max Blumenthal captures the cultural significance of the
-geoblocking of Al Jazeera English in his lament that American viewers
-will need to use a VPN to find ‘an alternative to the mind-numbing,
-sensationalistic content familiar to CNN, Fox News, and MSNBC.’[^17ElkinsUSA_16]
-Here, the circumvention of geoblocking takes on a particular social
-value in that it enables an escape from the dreck that US news consumers
-regularly see. Further, for diasporic viewers living in the US,
-circumventing these geoblocks can help them access news or entertainment
-from their home territories. Either way, the circumvention of
-geoblocking can figure as relief from the hegemony of dominant American
-media.
+The Islamic Republic of Iran has struggled to maintain and strengthen
+cultural sovereignty within its borders. By establishing numerous
+cultural, political, and legal institutions, the regime has invested
+enormously in constructing and imposing Islamic identity on all spheres
+of social life. The state has set itself the ambitious task not only of
+restructuring the entire society on the basis of Islamic values, but
+also of controlling and guiding people’s thoughts and morality. The
+policies, however, have not been executed very effectively and
+consistently. Constitutionally, Iranians vote in the government through
+elections, and despite all state restrictions, at times people have
+defeated the ruling conservatives. President Khatami (1997-2005)
+campaigned for social and political freedom and sought constructive
+engagement with the West, policies that were strongly resisted by
+hardliners. In 2013, Hassan Rouhani won the presidential election after
+campaigning on moderate foreign and domestic policies. Many hoped that
+his government would reduce internet barriers and relax
+ultraconservative regulation of culture and politics.
 
-## Conclusion
+President Rouhani has symbolically and rhetorically opposed state
+censorship. While Twitter is blocked in Iran, Rouhani’s Twitter account
+has over 330,000 followers. Zarif, the foreign minister, actively tweets
+about Iran’s foreign policy issues. Rouhani has called internet
+filtering ‘futile’, saying: ‘We cannot close the gates of the world to
+our young generation’.[^18] Despite these positive signs, as far as
+media censorship is concerned, Rouhani’s discretion is limited. The
+decision-making bodies are supra-governmental and mostly controlled by
+the conservatives. The Supreme Council of Cyberspace (SCC), which is the
+highest state organization responsible for devising cyber policies,
+works under the supreme leader’s directive. Given these limitations, a
+radical and thoroughgoing change would be unlikely to happen. At best,
+Rouhani’s policies will bring about slow and incremental changes in the
+coming years.
 
-All this is to say that within a territory that has long operated as a
-seat of global power, geoblocking reminds viewers of their place within
-hierarchies of cultural power and privilege in a variety of ways. As a
-result, the practice of circumvention means something different in
-different contexts. On one hand, diasporic viewers who are unable to
-access particular platforms might see this as yet another experience
-indicating their geo-cultural displacement and their position as viewers
-not regularly and immediately catered to by the cultural industries. On
-the other hand, for US-based audiences, circumventing geoblocked
-platforms can represent a kind of access entitlement presuming that in a
-digitally connected age, one *should* be able to access everything. When
-this access is interrupted, as in when \#NBCFail led many Americans to
-engage in geoblocking circumvention, they serve as reminders that the
-United States is not a placeless, universal entity in the global media
-economy and that it can be subject to many of the disconnections and
-disjunctures that viewers around the world experience more regularly.
+The friction between state policies and social reality in Iran offers an
+intriguing case for media analysts. Technological changes have provided
+a good opportunity for ordinary citizens to circumvent barriers and
+access global media content. On the other hand, the state has
+sophisticated its methods and technologies to maintain its dominance
+over information flows. Iranian moderate politicians feel the state will
+ultimately lose this game. The Culture and Islamic Guidance minister,
+Ali Jannati, compared the current prohibition of satellite television
+and social media to the banning of video cassettes in the 1980s, as
+portrayed in the movie Bullet Proof. Calling such policies ‘ridiculous’,
+he said: ‘Maybe in five years we will laugh at today’s actions’.[^19]
+However, given that the Iranian Islamic state has defined its identity
+in opposition to western culture and imperial powers, it will continue
+to actively resist pressure from the western-controlled global media in
+order to maintain the existing media communication boundaries in the
+foreseeable future.
 
-**References**
+##References
 
-‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*, 13 May
-2010,
-[http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World](http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World).
+Bowen, Kyle and James Marchant. ‘Internet Censorship in Iran:
+Preventative, Interceptive, and reactive, *Small Media report:
+Revolution Decoded*, 2014, p.26,
+[http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
 
-Appelbaum, Jacob et al., ‘Prying Eyes: Inside the NSA’s War on Internet
-Security’, *Der Spiegel*, 28 December 2014,
-[http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
+Derakhshesh, Setareh. ‘Breaking the Law to Go Online in Iran’, New York
+Times, 24 June 2014,
+[http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
 
-Becker, Christine. ‘Access is Elementary: Crossing Television’s
-Distribution Borders’, *FlowTV.org*, 13 January 2014,
-[http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame).
+Erdbrink, Thomas. ‘Tehran Unfetters Cellphones, and the Pictures Start
+Flowing’, *The New York Times*, 2 September 2014,
+[http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
 
-Blumenthal, Max. ‘Exclusive: Al Jazeera’s English Online US Broadcast to
-End with the Launch of Al Jazeera America’, *Mondoweiss*, 1 August 2013,
-[http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
+Freedom House. ‘Country Report for End Users in Iran’, 2011,
+[https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
 
-‘Buy Safe and Secure VPN’, *Private Internet Access*,
-[https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
+Iranian Student News Agency. ‘69 Per Cent of Iranian Youth Use
+Anti-Filtering, According to the Findings of a New Survey’, 27 April
+2015, [http://isna.ir/fa/news/93061710204](http://isna.ir/fa/news/93061710204).
 
-‘Committee Seeks IT Pricing Equity’, *AAP General News Wire* (Sydney),
-29 July 2013.
+Iran’s Internet Penetration Management Portal. Penetration Rate Report,
+2014, [http://www.iriu.ir/matma/;](http://www.iriu.ir/matma/;).
 
-Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent Freak*,
-29 August 2013,
-[https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829).
+Kamali-Dehghan, Saeed. ‘Iran’s President Signals Softer Line on Web
+Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
+[http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
 
-Hern, Alex. ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’, *New
-Statesman*, 19 June 2012,
-[http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
+Karami, Arash. ‘Iran Cleric Explains He’s Not Opposed to “Filtered” 3G
+Phones’, *Almonitor*, 1 September 2014,
+[http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
 
-Hilderbrand, Lucas. *Inherent Vice: Bootleg Histories of Video and
-Copyright*, Durham, NC: Duke University Press, 2009.
+Lee, Timothy B. ‘Here’s How Iran Censors the Internet’, *The Washington
+Post*, 15 August 2015,
+[https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
 
-‘How Content ID Works’, *YouTube Help*, 2015,
-[https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
+Mehr News Agency. ‘9.5 Million Viber Users in Iran’, 5 Feb 2015,
+[http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
 
-Luh, James C. ‘Breaking Down DVD Borders’, *Washington Post*, 1 June
-2001.
+Mohabbat-Kar Resa and Hausdorf Nicolas. ‘Internet Freedom, Snapshot of
+the Case of Iran’, *Transparency for Iran*, 2010,
+[http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf).
 
-Pash, Adam. ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from
-Outside the U.K’, *Lifehacker*, 29 March 2010,
-[http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
+O’Neill, Patrick Howell. ‘The Big Money Behind Iran’s Internet
+Censorship’, 22 Feb 2015,
+[http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
 
-Roettgers, Janko. ‘Al Jazeera English Unblocks its YouTube Videos for
-US-based Viewers’, *Gigaom*, 24 September 2013,
-[https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
+Pizzi, Michael. ‘Iran Government Minister: Media Bans May Seem
+“Laughable” in 5 Years’, Aljazeera America, 19 Dec 2013,
+[http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
 
-Santus, Rex, ‘Netflix is Now in 36% of Homes Across the United States’
-*Mashable*, 12 March 2015,
-[http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
+Rhoads, Christopher and Farnaz Fassihi. ‘Iran Vows to Unplug Internet’,
+*Wall Street Journal*, 28 May 2011,
+[http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
 
-Stelter, Brian. ‘Hiccup for Debut of Al Jazeera America’, *New York
-Times*, 21 August 2013.
+Small Media. [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
 
-Streeter, Thomas. *Selling the Air: A Critique of the Policy of
-Commercial Broadcasting in the United States*, Chicago: University of
-Chicago Press, 1996.
+The Citizen Lab. ‘Iranian Anti-Censorship Software “Simurgh” Circulated
+with Malicious Backdoor’, 25 May 2015,
+[https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
 
-Turner, Adam. ‘Content Unlimited’, *Sydney Morning Herald*, 14 July
-2013,
-[http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html](http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html).
+The World Bank. Internet Users by Country, 2014,
+[http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
 
-Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
-and Video Content*, Burlington, MA: Focal Press, 2000.
+[^1]: ‘New Ahangaran’ means, a new eulogy from Sadegh Ahangaran, an
+    iconic eulogist during Iran-Iraq war in the 1980s. His performance
+    encouraged many young Iranians to volunteer in the war.
 
-[^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
-    States’ *Mashable*, 12 March 2015,
-    [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
+[^2]: Setareh Derakhshesh, Breaking the Law to go Online in Iran, *New
+    York Times*, 24 June 2014,
+    [http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
 
-[^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
-    Internet Security’, *Der Spiegel*, 28 December 2014,
-    [http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
+[^3]: Iran’s Internet Penetration Management Portal, 2014, Penetration
+    Rate Report, 2014, [http://www.iriu.ir/matma/](http://www.iriu.ir/matma/); The World Bank,
+    Internet users by country, 2014,
+    [http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
 
-[^17ElkinsUSA_3]: ‘Buy Safe and Secure VPN’, *Private Internet Access*,
-    [https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
+[^4]: Mehr News Agency, ‘9.5 Million Viber users in Iran’, 5 Feb 2015,
+    [http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
 
-[^17ElkinsUSA_4]: Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent
-    Freak*, 29 August 2013,
-    [https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://www.privateinternetaccess.com/pages/buy-vpn).
+[^5]: Kyle Bowen and James Marchant, ‘Internet Censorship in Iran:
+    Preventative, Interceptive, and reactive’, *Small Media report:
+    Revolution decoded*, 2014, p.26,
+    [http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
 
-[^17ElkinsUSA_5]: Jeff Ulin, *The Business of Media Distribution: Monetizing Film,
-    TV, and Video Content*, Burlington, MA: Focal Press, 2000, p. 5.
+[^6]: Thomas Erdbrink, ‘Tehran unfetters cell phones, and the pictures
+    start flowing’, *The New York Times*, 2 September 2014,
+    [http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
 
-[^17ElkinsUSA_6]: ‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*,
-    13 May 2010,
-    [http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World](http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World).
-    My emphasis.
+[^7]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
 
-[^17ElkinsUSA_7]: Space is far too limited to catalog the scores of VOD platforms
-    available around the world, but a comprehensive, if by this point
-    somewhat out-of-date, snapshot of the global streaming film
-    landscape can be found in the appendices in Dina Iordanova and
-    Stuart Cunningham (eds) *Digital Disruption: Cinema Moves On-Line*,
-    St. Andrews: St. Andrews Film Studies, 2012.
+[^8]: Christopher Rhoads and Farnaz Fassihi, ‘Iran vows to unplug
+    internet’, *Wall Street Journal*, 28 May 2011,
+    [http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
 
-[^17ElkinsUSA_8]: Thomas Streeter, *Selling the Air: A Critique of the Policy of
-    Commercial Broadcasting in the United States*, Chicago: University
-    of Chicago Press, 1996, p. 61.
+[^9]: Iranian Student News Agency, 69 Per cent of Iranian Youth use
+    Anti-filtering, According to the Findings of a New Survey, 27 April
+    2015, [http://isna.ir/fa/news/](http://isna.ir/fa/news/).
 
-[^17ElkinsUSA_9]: ‘How Content ID Works’, *YouTube Help*, 2015,
-    [https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
+[^10]: Small Media, [http://smallmedia.org.uk/](http://smallmedia.org.uk/).
 
-[^17ElkinsUSA_10]: A 2001 *Washington Post* piece reporting on DVD region codes
-    suggested that the major consumers of region-free DVD players in the
-    US comprised a ‘small market’ made up of ‘immigrants who want to
-    watch movies from their home countries, language students, and
-    foreign-film enthusiasts.’ James C. Luh, ‘Breaking Down DVD
-    Borders’, *Washington Post*, 1 June 2001.
+[^11]: Saeed Kamali-Dehghan, ‘Iran’s President Signals Softer Line on
+    Web Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
+    [http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
 
-[^17ElkinsUSA_11]: Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor
-    Who) from Outside the U.K’.
+[^12]: Freedom House, ‘Country Report for End Users in Iran’, 2011,
+    [https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
 
-[^17ElkinsUSA_12]: Lucas Hilderbrand, *Inherent Vice: Bootleg Histories of Video and
-    Copyright*, Durham, NC: Duke University Press, 2009, p. 229.
+[^13]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
 
-[^17ElkinsUSA_13]: Alex Hern, ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’,
-    *New Statesman*, 19 June 2012,
-    [http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
+[^14]: Patrick Howell O’Neill, ‘The Big Money Behind Iran’s Internet
+    Censorship’, *The Daily Dot,* 22 Feb 2015,
+    [http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
 
-[^17ElkinsUSA_14]: Brian Stelter, ‘Hiccup for Debut of Al Jazeera America’, *New
-    York Times*, 21 August 2013. On dropping the YouTube geoblock, see
-    Janko Roettgers, ‘Al Jazeera English Unblocks its YouTube Videos for
-    US-based Viewers’, *Gigaom*, 24 September 2013,
-    [https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
+[^15]: Resa Mohabbat-Kar and Nicolas Hausdorf, ‘Internet Freedom,
+    Snapshot of the Case of Iran’, *Transparency for* *Iran*, 2010,
+    [http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf),
+    p.45.
 
-[^17ElkinsUSA_15]: For more on the issues that attend geoblocking between the US and
-    UK specifically, see Christine Becker, ‘Access is Elementary:
-    Crossing Television’s Distribution Borders’, *FlowTV.org*, 13
-    January 2014,
-    [http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame).
+[^16]: It was recently announced that a malicious copy of this software
+    has been circulated as ‘Simurgh-setup.zip’ that compromises all
+    information on the infected computer. See: The Citizen Lab, ‘Iranian
+    Anti-Censorship Software “Simurgh” Circulated with Malicious
+    Backdoor’, 25 May 2015,
+    [https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
 
-[^17ElkinsUSA_16]: Max Blumenthal, ‘Exclusive: Al Jazeera’s English Online US
-    Broadcast to End with the Launch of Al Jazeera America’,
-    *Mondoweiss*, 1 August 2013,
-    [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
+[^17]: Timothy B. Lee, ‘Here’s How Iran Censors the Internet’, *The
+    Washington Post*, 15 August 2015,
+    [https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
+
+[^18]: Arash Karami, ‘Iran Cleric Explains He’s Not Opposed to
+    “Filtered” 3G Phones, *Almonitor*, 1 September 2014,
+    [http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
+
+[^19]: Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem
+    “laughable” in 5 years’, Aljazeera America, 19 Dec 2013,
+    [http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
+
+
+
+#Iran: A Friction between State Ideology and Network Society
+
+###Hadi Sohrabi###
+*Swinburne University of Technology*
+
+###Behzad Dowran###
+*Iranian Research Institute for Information Science & Technology
+(IranDoc)*
+
+  
+####DATA BOX{.statbox}
+- 75 million: total population
+- 23 million: estimated number of internet users
+- 69 %: percentage of internet users who use circumvention tools
+- 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
+  
+President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
+
+(Images)A government notice for blocked websites
+
+####
+The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
+rise of audio-visual black markets after the 1979 Islamic revolution.
+Losing his music store during Islamization, our protagonist Salim starts
+to sell unauthorized products on the black market. In one scene, Salim
+leaves his house with a bag full of unauthorized audio cassette tapes.
+At a street stall, a chubby boy is calling out ‘New Cassette!’, ‘New
+Cassette!’, but he changes his words to ‘New Ahangaran![^1]’ when an
+Islamist militiaman is passing. Salim meets his business partner in a
+public park to deliver the bag, but the Revolutionary Guard officers
+chase them and arrest his partner; Salim manages to run away. Twenty
+years later, we see Salim has upgraded his devices to CDs and DVDs
+instead of audio cassettes. He is also negotiating with a partner to
+enter into an emerging market: satellite dishes.
+
+The movie portrays the black market keeping pace with technological
+changes, from audio and video cassettes in the 1980s to DVDs and
+satellite television in the 2000s. Soon after the 1979 Islamic
+revolution, the clerical rulers imposed Islamic principles on almost all
+social and political institutions, from marriage, divorce and penal
+codes to banking and commerce. The state attempted not only to transform
+social and political structures, but also to control people’s moral
+attitudes. Books, newspapers, magazines, music, and movies were
+subjected to extensive regulation and censorship. The state-owned
+television and radio dominated the media landscape in the
+post-revolutionary era.
+
+The new regime presented its restrictive policies as defending Islam and
+Iranian national interests against western ‘cultural invasion’ and ‘soft
+war’. Underlying these representations were the authorities’ concerns
+about the increasing secularization of society and the growing
+alienation of youth from the state. Unwilling to acknowledge the
+ineffectiveness of forceful Islamization, the hardliners have accused
+the western media of subverting Islamic values and threatening the
+state’s political legitimacy.
+
+The black market of CDs and DVDs is still alive. Around Enqelab square
+in Tehran, many video dealers sell uncensored Hollywood movies. At times
+the police raid the area and confiscate the DVDs. Nevertheless, the
+internet and satellite television have largely replaced such markets.
+Reducing the regime’s grip on information flow, new communication
+technologies have provided Iranians with unprecedented access to global
+news, information, and images. Feeling gravely threatened, the
+government has invested vast sums of money, instituted several councils
+and bodies, and devised many policies, laws and regulations to control
+and curb cross-border information flow. In what follows, we describe the
+methods employed by the government to restrict citizens’ access to
+global media content and those employed by citizens to circumvent
+censorship – from illegal satellite dishes to VPNs, proxies and
+peer-to-peer networking. In particular, we focus on the internet and
+satellite television, the technologies that have generated significant
+political and cultural conflicts in Iran and created video cultures
+outside official channels.
+
+##Satellite Television: a New Video Culture
+
+To understand Internet circumvention in Iran, we must take a step back
+to consider an earlier kind of unauthorised media. Since the 1990s,
+foreign-based Persian-language satellite channels have mushroomed,
+posing a serious challenge to the regime’s monopoly over broadcast
+media. The satellite television networks offer all sorts of programs,
+ranging from news, commentary and politics to music, entertainment and
+soap operas. The state has banned satellite television ‘to protect the
+country’s cultural borders and the foundations of family’ against
+immoral content. The law bans selling, buying, installing, and using
+satellite television equipment such as dishes and receivers.
+Nevertheless, the majority of Iranians easily access these channels by
+installing dishes on rooftops and balconies. The Minister of Culture and
+Islamic Guidance, Ali Jannati, reported that 71 per cent of people in
+Tehran watch satellite TV.[^2] Although this figure is likely to be
+inflated, watching satellite TV has no doubt become a widespread
+practice among city dwellers.
+
+The authorities have used various methods of crackdown. At times, the
+police raid buildings and confiscate dishes. They have used helicopters
+to scan rooftops and cranes to seize dishes from balconies. Police have
+abseiled down the sides of tall buildings in search of dishes. These
+methods have largely been futile because the dishes have soon reappeared
+on rooftops. These familiar cat-and-mouse games have been memorably
+depicted in Iranian movies such as Parisa Bakhtavar’s *Tambourine* and
+Abdolreza Kahani’s *Absolute Rest*.
+
+The state has also employed more sophisticated and effective methods
+such as satellite jamming. Powerful noise signals are sent directly to
+satellites such as HotBird and Eutelsat, mixing frequencies and jamming
+their signals. Home viewers then see scrambled images on screen. BBC
+Persian and Voice of America (VoA) have been the typical targets. Iran
+has never acknowledged using such methods, but international
+organizations have claimed that the jamming signals are sent from within
+Iran. The UN telecommunications body (ITU) and the European Union have
+called on the Iranian government to stop satellite jamming and
+‘electronic interference’. It is also widely believed that the
+Revolutionary Guard runs the jamming system. Not surprisingly, the
+regime uses this method more actively at times of political upheaval and
+during elections.
+
+Despite the attempts outlined above, Iranians have integrated satellite
+television into their daily lives. Political channels such as BBC
+Persian and Voice of America (VoA) continue to influence public opinion
+by highlighting and disseminating news, images, videos and information
+that the state tries to suppress. Persian-language entertainment
+channels such as Manoto have attracted large audience by running
+western-style talent shows and competitions. Other channels such as GEM
+TV and Farsi One have attracted viewers by screening popular movies and
+soap operas. None of the above mentioned methods have proved effective
+in discouraging ordinary people from watching satellite TV. At times of
+political upheaval, the state has been relatively successful in jamming
+some political channels; at other times, however, satellite channels
+have managed to reach out to viewers and help create a video culture
+very different from the ideologically-fuelled one promoted by the state
+television.
+
+##A Halal Internet
+
+Statistics on the number of Iranian internet users are inconsistent.
+While the Iranian government counts about 40 million internet users out
+of a population of 75 million, the World Bank estimates the number to be
+around 23 million.[^3] The Iranian Minister of Culture and Islamic
+Guidance, Ali Jannati, reported that 9.5 million Iranians use Viber and
+4 to 5 million use Facebook.[^4] Although the Universal Declaration of
+Human Rights considers everyone entitled ‘to seek, receive and impart
+information and ideas through any media and regardless of frontiers’,
+Iran, which is a signatory, has blocked social media sites such as
+Facebook and YouTube, political dissidents’ blogs and websites, and
+international news websites.
+
+The London-based advocacy group Small Media reports a threefold strategy
+employed by the government to control the internet. Firstly, Authorities
+aim to ‘prevent’ users from accessing the perceived threatening content
+through keyword filtering, URL blacklisting, and broadband speed
+limitations. For example, users who attempt to access YouTube see the
+following image, which reads: ‘Access to the requested website is not
+possible’, and introduces a list of miscellaneous websites. Next, they
+exploit technology to ‘intercept’ those who have managed to get around
+censorship through monitoring, tracking and blocking internet traffic.
+Lastly, internet activists and developers are arrested and connections
+are throttled during political turmoils.[^5]
+
+![](imgs/iran.png)
+
+Fig. 1: Iranian internet users see this government notice when trying to
+access blocked websites. It reads: “Access to the requested website is
+not possible. Please click here to access reports and complaints.”
+
+Taking office as President in 2013, Hassan Rouhani criticized internet
+censorship, raising hopes for reducing internet barriers (to be
+discussed further below). However, he faced fierce opposition from
+conservative rivals. In 2014, as soon as the ICT ministry issued 3G and
+4G licenses to two mobile-phone operators, a leading cleric called on
+the government to revoke them because ‘dirty pictures and clips’ could
+poison young minds.[^6] Comparing these technologies to ‘unsanitary and
+muddy water’, and worrying about ‘all sorts of polluted films without
+any filtering’, he declared that ‘3G mobile communication services and
+higher are against Sharia \[Islamic law\] and moral and human norms’.
+
+Perhaps Iran’s most ambitious plan for extending its control over the
+internet has been the launching of a “walled-off” national internet. The
+network will connect government ministries, universities, banks,
+healthcare, tax systems, and other state institutions through local
+servers. Although users will benefit from higher speed and better
+cyber-security, many are concerned that the government’s main motive is
+to consolidate its control over the internet. In response to such
+concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national
+internet ‘is not in competition with the Internet’ and that ‘if users
+cannot find the data that they are looking for on the national internet,
+then they will be able to access the Internet to search for it,
+instead’.[^7] Put it simply, the government aims to obtain the capacity
+of switching off the internet without disrupting public services, banks,
+and corporations. It is, however, unlikely that the government could
+completely detach Iran from the global internet; the more likely outcome
+would be a ‘dual-internet structure’ like that currently used in some
+other authoritarian countries.[^8]
+
+Work on the national internet project started in 2005, and has
+progressed slowly since then. In recent years, at least two events
+caused the conservative authorities to be more determined to carry the
+project through. In the aftermath of the 2009 presidential election,
+where millions of Iranians took to the streets to protest against
+Mahmoud Ahmadinejad’s disputed victory, the regime experienced an
+unprecedented challenge to official media control. During rallies,
+protesters used their mobile phones to take pictures and video footage
+of police brutality and violence, posting them on social media. Global
+news coverage of the regime’s brutal crackdown led to the condemnation
+of the regime by many international human rights organizations and
+governments. The second alarming event was the Stuxnet attacks on
+Iranian nuclear facilities in 2010, where the country’s prized nuclear
+arsenal was overtaken by a computer virus, thus highlighting the
+perceived threat posed by foreign, unauthorised digital technologies to
+the Iranian state.
+
+##Internet Circumvention Tools
+
+Despite government restrictions, users often find ways to get around
+internet censorship. In a survey conducted by Iran’s Ministry of Youth
+Affairs and Sport, 69 per cent of respondents said they use
+anti-filtering software.[^9] Ironically, users can even buy VPNs through
+official online payment gateways, such as PardakhtNet! Given how easily
+available these VPN services are, it is widely believed that segments of
+the ruling establishment (including elements within the Revolutionary
+Guard) facilitate the trade to earn money.[^10] In this environment,
+critics rightly question the effectiveness of numerous laws, policies,
+and regulations in place to control internet access. Criticizing his
+conservative opponents, the moderate president Hassan Rouhani asked:
+‘Supporters of internet filtering should explain whether they've
+successfully restricted access to information? Which important piece of
+news has filtering been able to black out in recent years?’ He
+continued: ‘Filtering has not even stopped people from accessing
+unethical \[pornographic\] websites. Widespread online filtering will
+only increase distrust between the people and the state’[^11].
+
+Users take advantage of numerous tools to get around censorship. A
+Freedom House survey revealed that VPNs, Google (Reader, Translation,
+Cache), and Your Freedom are the most popular circumvention tools in
+Iran. The survey listed the most popular tools in Iran as the following:
+Dynaweb, Freegate, Freenet, Garden GTunnel, Google, Gpass,
+HotspotShield, JAP, Proxy, Psiphon, Tor, Ultrasurf, Your Freedom, and
+VPN.[^12] Filtershekanha (means ‘Filter breakers’) is an email list with
+over 100,000 subscribers through which information about VPNs is
+distributed among users. Another survey of 423 users, conducted by Small
+Media, found that Hotspot Shield, Psiphon, and Kerio are favored by
+users.[^13] Other surveys have also reported the widespread use of the
+web proxy service Hotspot Shield and Psiphon3, a peer-to-peer VPN app
+for Android and Windows.[^14] As of 2013, Psiphon claimed to have
+700,000 to 900,000 daily unique users in Iran. This number is now
+believed to have surpassed one million.[^15]
+
+Small Media reports that the terrain of Internet circumvention is
+increasingly shifting to mobile, with the most popular tools having
+easy-to-use mobile-enabled interfaces now. It also points out that, TOR,
+despite its strong privacy protection, is not very popular among
+Iranians partly because it has been constantly attacked by the
+government. Overall, Iranians seem to care more about ease of access
+than security. There are also anti-filtering tools that are unique to
+Iran. For example, Simurgh is ‘Iranian stand-alone proxy software’ which
+has been widely used since 2009; due to its small size (1 MB), users
+with low speed connection can download it easily. It is also free. This
+software has been recently used by Syrian dissidents.[^16]
+
+##The Political Context of Circumvention
+
+Despite common perceptions, most Iranians do not go online specifically
+in search of ‘forbidden’ political material; rather they wish to ‘live
+their normal lives’ by accessing social media such as Telegram, Viber,
+Facebook and the like to communicate with their family members and
+friends. They share photos, music videos, comedies, shows, and
+educational material within their social circles; they look for
+entertainment, search for all sorts of information and read news online.
+A question that naturally arises is: why then are authorities so
+sensitive about the free internet? The answer has to do with the
+ideological nature of the Iranian state.
+
+The clerics and conservative rulers censor the internet for the same
+reason that they have put in place extremely restrictive measures to
+uphold Islamic principles and moral standards in public spaces. They are
+concerned that freedom will inevitably give rise to western lifestyles,
+mixing with the opposite sex and promiscuity. Despite extensive
+regulation, conservatives are constantly complaining about the growing
+un-Islamic practices in society. The same concerns lead them to oppose
+the unfettered internet. In their view, the free internet would weaken
+their grip over cultural production and consumption. In a country where
+interactions between young men and women are severely controlled, it is
+not surprising that the authorities are worried about online
+communication. The political power of religion in Iran does not allow
+for a cultural sphere separate from politics.
+
+Finally, it is worth noting an important difference between Iran and
+other cases discussed in this book. Iranians struggle with filtering as
+much as internet speed. Authorities have kept the speed extremely slow
+as a deliberate method to frustrate users and discourage them from
+downloading photos and videos. Based on nationwide regulations, ISPs are
+permitted to provide speed connection only up to 128 kbps to home users,
+which is 50 times slower than the internet speed in the US.[^17]
+Academics and professionals could receive higher speed up to 512 kbps
+and in special circumstances up to 2 mbps. As mentioned earlier, the
+government attempt at providing higher speed 3G and 4G licences to
+mobile operators was strongly opposed by Parliament and influential
+clerics. Conservatives continue to obstruct any attempt at raising
+internet speed until the national internet comes into full operation.
+They call the national internet a ‘Halal’ internet, an expression that
+reveals their concerns about the cultural impact of the free internet
+and the potential rise of a video culture that could jeopardise their
+cherished values.
+
+##Future Trends 
+
+The Islamic Republic of Iran has struggled to maintain and strengthen
+cultural sovereignty within its borders. By establishing numerous
+cultural, political, and legal institutions, the regime has invested
+enormously in constructing and imposing Islamic identity on all spheres
+of social life. The state has set itself the ambitious task not only of
+restructuring the entire society on the basis of Islamic values, but
+also of controlling and guiding people’s thoughts and morality. The
+policies, however, have not been executed very effectively and
+consistently. Constitutionally, Iranians vote in the government through
+elections, and despite all state restrictions, at times people have
+defeated the ruling conservatives. President Khatami (1997-2005)
+campaigned for social and political freedom and sought constructive
+engagement with the West, policies that were strongly resisted by
+hardliners. In 2013, Hassan Rouhani won the presidential election after
+campaigning on moderate foreign and domestic policies. Many hoped that
+his government would reduce internet barriers and relax
+ultraconservative regulation of culture and politics.
+
+President Rouhani has symbolically and rhetorically opposed state
+censorship. While Twitter is blocked in Iran, Rouhani’s Twitter account
+has over 330,000 followers. Zarif, the foreign minister, actively tweets
+about Iran’s foreign policy issues. Rouhani has called internet
+filtering ‘futile’, saying: ‘We cannot close the gates of the world to
+our young generation’.[^18] Despite these positive signs, as far as
+media censorship is concerned, Rouhani’s discretion is limited. The
+decision-making bodies are supra-governmental and mostly controlled by
+the conservatives. The Supreme Council of Cyberspace (SCC), which is the
+highest state organization responsible for devising cyber policies,
+works under the supreme leader’s directive. Given these limitations, a
+radical and thoroughgoing change would be unlikely to happen. At best,
+Rouhani’s policies will bring about slow and incremental changes in the
+coming years.
+
+The friction between state policies and social reality in Iran offers an
+intriguing case for media analysts. Technological changes have provided
+a good opportunity for ordinary citizens to circumvent barriers and
+access global media content. On the other hand, the state has
+sophisticated its methods and technologies to maintain its dominance
+over information flows. Iranian moderate politicians feel the state will
+ultimately lose this game. The Culture and Islamic Guidance minister,
+Ali Jannati, compared the current prohibition of satellite television
+and social media to the banning of video cassettes in the 1980s, as
+portrayed in the movie Bullet Proof. Calling such policies ‘ridiculous’,
+he said: ‘Maybe in five years we will laugh at today’s actions’.[^19]
+However, given that the Iranian Islamic state has defined its identity
+in opposition to western culture and imperial powers, it will continue
+to actively resist pressure from the western-controlled global media in
+order to maintain the existing media communication boundaries in the
+foreseeable future.
+
+##References
+
+Bowen, Kyle and James Marchant. ‘Internet Censorship in Iran:
+Preventative, Interceptive, and reactive, *Small Media report:
+Revolution Decoded*, 2014, p.26,
+[http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
+
+Derakhshesh, Setareh. ‘Breaking the Law to Go Online in Iran’, New York
+Times, 24 June 2014,
+[http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
+
+Erdbrink, Thomas. ‘Tehran Unfetters Cellphones, and the Pictures Start
+Flowing’, *The New York Times*, 2 September 2014,
+[http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
+
+Freedom House. ‘Country Report for End Users in Iran’, 2011,
+[https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
+
+Iranian Student News Agency. ‘69 Per Cent of Iranian Youth Use
+Anti-Filtering, According to the Findings of a New Survey’, 27 April
+2015, [http://isna.ir/fa/news/93061710204](http://isna.ir/fa/news/93061710204).
+
+Iran’s Internet Penetration Management Portal. Penetration Rate Report,
+2014, [http://www.iriu.ir/matma/;](http://www.iriu.ir/matma/;).
+
+Kamali-Dehghan, Saeed. ‘Iran’s President Signals Softer Line on Web
+Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
+[http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
+
+Karami, Arash. ‘Iran Cleric Explains He’s Not Opposed to “Filtered” 3G
+Phones’, *Almonitor*, 1 September 2014,
+[http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
+
+Lee, Timothy B. ‘Here’s How Iran Censors the Internet’, *The Washington
+Post*, 15 August 2015,
+[https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
+
+Mehr News Agency. ‘9.5 Million Viber Users in Iran’, 5 Feb 2015,
+[http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
+
+Mohabbat-Kar Resa and Hausdorf Nicolas. ‘Internet Freedom, Snapshot of
+the Case of Iran’, *Transparency for Iran*, 2010,
+[http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf).
+
+O’Neill, Patrick Howell. ‘The Big Money Behind Iran’s Internet
+Censorship’, 22 Feb 2015,
+[http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
+
+Pizzi, Michael. ‘Iran Government Minister: Media Bans May Seem
+“Laughable” in 5 Years’, Aljazeera America, 19 Dec 2013,
+[http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
+
+Rhoads, Christopher and Farnaz Fassihi. ‘Iran Vows to Unplug Internet’,
+*Wall Street Journal*, 28 May 2011,
+[http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
+
+Small Media. [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
+
+The Citizen Lab. ‘Iranian Anti-Censorship Software “Simurgh” Circulated
+with Malicious Backdoor’, 25 May 2015,
+[https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
+
+The World Bank. Internet Users by Country, 2014,
+[http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
+
+[^1]: ‘New Ahangaran’ means, a new eulogy from Sadegh Ahangaran, an
+    iconic eulogist during Iran-Iraq war in the 1980s. His performance
+    encouraged many young Iranians to volunteer in the war.
+
+[^2]: Setareh Derakhshesh, Breaking the Law to go Online in Iran, *New
+    York Times*, 24 June 2014,
+    [http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
+
+[^3]: Iran’s Internet Penetration Management Portal, 2014, Penetration
+    Rate Report, 2014, [http://www.iriu.ir/matma/](http://www.iriu.ir/matma/); The World Bank,
+    Internet users by country, 2014,
+    [http://data.worldbank.org/indicator/IT.NET.USER.P2](http://data.worldbank.org/indicator/IT.NET.USER.P2).
+
+[^4]: Mehr News Agency, ‘9.5 Million Viber users in Iran’, 5 Feb 2015,
+    [http://www.mehrnews.com/news/](http://www.mehrnews.com/news/).
+
+[^5]: Kyle Bowen and James Marchant, ‘Internet Censorship in Iran:
+    Preventative, Interceptive, and reactive’, *Small Media report:
+    Revolution decoded*, 2014, p.26,
+    [http://smallmedia.org.uk/revolutiondecoded/](http://smallmedia.org.uk/revolutiondecoded/).
+
+[^6]: Thomas Erdbrink, ‘Tehran unfetters cell phones, and the pictures
+    start flowing’, *The New York Times*, 2 September 2014,
+    [http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html](http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html).
+
+[^7]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
+
+[^8]: Christopher Rhoads and Farnaz Fassihi, ‘Iran vows to unplug
+    internet’, *Wall Street Journal*, 28 May 2011,
+    [http://www.wsj.com/articles/SB10001424052748704889404576277391449002016](http://www.wsj.com/articles/SB10001424052748704889404576277391449002016).
+
+[^9]: Iranian Student News Agency, 69 Per cent of Iranian Youth use
+    Anti-filtering, According to the Findings of a New Survey, 27 April
+    2015, [http://isna.ir/fa/news/](http://isna.ir/fa/news/).
+
+[^10]: Small Media, [http://smallmedia.org.uk/](http://smallmedia.org.uk/).
+
+[^11]: Saeed Kamali-Dehghan, ‘Iran’s President Signals Softer Line on
+    Web Censorship and Islamic Dress Code’, *The Guardian,* 3 July 2013,
+    [http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views](http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views).
+
+[^12]: Freedom House, ‘Country Report for End Users in Iran’, 2011,
+    [https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf](https://freedomhouse.org/sites/default/files/LOtF\_Iran.pdf).
+
+[^13]: Small Media, [http://www.smallmedia.org.uk/](http://www.smallmedia.org.uk/).
+
+[^14]: Patrick Howell O’Neill, ‘The Big Money Behind Iran’s Internet
+    Censorship’, *The Daily Dot,* 22 Feb 2015,
+    [http://www.dailydot.com/politics/iran-censorship-circumvention-tech/](http://www.dailydot.com/politics/iran-censorship-circumvention-tech/).
+
+[^15]: Resa Mohabbat-Kar and Nicolas Hausdorf, ‘Internet Freedom,
+    Snapshot of the Case of Iran’, *Transparency for* *Iran*, 2010,
+    [http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf](http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf),
+    p.45.
+
+[^16]: It was recently announced that a malicious copy of this software
+    has been circulated as ‘Simurgh-setup.zip’ that compromises all
+    information on the infected computer. See: The Citizen Lab, ‘Iranian
+    Anti-Censorship Software “Simurgh” Circulated with Malicious
+    Backdoor’, 25 May 2015,
+    [https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/](https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/).
+
+[^17]: Timothy B. Lee, ‘Here’s How Iran Censors the Internet’, *The
+    Washington Post*, 15 August 2015,
+    [https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/](https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/).
+
+[^18]: Arash Karami, ‘Iran Cleric Explains He’s Not Opposed to
+    “Filtered” 3G Phones, *Almonitor*, 1 September 2014,
+    [http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#](http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html\#).
+
+[^19]: Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem
+    “laughable” in 5 years’, Aljazeera America, 19 Dec 2013,
+    [http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
+
 
