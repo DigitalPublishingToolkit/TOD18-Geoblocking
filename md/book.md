@@ -4521,12 +4521,12 @@ the real geo-, not the stratified one prescribed by corporate entities.
 The following chapters focus on ground-level internet circumvention practices – how people around the world negotiate different kinds of blocks, including both commercial geo-blocking and government censorship. Together, these chapters reveal that the use of VPNs, proxies, and other workarounds is now a global phenomenon, even though tools and habits vary from country to country. Our comparison of nine countries – China, Australia, Turkey, Sweden, Malaysia, Brazil, Iran, Cuba and the United States – illuminates some of the continuities and specificities of global circumvention. As we will see, each region has its own mix of drivers and practices. In some parts of the world, circumvention is mostly driven by demand for first-release entertainment content. In other countries it is about gaining access to social networks or communication tools that have been blocked by the government. But in all cases, the use of circumvention software, apps and plugins changes the official geography of video access. The authors in this section tell richly detailed stories about these circumvention practices and discuss their implications for how digital media circulate today.
 
 
-![](imgs/dataviz14.jpg)
+![](imgs/dataviz11.jpg)
 
 Figure 1. Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014
 
 
-![](imgs/dataviz12.jpg)
+![](imgs/dataviz12b.jpg)
 
 Figure 2. Internet users per 100 people. Data source: The World Bank
 
@@ -4541,16 +4541,15 @@ Figure 3.
 
 # China: The Techno-Politics of the Wall
 
-### Jinying Li
-
- <div class ="statbox"> 
-**DATA BOX** <BR>- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
+### Jinying Li###
+ #####DATA BOX{.statbox}- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
 
 
-####PULL QUOTES
-'*If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’*' – Murong Xuecun, Writer, 2015
-</div>
+#####PULL QUOTES
+*'If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’'* – Murong Xuecun, Writer, 2015
 
+
+#####
 The Great Firewall (GFW) is one of the most sophisticated and effective
 Internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a

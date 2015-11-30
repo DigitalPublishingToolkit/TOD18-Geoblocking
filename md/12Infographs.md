@@ -20,12 +20,12 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 The following chapters focus on ground-level internet circumvention practices – how people around the world negotiate different kinds of blocks, including both commercial geo-blocking and government censorship. Together, these chapters reveal that the use of VPNs, proxies, and other workarounds is now a global phenomenon, even though tools and habits vary from country to country. Our comparison of nine countries – China, Australia, Turkey, Sweden, Malaysia, Brazil, Iran, Cuba and the United States – illuminates some of the continuities and specificities of global circumvention. As we will see, each region has its own mix of drivers and practices. In some parts of the world, circumvention is mostly driven by demand for first-release entertainment content. In other countries it is about gaining access to social networks or communication tools that have been blocked by the government. But in all cases, the use of circumvention software, apps and plugins changes the official geography of video access. The authors in this section tell richly detailed stories about these circumvention practices and discuss their implications for how digital media circulate today.
 
 
-![](imgs/dataviz14.jpg)
+![](imgs/dataviz11.jpg)
 
 Figure 1. Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014
 
 
-![](imgs/dataviz12.jpg)
+![](imgs/dataviz12b.jpg)
 
 Figure 2. Internet users per 100 people. Data source: The World Bank
 
