@@ -395,7 +395,7 @@ mediascape is nonetheless full of emergent forms of digital video
 consumption and communication that make efficient use of limited
 infrastructure.
 
-![](imgs/Rodriguez-Image3.png)
+![](imgs/Rodriguez-Image4.png)
 
 Figure 4. A VPN advertisement in Revolico.com
 
