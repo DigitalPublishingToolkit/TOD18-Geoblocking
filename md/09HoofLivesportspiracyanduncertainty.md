@@ -189,20 +189,20 @@ event a submenu appears (Fig. 2), listing the diverse live streams
 available. The streams are sorted by resolution, quality, data transfer
 rate, and language of the commentary.
 
-![Figure 1 Categories displayed on the starting page of the streaming
-aggregation platform Stream2watch.me.](imgs/Hoof-Image1.png)
-*Figure 1 Categories displayed on the starting page of the streaming
-aggregation platform Stream2watch.me.*
+![](imgs/Hoof-Image1.png)
 
-![Figure 2 Live stream selection submenu of a streaming aggregation
-platform.](imgs/Hoof-Image2.png)
-*Figure 2 Live stream selection submenu of a streaming aggregation
-platform.*
+Figure 1. Categories displayed on the starting page of the streaming
+aggregation platform Stream2watch.me
 
-![Figure 3 Variable quality, freezing and signal disruption are persistent
-risks when live-streaming sport.](imgs/Hoof-Image3.png)
-*Figure 3 Variable quality, freezing and signal disruption are persistent
-risks when live-streaming sport.*
+![](imgs/Hoof-Image2.png)
+
+Figure 2. Live stream selection submenu of a streaming aggregation
+platform
+
+![](imgs/Hoof-Image3.png)
+
+Figure 3. Variable quality, freezing and signal disruption are persistent
+risks when live-streaming sport
 
 Streams available for the German Bundesliga are either pirated coverage
 from the German branch of Sky Sports or from foreign broadcasters based
@@ -225,10 +225,10 @@ notices. URLs for streaming aggregation platforms change frequently, and
 platforms often disappear then reappear with a slightly different
 address.
 
-![Figure 4 Malware is a common security hazard people have to negotiate
-when using streaming platforms](imgs/Hoof-Image4.png)
-*Figure 4 Malware is a common security hazard people have to negotiate
-when using streaming platforms*
+![](imgs/Hoof-Image4.png)
+
+Figure 4. Malware is a common security hazard people have to negotiate
+when using streaming platforms
 
 There is also the risk that there are no streams available at all, or
 that the quality is too low. Previously stable, high-quality streams can
@@ -339,7 +339,7 @@ of a Concept’, *Science, Technology and Human Values* 35.5 (2010): 601-617.
 
 tz. ‘Hier sehen Sie Borussia Dortmund gegen FK Krasnodar jetzt im TV und
 Live-Stream’, 17 September 2015,
-[https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/](https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/).
+[https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html](https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html).
 
 [^07HoofLivesportspiracyanduncertainty_1]: Michael Hutter, ‘Information Goods’, in Ruth Towse (ed.), *A
     Handbook of Cultural Economics,* Cheltenham: Edward Elgar, 2006, pp.

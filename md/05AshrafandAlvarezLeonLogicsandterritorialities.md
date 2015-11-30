@@ -97,7 +97,7 @@ geopolitically. Censorship implementation and circumvention are a major
 and growing industry, worth at least \$1.2 billion dollars in 2012 and
 including well-known corporations such as Cisco Systems and McAfee.[^03AshrafandAlvarezLeonLogicsandterritorialities_6]
 
-##Activity regulations
+##Activity Regulations
 
 According to Jonathan Zittrain and John Palfrey, activity regulations
 embody the many levels in which state territorialities are mapped onto
@@ -142,7 +142,7 @@ confluence of multiple logics. For example, the use of copyright by
 industry groups and enforced by the state can simultaneously advance a
 specific kind of market logic while also enacting state territoriality.
 
-## Technical regulations
+## Technical Regulations
 
 While activity regulations focus on *what* is controlled through the
 process of internet blocking, technical regulations focus on the
@@ -297,13 +297,11 @@ which geoblocking produces a broad range of territorialities which
 transcend attempts to understand the internet through an open/closed
 binary perspective.
 
-![Figure 1: Source: States are enforcing their territorial boundaries online
-and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)](imgs/AshrafImage1.jpg)
+![](imgs/AshrafImage1.jpg)
 
-*Figure 1: Source: States are enforcing their territorial boundaries online
+Figure 1. Source: States are enforcing their territorial boundaries online
 and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)*
+sovereignty (Nicolas Sanson/Wikimedia Commons)
 
 ## Markets
 
@@ -574,7 +572,7 @@ Murdoch, Steven J., and Ross Anderson. ‘Tools and Technology of Internet Filte
 
 Newland, Erica et al. 2011. ‘Account Deactivation and Content Removal: Guiding Principles and Practices for Companies and Users’, *Berkman Center Research Publication*, Harvard University, no. 2011-09.
 
-Orans, L., and P. Firstbrook. 2011. ‘Magic Quadrant for Secure Web Gateways.’ *Gartner Inc.*, http://[www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp).
+Orans, L., and P. Firstbrook. 2011. ‘Magic Quadrant for Secure Web Gateways.’ *Gartner Inc.*, [http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp).
 
 Papacharissi, Zizi. ‘The Virtual Sphere: The Internet as a Public Sphere’, *New Media & Society* 4.1 (2002): 9-27.
 
@@ -609,8 +607,7 @@ Cambridge, MA: MIT Press, 2007, pp. 29-56.
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_5]: Nazli Choucri, *Cyberpolitics in International Relations*, Cambridge, Mass: The MIT Press, 2012.Choucri, *Cyberpolitics in International Relations*.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_6]: Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web Gateways.”, Gartner Inc., available at [http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp.
-).
+[^03AshrafandAlvarezLeonLogicsandterritorialities_6]: Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web Gateways.”, Gartner Inc., available at [https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways](https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways).
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_7]: Michel Foucault, *Discipline and Punish: The Birth of the Prison*, 2^nd^ edition, New York: Vintage, 1995.
 

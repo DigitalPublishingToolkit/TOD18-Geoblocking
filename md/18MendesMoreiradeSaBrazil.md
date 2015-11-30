@@ -150,18 +150,18 @@ streaming in Brazil. In recent years streaming services have multiplied
 as telcos and media companies invest in VOD platforms. Figure 1
 illustrates some of the services available:
 
-  **Service**     **Availability**                  **Price (US\$)**                   **No of videos**
-  --------------- --------------------------------- ---------------------------------- ------------------
-  Netflix         Available to the general public   \$6.60 per month                   1500+
-  Now             NET HD subscribers                Free / from \$1.30 per title       20,000+
-  Cine Sky HD     Sky HDTV subscribers              From \$3.30 per title              36
-  Sky Online      Sky subscribers                   \$5.20 per month or pay per view   2,300+
-  Vivo Play       Available to the general public   \$5.20 per month                   5000
-  GVT on demand   GVT subscribers only              Free / \$1 per video               5000
-  ClaroVideo      Available to the general public   \$4.60 per month or pay per view   1200+
-  HBOGo           HBO/Max on Sky subscribers only   Free for cable subscribers         1500+
-  Telecine Play   Telecine subscribers only         Free for cable subscribers         1500+
-  Muu             Globasat subscribers only         Free for cable subscribers         3000
+|Service|Availability|Price (US$)|No of videos|
+|---|---|---|---|---|
+|Netflix|Available to the general public|$6.60 per month|1500+|
+|Now |NET HD subscribers|Free / from \$1.30 per title|       20,000+|
+|Cine Sky HD|Sky HDTV subscribers|From \$3.30 per title              |36|
+|Sky Online|Sky subscribers|$5.20 per month or pay per view  | 2,300+|
+|Vivo Play|Available to the general public|$5.20 per month|5000|
+|GVT on demand|GVT subscribers only|Free / $1 per video|5000|
+|ClaroVideo|Available to the general public|$4.60 per month or pay per view|1200+|
+|HBOGo|HBO/Max on Sky subscribers only|Free for cable subscribers|1500+|
+|Telecine Play|Telecine subscribers only|Free for cable subscribers|1500+|
+|Muu|Globasat subscribers only|Free for cable subscribers|3000|
 
 However, despite the proliferation of legal streaming services,
 Brazilian internet TV viewing is still substantially informal in nature.
@@ -236,7 +236,7 @@ not limited to) a lack of law enforcement, the high cost of accessing
 cable television, and restricted access to international video content
 in general.
 
-##Circumventing Geoblocking in Brazil through VPN and Proxy ‘Pirata’
+##Circumventing Geoblocking in Brazil Through VPN and Proxy ‘Pirata’
 
 A quick search of Brazilian internet sites will produce hundreds of
 piracy and circumvention resources, such as VPN and proxy services,
@@ -273,10 +273,10 @@ This is a source of disappointment for the many Brazilian students who
 use captions to practice their English language skills. They naturally
 prefer the U.S. service.
 
-![](media/image1.png)
+![](imgs/Vanessa_Image1.png)
 
-*Fig. 1. English captions on streaming content are highly valued by some
-Brazilian internet users, especially language students*.
+Figure 1. English captions on streaming content are highly valued by some
+Brazilian internet users, especially language students
 
 Interestingly enough, Brazilian Netflix fans have also produced a
 Portuguese subtitling workaround for those using the U.S. site. There

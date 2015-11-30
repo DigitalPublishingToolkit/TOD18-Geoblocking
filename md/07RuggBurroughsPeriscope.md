@@ -123,15 +123,12 @@ of networked individuals to not only redistribute copyrighted content
 from their television screens, but straight from the source as
 well.[^05RuggBurroughsPeriscope_13]
 
-![Figure 1 The live-streaming app Periscope allows individuals to
-distribute and consume content in new ways that circumvent existing
-corporate and state media infrastructures Source: (CC BY 2.0/Anthony
-Quintano)](imgs/BurroughsRugg-Image1.jpg)
+![](imgs/BurroughsRugg-Image1.jpg)
 
-*Figure 1 The live-streaming app Periscope allows individuals to
+Figure 1. The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
 corporate and state media infrastructures Source: (CC BY 2.0/Anthony
-Quintano)*
+Quintano)
 
 In 2007, Viacom waged a long legal battle against YouTube, seeking
 damages for profiting off of the viewing of infringing content. The

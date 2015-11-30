@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: 
 Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Authors: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
 Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
 Author-bio:
 Abstract:   short description of the article (100 words)
@@ -59,58 +59,59 @@ Web: <http://www.networkcultures.org><br/>
 This publication is available through various print on demand services.
 For more information, and a freely downloadable PDF:
 <http://networkcultures.org/publications><br/>
-This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br><br/>
+This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br/>
+
 ![](imgs/INC-logo.png)
 
 
 # Contents
 
-<a href="ch003.xhtml">Introduction: The new video geography</a><br/>
+<a href="ch003.xhtml">Introduction: The New Video Geography</a><br/>
 *Ramon Lobato, Swinburne University of Technology*<br/>
 
 ##PART I: PERSPECTIVES ON GEOBLOCKING
 
-<a href="ch004.xhtml">Tunnelling media: Geoblocking and online border resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
+<a href="ch005.xhtml">Tunnelling Media: Geoblocking and Online Border Resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
 
-<a href="ch005.xhtml">The logics and territorialities of geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León, UCLA*<br/>
+<a href="ch006.xhtml">The Logics and Territorialities of Geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León, UCLA*<br/>
 
-<a href="ch006.xhtml">Geoblocking, technical standards and the law</a><br/>*Marketa Trimble, University of Nevada, Las Vegas*<br/>
+<a href="ch007.xhtml">Geoblocking, Technical Standards and the Law</a><br/>*Marketa Trimble, University of Nevada, Las Vegas*<br/>
 
-<a href="ch007.xhtml">Periscope, live streaming and mobile video culture</a><br/>*Adam Rugg, University of Iowa, and Ben Burroughs, University of Nevada, Las Vegas*
+<a href="ch008.xhtml">Periscope, Live Streaming and Mobile Video Culture</a><br/>*Adam Rugg, University of Iowa, and Ben Burroughs, University of Nevada, Las Vegas*
 
-<a href="ch008.xhtml">Geoblocking and sport: Circumvention practices and the emergence of
-vernacular video cultures</a><br/>*James Meese, University of Technology Sydney, and Aneta Podkalicka, Swinburne University of Technology*
+<a href="ch009.xhtml"> Circumvention, Media Sport and the Fragmentation of Video Culture
+</a><br/>*James Meese, University of Technology Sydney, and Aneta Podkalicka, Swinburne University of Technology*
 
-<a href="ch009.xhtml">Live sports, piracy and uncertainty: Understanding illegal streaming
-aggregation platforms</a><br/>*Florian Hoof, Frankfurt University*
+<a href="ch010.xhtml">Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming
+Aggregation Platforms</a><br/>*Florian Hoof, Frankfurt University*
 
-<a href="ch010.xhtml">The future in a vault of plastic: Physical geolocking in the era of the 16-bit video game cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
+<a href="ch011.xhtml">The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
 
 ##PART II:CIRCUMVENTION CASE STUDIES<br/>
 
-<a href="ch011.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
+<a href="ch013.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
 
-<a href="ch012.xhtml">Australia: Circumvention goes mainstream</a><br/>*Ramon Lobato and James Meese, SUT*
+<a href="ch014.xhtml">Australia: Circumvention Goes Mainstream</a><br/>*Ramon Lobato and James Meese, SUT*
 
-<a href="ch013.xhtml">Turkey: Coping with internet censorship</a><br/>*Çiğdem Bozdağ, Kadir Has University*
+<a href="ch015.xhtml">Turkey: Coping with Internet Censorship</a><br/>*Çiğdem Bozdağ, Kadir Has University*
 
-<a href="ch014.xhtml"> Sweden: Circumvention and the quest for privacy</a><br/>*Chris Baumann, Stockholm University*
+<a href="ch016.xhtml"> Sweden: Circumvention and the Quest for Privacy</a><br/>*Chris Baumann, Stockholm University*
 
-<a href="ch015.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard, SUT*
+<a href="ch017.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard, SUT*
 
-<a href="ch016.xhtml">Brazil: Netflix, VPNs, and the “paying pirates”</a><br/>*Vanessa Mendes Moreira de Sa, Queensland University of Technology*
+<a href="ch018.xhtml">Brazil: Netflix, VPNs, and the “Paying Pirates”</a><br/>*Vanessa Mendes Moreira de Sa, Queensland University of Technology*
 
-<a href="ch017.xhtml">Iran: A friction between state ideology and network society</a><br/>*Hadi Sohrabi, Swinburne University of Technology, and Behzad Dowran, Iranian Research Institute for Information Science and Technology*
+<a href="ch019.xhtml">Iran: A Friction Between State Ideology and Network Society</a><br/>*Hadi Sohrabi, Swinburne University of Technology, and Behzad Dowran, Iranian Research Institute for Information Science and Technology*
 
-<a href="ch018.xhtml">Cuba: *Videos to the left* – circumvention practices and
-audiovisual ecologies</a><br/>*Fidel Alejandro Rodriguez, University of Habana*
+<a href="ch020.xhtml">Cuba: *Videos to the Left* – Circumvention Practices and
+Audiovisual Ecologies</a><br/>*Fidel Alejandro Rodriguez, University of Habana*
 
-<a href="ch019.xhtml">United States: Geoblocking in a privileged market</a><br/>*Evan Elkins, University of Miami*
-
-
+<a href="ch021.xhtml">United States: Geoblocking in a Privileged Market</a><br/>*Evan Elkins, University of Miami*
 
 
-# The new video geography:An introduction to Geoblocking and Global Video Culture
+
+
+# The New Video Geography: An Introduction To Geoblocking and Global Video Culture
 
 ###Ramon Lobato###
 
@@ -218,7 +219,7 @@ the internet; second, the history of circumvention technologies and
 practices; and third, the relationship between political censorship and
 pleasurable consumption, as seen through the lens of geoblocking.
 
-## Blockage and flow
+## Blockage and Flow
 
 One of our starting points when developing the idea for this book was
 the uncontroversial observation that, for many internet users, the
@@ -348,7 +349,7 @@ didn’t have geoblocking in mind when they wrote that sentence, but they
 may as well have. Geoblocking reminds us that geography matters a great
 deal to television, and never moreso than in the internet age.
 
-## Control and circumvention
+## Control and Circumvention
 
 A second cross-cutting theme in our book is circumvention – the tactics,
 tools and workarounds that people use to access blocked video sites. As
@@ -365,12 +366,14 @@ Addtele), subscription VPNs (Private internet Access, HotSpotNordVPN,
 TigerVPN), and DNS proxies designed explicitly for unlocking offshore
 content (Unblock-US, Getflix).
 
-![Figure 1: A VPN server selection menu](imgs/Lobato-Image1.png)
-*Figure 1: A VPN server selection menu*
+![](imgs/Lobato-Image1.png)
+
+Figure 1. A VPN server selection menu
 
 
-![Figure 2: VPN marketing highlights unblocking functions](imgs/Lobato-Image2.png)
-*Figure 2: VPN marketing highlights unblocking functions*
+![](imgs/Lobato-Image2.png)
+
+Figure 2. VPN marketing highlights unblocking functions
 
 Circumvention is a complex topic, because most technologies used for
 geoblocking circumvention were not designed for this purpose and have
@@ -483,7 +486,7 @@ who wish to be conceal their identity or location temporarily. The
 chapters in this book trace out some of these unlikely connections in
 rich detail.
 
-## Censorship and consumption
+## Censorship and Consumption
 
 A third theme in this book is the relationship between market and state
 – or more specifically, the relationship between commercial technologies
@@ -686,7 +689,7 @@ of Media Infrastructures*, University of Illinois Press, 2015.
 
 Paul, Ian. ‘Ultra-popular Hola VPN Extension Sold Your Bandwidth for use
 in a Botnet Attack’, *PC World*, 29 May 2015,
-http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html.
+[http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html](http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html).
 
 Roberts, Hal et al. *2010 Circumvention Tool Usage Report*, Cambridge,
 MA: Berkman Center for Internet and Society, 2010
@@ -696,7 +699,7 @@ Landscape Report: Methods, Uses, and Tools,* Cambridge, MA: The Berkman
 Center for Internet and Society, Harvard University, 2007.
 
 Shadbolt, Peter. ‘How Misbehaving at School Made One Man a Millionaire’,
-*BBC News*, 18 May 2015, http://www.bbc.com/news/business-32702501.
+*BBC News*, 18 May 2015, [http://www.bbc.com/news/business-32702501](http://www.bbc.com/news/business-32702501).
 
 Turner, Graeme and Jinna Tay. *Television Studies after TV:
 Understanding Television in the Post-Broadcast Era*, London: Routledge,
@@ -776,42 +779,47 @@ pp. 124-132.
 #PART I: PERSPECTIVES ON GEOBLOCKING
 
 
-##Global streaming: scale and infrastructure
+##Global Streaming: Scale and Infrastructure
 
-![Figure 1 A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019](imgs/dataviz4.jpg)
+![](imgs/dataviz4.jpg)
 
-Caption
+Figure 1. A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019
 
+![](imgs/dataviz1.jpg)
 
-
-![Figure 2](imgs/dataviz1.jpg "Income status of global internet users.Data source: The World Bank")
-
-
-
-![Figure 3 Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014](imgs/dataviz2.jpg)
-*Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014*
+Figure 2. Income status of global internet users.Data source: The World Bank
 
 
-##Netflix by numbers
-![Figure 4 U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports](imgs/dataviz7.jpg)
-*U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports*
+![](imgs/dataviz2.jpg)
 
-![Figure 5 Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)](imgs/dataviz8.jpg)
+Figure 3. Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014
 
-Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
 
-![Figure 6 Size of Netflix catalogue in various countries (Number of available titles).Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)](imgs/dataviz10.jpg)
-*Size of Netflix catalogue in various countries (Number of available titles).Data source: UnblockUS, https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region*
+##Netflix by Numbers
+![](imgs/dataviz7.jpg)
 
-![Figure 7 Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast](imgs/dataviz9a.jpg)
-*Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast*
+Figure 4. U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
 
-##VPN geography
-![Figure 8 Most popular VPN server locations.Data source: Swinburne University](imgs/dataviz5.jpg)
-*Most popular VPN server locations.Data source: Swinburne University*
+![](imgs/dataviz8.jpg)
 
-![Figure 9 Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society](imgs/dataviz6.jpg)
-*Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society*
+Figure 5. Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
+
+![](imgs/dataviz10.jpg)
+
+Figure 6. Size of Netflix catalogue in various countries (Number of available titles). Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)
+
+![](imgs/dataviz9a.jpg)
+
+Figure 7. Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast
+
+##VPN Geography
+![](imgs/dataviz5.jpg)
+
+Figure 8. Most popular VPN server locations. Data source: Swinburne University
+
+![](imgs/dataviz6.jpg)
+
+Figure 9. Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society
 
 
 
@@ -1003,10 +1011,9 @@ equipment. The exit point was sealed with material that made it seem
 like it was painted concrete, and there was a half-ton winch pulley
 system to hoist up goods up the vertical shaft.
 
-![*Figure 1*Tunnel found in Otay Mesa, California, in 2011:
-dug through soil and sand. Source: U.S. Customs and Border Protection](imgs/RodriguezImage1.jpg)
-*Figure 1 Tunnel found in Otay Mesa, California, in 2011:
-dug through soil and sand. Source: U.S. Customs and Border Protection*
+![](imgs/RodriguezImage1.jpg)
+
+Figure 1. Tunnel found in Otay Mesa, California, in 2011: dug through soil and sand. Source: U.S. Customs and Border Protection
 
 The third type of tunnel is the interconnecting one, which is intended
 to make use of existing subterranean infrastructure such as storm drains
@@ -1048,8 +1055,9 @@ costly and cumbersome, which explains why finding and shutting down
 these tunnels has been a slow process focused on one tunnel at a
 time.[^02LlamasRodriguezTunnelingmedia_15]
 
-![Figure 2 Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection](imgs/RodriguezImage2.jpg)
-*Figure 2 Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection*
+![](imgs/RodriguezImage2.jpg)
+
+Figure 2. Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection
 
 Tunneling online follows similar deflection techniques. Small-scale
 exploits, such as ad-blocking plugins or DNS proxies, capitalize on the
@@ -1322,7 +1330,7 @@ geopolitically. Censorship implementation and circumvention are a major
 and growing industry, worth at least \$1.2 billion dollars in 2012 and
 including well-known corporations such as Cisco Systems and McAfee.[^03AshrafandAlvarezLeonLogicsandterritorialities_6]
 
-##Activity regulations
+##Activity Regulations
 
 According to Jonathan Zittrain and John Palfrey, activity regulations
 embody the many levels in which state territorialities are mapped onto
@@ -1367,7 +1375,7 @@ confluence of multiple logics. For example, the use of copyright by
 industry groups and enforced by the state can simultaneously advance a
 specific kind of market logic while also enacting state territoriality.
 
-## Technical regulations
+## Technical Regulations
 
 While activity regulations focus on *what* is controlled through the
 process of internet blocking, technical regulations focus on the
@@ -1522,13 +1530,11 @@ which geoblocking produces a broad range of territorialities which
 transcend attempts to understand the internet through an open/closed
 binary perspective.
 
-![Figure 1: Source: States are enforcing their territorial boundaries online
-and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)](imgs/AshrafImage1.jpg)
+![](imgs/AshrafImage1.jpg)
 
-*Figure 1: Source: States are enforcing their territorial boundaries online
+Figure 1. Source: States are enforcing their territorial boundaries online
 and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)*
+sovereignty (Nicolas Sanson/Wikimedia Commons)
 
 ## Markets
 
@@ -1799,7 +1805,7 @@ Murdoch, Steven J., and Ross Anderson. ‘Tools and Technology of Internet Filte
 
 Newland, Erica et al. 2011. ‘Account Deactivation and Content Removal: Guiding Principles and Practices for Companies and Users’, *Berkman Center Research Publication*, Harvard University, no. 2011-09.
 
-Orans, L., and P. Firstbrook. 2011. ‘Magic Quadrant for Secure Web Gateways.’ *Gartner Inc.*, http://[www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp).
+Orans, L., and P. Firstbrook. 2011. ‘Magic Quadrant for Secure Web Gateways.’ *Gartner Inc.*, [http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp).
 
 Papacharissi, Zizi. ‘The Virtual Sphere: The Internet as a Public Sphere’, *New Media & Society* 4.1 (2002): 9-27.
 
@@ -1834,8 +1840,7 @@ Cambridge, MA: MIT Press, 2007, pp. 29-56.
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_5]: Nazli Choucri, *Cyberpolitics in International Relations*, Cambridge, Mass: The MIT Press, 2012.Choucri, *Cyberpolitics in International Relations*.
 
-[^03AshrafandAlvarezLeonLogicsandterritorialities_6]: Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web Gateways.”, Gartner Inc., available at [http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp](http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp.
-).
+[^03AshrafandAlvarezLeonLogicsandterritorialities_6]: Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web Gateways.”, Gartner Inc., available at [https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways](https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways).
 
 [^03AshrafandAlvarezLeonLogicsandterritorialities_7]: Michel Foucault, *Discipline and Punish: The Birth of the Prison*, 2^nd^ edition, New York: Vintage, 1995.
 
@@ -1937,13 +1942,11 @@ regulation. The three stages will likely begin at different times in
 different countries, industries, and contexts, but will eventually
 overlap and thereafter develop concurrently.
 
-![Figure 1: Geoblocking has a complicated relationship with national legal
-systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)](imgs/TrimbleImage1.jpg)
+![](imgs/TrimbleImage1.jpg)
 
-*Figure 1: Geoblocking has a complicated relationship with national legal
+Figure 1. Geoblocking has a complicated relationship with national legal
 systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)*
+tool for legal compliance. Source: (CC BY 2.0/Karen Roe)
 
 ## Geoblocking as a Tool of Regulation and Enforcement
 
@@ -2344,7 +2347,7 @@ Entertainment Law Journal* 22.3 (Spring, 2012): 567-657.
 
 Trimble, Marketa. ‘Local Hosting and the Draft “Trade in Services
 Agreement”’, Technology & Marketing Law Blog, 22 September 2015,
-http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm.
+[http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm](http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm).
 
 Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
 *Fordham Intellectual Property, Media & Entertainment Law Journal* 25.2
@@ -2586,15 +2589,12 @@ of networked individuals to not only redistribute copyrighted content
 from their television screens, but straight from the source as
 well.[^05RuggBurroughsPeriscope_13]
 
-![Figure 1 The live-streaming app Periscope allows individuals to
-distribute and consume content in new ways that circumvent existing
-corporate and state media infrastructures Source: (CC BY 2.0/Anthony
-Quintano)](imgs/BurroughsRugg-Image1.jpg)
+![](imgs/BurroughsRugg-Image1.jpg)
 
-*Figure 1 The live-streaming app Periscope allows individuals to
+Figure 1. The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
 corporate and state media infrastructures Source: (CC BY 2.0/Anthony
-Quintano)*
+Quintano)
 
 In 2007, Viacom waged a long legal battle against YouTube, seeking
 damages for profiting off of the viewing of infringing content. The
@@ -2998,7 +2998,7 @@ Location’, *CNET*, 28 August 2012,
 
 
 
-#Circumvention, media sport and the fragmentation of video culture
+#Circumvention, Media Sport and The Fragmentation of Video Culture
 
 ###James Meese and Aneta Podkalicka###
 
@@ -3020,13 +3020,9 @@ broadcasting rights, rather than from gate receipts or merchandising.
 Sport is able to demand this level of investment because there is a
 strong viewer preference for mediated live sport, which in turn is a
 unique form of modern screen content. Live sport is one of the last
-program genres that require people to watch it at a particular time.
-This is unlike most other programs, which can be provided on-demand (as
-we have seen elsewhere in this collection). This in turn means that live
+program genres that require people to watch it at a particular time. This is unlike most other programs, which can be provided on-demand (as we have seen elsewhere in this collection). This in turn means that live
 sport stands as a reasonable financial investment for media companies.
-By purchasing exclusive rights to popular sporting contests, networks
-will have access to an interested audience, which can be on sold to
-advertisers.
+By purchasing exclusive rights to popular sporting contests, networks will have access to an interested audience, which can be on sold to advertisers.
 
 Rights deals between sporting organisations and television networks are
 managed through a complicated geography of contractual agreements.
@@ -3052,7 +3048,7 @@ these circumvention practices, which vary in their scope and levels of
 informality, and explore how they are fragmenting the sporting video
 landscape and offering new sites of consumption for fans.
 
-##Beyond the traditional sporting broadcast: challenging exclusivity
+##Beyond the Traditional Sporting Broadcast: Challenging Exclusivity
 
 Media sport stands as an interesting case study to explore changing
 media geographies because of the sector’s resilience and longevity. It
@@ -3142,7 +3138,7 @@ circumvention is not just about access, but about sustaining alternative
 consumption preferences, which are often not catered for in the dominant
 forms of sporting broadcast.
 
-####Circumvention practices in media sport####
+####Circumvention Practices in Media Sport####
 
 Circumvention in media sport occurred from the 1970s onwards, thanks to
 flexible consumer technologies like VCRs, which gave audiences with
@@ -3188,7 +3184,7 @@ is also worth noting that it is not prohibitively difficult to upload a
 stream of a sporting match for online broadcast, to the extent that
 walkthroughs are available online.
 
-####Circulation of game replays####
+####Circulation of Game Replays
 
 An alternative circumvention tactic is based around a number of
 websites, which host delayed highlights of games after the match has
@@ -3226,11 +3222,12 @@ However, industry professionals tend to see these services as ‘an
 irritation’, an issue we will discuss later in this chapter, because
 unlike live sport, there is a limited audience for delayed content.[^06MeesePodkalickaGeoblockingandSport_8]
 
-![Figure 1 Highlights aggregated by footytube.com from youtube.com. The YouTube account associated with this footage has since been terminated](imgs/MeesePodkalicka-Image1.png)
-*Figure 1 Highlights aggregated by footytube.com from youtube.com. The
-YouTube account associated with this footage has since been terminated*.
+![](imgs/MeesePodkalicka-Image1.png)
 
-####Conventional circumvention tools####
+Figure 1. Highlights aggregated by footytube.com from youtube.com. The
+YouTube account associated with this footage has since been terminated
+
+####Conventional Circumvention Tools
 
 Sporting audiences also use commercial Virtual Private Networks and
 Domain Name System proxy services in order to evade geoblocking,
@@ -3255,7 +3252,7 @@ of the sports broadcasting landscape, the use of circumvention
 technologies challenges this distribution strategy, which has been in
 place for some time.
 
-####Fan recordings on social media####
+####Fan Recordings on Social Media
 
 Another phenomenon that has emerged in recent years is people posting
 sporting content on social media platforms, either during or after a
@@ -3286,7 +3283,7 @@ it when a deliberately selected piece of content goes viral, losing
 control over this process is often treated as a direct threat to their
 business model.
 
-####Parallel imports of cable decoders####
+####Parallel Imports of Cable Decoders
 
 Our final example is a practice that constitutes, perhaps, one of the
 most ingenious methods of circumvention: paying for a cheaper cable
@@ -3335,7 +3332,7 @@ managing social relationships. When we consider the history of football
 fan violence or even the good-natured tensions between two local teams,
 the provision of multiple games at a local pub is no small matter.
 
-##(Un)authorised circumvention practice##
+##(Un)authorised Circumvention Practice
 
 These circumvention practices don't emerge out of thin air. Sporting
 organisations and media networks are actively cultivating some of them,
@@ -3361,7 +3358,7 @@ reinforce the point made throughout this article, that the threats to
 live broadcasts, are the ones that rights holders respond most strongly
 to.
 
-##The fragmentation of digital sporting video cultures##
+##The Fragmentation of Digital Sporting Video Cultures##
 
 The circumvention practices outlined above directly challenge
 assumptions about content, which are embedded in the geographically
@@ -3381,7 +3378,18 @@ quality. While the broadcast is of a high standard the fact that the
 commentary is in a foreign language might impact on the enjoyment of the
 game.
 
-##Table
+
+| Platform  | Do you need to pay  |Timing   |Geographic restriction   | 'Quality'  |
+|---|---|---|---|---|
+| TV (Satellite)  |Yes| Live  | Yes  | Excellent  |
+| TV (FTA)  | Sometimes  | Live  |  Yes | Excellent|
+|Parallel Import TV|   Yes|  Live | No  |Average   |
+|TV (FTA) through VPN| Yes| Live |No|Excellent|
+|Live Streaming|  No | Live | No|Average to Poor|
+|Vine| No  | Slight Delay | No  | Poor |
+|YouTube/Other Third Party Site| No  |Delay of a few hours| No  | Average to Poor  |
+|Skype|  No | Live  | No  | poor  |
+|Website| No  |Delay of a few hours| No  | Average to Poor  |
 
 Figure 2: A breakdown of the relationship between geographic
 restriction, cost and quality
@@ -3744,20 +3752,20 @@ event a submenu appears (Fig. 2), listing the diverse live streams
 available. The streams are sorted by resolution, quality, data transfer
 rate, and language of the commentary.
 
-![Figure 1 Categories displayed on the starting page of the streaming
-aggregation platform Stream2watch.me.](imgs/Hoof-Image1.png)
-*Figure 1 Categories displayed on the starting page of the streaming
-aggregation platform Stream2watch.me.*
+![](imgs/Hoof-Image1.png)
 
-![Figure 2 Live stream selection submenu of a streaming aggregation
-platform.](imgs/Hoof-Image2.png)
-*Figure 2 Live stream selection submenu of a streaming aggregation
-platform.*
+Figure 1. Categories displayed on the starting page of the streaming
+aggregation platform Stream2watch.me
 
-![Figure 3 Variable quality, freezing and signal disruption are persistent
-risks when live-streaming sport.](imgs/Hoof-Image3.png)
-*Figure 3 Variable quality, freezing and signal disruption are persistent
-risks when live-streaming sport.*
+![](imgs/Hoof-Image2.png)
+
+Figure 2. Live stream selection submenu of a streaming aggregation
+platform
+
+![](imgs/Hoof-Image3.png)
+
+Figure 3. Variable quality, freezing and signal disruption are persistent
+risks when live-streaming sport
 
 Streams available for the German Bundesliga are either pirated coverage
 from the German branch of Sky Sports or from foreign broadcasters based
@@ -3780,10 +3788,10 @@ notices. URLs for streaming aggregation platforms change frequently, and
 platforms often disappear then reappear with a slightly different
 address.
 
-![Figure 4 Malware is a common security hazard people have to negotiate
-when using streaming platforms](imgs/Hoof-Image4.png)
-*Figure 4 Malware is a common security hazard people have to negotiate
-when using streaming platforms*
+![](imgs/Hoof-Image4.png)
+
+Figure 4. Malware is a common security hazard people have to negotiate
+when using streaming platforms
 
 There is also the risk that there are no streams available at all, or
 that the quality is too low. Previously stable, high-quality streams can
@@ -3894,7 +3902,7 @@ of a Concept’, *Science, Technology and Human Values* 35.5 (2010): 601-617.
 
 tz. ‘Hier sehen Sie Borussia Dortmund gegen FK Krasnodar jetzt im TV und
 Live-Stream’, 17 September 2015,
-[https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/](https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html/).
+[https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html](https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html).
 
 [^07HoofLivesportspiracyanduncertainty_1]: Michael Hutter, ‘Information Goods’, in Ruth Towse (ed.), *A
     Handbook of Cultural Economics,* Cheltenham: Edward Elgar, 2006, pp.
@@ -3927,14 +3935,12 @@ Live-Stream’, 17 September 2015,
 
 ###Roland Burke###
 
-![figure 1 Drawing the Borders: Detail of the original Sega Megadrive
+![](imgs/Burke-Image0.png)
+
+Figure 1. Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
 Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014.](imgs/Burke-Image0.png)
-*figure 1 Drawing the Borders: Detail of the original Sega Megadrive
-design schematic, with the assorted cartridge slot shapes indicated.
-Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014.*
+Works, n.p: Read Only Memory, 2014
 
 IP address geoblocking has been implemented to partition what would
 otherwise be potentially borderless worlds of information and
@@ -4099,15 +4105,15 @@ hole in the geo-fence; for the Super Nintendo, it required a ‘native’
 regional escort providing a fleeting moment of diplomatic cover. In both
 cases, the breech was easily and cheaply made.
 
-![Figure 2 The Japanese Megadrive cartridge with its infuriating rounded
-edge. The owner is mere millimetres away from fun. Image: Roland Burke](imgs/Burke-Image2.jpg)
-*Figure 2 The Japanese Megadrive cartridge with its infuriating rounded
-edge. The owner is mere millimetres away from fun. Image: Roland Burke.*
+![](imgs/Burke-Image2.jpg)
 
-![Figure 3 The localized Australian Megadrive cartridge, with its
-distinctive curved spline. Image: Roland Burke.](imgs/Burke-Image3.jpg)
-*Figure 3 The localized Australian Megadrive cartridge, with its
-distinctive curved spline. Image: Roland Burke.*
+Figure 2. The Japanese Megadrive cartridge with its infuriating rounded
+edge. The owner is mere millimetres away from fun. Source: Roland Burke
+
+![](imgs/Burke-Image3.jpg)
+
+Figure 3. The localized Australian Megadrive cartridge, with its
+distinctive curved spline. Source: Roland Burke
 
 Circumvention was not a procedure undertaken without considerable
 deliberation and forethought. Inexperienced hands, no matter how nimble,
@@ -4514,16 +4520,19 @@ the real geo-, not the stratified one prescribed by corporate entities.
 
 The following chapters focus on ground-level internet circumvention practices – how people around the world negotiate different kinds of blocks, including both commercial geo-blocking and government censorship. Together, these chapters reveal that the use of VPNs, proxies, and other workarounds is now a global phenomenon, even though tools and habits vary from country to country. Our comparison of nine countries – China, Australia, Turkey, Sweden, Malaysia, Brazil, Iran, Cuba and the United States – illuminates some of the continuities and specificities of global circumvention. As we will see, each region has its own mix of drivers and practices. In some parts of the world, circumvention is mostly driven by demand for first-release entertainment content. In other countries it is about gaining access to social networks or communication tools that have been blocked by the government. But in all cases, the use of circumvention software, apps and plugins changes the official geography of video access. The authors in this section tell richly detailed stories about these circumvention practices and discuss their implications for how digital media circulate today.
 
-![Figure 1 Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014
-](imgs/dataviz.jpg)
-*Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014*
+
+![](imgs/dataviz14.jpg)
+
+Figure 1. Average connection speed (Mbps). Data source: Akamai State of the Internet Report Q4 2014
 
 
-![Figure 2 Internet users per 100 people. Data source: The World Bank](imgs/dataviz.jpg)
-*Internet users per 100 people. Data source: The World Bank*
+![](imgs/dataviz12.jpg)
 
-![Figure 3 ](imgs/dataviz13.jpg)
-*Figure 3 *
+Figure 2. Internet users per 100 people. Data source: The World Bank
+
+![](imgs/dataviz13.jpg)
+
+Figure 3.
 
 
 
@@ -4532,12 +4541,16 @@ The following chapters focus on ground-level internet circumvention practices �
 
 # China: The Techno-Politics of the Wall
 
-###Jinying Li###
+### Jinying Li
 
- ####DATA BOX{.statbox}- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
-'*If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’*' – Murong Xuecun, Writer, in 2015
+ <div class ="statbox"> 
+**DATA BOX** <BR>- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
 
-####
+
+####PULL QUOTES
+'*If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’*' – Murong Xuecun, Writer, 2015
+</div>
+
 The Great Firewall (GFW) is one of the most sophisticated and effective
 Internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a
@@ -4794,10 +4807,10 @@ accessed on YouTube), the phenomenon continued in countless Internet
 memes, video games, toys, and even clothing lines that all referenced
 the lovely animal.
 
-![Figure 1 The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)](imgs/Li-image1.png)
-*Figure 1 The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)*
+![](imgs/Li-image1.png)
+
+Figure 1. The Grass Mud Horse became a popular expression of resistance to
+internet censorship source: (CC BY-SA 2.0/chumsdock)
 
 Equally provocative is the animation series *Kuang Kuang*, which was
 created by artist Pi San and his independent studio Huxiao Animation.
@@ -5053,7 +5066,7 @@ Xuecun, Murong. 'Scaling China’s Great Firewall', *The New York Times*,
 
 
 
-#Australia: circumvention goes mainstream 
+#Australia: Circumvention Goes Mainstream 
 
 ###Ramon Lobato and James Meese###
 
@@ -5066,16 +5079,13 @@ Australia, as of late 2014
 - \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
 - \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
 
-***PULL QUOTES***
+####PULL QUOTES
 
 *‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
 when you go online  I know that  anyway, I won’t go on.’* –
 Australia’s former Minister for Communications (and current Prime
 Minister), Malcolm Turnbull, in 2014
 
-IMAGES 
-McTivia
-Malcolm Turnbull
 
 ####
 Over the last decade Australia has become an unlikely hotspot of
@@ -5199,7 +5209,7 @@ are ‘fed on a diet of geo-blocking, slow content delivery and price
 gouging’.[^10LobatoandMeeseAustralia_3] This adds fuel to the fire of consumer resentment, and
 provides a rhetorical justification for piracy and geo-hacking.
 
-##Geoblocking and cultural nationalism
+##Geoblocking and Cultural Nationalism
 
 By 2012 geoblocking had become a political issue. Sensing the mood of
 the public, Australian regulators were questioning the
@@ -5265,7 +5275,7 @@ victims of cultural globalization. A politics of resentment has taken
 hold, tinged with nationalist overtones. Its central figure: the
 ripped-off Aussie consumer.
 
-##The VPN explosion
+##The VPN Explosion
 
 Renewed attention to the parallel-import issue has naturally drawn
 attention to geoblocking. Taking a cue from their elected
@@ -5319,7 +5329,7 @@ mass-scale internet circumvention in this way would in other
 circumstances appear unusual. In Australia, it is now par for the
 course.
 
-##Governing circumvention
+##Governing Circumvention
 
 Running through this debate about geoblocking are several unresolved
 legal and policy issues. One of these is the uncertain legal status of
@@ -5354,9 +5364,9 @@ retention regime, and VPN services are an appealing counter-measure.
 Savvy VPN companies such as PureVPN and IBVPN, now promote themselves to
 Australian users on this basis (see Figure 1).
 
-![](media/image1.png)
+![](imgs/lobatomeese.png)
 
-Source: <http://www.ibvpn.com/australia-vpn-service/>
+Figure 1. [http://www.ibvpn.com/australia-vpn-service/](http://www.ibvpn.com/australia-vpn-service/)
 
 Recent developments in copyright law also bear directly on VPNs. In June
 2015 federal legislation was passed that gives judges the power to block
@@ -5378,7 +5388,7 @@ an identity-masking tool for P2P users. In this complex game of
 whack-a-mole, public awareness of VPNs, proxies and other circumvention
 tools is always on the rise.
 
-##The coming of Netflix
+##The Coming of Netflix
 
 Another recent development is the launch in March 2015 of Netflix’s
 Australian service. For the first time Australians can now access an
@@ -5446,7 +5456,7 @@ practices among a substantial minority of the population.
 
 ‘Choice tells Australians to become digital smugglers’, ABC Radio *AM*
 program, 23 March 2013,
-[http://www.abc.net.au/am/content/2013/s3722193.html](http://www.abc.net.au/am/content/2013/s3722193.html).
+[http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164](http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164).
 
 Australian Copyright Council, information sheet G127v01, ‘Geo-blocking,
 VPNs & Copyright’, July 2015.
@@ -5506,7 +5516,7 @@ Suzor, Nicolas. ‘Using a VPN to Access Netflix: Is it Legal?’,
 
 [^10LobatoandMeeseAustralia_6]: ‘Choice tells Australians to become digital smugglers’, ABC Radio
     *AM* program, 23 March 2013,
-    [http://www.abc.net.au/am/content/2013/s3722193.html](http://www.abc.net.au/am/content/2013/s3722193.html).
+    [http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164](http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164).
 
 [^10LobatoandMeeseAustralia_7]: David Richardson, ‘Copyright and Monopoly Profits: Books, Records
     and Software’, Current Issues Brief 15, 1996, The Parliament of
@@ -5547,7 +5557,7 @@ Suzor, Nicolas. ‘Using a VPN to Access Netflix: Is it Legal?’,
 
 
 
-# Turkey: Coping with internet censorship 
+# Turkey: Coping With Internet Censorship 
 
 ###Çiğdem Bozdağ###
 
@@ -5560,12 +5570,11 @@ internet
 2014
 
 ####
-![Figure 1: This image promoting DNS proxies circulated widely during the
+![](imgs/BozdagImage1.png)
+
+Figure 1. This image promoting DNS proxies circulated widely during the
 2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
-unknown)](imgs/BozdagImage1.png)
-*Figure 1: This image promoting DNS proxies circulated widely during the
-2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
-unknown)*
+unknown)
 
 In recent years the acronyms DNS and VPN have entered into the everyday
 vocabulary of Turkish internet users. Since 2007, when Law No. 5651 was
@@ -5795,12 +5804,11 @@ online for information about changing DNS settings. This can be seen in
 Table 1 below, which shows the use of the words DNS, VPN and *sansür*
 (censorship) on Twitter during the first days of the blocks in Turkey.
 
-![Figure 2: During the March 2014 Twitter ban, a global search of tweets
+![](imgs/BozdagImage2.png)
+
+Figure 2. During the March 2014 Twitter ban, a global search of tweets
 shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms.](imgs/BozdagImage1.png)
-*Figure 2: During the March 2014 Twitter ban, a global search of tweets
-shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms.*
+both prominent terms
 
 On the second day of the Twitter ban in March 2014, access to commonly
 used DNS providers was also blocked from within Turkey. This was a
@@ -5992,7 +6000,9 @@ report, *Cyber Rights,* 2014,
 ###Chris Baumann
 
 ####DATA BOX{.statbox}- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
-*‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013‘*We believe that the time is ripe for everyone to start using VPN services*’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014IMAGESScreenshot Anonine
+
+####PULL QUOTES
+*‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013‘*We believe that the time is ripe for everyone to start using VPN services*’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014
 
 ####
 In mid-October 2012, Netflix flew its top three executives, co-founder
@@ -6286,8 +6296,9 @@ name, which is a wordplay on *anonym*, the Swedish version of
 *anonymous*), in addition to multiple uses of related terms like ‘safe’
 or ‘secure.’ This, of course, is hardly a coincidence.
 
-![Figure 1 The website of Anonine, a popular Swedish VPN provider.](imgs/BaumannImage1.png)
-*Figure 1 The website of Anonine, a popular Swedish VPN provider.*
+![](imgs/BaumannImage1.png)
+
+Figure 1. The website of Anonine, a popular Swedish VPN provider
 
 Another reason for Anonine’s popularity among Swedish Internet users is
 the company’s “local” brand. Swedes tend to be loyal to homegrown
@@ -6493,7 +6504,7 @@ Geneva, 2014.
     ting customer data, with Bahnhof g customers' Court of Jus
 
 [^12BaumannSweden_21]: Oscar Schwartz, ‘LEX Integrity’, *5<sup>th</sup> of July Foundation*, 16
-    November 2014, https://5july.org/2014/11/16/lex-integrity/.
+    November 2014, [https://5july.org/2014/11/16/lex-integrity/](https://5july.org/2014/11/16/lex-integrity/).
 
 [^12BaumannSweden_22]: Jon Karlung, ‘Bahnhof aktiverar ”plan B”: erbjuder fri
     anonymisering’, *Bahnhof*, 16 November 2014,
@@ -6501,7 +6512,7 @@ Geneva, 2014.
 
 [^12BaumannSweden_23]: BeatriceAsk, ‘Den stora frågetråden om VPN-tjänsten Anonine!
     \[Sammanfogad\]’, *Flashback,* 20 April 2012,
-    https://www.flashback.org/p36938188\#p36938188.
+    [https://www.flashback.org/p36938188\#p36938188](https://www.flashback.org/p36938188\#p36938188).
 
 [^12BaumannSweden_24]: Privacy International, *The Right to Privacy in Sweden.
     Stakeholder Report: 21st Session, Sweden,* London, 2014.
@@ -6520,8 +6531,9 @@ Geneva, 2014.
 video at least once a month[^13HanchardMalaysia_2]
 - 5.48 Mbps: Average internet speed[^13HanchardMalaysia_3]
 - 140%: Mobile penetration rate, of which 35% are smartphones[^13HanchardMalaysia_4]
-- RM8 (US\1.86): Monthly cost of an iFlix annual subscription
+- RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
+####PULL QUOTES
 *“iflix will fight entertainment piracy and provide an entirely new and
 legitimate way for the region’s hundreds of millions of Internet users
 to enjoy their favourite films and television shows.” -* Press release
@@ -6602,12 +6614,11 @@ strictly following Malaysian censorship restrictions. This of course
 could change as a result of greater scrutiny by the authorities if there
 is mainstream adoption of iFlix.
 
-![Digure 1 iFlix launched in Malaysia and Philippines in May 2015, as an
+![](imgs/Hanchard_image1.jpeg)
+
+Figure 1. iFlix launched in Malaysia and Philippines in May 2015, as an
 equivalent service to Netflix. It provides access to both global and
-local content, including well-loved Malaysian film genres.](imgs/Hanchard_image1.jpeg)
-*Digure 1 iFlix launched in Malaysia and Philippines in May 2015, as an
-equivalent service to Netflix. It provides access to both global and
-local content, including well-loved Malaysian film genres.*
+local content, including well-loved Malaysian film genres
 
 Malaysian users are not just looking for shows from Hollywood. There is
 strong demand for movies and dramas from wider Asia, in particular
@@ -6742,7 +6753,7 @@ the Malaysian middle-class has become politically mobilised. There is
 widespread dissatisfaction with the Malaysian Government over
 allegations of corruption, especially in the wake of the recent scandal
 involving 1Malaysia Development Berhad (1MDB), an economic development
-company owned by the Government, in which \$700 million in public funds
+company owned by the Government, in which $700 million in public funds
 were allegedly diverted to the bank account of Prime Minister Najib
 Razak.[^13HanchardMalaysia_12] Digital security skills were particularly relevant for the
 *Bersih* 4 protests, a movement which called for a ‘clean’ and
@@ -6805,7 +6816,7 @@ Smartphone Users”, *e27*, 5 March 2014,
 e27 [http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/](http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/).
 
 Internet World Stats. ‘Asia Internet Usage Stats Facebook and Population
-Statistics’, 30 June 2015, [http://www.internetworldstats.com/stats3.html](http://www.internetworldstats.com/stats3.html).
+Statistics’, 30 June 2015, [http://www.internetworldstats.com/stats3.htm](http://www.internetworldstats.com/stats3.htm).
 
 The Malay Mail Online. ‘”Rewind” the Year — YouTube Recaps 2014’s Top
 Videos,’ 10 December 2014,
@@ -6843,7 +6854,7 @@ ad:tech Roadshow Kuala Lumpur. Data sourced from comScore and Nielsen,
     Smartphone Users’, *e27*, 5 March 2014, [http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/](http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/).
 
 [^13HanchardMalaysia_5]: Internet World Stats, 'Asia Internet Usage Stats Facebook and
-    Population Statistics', [http://www.internetworldstats.com/stats3.html](http://www.internetworldstats.com/stats3.html).
+    Population Statistics', [http://www.internetworldstats.com/stats3.htm](http://www.internetworldstats.com/stats3.htm).
 
 [^13HanchardMalaysia_6]: Kenneth Wong, '2014 Malaysia Digital Media Landscape', presentation at ad:tech Roadshow Kuala Lumpur, 2014,
     [http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf](http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf). Data
@@ -7007,18 +7018,18 @@ streaming in Brazil. In recent years streaming services have multiplied
 as telcos and media companies invest in VOD platforms. Figure 1
 illustrates some of the services available:
 
-  **Service**     **Availability**                  **Price (US\$)**                   **No of videos**
-  --------------- --------------------------------- ---------------------------------- ------------------
-  Netflix         Available to the general public   \$6.60 per month                   1500+
-  Now             NET HD subscribers                Free / from \$1.30 per title       20,000+
-  Cine Sky HD     Sky HDTV subscribers              From \$3.30 per title              36
-  Sky Online      Sky subscribers                   \$5.20 per month or pay per view   2,300+
-  Vivo Play       Available to the general public   \$5.20 per month                   5000
-  GVT on demand   GVT subscribers only              Free / \$1 per video               5000
-  ClaroVideo      Available to the general public   \$4.60 per month or pay per view   1200+
-  HBOGo           HBO/Max on Sky subscribers only   Free for cable subscribers         1500+
-  Telecine Play   Telecine subscribers only         Free for cable subscribers         1500+
-  Muu             Globasat subscribers only         Free for cable subscribers         3000
+|Service|Availability|Price (US$)|No of videos|
+|---|---|---|---|---|
+|Netflix|Available to the general public|$6.60 per month|1500+|
+|Now |NET HD subscribers|Free / from \$1.30 per title|       20,000+|
+|Cine Sky HD|Sky HDTV subscribers|From \$3.30 per title              |36|
+|Sky Online|Sky subscribers|$5.20 per month or pay per view  | 2,300+|
+|Vivo Play|Available to the general public|$5.20 per month|5000|
+|GVT on demand|GVT subscribers only|Free / $1 per video|5000|
+|ClaroVideo|Available to the general public|$4.60 per month or pay per view|1200+|
+|HBOGo|HBO/Max on Sky subscribers only|Free for cable subscribers|1500+|
+|Telecine Play|Telecine subscribers only|Free for cable subscribers|1500+|
+|Muu|Globasat subscribers only|Free for cable subscribers|3000|
 
 However, despite the proliferation of legal streaming services,
 Brazilian internet TV viewing is still substantially informal in nature.
@@ -7093,7 +7104,7 @@ not limited to) a lack of law enforcement, the high cost of accessing
 cable television, and restricted access to international video content
 in general.
 
-##Circumventing Geoblocking in Brazil through VPN and Proxy ‘Pirata’
+##Circumventing Geoblocking in Brazil Through VPN and Proxy ‘Pirata’
 
 A quick search of Brazilian internet sites will produce hundreds of
 piracy and circumvention resources, such as VPN and proxy services,
@@ -7130,10 +7141,10 @@ This is a source of disappointment for the many Brazilian students who
 use captions to practice their English language skills. They naturally
 prefer the U.S. service.
 
-![](media/image1.png)
+![](imgs/Vanessa_Image1.png)
 
-*Fig. 1. English captions on streaming content are highly valued by some
-Brazilian internet users, especially language students*.
+Figure 1. English captions on streaming content are highly valued by some
+Brazilian internet users, especially language students
 
 Interestingly enough, Brazilian Netflix fans have also produced a
 Portuguese subtitling workaround for those using the U.S. site. There
@@ -7318,1157 +7329,6 @@ Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
 
 
 
-
-# The USA: Geoblocking in a Privileged Market
-
-### Evan Elkins
-
-
-
-####DATA BOX {.statbox}
-- 36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1]<br/>
-- 20,000: Number of VPN communications the NSA aimed to survey per hour in 2011, according to the Edward Snowden documents.[^17ElkinsUSA_2]<br/>
-- \$39.95: Cost for a yearly subscription to popular VPN service Private Internet Access, in US\$.[^17ElkinsUSA_3]<br/>
-- 22.6%: Percentage of North American Pirate Bay users who use a VPN service, according to a 2013 survey [^17ElkinsUSA_4]<br/> 
-
->‘every now and then we feel the burn in the States, too.’ –*Lifehacker* blogger Adam Pash, in 2010. 
-
-####
-
-The hashtag \#NBCFail, which popped up regularly on social media in the
-summer of 2012, represented yet another chapter in the long story of
-American audiences’ irritation at the often shallow, shoddy character of
-their national broadcast networks. This time, the target of viewers’ ire
-was NBC’s coverage of that year’s Summer Olympics in London. Frustrated
-with tape-delayed events and the network’s US-centric commentary, United
-States viewers naturally sought out the BBC’s telecast as an
-alternative. Savvy viewers who did their research may have stumbled upon
-the BBC’s iPlayer platform. The iPlayer was livestreaming the BBC’s
-coverage of the Olympics, and thus promised live, superior coverage and
-an escape from NBC’s jingoistic slant. Upon navigating to that platform,
-however, Americans found this message: ‘BBC iPlayer TV programmes are
-available to play in the UK only’.
-
-![Figure 1 An example of geoblocked content on BBC iPlayer](imgs/ElkinsGeoblocking1.png)
-*Figure 1 An example of geoblocked content on BBC iPlayer*
-
-In these moments, US residents confronted an experience of transnational
-viewing with which many around the world were already familiar. Viewers
-living in other countries understand geoblocking as a form of power
-emanating from major media conglomerates, many of which are rooted in
-Hollywood-based (yet globalized) cultural industries. As many of this
-book’s other chapters make clear, geoblocking is just a part of the
-everyday viewing experience for people around the globe – albeit an
-often-frustrating one. Many of these experiences involve attempts at
-accessing American programming through platforms like Hulu or the
-American version of Netflix. But given that many of the platforms
-usually targeted in global complaints about geoblocking are, in fact,
-available in the US, what does geoblocking look like from *within* the
-United States? And how and why do people circumvent it?
-
-Geoblocking in the United States is generally invisible – until it
-isn’t. In other words, whereas viewers around the world have grown used
-to (which is not to say complacent about) geoblocking as a banal
-occurrence, it’s something that many Americans likely only have a faint
-awareness of, to the extent that they even know it exists. American
-viewers that do encounter geoblocking are likely to fall within two
-overlapping audiences: diasporic groups and viewers who consciously seek
-out media from across borders (for example, cinephiles or fans of
-British television). This makes it a somewhat difficult phenomenon to
-grasp onto in the country. Geoblocking circumvention certainly doesn’t
-have the same currency as it does in, say, Australia or the European
-Union. Put simply, most Americans have likely never experienced
-geoblocking or, at the very least, do not run into it regularly. Their
-relative wealth of access makes geoblocking – and its circumvention –
-less of a nationwide *cause célèbre* and more of a ‘niche’ or
-intermittent experience.
-
-## Geoblocking and Market Hierarchies
-
-Many platforms that distribute American content use geoblocking, because
-the US cultural industries have been particularly militant with regard
-to preserving and controlling the distribution paths of intellectual
-properties. They do so following a business strategy that industry
-executive and author Jeff Ulin refers to as, naturally enough, ‘Ulin's
-Rule’, wherein the distribution value of media content is maximized
-through the exploitation of four factors: ‘time, repeat consumption
-(platforms), exclusivity, and differential pricing’.[^17ElkinsUSA_5] These factors
-are controlled through the development and maintenance of distinct
-spatial and temporal distribution windows that geoblocking helps
-maintain. So, for instance, a film’s US theatrical run would represent
-one window, and subsequent availability of that film on Netflix in
-Germany a few months later would represent another. In retaining
-distribution windows and ordering them along geographic borders (whether
-local, national, regional, continental, etc.), certain territories
-become more valuable or ‘useful’ to American media firms as markets, and
-release dates, prices, and different versions of texts and platforms are
-set accordingly. At the risk of generalizing what are in fact rather
-complex decisions about global distribution markets, this strategy
-enables powerful American media industries to ‘rank’ (even implicitly)
-the importance and value of particular markets relative to each other.
-In the age of DVD, this ranking was made apparent through the numerical
-region code system, with North America designated as Region 1. These
-rankings are still present in the practice of geoblocking even if they
-are less overt.
-
-As this might indicate, if geoblocking can be explained functionally and
-practically by pointing to long-established industry practices, its
-cultural impacts are, for many viewers, more damaging and insulting in
-their valuing of certain territories over others. For instance, one
-*Wired* wiki article on how to access Pandora via VPN refers to
-geoblocking as a system of ‘*xenophobic* restrictions \[that\] are the
-result of U.S. and international copyright laws and restrictions.’[^17ElkinsUSA_6]
-Although it’s not entirely accurate to suggest that geoblocking exists
-purely because of copyright law (rather, it comes about through a
-combination of copyright restrictions, the media industries’
-international distribution and licensing agreements, and platforms not
-having been introduced to particular territories), the fact that some
-see it as a xenophobic and discriminatory practice spurred on by
-predominantly American corporate interests reflects the entanglements
-between geoblocking, American industrial power, and cultural difference.
-So, in addition to its more practical functions of shaping the
-distribution of media content, geoblocking reminds people who live in
-particular territories of their place within a global hierarchy of media
-access. If geoblocking is about access, and access is connected to
-power, then we can begin to think about the cultural and political
-consequences of geoblocking and, in turn, the reasons it makes people so
-angry. In addition, inquiring about what platforms are unavailable where
-(or, if they are technically available, how their costs and content
-libraries differ from the same platforms in other countries) raises
-questions about *why* the world is marked by differential access to new
-media.
-
-If the US and its corporate interests are usually considered major
-forces shaping the geoblocking of platforms and content around the
-world, this makes geoblocking a tricky and curious phenomenon to
-investigate *within* the nation’s borders. Many major entertainment
-platforms that remain geoblocked in territories around the world –
-Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
-US-based corporate entities to serve the American market first and
-foremost. Hulu in particular can essentially be considered a national
-broadcasting platform. Although its library has since grown to
-incorporate film, cable and “international” TV programs, trailers, and
-news, it was created by two of the major American commercial television
-networks (NBC and Fox) as a nationally bound exhibitor of broadcast
-programming. So, while geoblocking is not a part of the national
-conversation as much as it is in other countries, this doesn’t mean that
-it is nonexistent in the US.
-
-## Major Geoblocked Platforms in the United States
-
-The most infamous geoblocked platform in the United States – at least
-until 2011 – was the Swedish streaming music platform Spotify. Spotify
-was initially only available in Europe, and during its early years
-American listeners, critics, and industry figures alike made a lot of
-noise about the cornucopia of free (or at least cheap) music that
-remained just out of their grasp. While American consumers are less
-familiar with the experience of video geoblocking, given the industrial
-might of Hollywood, a few common scenarios can nonetheless be identified
-and are described below.
-
-#### VOD Platforms Developed in or for Another Territory
-
-A commonly repeated axiom holds that the development of VOD platforms
-has lead to – or at least sustains – an increasingly fragmented media
-environment. Even a quick look at the vast array of global streaming and
-OTT services geoblocked outside of their home countries (BBC’s iPlayer,
-Hulu Japan, France’s TF1 on-demand platform, to name just a few) bears
-this out.[^17ElkinsUSA_7] Whereas, in the age of DVD, the region-code system ensured
-that viewers had to contend with one relatively centralized system of
-regional lockout, the issue becomes more complex for viewers contending
-with a VOD environment marked by many different options, contingent
-availability, and constantly shifting libraries. While seeking out
-geographically available platforms can be frustrating for viewers,
-sometimes when a VOD platform is geoblocked in the United States, it
-doesn’t matter much to American users both because the US offers a
-comparable service and because geoblocked platforms naturally will not
-expend promotional energy in a territory where it doesn’t exist. For
-example, LoveFilm, a Netflix-like British VOD service that was
-incorporated into Amazon Prime Instant Video UK in early 2014, was never
-particularly missed or lamented in the US. Ask American users if they
-wish they had access to LoveFilm, and the only ones likely to have heard
-of it will be British expats or tourists. Put simply, with Netflix,
-Hulu, and Amazon Prime Instant Video (US) taking up so much space in the
-market, American viewers needn’t bother with LoveFilm. Unlike, say,
-Spotify, which before its entry into the US market offered something
-quite literally unavailable (free, unlimited a la carte streaming of a
-seemingly comprehensive popular music library), LoveFilm was just
-another VOD service meant for a specific market of UK-based viewers.
-Save the frustrations of British ex-pats, tourists, or business
-travelers from the UK looking to access their home platform, geoblocking
-in this instance shores up a more banal kind of market segmentation.
-
-#### Local, National, and Regional Television Platforms 
-
-As TV networks and channels around the world develop online platforms or
-distribute their content to VOD services, they face the problem of
-maintaining spatial control over distribution routes. The putatively
-global nature of the internet theoretically makes broadcasting’s
-long-held and difficult-to-regulate ‘omnidirectionality’ (to quote media
-historian Thomas Streeter) even more pronounced.[^17ElkinsUSA_8] However, the
-ability to trace the geo-location of internet-connected devices through
-IP address filtering actually makes it quite easy for TV networks to
-control the distribution of television programming through official,
-commercial or public-service streaming platforms.
-
-Given a healthy contingent of Brit TV fans (and \#NBCFail advocates) in
-the US, the BBC’s aforementioned iPlayer is routinely one of the most
-sought-after geoblocked VOD platforms. An on-demand platform available
-via the web and some mobile devices, the iPlayer offers BBC television
-and radio programs for streaming or download primarily to users based in
-the United Kingdom. Those who pay the UK’s television license fee (an
-annual £145.50 fee for all television-owning households that funds the
-BBC), have access to both the platform’s livestreamed and on-demand
-programming. So, the iPlayer is unavailable to those who don’t or can’t
-pay this fee (such as viewers living in the US). And while this
-particular geoblocking arrangement reflects the public nature of the
-BBC, private-sector platforms in the UK like Sky Go are also geoblocked
-to preserve territorial exclusivity of international distribution deals
-and to minimize bandwidth costs incurred by out-of-market audiences.
-
-Beyond the US/UK axis, many public and private national or regional
-television platforms are unavailable in the US for similar reasons
-(i.e., Americans don’t pay taxes and license fees to use the service
-and/or broadcasters are beholden to territory-based distribution and
-licensing agreements). France’s TF1, Canada’s CBC, Qatar’s Al-Jazeera
-(more on them in a bit), Australia’s ABC, and many others have developed
-streaming video services that are geoblocked in the US. This can be a
-problem for diasporic viewers in particular – including students,
-tourists and foreign workers in the United States – who might not care
-as much about accessing HBO Go but may want to access media from their
-home countries via one of these geoblocked platforms. At the same time,
-some media industries that envision their audience as fundamentally
-transnational (e.g., Nollywood, Bollywood, various East Asian and Latin
-American media companies) distribute their content to VOD platforms that
-are *not* geoblocked in the US. These include platforms that specialize
-in various kinds of “international” or non-US content (e.g., the
-Nollywood streaming service iRokoTV and the Korean TV portal DramaFever)
-as well as major US-based platforms like Netflix and Hulu. The latter
-have overtly targeted Latino and Mexican-American diasporic audiences in
-particular, with Hulu carrying a number of telenovelas through its
-partnership with American Spanish-language media company Univision. So,
-while VOD and OTT platforms from throughout Latin America, like
-Televisa’s Veo app, remain geoblocked within the US, these programs may
-be available through other avenues. Indeed, part of the reason these
-services are geoblocked in the US is because American cable and
-streaming companies own the local rights to programs that would
-otherwise be available through those apps. So, the availability of
-particular content and platforms can be complicated for diasporic
-viewers in the US, and it’s often contingent on how highly the American
-media industries value that audience.
-
-#### YouTube, UGC, and Independent Videos Unavailable in the US
-
-Geoblocking in the US (and elsewhere) is not limited to individual
-platforms, nor is it necessarily limited to platforms that were
-developed as extensions of corporate brands. Often, individual videos or
-channels on digital distribution platforms like YouTube will be
-geoblocked to certain territories. This has become an issue as the
-platform has shifted from distributing exclusively user-generated
-content to partnering with major corporations and multi-channel networks
-(MCNs). Indeed, YouTube’s policy on geoblocking limits the practice to
-corporate users who have a Content ID account (i.e., those who “own
-exclusive rights to a substantial body of original material that is
-frequently uploaded by the YouTube user community”).[^17ElkinsUSA_9] So, individual
-user accounts don’t have the option to geoblock videos, but corporate
-media and brand accounts do. And while many of these accounts follow the
-standard practice of serving the United States first and foremost and
-blocking out other countries, others (again, like the BBC) block US
-viewers from their content. Other online video platforms, such as
-Dailymotion, allow developers to geoblock videos in particular countries
-(including the US) using the platform’s API.
-
-## Moments of Circumvention: Making Geoblocking Visible
-
-These conditions suggest that geoblocking circumvention is a more
-specialized practice in the US. This reflects the different standing of
-region-free DVD in the US relative to much of the rest of the world
-during the DVD era. While region-free players were common in many
-nations during the 1990s and 2000s, in the United States they were
-harder to come by, and mostly found within immigrant and cinephile
-communities.[^17ElkinsUSA_10] Although the fragmented nature of the streaming video
-environment and the secretive nature of circumventing geoblocking make
-it difficult to precisely calculate who regularly engages in the
-practice, one can surmise that these same audience segments would be
-drawn to circumvention practices for many of the same reasons that they
-sought out region-free DVD players.
-
-But beyond speculating, where can we actually observe the most visible
-and pronounced moments of geoblocking circumvention in the US? As I
-alluded to, Americans more broadly tend to become aware of geoblocking
-during moments like the Olympics or the World Cup, when they seek out
-broadcasts (and announcers) perceived as superior to the US’s often poor
-coverage. Diasporic viewers and ex-pats looking for media from their
-home countries can also run into geoblocking – British-American viewers
-attempting to access the iPlayer or Venezuelan-Americans bumping into
-the geoblocked Venevisión YouTube channel, for instance. As with many of
-the other examples in this book, these viewers look to proxies and VPNs.
-Of course, most online guides instructing users on how to use VPNs
-address, even implicitly, a non-US audience, as these tend to be the
-viewers who more regularly experience the frustration of geoblocking.
-Even some of the exceptions to this rule acknowledge that geoblocking is
-not primarily a US concern. Many of these come from the blog Lifehacker,
-which regularly instructs its primarily US-based readership on a variety
-of tips and hacks meant to make life easier. The blog has posted several
-tutorials on how to use VPNs, with one suggesting, ‘Non-U.S. users
-frequently encounter the annoyance of geoblocked content when trying to
-access popular sites like Hulu, but every now and then we feel the burn
-in the States, too.’[^17ElkinsUSA_11] Regardless, popular VPN services like Private
-Internet Access, Hide My Ass, and Hola have drawn Americans to their
-user base who use it to access platforms like the iPlayer.
-
-Still, VPN use in the US is as much about online security and privacy
-broadly as it is about circumventing geoblocks. VPN use is part of a
-larger culture of suspicion and caution spurred largely by whistleblower
-Edward Snowden’s massive leak of documents revealing the National
-Security Agency’s (NSA) spying program. One doesn’t need to spend too
-much time on tech sites and forums like Ars Technica, Boing Boing, and
-Reddit to find questions, suggestions, and debates surrounding the use
-of VPNs and other privacy and security technologies. Much of this
-discourse follows a familiar and distinctly American blend of
-libertarianism, tech-utopianism, and intense valuation of privacy, and
-from the perspective of American users it touches on geoblocking
-specifically only intermittently – a state of affairs that contrasts
-with many of the global case studies provided in the rest of this book.
-Americans concerned with online surveillance compare and contrast VPNs
-against other kinds of security and encryption systems (e.g., HTTPS,
-Tor), and indeed the security status of the VPN has come into question
-as of late due to the recent revelation from the Snowden docs that the
-NSA can decrypt VPN communications.
-
-Whether used as a way to circumvent geoblocks or as a more general
-anti-surveillance maneuver, VPNs have an anti-establishment edge to
-them. Because users often regard geoblocking as an oppressive – or at
-least unfair – system of discrimination, there’s a tendency in popular
-and academic discourse to celebrate its circumvention as a form of
-rebellion against anti-competitive media industries and unjust copyright
-regimes. Indeed, in keeping with the close correspondences between the
-American tech industries and libertarian ideology, users often argue
-that geoblocking violates the free market and oppresses personal
-freedoms. But looking at circumvention in the United States, and
-considering the privilege that Americans generally enjoy, it’s worth
-asking whether US-based users circumventing the geoblocked iPlayer
-platform, for example, should be considered resistant – particularly in
-an era when public media is routinely under attack. Indeed, a premise
-that often shapes popular debates and discussions about geoblocking is
-that everyone *should* have access to the same content at the same time
-and the same price, regardless of geographic location – a version of a
-broader cultural attitude that media scholar Lucas Hilderbrand has
-called ‘access entitlement.’[^17ElkinsUSA_12] Because American audiences have
-generally enjoyed the privilege that comes with living in a premier
-media market, US frustrations about geoblocked platforms reflect
-assumptions that Americans should be able to access online art and
-entertainment made available to those living in other parts of the
-world.
-
-This all indicates that it’s important to consider *why* particular
-platforms are geoblocked and under what conditions, as well as what it
-means when people try to circumvent geoblocking in these different
-conditions. There’s a tendency to assume that because a particular
-platform is not available in a territory, the platform owners should be
-to blame. But the lack of iPlayer and Al Jazeera English in the United
-States in fact speaks not only to the desires of those agencies to
-prohibit American viewers from accessing these platforms but also to the
-power of the American cable companies in shaping what US viewers do and
-don’t have access to. Regarding the iPlayer, the BBC announced that the
-platform would be made available in the United States, but that was put
-on hold after threats from cable companies who were worried that the
-iPlayer would carry shows already aired by US cable network BBC America.
-So, the cable networks threatened to stop carrying BBC America if BBC
-Worldwide introduced the iPlayer to the US.[^17ElkinsUSA_13] Al Jazeera English is
-unavailable for similar reasons. At the launch of cable channel Al
-Jazeera America in the United States in 2013, Al Jazeera English
-geoblocked its livestream and its YouTube news reports in the US at the
-behest of the American cable and satellite companies (though it
-eventually dropped the geoblock on the YouTube videos).[^17ElkinsUSA_14]
-Essentially, the cable companies wanted to avoid competition from Al
-Jazeera English.
-
-One consequence of this is that instead of gaining access to the
-‘original’ national version of a platform, US viewers can watch a
-different adaptation of it. In other words, geoblocking helps sustain a
-‘glocalized’ approach to international expansion wherein products are
-adapted to local markets. Now, this isn’t always and necessarily a bad
-thing. Presumably, tailoring a product to a local market could make it
-more appealing to consumers in that market by making it feel closer to
-their own cultural experience. At the same time, British ex-pats and
-Anglophiles in the US might want access to the national public BBC
-platform rather than (or in addition to) a commercial BBC America
-channel that’s clogged with James Bond films and *Star Trek: The Next
-Generation* reruns and that offers commercial-interrupted BBC
-programming later than its initial UK airdate.[^17ElkinsUSA_15]
-
-More seriously, though, when viewers in the United States, whether part
-of a diasporic community or not, want to keep up with news about and
-from the Middle East, they have turned to Al Jazeera. Many viewers in
-the US perceive Al Jazeera’s coverage as superior to US cable news, and
-journalist Max Blumenthal captures the cultural significance of the
-geoblocking of Al Jazeera English in his lament that American viewers
-will need to use a VPN to find ‘an alternative to the mind-numbing,
-sensationalistic content familiar to CNN, Fox News, and MSNBC.’[^17ElkinsUSA_16]
-Here, the circumvention of geoblocking takes on a particular social
-value in that it enables an escape from the dreck that US news consumers
-regularly see. Further, for diasporic viewers living in the US,
-circumventing these geoblocks can help them access news or entertainment
-from their home territories. Either way, the circumvention of
-geoblocking can figure as relief from the hegemony of dominant American
-media.
-
-## Conclusion
-
-All this is to say that within a territory that has long operated as a
-seat of global power, geoblocking reminds viewers of their place within
-hierarchies of cultural power and privilege in a variety of ways. As a
-result, the practice of circumvention means something different in
-different contexts. On one hand, diasporic viewers who are unable to
-access particular platforms might see this as yet another experience
-indicating their geo-cultural displacement and their position as viewers
-not regularly and immediately catered to by the cultural industries. On
-the other hand, for US-based audiences, circumventing geoblocked
-platforms can represent a kind of access entitlement presuming that in a
-digitally connected age, one *should* be able to access everything. When
-this access is interrupted, as in when \#NBCFail led many Americans to
-engage in geoblocking circumvention, they serve as reminders that the
-United States is not a placeless, universal entity in the global media
-economy and that it can be subject to many of the disconnections and
-disjunctures that viewers around the world experience more regularly.
-
-**References**
-
-‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*, 13 May
-2010,
-[http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World](http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World).
-
-Appelbaum, Jacob et al., ‘Prying Eyes: Inside the NSA’s War on Internet
-Security’, *Der Spiegel*, 28 December 2014,
-[http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
-
-Becker, Christine. ‘Access is Elementary: Crossing Television’s
-Distribution Borders’, *FlowTV.org*, 13 January 2014,
-[http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame).
-
-Blumenthal, Max. ‘Exclusive: Al Jazeera’s English Online US Broadcast to
-End with the Launch of Al Jazeera America’, *Mondoweiss*, 1 August 2013,
-[http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
-
-‘Buy Safe and Secure VPN’, *Private Internet Access*,
-[https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
-
-‘Committee Seeks IT Pricing Equity’, *AAP General News Wire* (Sydney),
-29 July 2013.
-
-Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent Freak*,
-29 August 2013,
-[https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829).
-
-Hern, Alex. ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’, *New
-Statesman*, 19 June 2012,
-[http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
-
-Hilderbrand, Lucas. *Inherent Vice: Bootleg Histories of Video and
-Copyright*, Durham, NC: Duke University Press, 2009.
-
-‘How Content ID Works’, *YouTube Help*, 2015,
-[https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
-
-Luh, James C. ‘Breaking Down DVD Borders’, *Washington Post*, 1 June
-2001.
-
-Pash, Adam. ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from
-Outside the U.K’, *Lifehacker*, 29 March 2010,
-[http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
-
-Roettgers, Janko. ‘Al Jazeera English Unblocks its YouTube Videos for
-US-based Viewers’, *Gigaom*, 24 September 2013,
-[https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
-
-Santus, Rex, ‘Netflix is Now in 36% of Homes Across the United States’
-*Mashable*, 12 March 2015,
-[http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
-
-Stelter, Brian. ‘Hiccup for Debut of Al Jazeera America’, *New York
-Times*, 21 August 2013.
-
-Streeter, Thomas. *Selling the Air: A Critique of the Policy of
-Commercial Broadcasting in the United States*, Chicago: University of
-Chicago Press, 1996.
-
-Turner, Adam. ‘Content Unlimited’, *Sydney Morning Herald*, 14 July
-2013,
-[http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html](http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html).
-
-Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
-and Video Content*, Burlington, MA: Focal Press, 2000.
-
-[^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
-    States’ *Mashable*, 12 March 2015,
-    [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
-
-[^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
-    Internet Security’, *Der Spiegel*, 28 December 2014,
-    [http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
-
-[^17ElkinsUSA_3]: ‘Buy Safe and Secure VPN’, *Private Internet Access*,
-    [https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
-
-[^17ElkinsUSA_4]: Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent
-    Freak*, 29 August 2013,
-    [https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://www.privateinternetaccess.com/pages/buy-vpn).
-
-[^17ElkinsUSA_5]: Jeff Ulin, *The Business of Media Distribution: Monetizing Film,
-    TV, and Video Content*, Burlington, MA: Focal Press, 2000, p. 5.
-
-[^17ElkinsUSA_6]: ‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*,
-    13 May 2010,
-    [http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World](http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World).
-    My emphasis.
-
-[^17ElkinsUSA_7]: Space is far too limited to catalog the scores of VOD platforms
-    available around the world, but a comprehensive, if by this point
-    somewhat out-of-date, snapshot of the global streaming film
-    landscape can be found in the appendices in Dina Iordanova and
-    Stuart Cunningham (eds) *Digital Disruption: Cinema Moves On-Line*,
-    St. Andrews: St. Andrews Film Studies, 2012.
-
-[^17ElkinsUSA_8]: Thomas Streeter, *Selling the Air: A Critique of the Policy of
-    Commercial Broadcasting in the United States*, Chicago: University
-    of Chicago Press, 1996, p. 61.
-
-[^17ElkinsUSA_9]: ‘How Content ID Works’, *YouTube Help*, 2015,
-    [https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
-
-[^17ElkinsUSA_10]: A 2001 *Washington Post* piece reporting on DVD region codes
-    suggested that the major consumers of region-free DVD players in the
-    US comprised a ‘small market’ made up of ‘immigrants who want to
-    watch movies from their home countries, language students, and
-    foreign-film enthusiasts.’ James C. Luh, ‘Breaking Down DVD
-    Borders’, *Washington Post*, 1 June 2001.
-
-[^17ElkinsUSA_11]: Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor
-    Who) from Outside the U.K’.
-
-[^17ElkinsUSA_12]: Lucas Hilderbrand, *Inherent Vice: Bootleg Histories of Video and
-    Copyright*, Durham, NC: Duke University Press, 2009, p. 229.
-
-[^17ElkinsUSA_13]: Alex Hern, ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’,
-    *New Statesman*, 19 June 2012,
-    [http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
-
-[^17ElkinsUSA_14]: Brian Stelter, ‘Hiccup for Debut of Al Jazeera America’, *New
-    York Times*, 21 August 2013. On dropping the YouTube geoblock, see
-    Janko Roettgers, ‘Al Jazeera English Unblocks its YouTube Videos for
-    US-based Viewers’, *Gigaom*, 24 September 2013,
-    [https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
-
-[^17ElkinsUSA_15]: For more on the issues that attend geoblocking between the US and
-    UK specifically, see Christine Becker, ‘Access is Elementary:
-    Crossing Television’s Distribution Borders’, *FlowTV.org*, 13
-    January 2014,
-    [http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame).
-
-[^17ElkinsUSA_16]: Max Blumenthal, ‘Exclusive: Al Jazeera’s English Online US
-    Broadcast to End with the Launch of Al Jazeera America’,
-    *Mondoweiss*, 1 August 2013,
-    [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
-
-
-
-
-# Cuba: *Videos to the left –* circumvention practices and audiovisual ecologies
-
-###Fidel A. Rodriguez###
-
-####DATA BOX {.statbox}
-- 30%: Proportion of Cubans aged 16-54 who have access to the Internet
-- \$2: Hourly cost for a 100 Mbit/s fiber connection in CUC/USD
-- 0%: Proportion of internet users who made online purchases in 2014 from
-Cuban accounts
-- 0%: Proportion of internet users who paid for a video streaming service
-in 2014 from Cuban accounts
-
-*“Starting today, people in Cuba with Internet connections and access to
-international payment methods will be able to subscribe to Netflix and
-instantly watch a curated selection of popular movies and TV shows.”* –
-Netflix press release, 9 February 2015
-
-####
-Havana, January 2015. A young reggaeton singer is detained by the police
-in a luxurious house on the outskirts of the city. The arrest is quickly
-reported in foreign news media outlets, with Reuters first breaking the
-story. These reports describe a pending court case in Florida, involving
-alleged major fraud of the U.S. Medicare health program. Photos of the
-singer’s extravagant lifestyle are published in the media, where he
-poses with bundles of cash and firearms.
-
-The singer’s arrest is captured by bystanders and neighbors on mobile
-phones. While there is no coverage of the arrest in the Cuban media,
-amateur videos soon begin to circulate via unregulated wifi networks
-that operate across Havana. A few days later, another video appears on
-YouTube, this time recorded by a motorcyclist who was driving by the
-scene of the arrest. In the following weeks, a recording of the singer’s
-police interview also starts to circulate across the city, passed around
-through USB drives. Finally, these materials make their way into
-commercial pirate distribution, appearing as a folder in *el paquete*
-(‘the package’) – a regularly updated compilation of pirated video and
-music files that is circulated across Cuba through thousands of local
-redistributors.
-
-The story of Gilbert Man, the stage name of the artist in question,
-reveals how video circulates informally in Cuba today. Geoblocking is
-not a major issue for Cubans – slow internet connections make video
-streaming almost impossible, and access is mostly limited to government
-offices and institutions – but circumvention is a mainstream, everyday
-practice. Recent years have seen the emergence, *a la izquierda* (‘to
-the left’), of a surprising ecology of transnational video circulation
-practices making use of diverse technological workarounds. These
-processes draw attention to the transformation of media access in the
-country, in the context of an expanding but still limited internet
-infrastructure. They also reflect the distinctive media geography of
-Cuba, which partakes in global flows of digital video content, but in a
-unique way that combines networked and offline distribution systems.
-
-The term ‘to the left’ does not refer to a party-political position in
-Cuban everyday speech. Ironically, it refers to all types of non-formal
-methods to access goods or services. This phrase has become popular
-since the 1990s, referring to the economic struggle of ordinary people.
-It evokes the Cuban style of proxy access to all sites, through all
-connections.
-
-## Skipping back: revolution, videos and access
-
-Universal access to culture has been a foundational ideal of the Cuban
-revolutionary project since 1959. As part of the political demands of
-the new era,[^16RodriguezCuba_1] cinema production became a priority for the government,
-and a national institute dedicated to cinema – the Instituto Cubano del
-Arte y la Industria Cinematográficos – was founded in April 1959. In
-practice, this vision was undermined by the economic and political
-ruptures of the Cold War. During the 1960s, Cuban policymakers approved
-the use of unlicensed cultural materials – including foreign copyrighted
-materials such as movies and books – as they were seen to be valuable
-for the cultural development of the nation. However, this universal
-vision of access coexists with state regulation of culture and media,
-according to the political programme of the Communist Party. This policy
-limits access to audiovisual content to officially sanctioned government
-spaces and facilities.
-
-In response, a massive, extra-legal culture of media circulation has
-emerged. Officially banned movies are widely available, leading to much
-public debate about censorship. State-run TV channels screen pirated HBO
-programming on a daily basis. Despite the increasing cost of living,
-TVs, DVD players and digital devices for recording and playback can be
-purchased privately and are no longer distributed by the state. The
-acquisition and use of this equipment has become an important status
-symbol for Cuban families.[^16RodriguezCuba_2]
-
-Until 2007, the sale of VHS or CD/DVD equipment was illegal.
-Nonetheless, private video rental outlets proliferated across the
-country. Despite their illegal status they were generally tolerated by
-the authorities. For the first time, these practices put private
-citizens and household businesses in a social environment of audiovisual
-consumption, and relocated media consumption to private spaces.[^16RodriguezCuba_3]
-
-In the pre-digital period, a small official VHS movie rental and sales
-circuit existed in Cuba, but prices were prohibitively expensive for
-most people. Hotels and shopping centers stocked a small selection of
-prestige Cuban movies on VHS, with pricing aimed at the tourist market.
-Another program in the early 2000s established movie rental facilities
-in some theaters, featuring a catalog of quality titles, but lacking of
-the variety of the private video stores. Aside from a few other
-small-scale initiatives, these are the only authorized systems of home
-video distribution organized by the Cuban government. The few
-video-streaming repositories managed by state institutions include only
-a small selection of titles, and do not carry the more popular Cuban
-productions.
-
-In 2013, a landmark reform of economic regulation in Cuba allowed
-private sale of pirate CDs and DVDs in the streets, and specified the
-kinds of tax that such enterprises would pay. In the case of Cuban media
-the regulations permit public screening for noncommercial purposes and
-with the recognition of the authors. This system of sanctioned
-small-scale distribution continues today. It is a matter of some
-controversy, however, because some artists regard the system as
-tantamount to official sanctioning of piracy At the same time, “the
-pirate” does not exist as a criminal figure in Cuba.[^16RodriguezCuba_4]
-
-There have been other changes in Cuban media policy along the way. For
-example, in 2013 a new ruling led to the mass closure of private 3D
-cinemas, which had become popular in recent years – however two years
-later the government announced that some state-owned 3D cinemas would
-reopen across the country.
-
-Another important practice is the acquisition of cable TV receivers,
-which are still illegal for Cuban citizens to own. This informal cable
-TV system in Cuba requires the installation of a modified receiver
-acquired on the black market, and operated on a sublease basis. Wiring
-is run through the roof and attached to the telephone wiring in areas
-near the signal receiver. These channel packages usually include
-American TV programming aimed at the Cuban community of emigrants in
-Miami. In 2007 and 2009, various investigations confirmed access to
-these services as a common cultural practice among families in different
-neighborhoods of Havana.[^16RodriguezCuba_5]
-
-Even when media devices like computers and HDD players are not available
-through shops, they can be acquired on the black market. Official
-statistics from 2014 suggest a very small percentage of private
-ownership of these items,[^16RodriguezCuba_6] but the real figures are likely higher.
-
-Since the 1980s the government has been involved in community ICT
-programmes, and these have also been instrumental in the daily
-experience of media and internet use in Cuba. One initiative, known as
-the Youth Computing Club, offers free or low-cost access to computers
-along with training in computer skills. These clubs are joined together
-in a national network that offers blogs and social networking sites,
-which also connects to other national internal networks linked to the
-educational and health sectors. Through membership of these networks,
-some Cubans are able to get online regularly – one example is the
-Infomed network of health workers who acquired free access to the
-internet in September 2015. This opening-up of internet access
-represents an important increase in the number of home connections.
-However, access is restricted to 25 hours a month, on a very low-speed
-connection. While networks such as these are limited by the
-infrastructure they use and the legal framework governing them, these
-home internet networks could nonetheless play a major role in the
-development of a nation-wide content-sharing platform.
-
-## Internet dilemmas
-
-Cuba has been connected to the internet by satellite since 1996, through
-a special license from the United States Department of Commerce, as an
-exception to the laws forbidding economic relations with the island. In
-2012 – before the first optical fiber cable connection was established
-with Venezuela – Cuba’s connectivity rate was 458 Mbs input/229 Mbs
-output,[^16RodriguezCuba_7] comparable to that of an apartment building in the United
-States. In light of the lack of available bandwidth and infrastructure
-the government’s official internet policy was to prioritise connectivity
-to government institutions and select user groups.[^16RodriguezCuba_8] Hence the Cuban
-internet came to be officially understood as a repository of
-information, tools for electronic commerce and a means for information
-dissemination.[^16RodriguezCuba_9] This approach to internet regulation was also shaped
-by the conflict with the United States, which has long funded projects
-involving ICTs as tools of political subversion to undermine the Cuban
-government.[^16RodriguezCuba_10]
-
-Personal use of social networking sites at government institutions was
-usually restricted or limited to low-traffic times. As a result, the
-practical knowledge of forms of proxy access to these sites became a
-shared secret. Nonetheless, for almost all Cubans the very slow internet
-speeds made social networking impossible until the wifi zones appeared
-in 2015 (see below).
-
-In 2012, the state-owned telecommunications company ETECSA implemented
-the first open internet access service. Costing 4.50CUC per hour
-(US\$5.10), the service was available at workstations in municipal
-offices, after registration of personal data. The price was extremely
-high, and even providers considered it excessive.[^16RodriguezCuba_11] As a result, this
-initiative received much criticism. However, the Cuban First Vice
-President said in a national convention on ICTs and cybersecurity in
-January 2015 that the state was willing to extend open internet access
-across the country. This was followed by the announcement of a plan to
-connect all schools in Cuba and improve the internet infrastructure of
-universities, where limited access was already available. In July,
-ETECSA started a wireless internet service in 35 public spaces around
-Cuba at a price of 2CUC per hour.
-
-This rate is still considered high, but has resulted in a substantial
-increase in use. According to the National Statistics Office, in 2014
-there were 3 million internet users, representing 27 percent of the
-total population.[^16RodriguezCuba_12] Nonetheless, Cuba still comes in at 160^th^ place
-on the International Telecommunication Union’s ranking of global ICT use
-and access. These facts, combined with the country’s history of informal
-interchange and non-market cultural consumption, help to explain the
-diversity and complexity of video circulation practice in present-day
-Cuba, which interface with global networks but use primarily *offline*
-distribution methods within Cuba.
-
-## Videos without time or space: ‘the package’
-
-In parallel to these structural constraints on internet access, various
-workarounds have emerged in Cuba. One well-documented phenomenon is USB
-sharing, which since the mid-2000s has become an efficient system for
-digital media circulation in Cuba.[^16RodriguezCuba_13] Over time this form of
-distribution has become standardized in a commercial format known as *el
-paquete* (the package). These compilations comprise one terabyte of
-diverse media content – television, movies, software, magazines and
-music – all updated on a weekly basis. The *paquete* typically includes:
-the latest episodes of TV shows direct from the United States, Spain,
-Mexico, Brazil, and Colombia; a selection of new documentaries; Cuban
-television shows; the latest music videos; and multiple TV programs from
-Miami. According to one study, 35% of the Havana population (almost 3
-million people) are regular consumers of *el paquete* – although a lot
-of people access it through friends for free.[^16RodriguezCuba_14] The mysterious origin
-of the weekly *paquete* is a source of collective obsession in Cuba,
-because until 2015 there were very few places that had the bandwidth to
-download such a large amount of data. Nonetheless, different researchers
-have confirmed that content in the *paquete* comes from has diverse
-sources, from cable antennas to p2p download sites[^16RodriguezCuba_15].
-
-The price of the *paquete* is variable, depending on where you live and
-what day of the week you buy it.[^16RodriguezCuba_16] The content selection within each
-weekly *paquete* is also variable, because distributors are known to add
-and remove videos as the *paquete* moves through the network, from the
-original compilers through to the high-level brokers (“first hands”,
-“big fishes”) and ultimately to street-level retail and rental sites. At
-each level, distributors – mostly part-time or temporary workers who
-have become involved in the *paquete* business to make some money on the
-side – may add or remove content to suit local tastes, meaning that the
-product is rebuilt at each stage. Although some *paquete* distributors
-have implemented feedback mechanisms to cater to their customers’
-demand, user involvement in the selection of programming usually happens
-only during the final stage of street-level distribution.[^16RodriguezCuba_17]
-
-![Figure 1 An example of a paquete](imgs/Rodriguez-Image1.png)
-*Figure 1 An example of a paquete*
-
-Distribution of the *paquete* is typically carried out discreetly, often
-through licensed streetside DVD vendors or private photocopying and
-printing centres. These activities are widely tolerated by officials.
-Several high-ranking government figures have publicly stated that they
-do not intend to ban this trade. As a result, the *paquete* trade is
-widespread in the streets as well as on digital networks. For example,
-in the Cuban online marketplace Revolico.com – a Craigslist-style
-classifieds site for Cubans which, ironically, is accessible only
-through proxies – dealers advertise their various offerings and freely
-offer their mobile phone numbers. Interestingly, the contents of the
-*paquete* often include scraped data from Revolico.com so that people
-without internet access can browse its listings.
-
-The social significance of this phenomenon has led to a broad public
-debate on the topic, involving senior officials in Cuban cultural
-policy. The level of media coverage is unprecedented for an informal
-market activity. These discussions have drawn new attention to certain
-aspects of the Cuban media environment: copyright legislation and its
-implementation, national internet infrastructure, consumer education,
-cultural policy, and the status of Cuban audiovisual production. Quality
-of content and the protection of national culture are particularly
-popular topics of debate. As a result, in 2015 the aforementioned Youth
-Computing Club began to distribute (for free) a *paquete-*like
-compilation created by government-linked cultural organizations,
-offering a selection of pirated ‘quality’ content, including movies and
-TV series.
-
-![Figure 2 A private photocopying and printing business in Havana openly
-advertises pirated videos. Photo: Fidel A. Rodriguez](imgs/Rodriguez-Image2.png)
-*Figure 2 A private photocopying and printing business in Havana openly
-advertises pirated videos. Photo: Fidel A. Rodriguez*
-
-The spread of *paquete* distribution has also led to the development of
-an advertising market, including unregistered advertising agencies.
-Digital publications generated exclusively for the *paquete* have
-multiplied. These publications cover topics underserved by the official
-Cuban press, including fashion and celebrity culture. Likewise, the
-*paquete* has also become a distribution space for locally-developed
-mobile apps. Even on state television broadcasts, the unique watermarks
-of certain *paquete* distributors can often be made out, revealing the
-origin of some of this content.
-
-## Informal wireless networks 
-
-Another popular means of video distribution in Cuba is through urban
-wifi networks. Concentrated in Havana, but also found in other parts of
-the country, these illegal networks are organized by communities of
-video game players. While none of these networks are connected to the
-internet, they nonetheless have their own forums, social network sites,
-massive voice chats, streaming stations, and FTP servers for downloading
-pirated video. It is impossible to determine the number of users with
-any precision, but the number of users is large and growing. In early
-2015, one of the network’s main sites had about 20,000 registered
-profiles. Complex forms of identity management and collective
-decision-making have evolved to regulate these networks.[^16RodriguezCuba_18]
-
-In these wifi communities, FTP content sharing is one of the most
-popular activities. Movies can be transmitted between different users in
-seconds. The weekly *paquete* is often available for download, thanks to
-an agreement with (and agreed payment to) the distributors. Some forms
-of local user-generated content are also available, including machinima,
-parody videos, flash mobs and remixes. FTP sharing etiquette is
-informally regulated, and has become a source of controversy within the
-community. Inappropriate downloading behavior can lead to a user being
-temporarily ‘banned’ through IP address blocking.
-
-![Figure 3 A Game of Thrones file transfer on an informal wireless
-network](imgs/Rodriguez-Image3.png)
-*Figure 3 A Game of Thrones file transfer on an informal wireless
-network*
-
-The network is also used to check the scores of European football league
-matches. While the Cuban TV networks regularly broadcast live Bundesliga
-matches, along with some other leagues, a number of very popular teams
-can only be viewed in delayed broadcast. As a workaround, certain users
-of the wifi networks (those with internet or satellite TV access) upload
-short videos and game highlights from the broadcast, captured with their
-cell phones aimed at the TV screen.
-
-Because of its illegal nature, this infrastructure is hidden. To keep a
-low profile, the community forbids commercial activities on the network.
-Internet-access sharing is also forbidden, along with political or
-religious debate. Except for some cases of commercial trading of
-internet access, the Cuban authorities have tolerated the existence of
-these networks. It is understood that the police have even offered
-protection when network hardware has been stolen (a common occurrence).
-Informal networks such as these are still illegal under Cuban law, but a
-range of evidence – including leaked documents, public statements by
-officials, and similar experiments by state authorities – suggest that
-this kind of network may have a place within official ICT and internet
-policy in Cuba.
-
-## Transnational ways to see: video and the diaspora
-
-With a large community of Cuban immigrants in the United States, Canada,
-Latin America and Europe, transnational articulation of family ties is
-one of the most important social dynamics in the daily life of Cubans.
-Given the high cost of telephone calls and restricted internet access,
-communicating with family abroad can be a challenge. In 2015, a call to
-the United States cost about 88 cents a minute. In response, there is a
-longstanding tradition of asynchronous video exchange with the family
-through video letters and YouTube video uploads.[^16RodriguezCuba_19]
-
-It is therefore not surprising that Cubans are experimenting with online
-chat, using the aforementioned urban wifi networks as a means of access.
-Aside from Facebook video chat, the most widely used is the Chinese tool
-IMO for its low bandwidth requirements and high speed. Today,
-wifi-connected public spaces in Havana are full of people video chatting
-with family abroad (even though these users would probably prefer a more
-private environment). Software tools like IMO are usually shared among
-users through another popular Bluetooth application, Zapya, which is
-also frequently used for organized file-sharing meet-ups in parks and
-public spaces. In contrast, Skype is difficult to use in Cuba, as it is
-blocked to preserve the monopoly of the national telephone company.
-Those Cubans who do use Skype typically do so through VPN subscriptions
-maintained by friends and family outside Cuba.
-
-Family ties are also strengthened through transnational consumption of
-Cuban music and culture. From Youtube to VOD sites, the proliferation of
-online streaming spaces provides access to Cuban-produced content for
-audiences outside Cuba. This system of video sharing is a response to
-the lack of an official streaming service for Cuban television, and the
-limited understanding of audiences outside the country.
-
-Despite the access challenges, these forms of transnational video
-culture are increasingly widespread in Cuba. Video streaming is not
-practiced in the same way as in other countries, but the Cuban digital
-mediascape is nonetheless full of emergent forms of digital video
-consumption and communication that make efficient use of limited
-infrastructure.
-
-![Figure 4 A VPN advertisement in Revolico.com](imgs/Rodriguez-Image3.png)
-*Figure 4 A VPN advertisement in Revolico.com*
-
-## The future
-
-The diverse video practices described above are taking place in a
-context of rapid political and economic transformation in Cuba,
-particularly with regards to communication. For example, Netflix’s
-announcement in 2015 that it would soon open its services to Cuban
-customers – even before it was available in major markets like Spain –
-crystalized some of the new scenarios associated with the normalization
-of diplomatic relations with the United States. But it also exposed the
-contradictions of digital culture in Cuba. Even though no Cubans could
-realistically access Netflix, due to the lack of credit cards and
-high-speed internet access, they were nonetheless already able to view
-all the latest *House of Cards* episodes through the multiple
-circulation methods described above.
-
-Within these transformations, copyright will become increasingly
-important as a cultural policy issue. Interestingly, copyright
-enforcement in Cuba seems to have faded as a priority for the United
-States, as evidenced by the country’s disappearance from the Special 301
-list of most-infringing nations. At the same time, Cuban producers of
-media and commodity goods, such as tobacco and rum, have become more
-interested in actively exploiting their trademarks overseas. In
-September 2015 the major record label in Cuba, EGREEM, signed an
-agreement with Sony Music giving them global distribution rights to the
-entire EGREEM catalogue – the most important in the country. These
-developments reflect a changing attitude to copyright in Cuba. They may
-also entail new restrictions in the digital distribution of Cuban
-content, such as the many unauthorized YouTube uploads of Cuban
-recording artists which may now be subject to takedown requests by Sony.
-
-While restricted internet access is a fact of life in Cuba, diverse
-circulatory practices provide effective workarounds for these blockages.
-The cultural consequences of this informal infrastructure are
-significant. Looking ahead, we may start to see a different kind of
-Cuban communication policy emerging, one that transcends a focus on
-containment and regulation, and instead uses the creative potential of
-an open, networked culture of circulation. Cuba now has the opportunity
-to pursue an alternative path of socioeconomic and cultural development,
-in line with the revolutionary project, but not limited by copyright
-trade guidelines or government restrictions.
-
-## References
-
-Abad, Karina. *La piratería en Cuba*, Law School, Guantánamo University,
-2013, Cuba,
-[http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf](http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf).
-
-Barrera, Yanet. *La revuelta del espectador. Estudio exploratorio sobre
-el consumo mediático alternativo*, MA Thesis, Havana University, Cuba,
-2009.
-
-Cabrera, Cinthya. *Rutas USB. Acercamiento a la gestión de contenidos
-audiovisuales en el formato Paquete que realizan actores no
-institucionales en redes informales en La Habana,* Bachelor Thesis,
-Havana University, Cuba, 2015.
-
-Calzadilla, Carlos Marcos. *Contar la Isla en videos. Un acercamiento a
-los rasgos que caracterizan el discurso sobre familias transnacionales
-cubanas a través de videos de usuarios no profesionales en YouTube*,
-Bachelor Thesis, Havana University. Cuba¸ 2014.
-
-Castañeda, Dayne and Daynet Fonseca, *Teleadictos: conquistando la TV
-por la izquierda. Aproximación a la construcción de sentidos a partir
-del consumo mediático informal de programas audiovisuales en el
-asentamiento precario San Pablo en Santiago de Cuba,* Bachelor Thesis,
-East University, Cuba. 2014.
-
-Concepción, José Raúl. *La cultura empaquetada: Análisis del consumo
-audiovisual informal del Paquete semanal en un grupo de jóvenes
-capitalinos*, Bachelor Thesis, Havana University, Cuba, 2015.
-
-Díaz, Elaine and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas Para
-un Debate Sobre Políticas Públicas, *Temas*, La Habana, 2013,
-[www.temas.cult.cu/revistas/74/08%20elaine.pdf](www.temas.cult.cu/revistas/74/08%20elaine.pdf).
-
-Echemendía, Isabel, *Copi@ y Comp@rte una vez a la semana. Acercamiento
-a los principales rasgos que caracterizan el consumo audiovisual
-informal del Paquetes Semanal en dos grupos de jóvenes de la capital de
-Mayabeque*, Bachelor Thesis, Havana University, Cuba, 2015.
-
-González, Félix*. Usos de los videojuegos en redes inalámbricas
-informales en La Habana*, Bachelor Thesis, Havana University, Cuba,
-2015.
-
-International Telecommunication Union. ‘Measuring the Information
-Society Report’, Geneva, Switzerland 2014,
-[http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf](http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf).
-
-Linares, Cecilia et al. *El consumo cultural y sus prácticas en Cuba*,
-Cuban Institute of Cultural Investigation Juan Marinello, La Habana,
-Cuba, 2009.
-
-Márquez, Vanessa. ‘El consumo del Paquete Semanal en La Habana’, Social
-Research Center, Instituto Cubano de Radio y Televisión, unpublished
-version, 2015.
-
-Moloney, Patricia. ‘Promoting Global Internet Freedom: Policy and
-Technology’, Congressional Research Service, 2013,
-[https://www.fas.org/sgp/crs/row/R41837.pdf](https://www.fas.org/sgp/crs/row/R41837.pdf).
-
-National Statistics Office. ‘Tecnologías de Información y las
-Comunicaciones: Indicadores Seleccionados’, 2015,
-[http://www.one.cu/ticis2014.html](http://www.one.cu/ticis2014.html).
-
-Pertierra, Anna Cristina. ‘Private Pleasures: Watching Videos in
-Post-Soviet Cuba’, *International Journal of Cultural Studies* 12.2
-(2009): 113-130.
-
-\_\_\_\_\_\_\_. *Cuba: The Struggle for Consumption*, Coconut Creek, FL:
-Caribbean Studies Press, 2011.
-
-\_\_\_\_\_\_\_\_. ‘If They Show “Prison Break” in the United States on a
-Wednesday, by Thursday It Is Here: Mobile Media Networks in Twenty-First
-Century in Cuba’*,* *Television and New Media* 13.5 (2012): 399–414.
-
-Recio, Milena. ‘La hora de los desconectados. Evaluación del diseño de
-la política de “acceso social” a Internet en Cuba en un contexto de
-cambios*.*’ *Bimestre Cubana* 116.4 (2014),
-[http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177](http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177).
-
-Toirac, Yanet. *Política cultural:* *Una propuesta de enfoque
-comunicológico para su estudio*, PhD diss., Havana University, Cuba,
-2009.
-
-[^16RodriguezCuba_1]: Yanet Toirac, *Política cultural:* *Una propuesta de enfoque
-    comunicológico para su estudio*, PhD diss., Havana University, Cuba,
-    2009.
-
-[^16RodriguezCuba_2]: Anna Cristina Pertierra, *Cuba. The Struggle for Consumption*,
-    Coconut Creek, FL: Caribbean Studies Press, 2011.
-
-[^16RodriguezCuba_3]: Anna Cristina Pertierra*,* ‘Private pleasures: Watching videos in
-    Post-Soviet Cuba’, *International Journal of Cultural Studies* 12.2
-    (2009): 113-130.
-
-[^16RodriguezCuba_4]: Karina Abad, *La piratería en Cuba*, Law School, Guantánamo
-    University, 2013, Cuba, [http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf](http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf).
-
-[^16RodriguezCuba_5]: Yanet Barrera, *La revuelta del espectador: Estudio exploratorio
-    sobre el consumo mediático alternativo*, MA Thesis, Havana
-    University, Cuba, 2009.
-
-[^16RodriguezCuba_6]: National Statistics Office, *Tecnologías de información y las
-    comunicaciones: Indicadores seleccionados*, 2015,
-   [http://www.one.cu/ticis2014.html](http://www.one.cu/ticis2014.html).
-
-[^16RodriguezCuba_7]: Milena Recio, ‘La hora de los desconectados. Evaluación del diseño
-    de la política de “acceso social” a Internet en Cuba en un contexto
-    de cambios’, *Bimestre Cubana* 116.41 (2014),
-    [http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177](http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177).
-
-[^16RodriguezCuba_8]: Milena Recio, ‘La hora de los desconectados’.
-
-[^16RodriguezCuba_9]: Elaine Díaz and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas
-    para un debate sobre políticas públicas’, *Temas* 2013,
-    [www.temas.cult.cu/revistas/74/08%20elaine.pdf](www.temas.cult.cu/revistas/74/08%20elaine.pdf).
-
-[^16RodriguezCuba_10]: Patricia Moloney, ‘Promoting Global Internet Freedom: Policy and
-    Technology’, Congressional Research Service, 2013,
-    [https://www.fas.org/sgp/crs/row/R41837.pdf](https://www.fas.org/sgp/crs/row/R41837.pdf).
-
-[^16RodriguezCuba_11]: Milena Recio, ‘La hora de los desconectados’.
-
-[^16RodriguezCuba_12]: National Statistics Office, ‘Tecnologías de información y las
-    comunicaciones’.
-
-[^16RodriguezCuba_13]: This has been documented by a number of researchers. See: Yanet
-    Barrera, Yanet *La revuelta del espectador. Estudio exploratorio
-    sobre el consumo mediático alternativo*, MA Thesis, Havana
-    University, Cuba, 2009; Cecilia Linares et al., *El consumo cultural
-    y sus prácticas en Cuba*, Cuban Institute of Cultural Investigation
-    Juan Marinello, La Habana, Cuba, 2009; Anna Cristina Pertierra, ‘If
-    They Show “Prison Break” in the United States on a Wednesday, by
-    Thursday it is Here: Mobile Media Networks in Twenty-First Century
-    in Cuba’*,* *Television and New Media* 13.5 (2012): 399–414; Dayne
-    Castañeda and Daynet Fonseca, *Teleadictos: Conquistando la TV por
-    la izquierda. Aproximación a la construcción de sentidos a partir
-    del consumo mediático informal de programas audiovisuales en el
-    asentamiento precario San Pablo en Santiago de Cuba,* Bachelor
-    Thesis, East University, Cuba, 2014; Cinthya Cabrera, *Rutas USB,
-    Acercamiento a la gestión de contenidos audiovisuales en el formato
-    Paquete que realizan actores no institucionales en redes informales
-    en La Habana,* Bachelor Thesis, Havana University, Cuba, 2015; José
-    Raúl Concepción, *La cultura empaquetada: Análisis del consumo
-    audiovisual informal del Paquete semanal en un grupo de jóvenes
-    capitalinos*, Bachelor Thesis, Havana University, Cuba, 2015; Isabel
-    Echemendía, *Copi@ y Comp@rte una vez a la semana: Acercamiento a
-    los principales rasgos que caracterizan el consumo audiovisual
-    informal del Paquetes Semanal en dos grupos de jóvenes de la capital
-    de Mayabeque*, Bachelor Thesis, Havana University, Cuba, 2015;
-    Vanessa Márquez, *El consumo del Paquete semanal en La Habana*,
-    Social Research Center, Instituto Cubano de Radio y Televisión,
-    2015.
-
-[^16RodriguezCuba_14]: It is estimated that around 80% of users access the *paquete* for
-    free, by sharing with friends and family. Vanessa Márquez, *El
-    consumo del paquete*.
-
-[^16RodriguezCuba_15]: José Raúl Concepción, *La cultura empaquetada.*
-
-[^16RodriguezCuba_16]: Cinthya Cabrera, *Rutas USB.*
-
-[^16RodriguezCuba_17]: Cinthya Cabrera, *Rutas USB.*
-
-[^16RodriguezCuba_18]: Félix González, *Usos de los videojuegos en redes inalámbricas
-    informales en La Habana*, Bachelor Thesis, Havana University, Cuba,
-    2015.
-
-[^16RodriguezCuba_19]: Carlos Marcos Calzadilla, *Contar la Isla en videos. Un
-    acercamiento a los rasgos que caracterizan el discurso sobre
-    familias transnacionales cubanas a través de videos de usuarios no
-    profesionales en YouTube*, Bachelor Thesis, Havana University. Cuba¸
-    2014.
-
-
-
 #Iran: A Friction between State Ideology and Network Society
 
 ###Hadi Sohrabi###
@@ -8484,10 +7344,10 @@ comunicológico para su estudio*, PhD diss., Havana University, Cuba,
 - 23 million: estimated number of internet users
 - 69 %: percentage of internet users who use circumvention tools
 - 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
-  
+ 
+####PULL QUOTES  
 President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
 
-(Images)A government notice for blocked websites
 
 ####
 The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
@@ -8629,9 +7489,9 @@ are throttled during political turmoils.[^5]
 
 ![](imgs/iran.png)
 
-Fig. 1: Iranian internet users see this government notice when trying to
+Figure 1. Iranian internet users see this government notice when trying to
 access blocked websites. It reads: “Access to the requested website is
-not possible. Please click here to access reports and complaints.”
+not possible. Please click here to access reports and complaints”
 
 Taking office as President in 2013, Hassan Rouhani criticized internet
 censorship, raising hopes for reducing internet barriers (to be
@@ -8962,6 +7822,1162 @@ The World Bank. Internet Users by Country, 2014,
 [^19]: Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem
     “laughable” in 5 years’, Aljazeera America, 19 Dec 2013,
     [http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html](http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html).
+
+
+
+
+# Cuba: *Videos to the left –* circumvention practices and audiovisual ecologies
+
+###Fidel A. Rodriguez###
+
+####DATA BOX {.statbox}
+- 30%: Proportion of Cubans aged 16-54 who have access to the Internet
+- \$2: Hourly cost for a 100 Mbit/s fiber connection in CUC/USD
+- 0%: Proportion of internet users who made online purchases in 2014 from
+Cuban accounts
+- 0%: Proportion of internet users who paid for a video streaming service
+in 2014 from Cuban accounts
+
+####PULL QUOTES
+*“Starting today, people in Cuba with Internet connections and access to
+international payment methods will be able to subscribe to Netflix and
+instantly watch a curated selection of popular movies and TV shows.”* –
+Netflix press release, 9 February 2015
+
+####
+Havana, January 2015. A young reggaeton singer is detained by the police
+in a luxurious house on the outskirts of the city. The arrest is quickly
+reported in foreign news media outlets, with Reuters first breaking the
+story. These reports describe a pending court case in Florida, involving
+alleged major fraud of the U.S. Medicare health program. Photos of the
+singer’s extravagant lifestyle are published in the media, where he
+poses with bundles of cash and firearms.
+
+The singer’s arrest is captured by bystanders and neighbors on mobile
+phones. While there is no coverage of the arrest in the Cuban media,
+amateur videos soon begin to circulate via unregulated wifi networks
+that operate across Havana. A few days later, another video appears on
+YouTube, this time recorded by a motorcyclist who was driving by the
+scene of the arrest. In the following weeks, a recording of the singer’s
+police interview also starts to circulate across the city, passed around
+through USB drives. Finally, these materials make their way into
+commercial pirate distribution, appearing as a folder in *el paquete*
+(‘the package’) – a regularly updated compilation of pirated video and
+music files that is circulated across Cuba through thousands of local
+redistributors.
+
+The story of Gilbert Man, the stage name of the artist in question,
+reveals how video circulates informally in Cuba today. Geoblocking is
+not a major issue for Cubans – slow internet connections make video
+streaming almost impossible, and access is mostly limited to government
+offices and institutions – but circumvention is a mainstream, everyday
+practice. Recent years have seen the emergence, *a la izquierda* (‘to
+the left’), of a surprising ecology of transnational video circulation
+practices making use of diverse technological workarounds. These
+processes draw attention to the transformation of media access in the
+country, in the context of an expanding but still limited internet
+infrastructure. They also reflect the distinctive media geography of
+Cuba, which partakes in global flows of digital video content, but in a
+unique way that combines networked and offline distribution systems.
+
+The term ‘to the left’ does not refer to a party-political position in
+Cuban everyday speech. Ironically, it refers to all types of non-formal
+methods to access goods or services. This phrase has become popular
+since the 1990s, referring to the economic struggle of ordinary people.
+It evokes the Cuban style of proxy access to all sites, through all
+connections.
+
+## Skipping Back: Revolution, Videos and Access
+
+Universal access to culture has been a foundational ideal of the Cuban
+revolutionary project since 1959. As part of the political demands of
+the new era,[^16RodriguezCuba_1] cinema production became a priority for the government,
+and a national institute dedicated to cinema – the Instituto Cubano del
+Arte y la Industria Cinematográficos – was founded in April 1959. In
+practice, this vision was undermined by the economic and political
+ruptures of the Cold War. During the 1960s, Cuban policymakers approved
+the use of unlicensed cultural materials – including foreign copyrighted
+materials such as movies and books – as they were seen to be valuable
+for the cultural development of the nation. However, this universal
+vision of access coexists with state regulation of culture and media,
+according to the political programme of the Communist Party. This policy
+limits access to audiovisual content to officially sanctioned government
+spaces and facilities.
+
+In response, a massive, extra-legal culture of media circulation has
+emerged. Officially banned movies are widely available, leading to much
+public debate about censorship. State-run TV channels screen pirated HBO
+programming on a daily basis. Despite the increasing cost of living,
+TVs, DVD players and digital devices for recording and playback can be
+purchased privately and are no longer distributed by the state. The
+acquisition and use of this equipment has become an important status
+symbol for Cuban families.[^16RodriguezCuba_2]
+
+Until 2007, the sale of VHS or CD/DVD equipment was illegal.
+Nonetheless, private video rental outlets proliferated across the
+country. Despite their illegal status they were generally tolerated by
+the authorities. For the first time, these practices put private
+citizens and household businesses in a social environment of audiovisual
+consumption, and relocated media consumption to private spaces.[^16RodriguezCuba_3]
+
+In the pre-digital period, a small official VHS movie rental and sales
+circuit existed in Cuba, but prices were prohibitively expensive for
+most people. Hotels and shopping centers stocked a small selection of
+prestige Cuban movies on VHS, with pricing aimed at the tourist market.
+Another program in the early 2000s established movie rental facilities
+in some theaters, featuring a catalog of quality titles, but lacking of
+the variety of the private video stores. Aside from a few other
+small-scale initiatives, these are the only authorized systems of home
+video distribution organized by the Cuban government. The few
+video-streaming repositories managed by state institutions include only
+a small selection of titles, and do not carry the more popular Cuban
+productions.
+
+In 2013, a landmark reform of economic regulation in Cuba allowed
+private sale of pirate CDs and DVDs in the streets, and specified the
+kinds of tax that such enterprises would pay. In the case of Cuban media
+the regulations permit public screening for noncommercial purposes and
+with the recognition of the authors. This system of sanctioned
+small-scale distribution continues today. It is a matter of some
+controversy, however, because some artists regard the system as
+tantamount to official sanctioning of piracy At the same time, “the
+pirate” does not exist as a criminal figure in Cuba.[^16RodriguezCuba_4]
+
+There have been other changes in Cuban media policy along the way. For
+example, in 2013 a new ruling led to the mass closure of private 3D
+cinemas, which had become popular in recent years – however two years
+later the government announced that some state-owned 3D cinemas would
+reopen across the country.
+
+Another important practice is the acquisition of cable TV receivers,
+which are still illegal for Cuban citizens to own. This informal cable
+TV system in Cuba requires the installation of a modified receiver
+acquired on the black market, and operated on a sublease basis. Wiring
+is run through the roof and attached to the telephone wiring in areas
+near the signal receiver. These channel packages usually include
+American TV programming aimed at the Cuban community of emigrants in
+Miami. In 2007 and 2009, various investigations confirmed access to
+these services as a common cultural practice among families in different
+neighborhoods of Havana.[^16RodriguezCuba_5]
+
+Even when media devices like computers and HDD players are not available
+through shops, they can be acquired on the black market. Official
+statistics from 2014 suggest a very small percentage of private
+ownership of these items,[^16RodriguezCuba_6] but the real figures are likely higher.
+
+Since the 1980s the government has been involved in community ICT
+programmes, and these have also been instrumental in the daily
+experience of media and internet use in Cuba. One initiative, known as
+the Youth Computing Club, offers free or low-cost access to computers
+along with training in computer skills. These clubs are joined together
+in a national network that offers blogs and social networking sites,
+which also connects to other national internal networks linked to the
+educational and health sectors. Through membership of these networks,
+some Cubans are able to get online regularly – one example is the
+Infomed network of health workers who acquired free access to the
+internet in September 2015. This opening-up of internet access
+represents an important increase in the number of home connections.
+However, access is restricted to 25 hours a month, on a very low-speed
+connection. While networks such as these are limited by the
+infrastructure they use and the legal framework governing them, these
+home internet networks could nonetheless play a major role in the
+development of a nation-wide content-sharing platform.
+
+## Internet Dilemmas
+
+Cuba has been connected to the internet by satellite since 1996, through
+a special license from the United States Department of Commerce, as an
+exception to the laws forbidding economic relations with the island. In
+2012 – before the first optical fiber cable connection was established
+with Venezuela – Cuba’s connectivity rate was 458 Mbs input/229 Mbs
+output,[^16RodriguezCuba_7] comparable to that of an apartment building in the United
+States. In light of the lack of available bandwidth and infrastructure
+the government’s official internet policy was to prioritise connectivity
+to government institutions and select user groups.[^16RodriguezCuba_8] Hence the Cuban
+internet came to be officially understood as a repository of
+information, tools for electronic commerce and a means for information
+dissemination.[^16RodriguezCuba_9] This approach to internet regulation was also shaped
+by the conflict with the United States, which has long funded projects
+involving ICTs as tools of political subversion to undermine the Cuban
+government.[^16RodriguezCuba_10]
+
+Personal use of social networking sites at government institutions was
+usually restricted or limited to low-traffic times. As a result, the
+practical knowledge of forms of proxy access to these sites became a
+shared secret. Nonetheless, for almost all Cubans the very slow internet
+speeds made social networking impossible until the wifi zones appeared
+in 2015 (see below).
+
+In 2012, the state-owned telecommunications company ETECSA implemented
+the first open internet access service. Costing 4.50CUC per hour
+(US\$5.10), the service was available at workstations in municipal
+offices, after registration of personal data. The price was extremely
+high, and even providers considered it excessive.[^16RodriguezCuba_11] As a result, this
+initiative received much criticism. However, the Cuban First Vice
+President said in a national convention on ICTs and cybersecurity in
+January 2015 that the state was willing to extend open internet access
+across the country. This was followed by the announcement of a plan to
+connect all schools in Cuba and improve the internet infrastructure of
+universities, where limited access was already available. In July,
+ETECSA started a wireless internet service in 35 public spaces around
+Cuba at a price of 2CUC per hour.
+
+This rate is still considered high, but has resulted in a substantial
+increase in use. According to the National Statistics Office, in 2014
+there were 3 million internet users, representing 27 percent of the
+total population.[^16RodriguezCuba_12] Nonetheless, Cuba still comes in at 160^th^ place
+on the International Telecommunication Union’s ranking of global ICT use
+and access. These facts, combined with the country’s history of informal
+interchange and non-market cultural consumption, help to explain the
+diversity and complexity of video circulation practice in present-day
+Cuba, which interface with global networks but use primarily *offline*
+distribution methods within Cuba.
+
+## Videos Without Time or Space: ‘The Package’
+
+In parallel to these structural constraints on internet access, various
+workarounds have emerged in Cuba. One well-documented phenomenon is USB
+sharing, which since the mid-2000s has become an efficient system for
+digital media circulation in Cuba.[^16RodriguezCuba_13] Over time this form of
+distribution has become standardized in a commercial format known as *el
+paquete* (the package). These compilations comprise one terabyte of
+diverse media content – television, movies, software, magazines and
+music – all updated on a weekly basis. The *paquete* typically includes:
+the latest episodes of TV shows direct from the United States, Spain,
+Mexico, Brazil, and Colombia; a selection of new documentaries; Cuban
+television shows; the latest music videos; and multiple TV programs from
+Miami. According to one study, 35% of the Havana population (almost 3
+million people) are regular consumers of *el paquete* – although a lot
+of people access it through friends for free.[^16RodriguezCuba_14] The mysterious origin
+of the weekly *paquete* is a source of collective obsession in Cuba,
+because until 2015 there were very few places that had the bandwidth to
+download such a large amount of data. Nonetheless, different researchers
+have confirmed that content in the *paquete* comes from has diverse
+sources, from cable antennas to p2p download sites[^16RodriguezCuba_15].
+
+The price of the *paquete* is variable, depending on where you live and
+what day of the week you buy it.[^16RodriguezCuba_16] The content selection within each
+weekly *paquete* is also variable, because distributors are known to add
+and remove videos as the *paquete* moves through the network, from the
+original compilers through to the high-level brokers (“first hands”,
+“big fishes”) and ultimately to street-level retail and rental sites. At
+each level, distributors – mostly part-time or temporary workers who
+have become involved in the *paquete* business to make some money on the
+side – may add or remove content to suit local tastes, meaning that the
+product is rebuilt at each stage. Although some *paquete* distributors
+have implemented feedback mechanisms to cater to their customers’
+demand, user involvement in the selection of programming usually happens
+only during the final stage of street-level distribution.[^16RodriguezCuba_17]
+
+![](imgs/Rodriguez-Image1.png)
+
+Figure 1. An example of a paquete
+
+Distribution of the *paquete* is typically carried out discreetly, often
+through licensed streetside DVD vendors or private photocopying and
+printing centres. These activities are widely tolerated by officials.
+Several high-ranking government figures have publicly stated that they
+do not intend to ban this trade. As a result, the *paquete* trade is
+widespread in the streets as well as on digital networks. For example,
+in the Cuban online marketplace Revolico.com – a Craigslist-style
+classifieds site for Cubans which, ironically, is accessible only
+through proxies – dealers advertise their various offerings and freely
+offer their mobile phone numbers. Interestingly, the contents of the
+*paquete* often include scraped data from Revolico.com so that people
+without internet access can browse its listings.
+
+The social significance of this phenomenon has led to a broad public
+debate on the topic, involving senior officials in Cuban cultural
+policy. The level of media coverage is unprecedented for an informal
+market activity. These discussions have drawn new attention to certain
+aspects of the Cuban media environment: copyright legislation and its
+implementation, national internet infrastructure, consumer education,
+cultural policy, and the status of Cuban audiovisual production. Quality
+of content and the protection of national culture are particularly
+popular topics of debate. As a result, in 2015 the aforementioned Youth
+Computing Club began to distribute (for free) a *paquete-*like
+compilation created by government-linked cultural organizations,
+offering a selection of pirated ‘quality’ content, including movies and
+TV series.
+
+![](imgs/Rodriguez-Image2.png)
+
+Figure 2. A private photocopying and printing business in Havana openly
+advertises pirated videos. Photo: Fidel A. Rodriguez
+
+The spread of *paquete* distribution has also led to the development of
+an advertising market, including unregistered advertising agencies.
+Digital publications generated exclusively for the *paquete* have
+multiplied. These publications cover topics underserved by the official
+Cuban press, including fashion and celebrity culture. Likewise, the
+*paquete* has also become a distribution space for locally-developed
+mobile apps. Even on state television broadcasts, the unique watermarks
+of certain *paquete* distributors can often be made out, revealing the
+origin of some of this content.
+
+## Informal Wireless Networks 
+
+Another popular means of video distribution in Cuba is through urban
+wifi networks. Concentrated in Havana, but also found in other parts of
+the country, these illegal networks are organized by communities of
+video game players. While none of these networks are connected to the
+internet, they nonetheless have their own forums, social network sites,
+massive voice chats, streaming stations, and FTP servers for downloading
+pirated video. It is impossible to determine the number of users with
+any precision, but the number of users is large and growing. In early
+2015, one of the network’s main sites had about 20,000 registered
+profiles. Complex forms of identity management and collective
+decision-making have evolved to regulate these networks.[^16RodriguezCuba_18]
+
+In these wifi communities, FTP content sharing is one of the most
+popular activities. Movies can be transmitted between different users in
+seconds. The weekly *paquete* is often available for download, thanks to
+an agreement with (and agreed payment to) the distributors. Some forms
+of local user-generated content are also available, including machinima,
+parody videos, flash mobs and remixes. FTP sharing etiquette is
+informally regulated, and has become a source of controversy within the
+community. Inappropriate downloading behavior can lead to a user being
+temporarily ‘banned’ through IP address blocking.
+
+![](imgs/Rodriguez-Image3.png)
+
+Figure 3. A Game of Thrones file transfer on an informal wireless
+network
+
+The network is also used to check the scores of European football league
+matches. While the Cuban TV networks regularly broadcast live Bundesliga
+matches, along with some other leagues, a number of very popular teams
+can only be viewed in delayed broadcast. As a workaround, certain users
+of the wifi networks (those with internet or satellite TV access) upload
+short videos and game highlights from the broadcast, captured with their
+cell phones aimed at the TV screen.
+
+Because of its illegal nature, this infrastructure is hidden. To keep a
+low profile, the community forbids commercial activities on the network.
+Internet-access sharing is also forbidden, along with political or
+religious debate. Except for some cases of commercial trading of
+internet access, the Cuban authorities have tolerated the existence of
+these networks. It is understood that the police have even offered
+protection when network hardware has been stolen (a common occurrence).
+Informal networks such as these are still illegal under Cuban law, but a
+range of evidence – including leaked documents, public statements by
+officials, and similar experiments by state authorities – suggest that
+this kind of network may have a place within official ICT and internet
+policy in Cuba.
+
+## Transnational Ways to See: Video and the Diaspora
+
+With a large community of Cuban immigrants in the United States, Canada,
+Latin America and Europe, transnational articulation of family ties is
+one of the most important social dynamics in the daily life of Cubans.
+Given the high cost of telephone calls and restricted internet access,
+communicating with family abroad can be a challenge. In 2015, a call to
+the United States cost about 88 cents a minute. In response, there is a
+longstanding tradition of asynchronous video exchange with the family
+through video letters and YouTube video uploads.[^16RodriguezCuba_19]
+
+It is therefore not surprising that Cubans are experimenting with online
+chat, using the aforementioned urban wifi networks as a means of access.
+Aside from Facebook video chat, the most widely used is the Chinese tool
+IMO for its low bandwidth requirements and high speed. Today,
+wifi-connected public spaces in Havana are full of people video chatting
+with family abroad (even though these users would probably prefer a more
+private environment). Software tools like IMO are usually shared among
+users through another popular Bluetooth application, Zapya, which is
+also frequently used for organized file-sharing meet-ups in parks and
+public spaces. In contrast, Skype is difficult to use in Cuba, as it is
+blocked to preserve the monopoly of the national telephone company.
+Those Cubans who do use Skype typically do so through VPN subscriptions
+maintained by friends and family outside Cuba.
+
+Family ties are also strengthened through transnational consumption of
+Cuban music and culture. From Youtube to VOD sites, the proliferation of
+online streaming spaces provides access to Cuban-produced content for
+audiences outside Cuba. This system of video sharing is a response to
+the lack of an official streaming service for Cuban television, and the
+limited understanding of audiences outside the country.
+
+Despite the access challenges, these forms of transnational video
+culture are increasingly widespread in Cuba. Video streaming is not
+practiced in the same way as in other countries, but the Cuban digital
+mediascape is nonetheless full of emergent forms of digital video
+consumption and communication that make efficient use of limited
+infrastructure.
+
+![](imgs/Rodriguez-Image3.png)
+
+Figure 4. A VPN advertisement in Revolico.com
+
+## The Future
+
+The diverse video practices described above are taking place in a
+context of rapid political and economic transformation in Cuba,
+particularly with regards to communication. For example, Netflix’s
+announcement in 2015 that it would soon open its services to Cuban
+customers – even before it was available in major markets like Spain –
+crystalized some of the new scenarios associated with the normalization
+of diplomatic relations with the United States. But it also exposed the
+contradictions of digital culture in Cuba. Even though no Cubans could
+realistically access Netflix, due to the lack of credit cards and
+high-speed internet access, they were nonetheless already able to view
+all the latest *House of Cards* episodes through the multiple
+circulation methods described above.
+
+Within these transformations, copyright will become increasingly
+important as a cultural policy issue. Interestingly, copyright
+enforcement in Cuba seems to have faded as a priority for the United
+States, as evidenced by the country’s disappearance from the Special 301
+list of most-infringing nations. At the same time, Cuban producers of
+media and commodity goods, such as tobacco and rum, have become more
+interested in actively exploiting their trademarks overseas. In
+September 2015 the major record label in Cuba, EGREEM, signed an
+agreement with Sony Music giving them global distribution rights to the
+entire EGREEM catalogue – the most important in the country. These
+developments reflect a changing attitude to copyright in Cuba. They may
+also entail new restrictions in the digital distribution of Cuban
+content, such as the many unauthorized YouTube uploads of Cuban
+recording artists which may now be subject to takedown requests by Sony.
+
+While restricted internet access is a fact of life in Cuba, diverse
+circulatory practices provide effective workarounds for these blockages.
+The cultural consequences of this informal infrastructure are
+significant. Looking ahead, we may start to see a different kind of
+Cuban communication policy emerging, one that transcends a focus on
+containment and regulation, and instead uses the creative potential of
+an open, networked culture of circulation. Cuba now has the opportunity
+to pursue an alternative path of socioeconomic and cultural development,
+in line with the revolutionary project, but not limited by copyright
+trade guidelines or government restrictions.
+
+## References
+
+Abad, Karina. *La piratería en Cuba*, Law School, Guantánamo University,
+2013, Cuba,
+[http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf](http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf).
+
+Barrera, Yanet. *La revuelta del espectador. Estudio exploratorio sobre
+el consumo mediático alternativo*, MA Thesis, Havana University, Cuba,
+2009.
+
+Cabrera, Cinthya. *Rutas USB. Acercamiento a la gestión de contenidos
+audiovisuales en el formato Paquete que realizan actores no
+institucionales en redes informales en La Habana,* Bachelor Thesis,
+Havana University, Cuba, 2015.
+
+Calzadilla, Carlos Marcos. *Contar la Isla en videos. Un acercamiento a
+los rasgos que caracterizan el discurso sobre familias transnacionales
+cubanas a través de videos de usuarios no profesionales en YouTube*,
+Bachelor Thesis, Havana University. Cuba¸ 2014.
+
+Castañeda, Dayne and Daynet Fonseca, *Teleadictos: conquistando la TV
+por la izquierda. Aproximación a la construcción de sentidos a partir
+del consumo mediático informal de programas audiovisuales en el
+asentamiento precario San Pablo en Santiago de Cuba,* Bachelor Thesis,
+East University, Cuba. 2014.
+
+Concepción, José Raúl. *La cultura empaquetada: Análisis del consumo
+audiovisual informal del Paquete semanal en un grupo de jóvenes
+capitalinos*, Bachelor Thesis, Havana University, Cuba, 2015.
+
+Díaz, Elaine and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas Para
+un Debate Sobre Políticas Públicas, *Temas*, La Habana, 2013,
+[https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es](https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es).
+
+Echemendía, Isabel, *Copi@ y Comp@rte una vez a la semana. Acercamiento
+a los principales rasgos que caracterizan el consumo audiovisual
+informal del Paquetes Semanal en dos grupos de jóvenes de la capital de
+Mayabeque*, Bachelor Thesis, Havana University, Cuba, 2015.
+
+González, Félix*. Usos de los videojuegos en redes inalámbricas
+informales en La Habana*, Bachelor Thesis, Havana University, Cuba,
+2015.
+
+International Telecommunication Union. ‘Measuring the Information
+Society Report’, Geneva, Switzerland 2014,
+[http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf](http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014\_without\_Annex\_4.pdf).
+
+Linares, Cecilia et al. *El consumo cultural y sus prácticas en Cuba*,
+Cuban Institute of Cultural Investigation Juan Marinello, La Habana,
+Cuba, 2009.
+
+Márquez, Vanessa. ‘El consumo del Paquete Semanal en La Habana’, Social
+Research Center, Instituto Cubano de Radio y Televisión, unpublished
+version, 2015.
+
+Moloney, Patricia. ‘Promoting Global Internet Freedom: Policy and
+Technology’, Congressional Research Service, 2013,
+[https://www.fas.org/sgp/crs/row/R41837.pdf](https://www.fas.org/sgp/crs/row/R41837.pdf).
+
+National Statistics Office. ‘Tecnologías de Información y las
+Comunicaciones: Indicadores Seleccionados’, 2015,
+[http://www.one.cu/ticis2014.html](http://www.one.cu/ticis2014.html).
+
+Pertierra, Anna Cristina. ‘Private Pleasures: Watching Videos in
+Post-Soviet Cuba’, *International Journal of Cultural Studies* 12.2
+(2009): 113-130.
+
+\_\_\_\_\_\_\_. *Cuba: The Struggle for Consumption*, Coconut Creek, FL:
+Caribbean Studies Press, 2011.
+
+\_\_\_\_\_\_\_\_. ‘If They Show “Prison Break” in the United States on a
+Wednesday, by Thursday It Is Here: Mobile Media Networks in Twenty-First
+Century in Cuba’*,* *Television and New Media* 13.5 (2012): 399–414.
+
+Recio, Milena. ‘La hora de los desconectados. Evaluación del diseño de
+la política de “acceso social” a Internet en Cuba en un contexto de
+cambios*.*’ *Bimestre Cubana* 116.4 (2014),
+[http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177](http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177).
+
+Toirac, Yanet. *Política cultural:* *Una propuesta de enfoque
+comunicológico para su estudio*, PhD diss., Havana University, Cuba,
+2009.
+
+[^16RodriguezCuba_1]: Yanet Toirac, *Política cultural:* *Una propuesta de enfoque
+    comunicológico para su estudio*, PhD diss., Havana University, Cuba,
+    2009.
+
+[^16RodriguezCuba_2]: Anna Cristina Pertierra, *Cuba. The Struggle for Consumption*,
+    Coconut Creek, FL: Caribbean Studies Press, 2011.
+
+[^16RodriguezCuba_3]: Anna Cristina Pertierra*,* ‘Private pleasures: Watching videos in
+    Post-Soviet Cuba’, *International Journal of Cultural Studies* 12.2
+    (2009): 113-130.
+
+[^16RodriguezCuba_4]: Karina Abad, *La piratería en Cuba*, Law School, Guantánamo
+    University, 2013, Cuba, [http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf](http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf).
+
+[^16RodriguezCuba_5]: Yanet Barrera, *La revuelta del espectador: Estudio exploratorio
+    sobre el consumo mediático alternativo*, MA Thesis, Havana
+    University, Cuba, 2009.
+
+[^16RodriguezCuba_6]: National Statistics Office, *Tecnologías de información y las
+    comunicaciones: Indicadores seleccionados*, 2015,
+   [http://www.one.cu/ticis2014.html](http://www.one.cu/ticis2014.html).
+
+[^16RodriguezCuba_7]: Milena Recio, ‘La hora de los desconectados. Evaluación del diseño
+    de la política de “acceso social” a Internet en Cuba en un contexto
+    de cambios’, *Bimestre Cubana* 116.41 (2014),
+    [http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177](http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177).
+
+[^16RodriguezCuba_8]: Milena Recio, ‘La hora de los desconectados’.
+
+[^16RodriguezCuba_9]: Elaine Díaz and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas
+    para un debate sobre políticas públicas’, *Temas* 2013,
+    [https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es](https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es).
+
+[^16RodriguezCuba_10]: Patricia Moloney, ‘Promoting Global Internet Freedom: Policy and
+    Technology’, Congressional Research Service, 2013,
+    [https://www.fas.org/sgp/crs/row/R41837.pdf](https://www.fas.org/sgp/crs/row/R41837.pdf).
+
+[^16RodriguezCuba_11]: Milena Recio, ‘La hora de los desconectados’.
+
+[^16RodriguezCuba_12]: National Statistics Office, ‘Tecnologías de información y las
+    comunicaciones’.
+
+[^16RodriguezCuba_13]: This has been documented by a number of researchers. See: Yanet
+    Barrera, Yanet *La revuelta del espectador. Estudio exploratorio
+    sobre el consumo mediático alternativo*, MA Thesis, Havana
+    University, Cuba, 2009; Cecilia Linares et al., *El consumo cultural
+    y sus prácticas en Cuba*, Cuban Institute of Cultural Investigation
+    Juan Marinello, La Habana, Cuba, 2009; Anna Cristina Pertierra, ‘If
+    They Show “Prison Break” in the United States on a Wednesday, by
+    Thursday it is Here: Mobile Media Networks in Twenty-First Century
+    in Cuba’*,* *Television and New Media* 13.5 (2012): 399–414; Dayne
+    Castañeda and Daynet Fonseca, *Teleadictos: Conquistando la TV por
+    la izquierda. Aproximación a la construcción de sentidos a partir
+    del consumo mediático informal de programas audiovisuales en el
+    asentamiento precario San Pablo en Santiago de Cuba,* Bachelor
+    Thesis, East University, Cuba, 2014; Cinthya Cabrera, *Rutas USB,
+    Acercamiento a la gestión de contenidos audiovisuales en el formato
+    Paquete que realizan actores no institucionales en redes informales
+    en La Habana,* Bachelor Thesis, Havana University, Cuba, 2015; José
+    Raúl Concepción, *La cultura empaquetada: Análisis del consumo
+    audiovisual informal del Paquete semanal en un grupo de jóvenes
+    capitalinos*, Bachelor Thesis, Havana University, Cuba, 2015; Isabel
+    Echemendía, *Copi@ y Comp@rte una vez a la semana: Acercamiento a
+    los principales rasgos que caracterizan el consumo audiovisual
+    informal del Paquetes Semanal en dos grupos de jóvenes de la capital
+    de Mayabeque*, Bachelor Thesis, Havana University, Cuba, 2015;
+    Vanessa Márquez, *El consumo del Paquete semanal en La Habana*,
+    Social Research Center, Instituto Cubano de Radio y Televisión,
+    2015.
+
+[^16RodriguezCuba_14]: It is estimated that around 80% of users access the *paquete* for
+    free, by sharing with friends and family. Vanessa Márquez, *El
+    consumo del paquete*.
+
+[^16RodriguezCuba_15]: José Raúl Concepción, *La cultura empaquetada.*
+
+[^16RodriguezCuba_16]: Cinthya Cabrera, *Rutas USB.*
+
+[^16RodriguezCuba_17]: Cinthya Cabrera, *Rutas USB.*
+
+[^16RodriguezCuba_18]: Félix González, *Usos de los videojuegos en redes inalámbricas
+    informales en La Habana*, Bachelor Thesis, Havana University, Cuba,
+    2015.
+
+[^16RodriguezCuba_19]: Carlos Marcos Calzadilla, *Contar la Isla en videos. Un
+    acercamiento a los rasgos que caracterizan el discurso sobre
+    familias transnacionales cubanas a través de videos de usuarios no
+    profesionales en YouTube*, Bachelor Thesis, Havana University. Cuba¸
+    2014.
+
+
+
+
+# The USA: Geoblocking in a Privileged Market
+
+### Evan Elkins
+
+
+
+####DATA BOX {.statbox}
+- 36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1]<br/>
+- 20,000: Number of VPN communications the NSA aimed to survey per hour in 2011, according to the Edward Snowden documents.[^17ElkinsUSA_2]<br/>
+- \$39.95: Cost for a yearly subscription to popular VPN service Private Internet Access, in US\$.[^17ElkinsUSA_3]<br/>
+- 22.6%: Percentage of North American Pirate Bay users who use a VPN service, according to a 2013 survey [^17ElkinsUSA_4]<br/> 
+
+####PULL QUOTES
+*"every now and then we feel the burn in the States, too."* – Lifehacker, blogger Adam Pash, 2010. 
+
+####
+
+The hashtag \#NBCFail, which popped up regularly on social media in the
+summer of 2012, represented yet another chapter in the long story of
+American audiences’ irritation at the often shallow, shoddy character of
+their national broadcast networks. This time, the target of viewers’ ire
+was NBC’s coverage of that year’s Summer Olympics in London. Frustrated
+with tape-delayed events and the network’s US-centric commentary, United
+States viewers naturally sought out the BBC’s telecast as an
+alternative. Savvy viewers who did their research may have stumbled upon
+the BBC’s iPlayer platform. The iPlayer was livestreaming the BBC’s
+coverage of the Olympics, and thus promised live, superior coverage and
+an escape from NBC’s jingoistic slant. Upon navigating to that platform,
+however, Americans found this message: ‘BBC iPlayer TV programmes are
+available to play in the UK only’.
+
+![](imgs/ElkinsGeoblocking1.png)
+
+Figure 1. An example of geoblocked content on BBC iPlayer
+
+In these moments, US residents confronted an experience of transnational
+viewing with which many around the world were already familiar. Viewers
+living in other countries understand geoblocking as a form of power
+emanating from major media conglomerates, many of which are rooted in
+Hollywood-based (yet globalized) cultural industries. As many of this
+book’s other chapters make clear, geoblocking is just a part of the
+everyday viewing experience for people around the globe – albeit an
+often-frustrating one. Many of these experiences involve attempts at
+accessing American programming through platforms like Hulu or the
+American version of Netflix. But given that many of the platforms
+usually targeted in global complaints about geoblocking are, in fact,
+available in the US, what does geoblocking look like from *within* the
+United States? And how and why do people circumvent it?
+
+Geoblocking in the United States is generally invisible – until it
+isn’t. In other words, whereas viewers around the world have grown used
+to (which is not to say complacent about) geoblocking as a banal
+occurrence, it’s something that many Americans likely only have a faint
+awareness of, to the extent that they even know it exists. American
+viewers that do encounter geoblocking are likely to fall within two
+overlapping audiences: diasporic groups and viewers who consciously seek
+out media from across borders (for example, cinephiles or fans of
+British television). This makes it a somewhat difficult phenomenon to
+grasp onto in the country. Geoblocking circumvention certainly doesn’t
+have the same currency as it does in, say, Australia or the European
+Union. Put simply, most Americans have likely never experienced
+geoblocking or, at the very least, do not run into it regularly. Their
+relative wealth of access makes geoblocking – and its circumvention –
+less of a nationwide *cause célèbre* and more of a ‘niche’ or
+intermittent experience.
+
+## Geoblocking and Market Hierarchies
+
+Many platforms that distribute American content use geoblocking, because
+the US cultural industries have been particularly militant with regard
+to preserving and controlling the distribution paths of intellectual
+properties. They do so following a business strategy that industry
+executive and author Jeff Ulin refers to as, naturally enough, ‘Ulin's
+Rule’, wherein the distribution value of media content is maximized
+through the exploitation of four factors: ‘time, repeat consumption
+(platforms), exclusivity, and differential pricing’.[^17ElkinsUSA_5] These factors
+are controlled through the development and maintenance of distinct
+spatial and temporal distribution windows that geoblocking helps
+maintain. So, for instance, a film’s US theatrical run would represent
+one window, and subsequent availability of that film on Netflix in
+Germany a few months later would represent another. In retaining
+distribution windows and ordering them along geographic borders (whether
+local, national, regional, continental, etc.), certain territories
+become more valuable or ‘useful’ to American media firms as markets, and
+release dates, prices, and different versions of texts and platforms are
+set accordingly. At the risk of generalizing what are in fact rather
+complex decisions about global distribution markets, this strategy
+enables powerful American media industries to ‘rank’ (even implicitly)
+the importance and value of particular markets relative to each other.
+In the age of DVD, this ranking was made apparent through the numerical
+region code system, with North America designated as Region 1. These
+rankings are still present in the practice of geoblocking even if they
+are less overt.
+
+As this might indicate, if geoblocking can be explained functionally and
+practically by pointing to long-established industry practices, its
+cultural impacts are, for many viewers, more damaging and insulting in
+their valuing of certain territories over others. For instance, one
+*Wired* wiki article on how to access Pandora via VPN refers to
+geoblocking as a system of ‘*xenophobic* restrictions \[that\] are the
+result of U.S. and international copyright laws and restrictions.’[^17ElkinsUSA_6]
+Although it’s not entirely accurate to suggest that geoblocking exists
+purely because of copyright law (rather, it comes about through a
+combination of copyright restrictions, the media industries’
+international distribution and licensing agreements, and platforms not
+having been introduced to particular territories), the fact that some
+see it as a xenophobic and discriminatory practice spurred on by
+predominantly American corporate interests reflects the entanglements
+between geoblocking, American industrial power, and cultural difference.
+So, in addition to its more practical functions of shaping the
+distribution of media content, geoblocking reminds people who live in
+particular territories of their place within a global hierarchy of media
+access. If geoblocking is about access, and access is connected to
+power, then we can begin to think about the cultural and political
+consequences of geoblocking and, in turn, the reasons it makes people so
+angry. In addition, inquiring about what platforms are unavailable where
+(or, if they are technically available, how their costs and content
+libraries differ from the same platforms in other countries) raises
+questions about *why* the world is marked by differential access to new
+media.
+
+If the US and its corporate interests are usually considered major
+forces shaping the geoblocking of platforms and content around the
+world, this makes geoblocking a tricky and curious phenomenon to
+investigate *within* the nation’s borders. Many major entertainment
+platforms that remain geoblocked in territories around the world –
+Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
+US-based corporate entities to serve the American market first and
+foremost. Hulu in particular can essentially be considered a national
+broadcasting platform. Although its library has since grown to
+incorporate film, cable and “international” TV programs, trailers, and
+news, it was created by two of the major American commercial television
+networks (NBC and Fox) as a nationally bound exhibitor of broadcast
+programming. So, while geoblocking is not a part of the national
+conversation as much as it is in other countries, this doesn’t mean that
+it is nonexistent in the US.
+
+## Major Geoblocked Platforms in the United States
+
+The most infamous geoblocked platform in the United States – at least
+until 2011 – was the Swedish streaming music platform Spotify. Spotify
+was initially only available in Europe, and during its early years
+American listeners, critics, and industry figures alike made a lot of
+noise about the cornucopia of free (or at least cheap) music that
+remained just out of their grasp. While American consumers are less
+familiar with the experience of video geoblocking, given the industrial
+might of Hollywood, a few common scenarios can nonetheless be identified
+and are described below.
+
+### VOD Platforms Developed in or for Another Territory
+
+A commonly repeated axiom holds that the development of VOD platforms
+has lead to – or at least sustains – an increasingly fragmented media
+environment. Even a quick look at the vast array of global streaming and
+OTT services geoblocked outside of their home countries (BBC’s iPlayer,
+Hulu Japan, France’s TF1 on-demand platform, to name just a few) bears
+this out.[^17ElkinsUSA_7] Whereas, in the age of DVD, the region-code system ensured
+that viewers had to contend with one relatively centralized system of
+regional lockout, the issue becomes more complex for viewers contending
+with a VOD environment marked by many different options, contingent
+availability, and constantly shifting libraries. While seeking out
+geographically available platforms can be frustrating for viewers,
+sometimes when a VOD platform is geoblocked in the United States, it
+doesn’t matter much to American users both because the US offers a
+comparable service and because geoblocked platforms naturally will not
+expend promotional energy in a territory where it doesn’t exist. For
+example, LoveFilm, a Netflix-like British VOD service that was
+incorporated into Amazon Prime Instant Video UK in early 2014, was never
+particularly missed or lamented in the US. Ask American users if they
+wish they had access to LoveFilm, and the only ones likely to have heard
+of it will be British expats or tourists. Put simply, with Netflix,
+Hulu, and Amazon Prime Instant Video (US) taking up so much space in the
+market, American viewers needn’t bother with LoveFilm. Unlike, say,
+Spotify, which before its entry into the US market offered something
+quite literally unavailable (free, unlimited a la carte streaming of a
+seemingly comprehensive popular music library), LoveFilm was just
+another VOD service meant for a specific market of UK-based viewers.
+Save the frustrations of British ex-pats, tourists, or business
+travelers from the UK looking to access their home platform, geoblocking
+in this instance shores up a more banal kind of market segmentation.
+
+### Local, National, and Regional Television Platforms 
+
+As TV networks and channels around the world develop online platforms or
+distribute their content to VOD services, they face the problem of
+maintaining spatial control over distribution routes. The putatively
+global nature of the internet theoretically makes broadcasting’s
+long-held and difficult-to-regulate ‘omnidirectionality’ (to quote media
+historian Thomas Streeter) even more pronounced.[^17ElkinsUSA_8] However, the
+ability to trace the geo-location of internet-connected devices through
+IP address filtering actually makes it quite easy for TV networks to
+control the distribution of television programming through official,
+commercial or public-service streaming platforms.
+
+Given a healthy contingent of Brit TV fans (and \#NBCFail advocates) in
+the US, the BBC’s aforementioned iPlayer is routinely one of the most
+sought-after geoblocked VOD platforms. An on-demand platform available
+via the web and some mobile devices, the iPlayer offers BBC television
+and radio programs for streaming or download primarily to users based in
+the United Kingdom. Those who pay the UK’s television license fee (an
+annual £145.50 fee for all television-owning households that funds the
+BBC), have access to both the platform’s livestreamed and on-demand
+programming. So, the iPlayer is unavailable to those who don’t or can’t
+pay this fee (such as viewers living in the US). And while this
+particular geoblocking arrangement reflects the public nature of the
+BBC, private-sector platforms in the UK like Sky Go are also geoblocked
+to preserve territorial exclusivity of international distribution deals
+and to minimize bandwidth costs incurred by out-of-market audiences.
+
+Beyond the US/UK axis, many public and private national or regional
+television platforms are unavailable in the US for similar reasons
+(i.e., Americans don’t pay taxes and license fees to use the service
+and/or broadcasters are beholden to territory-based distribution and
+licensing agreements). France’s TF1, Canada’s CBC, Qatar’s Al-Jazeera
+(more on them in a bit), Australia’s ABC, and many others have developed
+streaming video services that are geoblocked in the US. This can be a
+problem for diasporic viewers in particular – including students,
+tourists and foreign workers in the United States – who might not care
+as much about accessing HBO Go but may want to access media from their
+home countries via one of these geoblocked platforms. At the same time,
+some media industries that envision their audience as fundamentally
+transnational (e.g., Nollywood, Bollywood, various East Asian and Latin
+American media companies) distribute their content to VOD platforms that
+are *not* geoblocked in the US. These include platforms that specialize
+in various kinds of “international” or non-US content (e.g., the
+Nollywood streaming service iRokoTV and the Korean TV portal DramaFever)
+as well as major US-based platforms like Netflix and Hulu. The latter
+have overtly targeted Latino and Mexican-American diasporic audiences in
+particular, with Hulu carrying a number of telenovelas through its
+partnership with American Spanish-language media company Univision. So,
+while VOD and OTT platforms from throughout Latin America, like
+Televisa’s Veo app, remain geoblocked within the US, these programs may
+be available through other avenues. Indeed, part of the reason these
+services are geoblocked in the US is because American cable and
+streaming companies own the local rights to programs that would
+otherwise be available through those apps. So, the availability of
+particular content and platforms can be complicated for diasporic
+viewers in the US, and it’s often contingent on how highly the American
+media industries value that audience.
+
+### YouTube, UGC, and Independent Videos Unavailable in the US
+
+Geoblocking in the US (and elsewhere) is not limited to individual
+platforms, nor is it necessarily limited to platforms that were
+developed as extensions of corporate brands. Often, individual videos or
+channels on digital distribution platforms like YouTube will be
+geoblocked to certain territories. This has become an issue as the
+platform has shifted from distributing exclusively user-generated
+content to partnering with major corporations and multi-channel networks
+(MCNs). Indeed, YouTube’s policy on geoblocking limits the practice to
+corporate users who have a Content ID account (i.e., those who “own
+exclusive rights to a substantial body of original material that is
+frequently uploaded by the YouTube user community”).[^17ElkinsUSA_9] So, individual
+user accounts don’t have the option to geoblock videos, but corporate
+media and brand accounts do. And while many of these accounts follow the
+standard practice of serving the United States first and foremost and
+blocking out other countries, others (again, like the BBC) block US
+viewers from their content. Other online video platforms, such as
+Dailymotion, allow developers to geoblock videos in particular countries
+(including the US) using the platform’s API.
+
+## Moments of Circumvention: Making Geoblocking Visible
+
+These conditions suggest that geoblocking circumvention is a more
+specialized practice in the US. This reflects the different standing of
+region-free DVD in the US relative to much of the rest of the world
+during the DVD era. While region-free players were common in many
+nations during the 1990s and 2000s, in the United States they were
+harder to come by, and mostly found within immigrant and cinephile
+communities.[^17ElkinsUSA_10] Although the fragmented nature of the streaming video
+environment and the secretive nature of circumventing geoblocking make
+it difficult to precisely calculate who regularly engages in the
+practice, one can surmise that these same audience segments would be
+drawn to circumvention practices for many of the same reasons that they
+sought out region-free DVD players.
+
+But beyond speculating, where can we actually observe the most visible
+and pronounced moments of geoblocking circumvention in the US? As I
+alluded to, Americans more broadly tend to become aware of geoblocking
+during moments like the Olympics or the World Cup, when they seek out
+broadcasts (and announcers) perceived as superior to the US’s often poor
+coverage. Diasporic viewers and ex-pats looking for media from their
+home countries can also run into geoblocking – British-American viewers
+attempting to access the iPlayer or Venezuelan-Americans bumping into
+the geoblocked Venevisión YouTube channel, for instance. As with many of
+the other examples in this book, these viewers look to proxies and VPNs.
+Of course, most online guides instructing users on how to use VPNs
+address, even implicitly, a non-US audience, as these tend to be the
+viewers who more regularly experience the frustration of geoblocking.
+Even some of the exceptions to this rule acknowledge that geoblocking is
+not primarily a US concern. Many of these come from the blog Lifehacker,
+which regularly instructs its primarily US-based readership on a variety
+of tips and hacks meant to make life easier. The blog has posted several
+tutorials on how to use VPNs, with one suggesting, ‘Non-U.S. users
+frequently encounter the annoyance of geoblocked content when trying to
+access popular sites like Hulu, but every now and then we feel the burn
+in the States, too.’[^17ElkinsUSA_11] Regardless, popular VPN services like Private
+Internet Access, Hide My Ass, and Hola have drawn Americans to their
+user base who use it to access platforms like the iPlayer.
+
+Still, VPN use in the US is as much about online security and privacy
+broadly as it is about circumventing geoblocks. VPN use is part of a
+larger culture of suspicion and caution spurred largely by whistleblower
+Edward Snowden’s massive leak of documents revealing the National
+Security Agency’s (NSA) spying program. One doesn’t need to spend too
+much time on tech sites and forums like Ars Technica, Boing Boing, and
+Reddit to find questions, suggestions, and debates surrounding the use
+of VPNs and other privacy and security technologies. Much of this
+discourse follows a familiar and distinctly American blend of
+libertarianism, tech-utopianism, and intense valuation of privacy, and
+from the perspective of American users it touches on geoblocking
+specifically only intermittently – a state of affairs that contrasts
+with many of the global case studies provided in the rest of this book.
+Americans concerned with online surveillance compare and contrast VPNs
+against other kinds of security and encryption systems (e.g., HTTPS,
+Tor), and indeed the security status of the VPN has come into question
+as of late due to the recent revelation from the Snowden docs that the
+NSA can decrypt VPN communications.
+
+Whether used as a way to circumvent geoblocks or as a more general
+anti-surveillance maneuver, VPNs have an anti-establishment edge to
+them. Because users often regard geoblocking as an oppressive – or at
+least unfair – system of discrimination, there’s a tendency in popular
+and academic discourse to celebrate its circumvention as a form of
+rebellion against anti-competitive media industries and unjust copyright
+regimes. Indeed, in keeping with the close correspondences between the
+American tech industries and libertarian ideology, users often argue
+that geoblocking violates the free market and oppresses personal
+freedoms. But looking at circumvention in the United States, and
+considering the privilege that Americans generally enjoy, it’s worth
+asking whether US-based users circumventing the geoblocked iPlayer
+platform, for example, should be considered resistant – particularly in
+an era when public media is routinely under attack. Indeed, a premise
+that often shapes popular debates and discussions about geoblocking is
+that everyone *should* have access to the same content at the same time
+and the same price, regardless of geographic location – a version of a
+broader cultural attitude that media scholar Lucas Hilderbrand has
+called ‘access entitlement.’[^17ElkinsUSA_12] Because American audiences have
+generally enjoyed the privilege that comes with living in a premier
+media market, US frustrations about geoblocked platforms reflect
+assumptions that Americans should be able to access online art and
+entertainment made available to those living in other parts of the
+world.
+
+This all indicates that it’s important to consider *why* particular
+platforms are geoblocked and under what conditions, as well as what it
+means when people try to circumvent geoblocking in these different
+conditions. There’s a tendency to assume that because a particular
+platform is not available in a territory, the platform owners should be
+to blame. But the lack of iPlayer and Al Jazeera English in the United
+States in fact speaks not only to the desires of those agencies to
+prohibit American viewers from accessing these platforms but also to the
+power of the American cable companies in shaping what US viewers do and
+don’t have access to. Regarding the iPlayer, the BBC announced that the
+platform would be made available in the United States, but that was put
+on hold after threats from cable companies who were worried that the
+iPlayer would carry shows already aired by US cable network BBC America.
+So, the cable networks threatened to stop carrying BBC America if BBC
+Worldwide introduced the iPlayer to the US.[^17ElkinsUSA_13] Al Jazeera English is
+unavailable for similar reasons. At the launch of cable channel Al
+Jazeera America in the United States in 2013, Al Jazeera English
+geoblocked its livestream and its YouTube news reports in the US at the
+behest of the American cable and satellite companies (though it
+eventually dropped the geoblock on the YouTube videos).[^17ElkinsUSA_14]
+Essentially, the cable companies wanted to avoid competition from Al
+Jazeera English.
+
+One consequence of this is that instead of gaining access to the
+‘original’ national version of a platform, US viewers can watch a
+different adaptation of it. In other words, geoblocking helps sustain a
+‘glocalized’ approach to international expansion wherein products are
+adapted to local markets. Now, this isn’t always and necessarily a bad
+thing. Presumably, tailoring a product to a local market could make it
+more appealing to consumers in that market by making it feel closer to
+their own cultural experience. At the same time, British ex-pats and
+Anglophiles in the US might want access to the national public BBC
+platform rather than (or in addition to) a commercial BBC America
+channel that’s clogged with James Bond films and *Star Trek: The Next
+Generation* reruns and that offers commercial-interrupted BBC
+programming later than its initial UK airdate.[^17ElkinsUSA_15]
+
+More seriously, though, when viewers in the United States, whether part
+of a diasporic community or not, want to keep up with news about and
+from the Middle East, they have turned to Al Jazeera. Many viewers in
+the US perceive Al Jazeera’s coverage as superior to US cable news, and
+journalist Max Blumenthal captures the cultural significance of the
+geoblocking of Al Jazeera English in his lament that American viewers
+will need to use a VPN to find ‘an alternative to the mind-numbing,
+sensationalistic content familiar to CNN, Fox News, and MSNBC.’[^17ElkinsUSA_16]
+Here, the circumvention of geoblocking takes on a particular social
+value in that it enables an escape from the dreck that US news consumers
+regularly see. Further, for diasporic viewers living in the US,
+circumventing these geoblocks can help them access news or entertainment
+from their home territories. Either way, the circumvention of
+geoblocking can figure as relief from the hegemony of dominant American
+media.
+
+## Conclusion
+
+All this is to say that within a territory that has long operated as a
+seat of global power, geoblocking reminds viewers of their place within
+hierarchies of cultural power and privilege in a variety of ways. As a
+result, the practice of circumvention means something different in
+different contexts. On one hand, diasporic viewers who are unable to
+access particular platforms might see this as yet another experience
+indicating their geo-cultural displacement and their position as viewers
+not regularly and immediately catered to by the cultural industries. On
+the other hand, for US-based audiences, circumventing geoblocked
+platforms can represent a kind of access entitlement presuming that in a
+digitally connected age, one *should* be able to access everything. When
+this access is interrupted, as in when \#NBCFail led many Americans to
+engage in geoblocking circumvention, they serve as reminders that the
+United States is not a placeless, universal entity in the global media
+economy and that it can be subject to many of the disconnections and
+disjunctures that viewers around the world experience more regularly.
+
+##References
+
+‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*, 13 May
+2010,
+[http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World](http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World).
+
+Appelbaum, Jacob et al., ‘Prying Eyes: Inside the NSA’s War on Internet
+Security’, *Der Spiegel*, 28 December 2014,
+[http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
+
+Becker, Christine. ‘Access is Elementary: Crossing Television’s
+Distribution Borders’, *FlowTV.org*, 13 January 2014,
+[http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame).
+
+Blumenthal, Max. ‘Exclusive: Al Jazeera’s English Online US Broadcast to
+End with the Launch of Al Jazeera America’, *Mondoweiss*, 1 August 2013,
+[http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
+
+‘Buy Safe and Secure VPN’, *Private Internet Access*,
+[https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
+
+‘Committee Seeks IT Pricing Equity’, *AAP General News Wire* (Sydney),
+29 July 2013.
+
+Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent Freak*,
+29 August 2013,
+[https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829).
+
+Hern, Alex. ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’, *New
+Statesman*, 19 June 2012,
+[http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
+
+Hilderbrand, Lucas. *Inherent Vice: Bootleg Histories of Video and
+Copyright*, Durham, NC: Duke University Press, 2009.
+
+‘How Content ID Works’, *YouTube Help*, 2015,
+[https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
+
+Luh, James C. ‘Breaking Down DVD Borders’, *Washington Post*, 1 June
+2001.
+
+Pash, Adam. ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from
+Outside the U.K’, *Lifehacker*, 29 March 2010,
+[http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
+
+Roettgers, Janko. ‘Al Jazeera English Unblocks its YouTube Videos for
+US-based Viewers’, *Gigaom*, 24 September 2013,
+[https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
+
+Santus, Rex, ‘Netflix is Now in 36% of Homes Across the United States’
+*Mashable*, 12 March 2015,
+[http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
+
+Stelter, Brian. ‘Hiccup for Debut of Al Jazeera America’, *New York
+Times*, 21 August 2013.
+
+Streeter, Thomas. *Selling the Air: A Critique of the Policy of
+Commercial Broadcasting in the United States*, Chicago: University of
+Chicago Press, 1996.
+
+Turner, Adam. ‘Content Unlimited’, *Sydney Morning Herald*, 14 July
+2013,
+[http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html](http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html).
+
+Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
+and Video Content*, Burlington, MA: Focal Press, 2000.
+
+[^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
+    States’ *Mashable*, 12 March 2015,
+    [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
+
+[^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
+    Internet Security’, *Der Spiegel*, 28 December 2014,
+    [http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
+
+[^17ElkinsUSA_3]: ‘Buy Safe and Secure VPN’, *Private Internet Access*,
+    [https://www.privateinternetaccess.com/pages/buy-vpn](https://www.privateinternetaccess.com/pages/buy-vpn).
+
+[^17ElkinsUSA_4]: Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, *Torrent
+    Freak*, 29 August 2013,
+    [https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829](https://www.privateinternetaccess.com/pages/buy-vpn).
+
+[^17ElkinsUSA_5]: Jeff Ulin, *The Business of Media Distribution: Monetizing Film,
+    TV, and Video Content*, Burlington, MA: Focal Press, 2000, p. 5.
+
+[^17ElkinsUSA_6]: ‘Access Pandora from Anywhere in the World’, *Wired How-To Wiki*,
+    13 May 2010,
+    [http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World](http://howto.wired.com/wiki/Access\_Pandora\_From\_Anywhere\_in\_the\_World).
+    My emphasis.
+
+[^17ElkinsUSA_7]: Space is far too limited to catalog the scores of VOD platforms
+    available around the world, but a comprehensive, if by this point
+    somewhat out-of-date, snapshot of the global streaming film
+    landscape can be found in the appendices in Dina Iordanova and
+    Stuart Cunningham (eds) *Digital Disruption: Cinema Moves On-Line*,
+    St. Andrews: St. Andrews Film Studies, 2012.
+
+[^17ElkinsUSA_8]: Thomas Streeter, *Selling the Air: A Critique of the Policy of
+    Commercial Broadcasting in the United States*, Chicago: University
+    of Chicago Press, 1996, p. 61.
+
+[^17ElkinsUSA_9]: ‘How Content ID Works’, *YouTube Help*, 2015,
+    [https://support.google.com/youtube/answer/2797370?hl=en](https://support.google.com/youtube/answer/2797370?hl=en).
+
+[^17ElkinsUSA_10]: A 2001 *Washington Post* piece reporting on DVD region codes
+    suggested that the major consumers of region-free DVD players in the
+    US comprised a ‘small market’ made up of ‘immigrants who want to
+    watch movies from their home countries, language students, and
+    foreign-film enthusiasts.’ James C. Luh, ‘Breaking Down DVD
+    Borders’, *Washington Post*, 1 June 2001.
+
+[^17ElkinsUSA_11]: Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor
+    Who) from Outside the U.K’.
+
+[^17ElkinsUSA_12]: Lucas Hilderbrand, *Inherent Vice: Bootleg Histories of Video and
+    Copyright*, Durham, NC: Duke University Press, 2009, p. 229.
+
+[^17ElkinsUSA_13]: Alex Hern, ‘BBC iPlayer’s US Rollout Blocked by Cable Networks’,
+    *New Statesman*, 19 June 2012,
+    [http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks](http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks).
+
+[^17ElkinsUSA_14]: Brian Stelter, ‘Hiccup for Debut of Al Jazeera America’, *New
+    York Times*, 21 August 2013. On dropping the YouTube geoblock, see
+    Janko Roettgers, ‘Al Jazeera English Unblocks its YouTube Videos for
+    US-based Viewers’, *Gigaom*, 24 September 2013,
+    [https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers](https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers).
+
+[^17ElkinsUSA_15]: For more on the issues that attend geoblocking between the US and
+    UK specifically, see Christine Becker, ‘Access is Elementary:
+    Crossing Television’s Distribution Borders’, *FlowTV.org*, 13
+    January 2014,
+    [http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame](http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame).
+
+[^17ElkinsUSA_16]: Max Blumenthal, ‘Exclusive: Al Jazeera’s English Online US
+    Broadcast to End with the Launch of Al Jazeera America’,
+    *Mondoweiss*, 1 August 2013,
+    [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
 
 
 

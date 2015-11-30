@@ -70,13 +70,11 @@ regulation. The three stages will likely begin at different times in
 different countries, industries, and contexts, but will eventually
 overlap and thereafter develop concurrently.
 
-![Figure 1: Geoblocking has a complicated relationship with national legal
-systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)](imgs/TrimbleImage1.jpg)
+![](imgs/TrimbleImage1.jpg)
 
-*Figure 1: Geoblocking has a complicated relationship with national legal
+Figure 1. Geoblocking has a complicated relationship with national legal
 systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)*
+tool for legal compliance. Source: (CC BY 2.0/Karen Roe)
 
 ## Geoblocking as a Tool of Regulation and Enforcement
 
@@ -477,7 +475,7 @@ Entertainment Law Journal* 22.3 (Spring, 2012): 567-657.
 
 Trimble, Marketa. ‘Local Hosting and the Draft “Trade in Services
 Agreement”’, Technology & Marketing Law Blog, 22 September 2015,
-http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm.
+[http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm](http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm).
 
 Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
 *Fordham Intellectual Property, Media & Entertainment Law Journal* 25.2

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-#Circumvention, media sport and the fragmentation of video culture
+#Circumvention, Media Sport and The Fragmentation of Video Culture
 
 ###James Meese and Aneta Podkalicka###
 
@@ -39,13 +39,9 @@ broadcasting rights, rather than from gate receipts or merchandising.
 Sport is able to demand this level of investment because there is a
 strong viewer preference for mediated live sport, which in turn is a
 unique form of modern screen content. Live sport is one of the last
-program genres that require people to watch it at a particular time.
-This is unlike most other programs, which can be provided on-demand (as
-we have seen elsewhere in this collection). This in turn means that live
+program genres that require people to watch it at a particular time. This is unlike most other programs, which can be provided on-demand (as we have seen elsewhere in this collection). This in turn means that live
 sport stands as a reasonable financial investment for media companies.
-By purchasing exclusive rights to popular sporting contests, networks
-will have access to an interested audience, which can be on sold to
-advertisers.
+By purchasing exclusive rights to popular sporting contests, networks will have access to an interested audience, which can be on sold to advertisers.
 
 Rights deals between sporting organisations and television networks are
 managed through a complicated geography of contractual agreements.
@@ -71,7 +67,7 @@ these circumvention practices, which vary in their scope and levels of
 informality, and explore how they are fragmenting the sporting video
 landscape and offering new sites of consumption for fans.
 
-##Beyond the traditional sporting broadcast: challenging exclusivity
+##Beyond the Traditional Sporting Broadcast: Challenging Exclusivity
 
 Media sport stands as an interesting case study to explore changing
 media geographies because of the sector’s resilience and longevity. It
@@ -161,7 +157,7 @@ circumvention is not just about access, but about sustaining alternative
 consumption preferences, which are often not catered for in the dominant
 forms of sporting broadcast.
 
-####Circumvention practices in media sport####
+####Circumvention Practices in Media Sport####
 
 Circumvention in media sport occurred from the 1970s onwards, thanks to
 flexible consumer technologies like VCRs, which gave audiences with
@@ -207,7 +203,7 @@ is also worth noting that it is not prohibitively difficult to upload a
 stream of a sporting match for online broadcast, to the extent that
 walkthroughs are available online.
 
-####Circulation of game replays####
+####Circulation of Game Replays
 
 An alternative circumvention tactic is based around a number of
 websites, which host delayed highlights of games after the match has
@@ -245,11 +241,12 @@ However, industry professionals tend to see these services as ‘an
 irritation’, an issue we will discuss later in this chapter, because
 unlike live sport, there is a limited audience for delayed content.[^06MeesePodkalickaGeoblockingandSport_8]
 
-![Figure 1 Highlights aggregated by footytube.com from youtube.com. The YouTube account associated with this footage has since been terminated](imgs/MeesePodkalicka-Image1.png)
-*Figure 1 Highlights aggregated by footytube.com from youtube.com. The
-YouTube account associated with this footage has since been terminated*.
+![](imgs/MeesePodkalicka-Image1.png)
 
-####Conventional circumvention tools####
+Figure 1. Highlights aggregated by footytube.com from youtube.com. The
+YouTube account associated with this footage has since been terminated
+
+####Conventional Circumvention Tools
 
 Sporting audiences also use commercial Virtual Private Networks and
 Domain Name System proxy services in order to evade geoblocking,
@@ -274,7 +271,7 @@ of the sports broadcasting landscape, the use of circumvention
 technologies challenges this distribution strategy, which has been in
 place for some time.
 
-####Fan recordings on social media####
+####Fan Recordings on Social Media
 
 Another phenomenon that has emerged in recent years is people posting
 sporting content on social media platforms, either during or after a
@@ -305,7 +302,7 @@ it when a deliberately selected piece of content goes viral, losing
 control over this process is often treated as a direct threat to their
 business model.
 
-####Parallel imports of cable decoders####
+####Parallel Imports of Cable Decoders
 
 Our final example is a practice that constitutes, perhaps, one of the
 most ingenious methods of circumvention: paying for a cheaper cable
@@ -354,7 +351,7 @@ managing social relationships. When we consider the history of football
 fan violence or even the good-natured tensions between two local teams,
 the provision of multiple games at a local pub is no small matter.
 
-##(Un)authorised circumvention practice##
+##(Un)authorised Circumvention Practice
 
 These circumvention practices don't emerge out of thin air. Sporting
 organisations and media networks are actively cultivating some of them,
@@ -380,7 +377,7 @@ reinforce the point made throughout this article, that the threats to
 live broadcasts, are the ones that rights holders respond most strongly
 to.
 
-##The fragmentation of digital sporting video cultures##
+##The Fragmentation of Digital Sporting Video Cultures##
 
 The circumvention practices outlined above directly challenge
 assumptions about content, which are embedded in the geographically
@@ -400,7 +397,18 @@ quality. While the broadcast is of a high standard the fact that the
 commentary is in a foreign language might impact on the enjoyment of the
 game.
 
-##Table
+
+| Platform  | Do you need to pay  |Timing   |Geographic restriction   | 'Quality'  |
+|---|---|---|---|---|
+| TV (Satellite)  |Yes| Live  | Yes  | Excellent  |
+| TV (FTA)  | Sometimes  | Live  |  Yes | Excellent|
+|Parallel Import TV|   Yes|  Live | No  |Average   |
+|TV (FTA) through VPN| Yes| Live |No|Excellent|
+|Live Streaming|  No | Live | No|Average to Poor|
+|Vine| No  | Slight Delay | No  | Poor |
+|YouTube/Other Third Party Site| No  |Delay of a few hours| No  | Average to Poor  |
+|Skype|  No | Live  | No  | poor  |
+|Website| No  |Delay of a few hours| No  | Average to Poor  |
 
 Figure 2: A breakdown of the relationship between geographic
 restriction, cost and quality

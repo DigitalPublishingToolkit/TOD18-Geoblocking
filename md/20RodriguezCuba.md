@@ -29,6 +29,7 @@ Cuban accounts
 - 0%: Proportion of internet users who paid for a video streaming service
 in 2014 from Cuban accounts
 
+####PULL QUOTES
 *“Starting today, people in Cuba with Internet connections and access to
 international payment methods will be able to subscribe to Netflix and
 instantly watch a curated selection of popular movies and TV shows.”* –
@@ -77,7 +78,7 @@ since the 1990s, referring to the economic struggle of ordinary people.
 It evokes the Cuban style of proxy access to all sites, through all
 connections.
 
-## Skipping back: revolution, videos and access
+## Skipping Back: Revolution, Videos and Access
 
 Universal access to culture has been a foundational ideal of the Cuban
 revolutionary project since 1959. As part of the political demands of
@@ -173,7 +174,7 @@ infrastructure they use and the legal framework governing them, these
 home internet networks could nonetheless play a major role in the
 development of a nation-wide content-sharing platform.
 
-## Internet dilemmas
+## Internet Dilemmas
 
 Cuba has been connected to the internet by satellite since 1996, through
 a special license from the United States Department of Commerce, as an
@@ -223,7 +224,7 @@ diversity and complexity of video circulation practice in present-day
 Cuba, which interface with global networks but use primarily *offline*
 distribution methods within Cuba.
 
-## Videos without time or space: ‘the package’
+## Videos Without Time or Space: ‘The Package’
 
 In parallel to these structural constraints on internet access, various
 workarounds have emerged in Cuba. One well-documented phenomenon is USB
@@ -259,8 +260,9 @@ have implemented feedback mechanisms to cater to their customers’
 demand, user involvement in the selection of programming usually happens
 only during the final stage of street-level distribution.[^16RodriguezCuba_17]
 
-![Figure 1 An example of a paquete](imgs/Rodriguez-Image1.png)
-*Figure 1 An example of a paquete*
+![](imgs/Rodriguez-Image1.png)
+
+Figure 1. An example of a paquete
 
 Distribution of the *paquete* is typically carried out discreetly, often
 through licensed streetside DVD vendors or private photocopying and
@@ -289,10 +291,10 @@ compilation created by government-linked cultural organizations,
 offering a selection of pirated ‘quality’ content, including movies and
 TV series.
 
-![Figure 2 A private photocopying and printing business in Havana openly
-advertises pirated videos. Photo: Fidel A. Rodriguez](imgs/Rodriguez-Image2.png)
-*Figure 2 A private photocopying and printing business in Havana openly
-advertises pirated videos. Photo: Fidel A. Rodriguez*
+![](imgs/Rodriguez-Image2.png)
+
+Figure 2. A private photocopying and printing business in Havana openly
+advertises pirated videos. Photo: Fidel A. Rodriguez
 
 The spread of *paquete* distribution has also led to the development of
 an advertising market, including unregistered advertising agencies.
@@ -304,7 +306,7 @@ mobile apps. Even on state television broadcasts, the unique watermarks
 of certain *paquete* distributors can often be made out, revealing the
 origin of some of this content.
 
-## Informal wireless networks 
+## Informal Wireless Networks 
 
 Another popular means of video distribution in Cuba is through urban
 wifi networks. Concentrated in Havana, but also found in other parts of
@@ -328,10 +330,10 @@ informally regulated, and has become a source of controversy within the
 community. Inappropriate downloading behavior can lead to a user being
 temporarily ‘banned’ through IP address blocking.
 
-![Figure 3 A Game of Thrones file transfer on an informal wireless
-network](imgs/Rodriguez-Image3.png)
-*Figure 3 A Game of Thrones file transfer on an informal wireless
-network*
+![](imgs/Rodriguez-Image3.png)
+
+Figure 3. A Game of Thrones file transfer on an informal wireless
+network
 
 The network is also used to check the scores of European football league
 matches. While the Cuban TV networks regularly broadcast live Bundesliga
@@ -354,7 +356,7 @@ officials, and similar experiments by state authorities – suggest that
 this kind of network may have a place within official ICT and internet
 policy in Cuba.
 
-## Transnational ways to see: video and the diaspora
+## Transnational Ways to See: Video and the Diaspora
 
 With a large community of Cuban immigrants in the United States, Canada,
 Latin America and Europe, transnational articulation of family ties is
@@ -393,10 +395,11 @@ mediascape is nonetheless full of emergent forms of digital video
 consumption and communication that make efficient use of limited
 infrastructure.
 
-![Figure 4 A VPN advertisement in Revolico.com](imgs/Rodriguez-Image3.png)
-*Figure 4 A VPN advertisement in Revolico.com*
+![](imgs/Rodriguez-Image3.png)
 
-## The future
+Figure 4. A VPN advertisement in Revolico.com
+
+## The Future
 
 The diverse video practices described above are taking place in a
 context of rapid political and economic transformation in Cuba,
@@ -469,7 +472,7 @@ capitalinos*, Bachelor Thesis, Havana University, Cuba, 2015.
 
 Díaz, Elaine and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas Para
 un Debate Sobre Políticas Públicas, *Temas*, La Habana, 2013,
-[www.temas.cult.cu/revistas/74/08%20elaine.pdf](www.temas.cult.cu/revistas/74/08%20elaine.pdf).
+[https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es](https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es).
 
 Echemendía, Isabel, *Copi@ y Comp@rte una vez a la semana. Acercamiento
 a los principales rasgos que caracterizan el consumo audiovisual
@@ -551,7 +554,7 @@ comunicológico para su estudio*, PhD diss., Havana University, Cuba,
 
 [^16RodriguezCuba_9]: Elaine Díaz and Firuzeh Sokooh, ‘Internet y las TIC en Cuba: Notas
     para un debate sobre políticas públicas’, *Temas* 2013,
-    [www.temas.cult.cu/revistas/74/08%20elaine.pdf](www.temas.cult.cu/revistas/74/08%20elaine.pdf).
+    [https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es](https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&idContenido=2014070113270001&idioma=es).
 
 [^16RodriguezCuba_10]: Patricia Moloney, ‘Promoting Global Internet Freedom: Policy and
     Technology’, Congressional Research Service, 2013,

@@ -17,7 +17,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ...
 
 
-# Turkey: Coping with internet censorship 
+# Turkey: Coping With Internet Censorship 
 
 ###Çiğdem Bozdağ###
 
@@ -30,12 +30,11 @@ internet
 2014
 
 ####
-![Figure 1: This image promoting DNS proxies circulated widely during the
+![](imgs/BozdagImage1.png)
+
+Figure 1. This image promoting DNS proxies circulated widely during the
 2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
-unknown)](imgs/BozdagImage1.png)
-*Figure 1: This image promoting DNS proxies circulated widely during the
-2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
-unknown)*
+unknown)
 
 In recent years the acronyms DNS and VPN have entered into the everyday
 vocabulary of Turkish internet users. Since 2007, when Law No. 5651 was
@@ -265,12 +264,11 @@ online for information about changing DNS settings. This can be seen in
 Table 1 below, which shows the use of the words DNS, VPN and *sansür*
 (censorship) on Twitter during the first days of the blocks in Turkey.
 
-![Figure 2: During the March 2014 Twitter ban, a global search of tweets
+![](imgs/BozdagImage2.png)
+
+Figure 2. During the March 2014 Twitter ban, a global search of tweets
 shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms.](imgs/BozdagImage1.png)
-*Figure 2: During the March 2014 Twitter ban, a global search of tweets
-shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms.*
+both prominent terms
 
 On the second day of the Twitter ban in March 2014, access to commonly
 used DNS providers was also blocked from within Turkey. This was a

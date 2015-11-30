@@ -28,8 +28,9 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 video at least once a month[^13HanchardMalaysia_2]
 - 5.48 Mbps: Average internet speed[^13HanchardMalaysia_3]
 - 140%: Mobile penetration rate, of which 35% are smartphones[^13HanchardMalaysia_4]
-- RM8 (US\1.86): Monthly cost of an iFlix annual subscription
+- RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
+####PULL QUOTES
 *“iflix will fight entertainment piracy and provide an entirely new and
 legitimate way for the region’s hundreds of millions of Internet users
 to enjoy their favourite films and television shows.” -* Press release
@@ -110,12 +111,11 @@ strictly following Malaysian censorship restrictions. This of course
 could change as a result of greater scrutiny by the authorities if there
 is mainstream adoption of iFlix.
 
-![Digure 1 iFlix launched in Malaysia and Philippines in May 2015, as an
+![](imgs/Hanchard_image1.jpeg)
+
+Figure 1. iFlix launched in Malaysia and Philippines in May 2015, as an
 equivalent service to Netflix. It provides access to both global and
-local content, including well-loved Malaysian film genres.](imgs/Hanchard_image1.jpeg)
-*Digure 1 iFlix launched in Malaysia and Philippines in May 2015, as an
-equivalent service to Netflix. It provides access to both global and
-local content, including well-loved Malaysian film genres.*
+local content, including well-loved Malaysian film genres
 
 Malaysian users are not just looking for shows from Hollywood. There is
 strong demand for movies and dramas from wider Asia, in particular
@@ -250,7 +250,7 @@ the Malaysian middle-class has become politically mobilised. There is
 widespread dissatisfaction with the Malaysian Government over
 allegations of corruption, especially in the wake of the recent scandal
 involving 1Malaysia Development Berhad (1MDB), an economic development
-company owned by the Government, in which \$700 million in public funds
+company owned by the Government, in which $700 million in public funds
 were allegedly diverted to the bank account of Prime Minister Najib
 Razak.[^13HanchardMalaysia_12] Digital security skills were particularly relevant for the
 *Bersih* 4 protests, a movement which called for a ‘clean’ and
@@ -313,7 +313,7 @@ Smartphone Users”, *e27*, 5 March 2014,
 e27 [http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/](http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/).
 
 Internet World Stats. ‘Asia Internet Usage Stats Facebook and Population
-Statistics’, 30 June 2015, [http://www.internetworldstats.com/stats3.html](http://www.internetworldstats.com/stats3.html).
+Statistics’, 30 June 2015, [http://www.internetworldstats.com/stats3.htm](http://www.internetworldstats.com/stats3.htm).
 
 The Malay Mail Online. ‘”Rewind” the Year — YouTube Recaps 2014’s Top
 Videos,’ 10 December 2014,
@@ -351,7 +351,7 @@ ad:tech Roadshow Kuala Lumpur. Data sourced from comScore and Nielsen,
     Smartphone Users’, *e27*, 5 March 2014, [http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/](http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/).
 
 [^13HanchardMalaysia_5]: Internet World Stats, 'Asia Internet Usage Stats Facebook and
-    Population Statistics', [http://www.internetworldstats.com/stats3.html](http://www.internetworldstats.com/stats3.html).
+    Population Statistics', [http://www.internetworldstats.com/stats3.htm](http://www.internetworldstats.com/stats3.htm).
 
 [^13HanchardMalaysia_6]: Kenneth Wong, '2014 Malaysia Digital Media Landscape', presentation at ad:tech Roadshow Kuala Lumpur, 2014,
     [http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf](http://www.adtechkl.com/images/ppt/mda\_kenneth\_wong.pdf). Data

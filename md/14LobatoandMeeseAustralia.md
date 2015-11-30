@@ -17,7 +17,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ...
 
 
-#Australia: circumvention goes mainstream 
+#Australia: Circumvention Goes Mainstream 
 
 ###Ramon Lobato and James Meese###
 
@@ -30,16 +30,13 @@ Australia, as of late 2014
 - \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
 - \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
 
-***PULL QUOTES***
+####PULL QUOTES
 
 *‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
 when you go online ... I know that ... anyway, I won’t go on.’* –
 Australia’s former Minister for Communications (and current Prime
 Minister), Malcolm Turnbull, in 2014
 
-IMAGES 
-McTivia
-Malcolm Turnbull
 
 ####
 Over the last decade Australia has become an unlikely hotspot of
@@ -163,7 +160,7 @@ are ‘fed on a diet of geo-blocking, slow content delivery and price
 gouging’.[^10LobatoandMeeseAustralia_3] This adds fuel to the fire of consumer resentment, and
 provides a rhetorical justification for piracy and geo-hacking.
 
-##Geoblocking and cultural nationalism
+##Geoblocking and Cultural Nationalism
 
 By 2012 geoblocking had become a political issue. Sensing the mood of
 the public, Australian regulators were questioning the
@@ -229,7 +226,7 @@ victims of cultural globalization. A politics of resentment has taken
 hold, tinged with nationalist overtones. Its central figure: the
 ripped-off Aussie consumer.
 
-##The VPN explosion
+##The VPN Explosion
 
 Renewed attention to the parallel-import issue has naturally drawn
 attention to geoblocking. Taking a cue from their elected
@@ -283,7 +280,7 @@ mass-scale internet circumvention in this way would in other
 circumstances appear unusual. In Australia, it is now par for the
 course.
 
-##Governing circumvention
+##Governing Circumvention
 
 Running through this debate about geoblocking are several unresolved
 legal and policy issues. One of these is the uncertain legal status of
@@ -318,9 +315,9 @@ retention regime, and VPN services are an appealing counter-measure.
 Savvy VPN companies such as PureVPN and IBVPN, now promote themselves to
 Australian users on this basis (see Figure 1).
 
-![](media/image1.png)
+![](imgs/lobatomeese.png)
 
-Source: <http://www.ibvpn.com/australia-vpn-service/>
+Figure 1. [http://www.ibvpn.com/australia-vpn-service/](http://www.ibvpn.com/australia-vpn-service/)
 
 Recent developments in copyright law also bear directly on VPNs. In June
 2015 federal legislation was passed that gives judges the power to block
@@ -342,7 +339,7 @@ an identity-masking tool for P2P users. In this complex game of
 whack-a-mole, public awareness of VPNs, proxies and other circumvention
 tools is always on the rise.
 
-##The coming of Netflix
+##The Coming of Netflix
 
 Another recent development is the launch in March 2015 of Netflix’s
 Australian service. For the first time Australians can now access an
@@ -410,7 +407,7 @@ practices among a substantial minority of the population.
 
 ‘Choice tells Australians to become digital smugglers’, ABC Radio *AM*
 program, 23 March 2013,
-[http://www.abc.net.au/am/content/2013/s3722193.html](http://www.abc.net.au/am/content/2013/s3722193.html).
+[http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164](http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164).
 
 Australian Copyright Council, information sheet G127v01, ‘Geo-blocking,
 VPNs & Copyright’, July 2015.
@@ -470,7 +467,7 @@ Suzor, Nicolas. ‘Using a VPN to Access Netflix: Is it Legal?’,
 
 [^10LobatoandMeeseAustralia_6]: ‘Choice tells Australians to become digital smugglers’, ABC Radio
     *AM* program, 23 March 2013,
-    [http://www.abc.net.au/am/content/2013/s3722193.html](http://www.abc.net.au/am/content/2013/s3722193.html).
+    [http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164](http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164).
 
 [^10LobatoandMeeseAustralia_7]: David Richardson, ‘Copyright and Monopoly Profits: Books, Records
     and Software’, Current Issues Brief 15, 1996, The Parliament of

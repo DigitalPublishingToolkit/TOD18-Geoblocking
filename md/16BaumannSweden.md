@@ -22,7 +22,9 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ###Chris Baumann
 
 ####DATA BOX{.statbox}- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
-*‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013‘*We believe that the time is ripe for everyone to start using VPN services*’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014IMAGESScreenshot Anonine
+
+####PULL QUOTES
+*‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013‘*We believe that the time is ripe for everyone to start using VPN services*’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014
 
 ####
 In mid-October 2012, Netflix flew its top three executives, co-founder
@@ -316,8 +318,9 @@ name, which is a wordplay on *anonym*, the Swedish version of
 *anonymous*), in addition to multiple uses of related terms like ‘safe’
 or ‘secure.’ This, of course, is hardly a coincidence.
 
-![Figure 1 The website of Anonine, a popular Swedish VPN provider.](imgs/BaumannImage1.png)
-*Figure 1 The website of Anonine, a popular Swedish VPN provider.*
+![](imgs/BaumannImage1.png)
+
+Figure 1. The website of Anonine, a popular Swedish VPN provider
 
 Another reason for Anonine’s popularity among Swedish Internet users is
 the company’s “local” brand. Swedes tend to be loyal to homegrown
@@ -523,7 +526,7 @@ Geneva, 2014.
     ting customer data, with Bahnhof g customers' Court of Jus
 
 [^12BaumannSweden_21]: Oscar Schwartz, ‘LEX Integrity’, *5<sup>th</sup> of July Foundation*, 16
-    November 2014, https://5july.org/2014/11/16/lex-integrity/.
+    November 2014, [https://5july.org/2014/11/16/lex-integrity/](https://5july.org/2014/11/16/lex-integrity/).
 
 [^12BaumannSweden_22]: Jon Karlung, ‘Bahnhof aktiverar ”plan B”: erbjuder fri
     anonymisering’, *Bahnhof*, 16 November 2014,
@@ -531,7 +534,7 @@ Geneva, 2014.
 
 [^12BaumannSweden_23]: BeatriceAsk, ‘Den stora frågetråden om VPN-tjänsten Anonine!
     \[Sammanfogad\]’, *Flashback,* 20 April 2012,
-    https://www.flashback.org/p36938188\#p36938188.
+    [https://www.flashback.org/p36938188\#p36938188](https://www.flashback.org/p36938188\#p36938188).
 
 [^12BaumannSweden_24]: Privacy International, *The Right to Privacy in Sweden.
     Stakeholder Report: 21st Session, Sweden,* London, 2014.

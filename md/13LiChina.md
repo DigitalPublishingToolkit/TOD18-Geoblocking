@@ -19,12 +19,16 @@ Rights: CC BY-NC 4.0
 
 # China: The Techno-Politics of the Wall
 
-###Jinying Li###
+### Jinying Li
 
- ####DATA BOX{.statbox}- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
-'*If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’*' – Murong Xuecun, Writer, in 2015
+ <div class ="statbox"> 
+**DATA BOX** <BR>- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
 
-####
+
+####PULL QUOTES
+'*If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’*' – Murong Xuecun, Writer, 2015
+</div>
+
 The Great Firewall (GFW) is one of the most sophisticated and effective
 Internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a
@@ -281,10 +285,10 @@ accessed on YouTube), the phenomenon continued in countless Internet
 memes, video games, toys, and even clothing lines that all referenced
 the lovely animal.
 
-![Figure 1 The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)](imgs/Li-image1.png)
-*Figure 1 The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)*
+![](imgs/Li-image1.png)
+
+Figure 1. The Grass Mud Horse became a popular expression of resistance to
+internet censorship source: (CC BY-SA 2.0/chumsdock)
 
 Equally provocative is the animation series *Kuang Kuang*, which was
 created by artist Pi San and his independent studio Huxiao Animation.

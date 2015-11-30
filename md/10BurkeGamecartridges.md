@@ -21,14 +21,12 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ###Roland Burke###
 
-![figure 1 Drawing the Borders: Detail of the original Sega Megadrive
+![](imgs/Burke-Image0.png)
+
+Figure 1. Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
 Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014.](imgs/Burke-Image0.png)
-*figure 1 Drawing the Borders: Detail of the original Sega Megadrive
-design schematic, with the assorted cartridge slot shapes indicated.
-Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014.*
+Works, n.p: Read Only Memory, 2014
 
 IP address geoblocking has been implemented to partition what would
 otherwise be potentially borderless worlds of information and
@@ -193,15 +191,15 @@ hole in the geo-fence; for the Super Nintendo, it required a ‘native’
 regional escort providing a fleeting moment of diplomatic cover. In both
 cases, the breech was easily and cheaply made.
 
-![Figure 2 The Japanese Megadrive cartridge with its infuriating rounded
-edge. The owner is mere millimetres away from fun. Image: Roland Burke](imgs/Burke-Image2.jpg)
-*Figure 2 The Japanese Megadrive cartridge with its infuriating rounded
-edge. The owner is mere millimetres away from fun. Image: Roland Burke.*
+![](imgs/Burke-Image2.jpg)
 
-![Figure 3 The localized Australian Megadrive cartridge, with its
-distinctive curved spline. Image: Roland Burke.](imgs/Burke-Image3.jpg)
-*Figure 3 The localized Australian Megadrive cartridge, with its
-distinctive curved spline. Image: Roland Burke.*
+Figure 2. The Japanese Megadrive cartridge with its infuriating rounded
+edge. The owner is mere millimetres away from fun. Source: Roland Burke
+
+![](imgs/Burke-Image3.jpg)
+
+Figure 3. The localized Australian Megadrive cartridge, with its
+distinctive curved spline. Source: Roland Burke
 
 Circumvention was not a procedure undertaken without considerable
 deliberation and forethought. Inexperienced hands, no matter how nimble,

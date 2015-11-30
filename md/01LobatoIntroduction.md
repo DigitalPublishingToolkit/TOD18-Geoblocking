@@ -17,7 +17,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 ...
 
 
-# The new video geography:An introduction to Geoblocking and Global Video Culture
+# The New Video Geography: An Introduction To Geoblocking and Global Video Culture
 
 ###Ramon Lobato###
 
@@ -125,7 +125,7 @@ the internet; second, the history of circumvention technologies and
 practices; and third, the relationship between political censorship and
 pleasurable consumption, as seen through the lens of geoblocking.
 
-## Blockage and flow
+## Blockage and Flow
 
 One of our starting points when developing the idea for this book was
 the uncontroversial observation that, for many internet users, the
@@ -255,7 +255,7 @@ didn’t have geoblocking in mind when they wrote that sentence, but they
 may as well have. Geoblocking reminds us that geography matters a great
 deal to television, and never moreso than in the internet age.
 
-## Control and circumvention
+## Control and Circumvention
 
 A second cross-cutting theme in our book is circumvention – the tactics,
 tools and workarounds that people use to access blocked video sites. As
@@ -272,12 +272,14 @@ Addtele), subscription VPNs (Private internet Access, HotSpotNordVPN,
 TigerVPN), and DNS proxies designed explicitly for unlocking offshore
 content (Unblock-US, Getflix).
 
-![Figure 1: A VPN server selection menu](imgs/Lobato-Image1.png)
-*Figure 1: A VPN server selection menu*
+![](imgs/Lobato-Image1.png)
+
+Figure 1. A VPN server selection menu
 
 
-![Figure 2: VPN marketing highlights unblocking functions](imgs/Lobato-Image2.png)
-*Figure 2: VPN marketing highlights unblocking functions*
+![](imgs/Lobato-Image2.png)
+
+Figure 2. VPN marketing highlights unblocking functions
 
 Circumvention is a complex topic, because most technologies used for
 geoblocking circumvention were not designed for this purpose and have
@@ -390,7 +392,7 @@ who wish to be conceal their identity or location temporarily. The
 chapters in this book trace out some of these unlikely connections in
 rich detail.
 
-## Censorship and consumption
+## Censorship and Consumption
 
 A third theme in this book is the relationship between market and state
 – or more specifically, the relationship between commercial technologies
@@ -593,7 +595,7 @@ of Media Infrastructures*, University of Illinois Press, 2015.
 
 Paul, Ian. ‘Ultra-popular Hola VPN Extension Sold Your Bandwidth for use
 in a Botnet Attack’, *PC World*, 29 May 2015,
-http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html.
+[http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html](http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html).
 
 Roberts, Hal et al. *2010 Circumvention Tool Usage Report*, Cambridge,
 MA: Berkman Center for Internet and Society, 2010
@@ -603,7 +605,7 @@ Landscape Report: Methods, Uses, and Tools,* Cambridge, MA: The Berkman
 Center for Internet and Society, Harvard University, 2007.
 
 Shadbolt, Peter. ‘How Misbehaving at School Made One Man a Millionaire’,
-*BBC News*, 18 May 2015, http://www.bbc.com/news/business-32702501.
+*BBC News*, 18 May 2015, [http://www.bbc.com/news/business-32702501](http://www.bbc.com/news/business-32702501).
 
 Turner, Graeme and Jinna Tay. *Television Studies after TV:
 Understanding Television in the Post-Broadcast Era*, London: Routledge,

@@ -16,39 +16,44 @@ Keywords:   50 keywords for search and indexing
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
-##Global streaming: scale and infrastructure
+##Global Streaming: Scale and Infrastructure
 
-![Figure 1 A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019](imgs/dataviz4.jpg)
+![](imgs/dataviz4.jpg)
 
-Caption
+Figure 1. A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019
 
+![](imgs/dataviz1.jpg)
 
-
-![Figure 2](imgs/dataviz1.jpg "Income status of global internet users.Data source: The World Bank")
-
-
-
-![Figure 3 Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014](imgs/dataviz2.jpg)
-*Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014*
+Figure 2. Income status of global internet users.Data source: The World Bank
 
 
-##Netflix by numbers
-![Figure 4 U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports](imgs/dataviz7.jpg)
-*U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports*
+![](imgs/dataviz2.jpg)
 
-![Figure 5 Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)](imgs/dataviz8.jpg)
+Figure 3. Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014
 
-Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
 
-![Figure 6 Size of Netflix catalogue in various countries (Number of available titles).Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)](imgs/dataviz10.jpg)
-*Size of Netflix catalogue in various countries (Number of available titles).Data source: UnblockUS, https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region*
+##Netflix by Numbers
+![](imgs/dataviz7.jpg)
 
-![Figure 7 Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast](imgs/dataviz9a.jpg)
-*Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast*
+Figure 4. U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
 
-##VPN geography
-![Figure 8 Most popular VPN server locations.Data source: Swinburne University](imgs/dataviz5.jpg)
-*Most popular VPN server locations.Data source: Swinburne University*
+![](imgs/dataviz8.jpg)
 
-![Figure 9 Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society](imgs/dataviz6.jpg)
-*Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society*
+Figure 5. Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
+
+![](imgs/dataviz10.jpg)
+
+Figure 6. Size of Netflix catalogue in various countries (Number of available titles). Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)
+
+![](imgs/dataviz9a.jpg)
+
+Figure 7. Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast
+
+##VPN Geography
+![](imgs/dataviz5.jpg)
+
+Figure 8. Most popular VPN server locations. Data source: Swinburne University
+
+![](imgs/dataviz6.jpg)
+
+Figure 9. Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society
