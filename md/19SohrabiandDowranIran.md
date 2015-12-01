@@ -8,35 +8,35 @@ Anthology item: article
 Item-id: 
 Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Authors: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
 Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
 Author-bio:
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract: Video platforms like Youtube, IPlayer, DailyMotion, Netflix, Periscope and Youku use geoblocking to filter international audiences. Geoblocking and Global Video Culture examines the geography of video streaming across different cultures. Studying the linkages between various blocking and circumvention practices and the tactics people use to get around them. The research decodes the approach to geoblocking in various countries like China, Iran, Malaysia, Turkey, Cuba, Brazil, USA, Sweden and Australia, by analyzing how different users negotiate geoblocking and internet filtering controls. This collection of essays offer a series of distinctive stories about this fast-changing and complex issue. Keywords:internet censorship, copyright, Institute of Network Cultures, video distribution, public sphere, proxy filtering, P2P file-sharing, territorialisation, geographies of control, surveillance, VPN, connectivity, anonymity, IP-address, digital infrastructure, USA, China, Sweden, Turkey, Australia, Malaysia, Brazil, Iran, Cuba, piracy, privacy, streaming aggregation platforms, mobile video culture, authorized and unauthorized channels, site-blocking, circumvention practices 
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+Font(s) used: Open Sans
 ...
 
 #Iran: A Friction between State Ideology and Network Society
 
-###Hadi Sohrabi###
+###Hadi Sohrabi
 *Swinburne University of Technology*
 
-###Behzad Dowran###
+###Behzad Dowran
 *Iranian Research Institute for Information Science & Technology
 (IranDoc)*
 
   
-####DATA BOX{.statbox}
+<div class="statbox">
 - 75 million: total population
 - 23 million: estimated number of internet users
 - 69 %: percentage of internet users who use circumvention tools
 - 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
  
-####PULL QUOTES  
-President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
+ 
+> President Rouhani:‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
 
+</div>
 
-####
 The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
 rise of audio-visual black markets after the 1979 Islamic revolution.
 Losing his music store during Islamization, our protagonist Salim starts

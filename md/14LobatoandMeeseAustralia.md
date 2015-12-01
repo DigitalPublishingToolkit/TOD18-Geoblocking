@@ -8,21 +8,21 @@ Anthology item: article
 Item-id: 
 Article-title: Geoblocking and Global Video Culture
 Article-status: accepted
-Author: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
+Authors: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
 Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
 Author-bio:
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract: Video platforms like Youtube, IPlayer, DailyMotion, Netflix, Periscope and Youku use geoblocking to filter international audiences. Geoblocking and Global Video Culture examines the geography of video streaming across different cultures. Studying the linkages between various blocking and circumvention practices and the tactics people use to get around them. The research decodes the approach to geoblocking in various countries like China, Iran, Malaysia, Turkey, Cuba, Brazil, USA, Sweden and Australia, by analyzing how different users negotiate geoblocking and internet filtering controls. This collection of essays offer a series of distinctive stories about this fast-changing and complex issue. Keywords:internet censorship, copyright, Institute of Network Cultures, video distribution, public sphere, proxy filtering, P2P file-sharing, territorialisation, geographies of control, surveillance, VPN, connectivity, anonymity, IP-address, digital infrastructure, USA, China, Sweden, Turkey, Australia, Malaysia, Brazil, Iran, Cuba, piracy, privacy, streaming aggregation platforms, mobile video culture, authorized and unauthorized channels, site-blocking, circumvention practices 
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+Font(s) used: Open Sans
 ...
 
 
 #Australia: Circumvention Goes Mainstream 
 
-###Ramon Lobato and James Meese###
+###Ramon Lobato and James Meese
 
 
-####DATA BOX{.statbox}
+<div class="statbox">
 - 18%: proportion of Australians who use VPNs or proxies to access the
 internet
 - 200,000: estimated number of unauthorised Netflix subscribers in
@@ -30,15 +30,14 @@ Australia, as of late 2014
 - \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
 - \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
 
-####PULL QUOTES
 
-*‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
-when you go online ... I know that ... anyway, I won’t go on.’* –
+>‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
+when you go online ... I know that ... anyway, I won’t go on.’ –
 Australia’s former Minister for Communications (and current Prime
 Minister), Malcolm Turnbull, in 2014
 
+</div>
 
-####
 Over the last decade Australia has become an unlikely hotspot of
 circumvention activity. Frustrated by the high cost and slow delivery of
 first-release TV and movies from the United States – and by their own

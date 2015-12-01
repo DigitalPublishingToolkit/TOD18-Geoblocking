@@ -4541,15 +4541,13 @@ Figure 3.
 
 # China: The Techno-Politics of the Wall
 
-### Jinying Li###
- #####DATA BOX{.statbox}- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
+### Jinying Li
+<div class="statbox">- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
 
+>'If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’' – Murong Xuecun, Writer, 2015
 
-#####PULL QUOTES
-*'If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’'* – Murong Xuecun, Writer, 2015
+</div>
 
-
-#####
 The Great Firewall (GFW) is one of the most sophisticated and effective
 Internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a
@@ -5067,10 +5065,10 @@ Xuecun, Murong. 'Scaling China’s Great Firewall', *The New York Times*,
 
 #Australia: Circumvention Goes Mainstream 
 
-###Ramon Lobato and James Meese###
+###Ramon Lobato and James Meese
 
 
-####DATA BOX{.statbox}
+<div class="statbox">
 - 18%: proportion of Australians who use VPNs or proxies to access the
 internet
 - 200,000: estimated number of unauthorised Netflix subscribers in
@@ -5078,15 +5076,14 @@ Australia, as of late 2014
 - \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
 - \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
 
-####PULL QUOTES
 
-*‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
-when you go online  I know that  anyway, I won’t go on.’* –
+>‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa
+when you go online  I know that  anyway, I won’t go on.’ –
 Australia’s former Minister for Communications (and current Prime
 Minister), Malcolm Turnbull, in 2014
 
+</div>
 
-####
 Over the last decade Australia has become an unlikely hotspot of
 circumvention activity. Frustrated by the high cost and slow delivery of
 first-release TV and movies from the United States – and by their own
@@ -5558,9 +5555,9 @@ Suzor, Nicolas. ‘Using a VPN to Access Netflix: Is it Legal?’,
 
 # Turkey: Coping With Internet Censorship 
 
-###Çiğdem Bozdağ###
+###Çiğdem Bozdağ
 
-####DATABOX{.statbox}
+<div class="statbox">
 - 54%: Proportion of the Turkish population who have access to the
 internet
 - 60TL (US\$20): Monthly cost for a 50/mbit fiber connection
@@ -5568,7 +5565,7 @@ internet
 - 31%: Proportion of Turkish internet users who made online purchases in
 2014
 
-####
+</div>
 ![](imgs/BozdagImage1.png)
 
 Figure 1. This image promoting DNS proxies circulated widely during the
@@ -5998,12 +5995,9 @@ report, *Cyber Rights,* 2014,
 
 ###Chris Baumann
 
-####DATA BOX{.statbox}- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
-
-####PULL QUOTES
-*‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013‘*We believe that the time is ripe for everyone to start using VPN services*’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014
-
-####
+<div class="statbox">- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
+> ‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013> ‘We believe that the time is ripe for everyone to start using VPN services’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014
+</div>
 In mid-October 2012, Netflix flew its top three executives, co-founder
 and CEO Reed Hastings, Chief Product Officer Neil Hunt, and Chief
 Content Officer Ted Sarandos over to Sweden to have cocktails with a
@@ -6521,24 +6515,24 @@ Geneva, 2014.
 
 # Malaysia: Global Binge-Viewing in a Restrictive State
 
-###Sandra Hanchard###
+###Sandra Hanchard
 
 
-
-####DATABOX{.statbox}
+<div class="statbox">
 - 80%: Proportion of Malaysian internet users who stream or download
 video at least once a month[^13HanchardMalaysia_2]
 - 5.48 Mbps: Average internet speed[^13HanchardMalaysia_3]
 - 140%: Mobile penetration rate, of which 35% are smartphones[^13HanchardMalaysia_4]
 - RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
-####PULL QUOTES
-*“iflix will fight entertainment piracy and provide an entirely new and
+
+> “iflix will fight entertainment piracy and provide an entirely new and
 legitimate way for the region’s hundreds of millions of Internet users
-to enjoy their favourite films and television shows.” -* Press release
+to enjoy their favourite films and television shows.” -Press release
 from Catcha Group’s iFlix, March 2015.[^13HanchardMalaysia_1]
 
-####
+</div>
+
 Internet circumvention practices in Malaysia are driven by two factors –
 the desire for global video content, and the need to avoid surveillance
 by local authorities. The population’s growing interest in digital
@@ -6889,7 +6883,7 @@ ad:tech Roadshow Kuala Lumpur. Data sourced from comScore and Nielsen,
 ###Vanessa Mendes Moreira de Sa
 
 
-####DATA BOX{.statbox}
+<div class="statbox">
 - 60%: Proportion of the total population in Brazil that has access to the
 internet
 - 37th: Netflix is the 37^th^ most visited website in Brazil (Alexa
@@ -6897,7 +6891,8 @@ ranking)
 - 2.2 million: Estimated number of subscribers to Netflix Brazil
 - 38%: Proportion of VPN users from Brazil who have accessed the US Netflix in December 2014
 
-####
+</div>
+
 From late 2014, the ‘news’ that Netflix had started to block anonymous
 or unidentified IP addresses spread all over the internet. The overall
 reaction from Brazilians who used location-masking practices presented
@@ -7330,25 +7325,25 @@ Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
 
 #Iran: A Friction between State Ideology and Network Society
 
-###Hadi Sohrabi###
+###Hadi Sohrabi
 *Swinburne University of Technology*
 
-###Behzad Dowran###
+###Behzad Dowran
 *Iranian Research Institute for Information Science & Technology
 (IranDoc)*
 
   
-####DATA BOX{.statbox}
+<div class="statbox">
 - 75 million: total population
 - 23 million: estimated number of internet users
 - 69 %: percentage of internet users who use circumvention tools
 - 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
  
-####PULL QUOTES  
-President Rouhani: *‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’*
+ 
+> President Rouhani:‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
 
+</div>
 
-####
 The Iranian movie *Bullet Proof* (dir. Mostafa Kiayee, 2012) depicts the
 rise of audio-visual black markets after the 1979 Islamic revolution.
 Losing his music store during Islamization, our protagonist Salim starts
@@ -7827,9 +7822,9 @@ The World Bank. Internet Users by Country, 2014,
 
 # Cuba: *Videos to the left –* circumvention practices and audiovisual ecologies
 
-###Fidel A. Rodriguez###
+###Fidel A. Rodriguez
 
-####DATA BOX {.statbox}
+<div class="statbox">
 - 30%: Proportion of Cubans aged 16-54 who have access to the Internet
 - \$2: Hourly cost for a 100 Mbit/s fiber connection in CUC/USD
 - 0%: Proportion of internet users who made online purchases in 2014 from
@@ -7837,13 +7832,13 @@ Cuban accounts
 - 0%: Proportion of internet users who paid for a video streaming service
 in 2014 from Cuban accounts
 
-####PULL QUOTES
-*“Starting today, people in Cuba with Internet connections and access to
+> “Starting today, people in Cuba with Internet connections and access to
 international payment methods will be able to subscribe to Netflix and
-instantly watch a curated selection of popular movies and TV shows.”* –
+instantly watch a curated selection of popular movies and TV shows.” –
 Netflix press release, 9 February 2015
 
-####
+</div>
+
 Havana, January 2015. A young reggaeton singer is detained by the police
 in a luxurious house on the outskirts of the city. The arrest is quickly
 reported in foreign news media outlets, with Reuters first breaking the
@@ -8428,17 +8423,13 @@ comunicológico para su estudio*, PhD diss., Havana University, Cuba,
 
 ### Evan Elkins
 
-
-
 <div class="statbox">
-DATA BOX {.statbox}
 - 36%: Percentage of American homes that subscribe to Netflix.[^17ElkinsUSA_1]<br/>
 - 20,000: Number of VPN communications the NSA aimed to survey per hour in 2011, according to the Edward Snowden documents.[^17ElkinsUSA_2]<br/>
 - \$39.95: Cost for a yearly subscription to popular VPN service Private Internet Access, in US\$.[^17ElkinsUSA_3]<br/>
 - 22.6%: Percentage of North American Pirate Bay users who use a VPN service, according to a 2013 survey [^17ElkinsUSA_4]<br/> 
 
-
->"every now and then we feel the burn in the States, too." – Lifehacker, blogger Adam Pash, 2010. 
+> "every now and then we feel the burn in the States, too." – Lifehacker, blogger Adam Pash, 2010. 
 
 </div>
 
