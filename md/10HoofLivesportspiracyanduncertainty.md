@@ -19,7 +19,7 @@ Font(s) used: Open Sans
 
 # Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming Aggregation Platforms
 
-###Florian Hoof##
+###Florian Hoof
 
 ## Geoblocked in Australia
 

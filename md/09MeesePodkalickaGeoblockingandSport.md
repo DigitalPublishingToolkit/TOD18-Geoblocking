@@ -246,7 +246,7 @@ unlike live sport, there is a limited audience for delayed content.[^06MeesePodk
 Figure 1. Highlights aggregated by footytube.com from youtube.com. The
 YouTube account associated with this footage has since been terminated
 
-####Conventional Circumvention Tools
+###Conventional Circumvention Tools
 
 Sporting audiences also use commercial Virtual Private Networks and
 Domain Name System proxy services in order to evade geoblocking,
@@ -271,7 +271,7 @@ of the sports broadcasting landscape, the use of circumvention
 technologies challenges this distribution strategy, which has been in
 place for some time.
 
-####Fan Recordings on Social Media
+###Fan Recordings on Social Media
 
 Another phenomenon that has emerged in recent years is people posting
 sporting content on social media platforms, either during or after a
@@ -302,7 +302,7 @@ it when a deliberately selected piece of content goes viral, losing
 control over this process is often treated as a direct threat to their
 business model.
 
-####Parallel Imports of Cable Decoders
+###Parallel Imports of Cable Decoders
 
 Our final example is a practice that constitutes, perhaps, one of the
 most ingenious methods of circumvention: paying for a cheaper cable
@@ -501,7 +501,7 @@ and DNS proxies to access PSB by these citizens in a similar fashion. Of
 course, the circumvention of geoblocking by non-citizens is a different
 matter and raises a more complex set of questions for PSBs.
 
-##Conclusion##
+##Conclusion
 
 Thanks to the preponderance of various circumvention practices, sporting
 video culture has fragmented. Because of this we see other interesting

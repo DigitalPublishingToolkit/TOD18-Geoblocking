@@ -40,12 +40,13 @@ Theory on Demand #18
 **Copy-editing:** Leonieke van Dipten<br/>
 **Editorial support:** Miriam Rasch<br/>
 
-**Design:** Leonieke van Dipten<br/>
+**Cover Design:** Katja Schiphout<br/>
+**DTP:** Leonieke van Dipten<br/>
 **EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 
 
 **Printer:** Print on Demand<br/>
 **Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>
-**ISBN:** <br/> 
+**ISBN:** 978-94-92302-03-8<br/> 
 
 
 **Contact**
