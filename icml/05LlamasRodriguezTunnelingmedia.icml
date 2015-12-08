@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Tunnelling Media: Geoblocking and Online Border Resistance</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Juan Llamas-Rodriguez</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The highway functioned as an early metaphor for the increasingly transnational network we now call the internet. The ‘information superhighway’ promised interconnectivity that was faster and freer than anything the world had seen before. In the decades since this initial euphoria, the infrastructural metaphor for the internet has morphed into variants like pipelines, tubes, and rhizomes, language that contests and recalibrates what types of access and communication are possible. Despite some residual techno-utopianism, the promise of a free network of connectivity has turned out to be anything but in the midst of net neutrality debates across the world. The internet is now a site for struggles over sovereignty, surveillance, and control, concerns that were once the domain of the offline world (or at least </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>imagined</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> as such).</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>As Paul Edwards argues, struggles over sovereignty and control were always a constitutive part of the internet despite claims otherwise. See Paul N. Edwards, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Closed World</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge: MIT Press, 1997.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The web's fall from grace is mirrored in the metaphors used to describe it. It is hardly surprising that the creators of Tor, an online browser that allows for anonymous browsing in various websites, liken their work to a ‘series of virtual tunnels’. As the power struggles of the offline sphere become increasingly salient in the online one, an alternative language that counteracts this dominant sense of control has begun to coalesce. The metaphorical shift in the cultural imaginary from a highway to a tunnel illustrates the death of that initial fantasy of free, unfettered connectivity.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Metaphors are powerful means for understanding social life. Spatial metaphors in particular proliferate across social theory and cultural criticism, often without appropriate examination of their implications.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Neil Smith and Cindi Katz, ‘Grounding Metaphor – Towards a Spatialized Politics’, in Michael Keith and Steve Pile (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Place and the Politics of Identity</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Routledge, 1993, p. 68.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Yet the tunnel metaphor invoked by the creators of Tor, as well as consumer-friendly VPNs such as TunnelBear, is instructive to think through the practices that circumvent ‘geofences’ since it likens these practices to the underground tunnels that allow for bypassing borders in the physical realm. Surely there are many other ways to describe alternative modes of online connectivity, but tunneling is significant for a number of reasons. First, it alludes to a symbolic vertical differentiation between channels of connectivity – these ‘dark tunnels’ are not in some online elsewhere but they remain just below the channels used for everyday navigating. As well, this vertical differentiation reveals a struggle for legitimacy, where only accepted channels are deemed (metaphorically) ‘above ground’. Vertical metaphors for operations of power are all too common, especially for those subordinated. The symbolic and material creation of vertical spaces in turn produces sites for exposing and contesting these relations. Thinking of these divergent forms of network connectivity as tunneling practices signals one such space of contestation.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The intellectual task is therefore to pursue the metaphorical implications of tunneling practices in order to theorize emergent and resistant configurations of online connectivity. In particular, it is to follow the example of physical border tunnels as a blueprint for understanding the discourses around, and the technological restraints of, contemporary borders as well as the methods for circumventing them. At stake is not a comparison between two purportedly distinct spaces of human activity, but rather a consideration of the consequences of bordering processes in each of these spaces. If the aim is to analyze how geoblocking technologies shape the cultural and political geographies of the internet – in other words, how they de- and re-territorialize the online world, then analyzing the methods for de- and re-territorializing physical boundaries prove a generative starting point. Metaphor, as a conceptual vehicle, allows for profound affinities and adjacencies to be uncovered without differences being lost. Since the verticality of the virtual sphere remains more symbolic and less material than that of the physical sphere, the allusion to tunneling translates the lessons and complications of the physical practice of tunneling into the virtual realm while foregrounding the key differences between them.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In essence, tunneling reorganizes geographies of control for a stretch of time. If geoblocks, like borders, function not to protect sovereignty but to sort populations, to categorize users and provide content based on these categories, then tunneling provides an opportunity for change. Yet not all tunnelling is the same. Degrees of technological sophistication for physical and virtual tunnelling create a hierarchy between those that can ‘hack’ their way around a geofence and those that need the help of others. These various levels of differentiation constitute users in relation to their distinct experiences of the internet. Tunneling thus responds to, and counteracts, the control enacted through borders, the hierarchization performed through technical expertise, and the power imbalances engendered through different user experiences.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Borders on/off the Internet</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Newfound spaces have always replicated the structures of already existing ones. Tracing the connections between a pre-World War II conception of air space, a Cold War era conception of outer space, and a contemporary one of cyberspace, James Hay argues that each subsequent invention of a space was tied to a reinvention of the liberal ideals of governmentality.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>James Hay, ‘The Invention of Air Space, Outer Space and Cyberspace’, in Lisa Parks and James Schwoch (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Down to Earth:Satellite Technologies, Industries and Cultures</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New Brunswick:Rutgers University Press, 2012, p. 19.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> If the notion of air space was integral to supporting national sovereignty, the advent of outer space was key to formulating questions about the reach and rule of new communication technologies with a global reach. Cyberspace extends these questions once again, projecting a virtual arena in which to rethink national dominance and power. In accounting for both the physical and digital realms, scholars write about ‘living in two planes’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Serra Tinic, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>On Location: Canada’s Television Industry in a Global Market</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Toronto: University of Toronto Press, 2005, p. 17.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> or the production of a ‘doubling of place’,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Shaun Moores, ‘The Doubling of Place: Electronic Media, Time-Space Arrangements, and Social Relationships’, in Nick Couldry and Anna McCarthy (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>MediaSpace: Place, Scale, and Culture in a Media Age</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Routledge, 2003, p. 21.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> but these analyses posit the internet as a ‘vehicle of mobility’ allowing you to end up somewhere else from where you physically start. Instead, VPNs – as well as other sorts of tunneling technologies – change the place you start at, a critical difference since the regulation of online activities begins at the national level.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Benjamin Burroughs and Adam Rugg, ‘Extending the Broadcast: Streaming Culture and the Problems of Digital Geographies’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Broadcasting &amp; Electronic Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 58.3 (2014): 377.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Yet ‘changing the place you start at’ is more than a feature enacted by user-friendly VPNs that provide the option of choosing a location and mask an IP address to make it happen. It is a characteristic that speaks to the changing nature of borders writ large.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The proliferation of information and communication technologies (ICTs) have increased the function of borders as regulatory mechanisms. Immigration agencies and border checkpoints operate as trackers of movement, differentially regulating access to specific spaces for specific subjects.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Andrea Brighenti, ‘Visibility: A Category for the Social Sciences’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Current Sociology</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 55.3 (May, 2007): 337.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Oscar Gandy refers to these practices as the ‘panoptic sort’, where complex surveillance systems collect swathes of information in order to ‘coordinate and control [individuals’] access to the goods and services that define life in modern capitalist economy’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Oscar Gandy, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Panoptic Sort: A Political Economy of Personal rInformation</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Boulder, CO: Westview, 1993, p. 15.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Given the sorting of both physical and virtual borders, Didier Bigo suggests a dynamic conception of borders where it is the borders themselves that are on the move. Borders, as we experience them, are ‘concretions of power struggles in a specific space [that are] materialized within a territory’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Didier Bigo, ‘Globalized (In)Security: The field and the Ban-Opticon’, in Didier Bigo and Anastassia Tsoukala (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Terror, Insecurity and Liberty: Illiberal practices of liberal regimes after 9/11</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Routledge, 2008, p. 28.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> A dynamic conception of borders also demands a reconsideration of the movement that occurs across these, the channels that restrict this movement, and the tunneling practices that enable new forms of mobility.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>While ICTs make border sorting faster and more efficient, they also ‘</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>add</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> friction, barriers or logistical costs to the mobility and everyday lives of those deemed by dominant states or service providers to be risky, unprofitable, or undeserving of mobility’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Stephen D.N. Graham, ‘The Software Sorted City: Rethinking the Digital Divide’, in Stephen Graham (ed.) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Cybercities Reader</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Blackwell, 2004, p. 329.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The fact that both nation states and service providers are implicated in these practices speaks not only to the outsourcing of sovereign control – the border tracking technologies used by countries are often privately developed – but also to the blurring of the distinction between risky citizens and risky consumers. Populations that are deemed unprofitable become tantamount to undeserving citizens. Worse, they might be deemed dangerous to the idealized freedoms of circulation promised for other, more deserving consumers. The discursive slippage of the ‘dark web’, for instance, groups into this concept both those users trying to avoid spying from commercial trackers and those specialized in providing illegal services online.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Thus, despite the sensationalism over building towering fences at national borders, these boundaries are predicated less on ‘fencing off’ the national territory than on regulating what can be allowed through at any given time. Global video culture is indicative of this shift in bordering practices. The DVD market that once divided the globe into sections required specific production characteristics (DVDs with the appropriate language options, special features, and artwork depending on the region) and targeted infrastructures (DVD players that were region-specific or multi-region). The current video streaming markets depend on local differences only in the last instance. Because they capitalize on existing internet infrastructure and on centralized data servers for storing content, the differently coded regions of the world are thus only distinguished when verifying an IP address. The virtual data point replaces the physical line. Much like ICT-enabled, ‘remote control’ borders that can ‘jump scale’ into transnational space and ‘touch down’ in various nodes across the globe,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Neil Brenner, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>New State Spaces: Urban Governance and the Rescaling of Statehood</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Oxford University Press, 2004, p. 57.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in contemporary online video culture, content travels across the world only to be sorted at endpoints. IP addresses become virtual passports to be presented at the border checkpoints represented by various kinds of online geoblocks. It is within this context of disaggregated, data-driven borders that tunneling practices thrive, capitalizing on existing infrastructures to create an alternative world of connectivity.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A World of Tunnels</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Tunnels come in multiple forms. The US Department of Homeland Security identifies at least three different types of underground border tunnels. Rudimentary tunnels are small, shallow, often crudely constructed and used only to travel only a short distance. These are usually detected when they cause a sinkhole, or ground surface collapse. In December 2013, officers from the U.S. Immigration and Customs Enforcement and Homeland Security Investigations found one of these tunnels in the backyard shed of a residence in Nogales, Arizona. It was a crude, hand-dug tunnel, approximately 52 feet long and roughly two feet wide by three feet tall, with some wood shoring.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>U.S. Immigration and Customs Enforcement, ‘Nogales Tunnel Task Force shuts down drug tunnel in backyard shed’, 18 December 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In contrast to rudimentary ones, sophisticated tunnels, also called ‘super tunnels’, are elaborately constructed systems. They usually stretch more than 2,000 feet and may include shoring, ventilation, electricity, and rail systems. In April 2014, one such tunnel was discovered inside Otay Mesa, a neighborhood in southern San Diego.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Debbi Baker and Sandra Dibble, ‘Two Drug Smuggling Tunnels Found’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>San Diego Union-Tribune</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 4 April 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The San Diego Tunnel Task Force inspected a warehouse and discovered a small hole in the floor that led to a 15-foot walkway which connected to a 68-foot vertical shaft that dropped into the tunnel, one of the longest straight-down drops the agency had ever seen. The tunnel itself was 600 yards long and included a multi-tiered electric rail system and an array of ventilation equipment. The exit point was sealed with material that made it seem like it was painted concrete, and there was a half-ton winch pulley system to hoist up goods up the vertical shaft.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/RodriguezImage1.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Figure 1. Tunnel found in Otay Mesa, California, in 2011: dug through soil and sand. Source: U.S. Customs and Border Protection</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The third type of tunnel is the interconnecting one, which is intended to make use of existing subterranean infrastructure such as storm drains or sewers. During a routine inspection of the city’s main storm drain system, authorities in Nogales found a concrete access panel embedded in the storm drain floor and discovered a tunnel when they removed the panel. U.S. Border Patrol, in partnership with Mexican federal police, inspected the unfinished tunnel and guessed it was intended to end underneath a public parking lot a few miles north. The passageway was almost 160 feet long and was roughly two feet wide by three feet tall. In its wake, a water line, storm drain pipe and two fiber optic lines were exposed.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>U.S. Immigration and Customs Enforcement, ‘US, Mexican authorities shut down smuggling tunnel under construction in Nogales’, press release, 26 June 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> These types of tunnels are suspected to proliferate across the Mexico-US border, prompting the creation of a specialized ‘tunnel task forces’, but because they include existing storm drains and sewers as parts of their structure, they have become the hardest type of tunnel to detect and shut down.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The interconnecting tunnel best corresponds to the type of digital practices that fall under ‘tunneling’ since the latter also use existing infrastructure – in this case, that of the internet – to create loopholes or roundabouts that allow for distinct avenues of communication. Exploiting the existing infrastructure has advantages for avoiding detection. Because they utilize storm drains and sewers, users of interconnecting tunnels depend less on creating their own channels. This reduced effort benefits tunnels users both because they take less time to construct the tunnel and because they are less likely to be found. There is no complete mapping of the existing sewage drains around the Mexico-US border, a region that extends almost 2000 miles, so authorities need to evaluate whether an underground construction is legitimate on an individual basis. In addition, interconnecting tunnels take advantage of the geological affordances of the border region. The physical characteristics of the local soil, for instance, vary tremendously across the southern US border. Any tunnel detection technology would need to adapt to different levels of porosity and texture, and tunnel task forces would have to map the variations in types of soil across the entire area they wanted to surveil. These features mean that standardizing border tunneling detection highly costly and cumbersome, which explains why finding and shutting down these tunnels has been a slow process focused on one tunnel at a time.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Department of Homeland Security Science and Technology Directorate, ‘Tunnel Detection: Going Underground to Enhance Security’, 31 October 2014, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/RodriguezImage2.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Figure 2. Tunnel found in Naco, Arizona, in 2015: dug through soil and clay.Source: U.S. Customs and Border Protection</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Tunneling online follows similar deflection techniques. Small-scale exploits, such as ad-blocking plugins or DNS proxies, capitalize on the technologically taxing methods of real-time, extensive tracking, allowing for restrictions can be temporarily circumvented. As well, VPNs function by harnessing the complex system of IP address allocation and user privacy laws in order to protect their users, making user targeting a case-by-case ordeal. Large-scale tunneling structures such as Silk Road can further obfuscate entire networks of activity from the surveilled channels of the internet. This level of complexity once meant that only people with sophisticated technological expertise could bypass existing geoblocks. Yet the rise of consumer-friendly VPNs has made this type of circumvention more accessible. It has also made it more trackable. The rise of “anti-piracy industries” such as P2P traffic measurement and packet inspection businesses has depended on the centralization of contravention methods.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ramon Lobato and Julian Thomas, ‘The Business of Anti-Piracy: New Zones of Enterprise in the Copyright Wars’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>International Journal of Communication</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 6 (2012): 613.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In the past, prosecuting any one user bypassing geoblocking measures was almost never economically or practically feasible, except in cases of users with strong influence on multiple networks or deemed high security threats. Now, the proliferation of technologies for geoblocking circumvention results both in an increase of users and of methods to track and surveil these users. Although tunneling by using existing infrastructure has its advantages, the very fact that tunneling depends on structures that are already in place means that these tunnels, physical or virtual, are not intrinsically emancipatory solutions but rather temporary alternatives to dominant forms of control.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Temporalities of Tunneling</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is this temporal aspect that provides the last zone of overlap between physical border tunnels and virtual tunneling practices. Recall that tunneling reorganizes geographies of control for a stretch of time. If borders have become dynamic, as Didier Bigo argues, then tunneling takes advantage of this fluctuation to allow for previously restricted traffic flow – but only temporarily. The dynamism of borders does not imply an imbalance: tunnelling creates new routes that are eventually foreclosed again. The stretch of time that tunnels occupy thus becomes a crucial aspect to their successful implementation. In the case of physical tunnels, this ‘stretch of time’ acquires a double significance: first, it refers to the span of time that the tunnel is active before it is found and shut down; second, it alludes to the spatial stretch, that is, to the time it takes to cross the tunnel. Tunnels are therefore transitory both because they create conditions that enable fugitive flows and because they exist for a reduced amount of time. In the case of virtual tunnels, these two meanings of the ‘stretch of time’ of tunneling are conflated. Here the time it takes to ‘cross the tunnel’ – to transfer whatever communication was previously prevented by geoblocking – is one and the same as the time that this tunneling protocol is active.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nowhere is this temporal correspondence better exemplified than in the case of the consumer-friendly VPN TunnelBear. Promoted for its ease of use, TunnelBear consists of a simple interface with two user inputs, a dropdown menu to select the geographical location of the IP address desired and a switch button to turn the application on or off. All the user has to do is turn the knob ‘On’ and the VPN is activated. The tunnel is active as the data transmission occurs and becomes inactive once the user switches the knob ‘Off’. The simplification of this protocol into an on/off knob metonymizes the temporal aspect of tunneling: there is a beginning and an end, and this stretch of time is finite and measurable. The second user input, the selection of IP address location, represents the reorganization of geography intrinsic to tunneling. It also evidences the fact that tunnels reorganize, rather than alter, these political and cultural geographies. VPNs undermine but do not undo practices of geoblocking. Similarly, physical tunnels bypass borders but do not permanently erase these geopolitically enforced boundaries. Acknowledging the ‘stretch of time’ that tunneling entails means realizing that the structural imperatives that make tunneling necessary remain in place, disturbed but not disrupted.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The temporality of tunneling shows the structures of power of the internet beyond their spatial characteristics. It also reveals the internet’s power-chronographies, Sarah Sharma’s conception for how time is ‘worked on and differentially experienced at the intersections of inequity’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Sarah Sharma, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>In the Meantime: Temporality and Cultural Politics</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Durham: Duke University Press, 2014, p. 13.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Time as lived experience is always political, argues Sharma, because it is produced at the intersection of a range of social differences and institutions. Tunneling exhibits not only how users experience these power differentials based on their geographical location but also how they constitute themselves in time. To some extent, this is analogous to the temporalities that media industries call ‘windowing’, schedules that release media at different times in different formats and locations. But tunneling allows for the multiplication of these temporalities. Affluent users can afford VPNs that shorten the windows when they can watch content, and technologically savvy users can access this content even faster than mainstream users. When, and for how long, any user can view previously geoblocked content is a consequence of their economic or cultural capital. Tunneling therefore has implications for the cultural geography </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>and</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> the cultural chronography of the internet.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Finally, the temporal aspect of virtual tunneling methods carries implications for theorizing media objects themselves. Film, television, and video are considered time-based media because of how they produce structures of temporarily in our culture. Early accounts theorized how these media captured and represented duration. Later, the time of reception came into focus, particularly the disjointed and disorganized forms of temporality enabled by the advent of digital technologies for recording and storage. The rise of geoblocking and methods of circumventing it add another layer of temporality to the consumption of these time-based media. If in online spheres the time needed to circumvent geoblocking mechanisms is often the time required for data transmission, then running time becomes tunneling time. The chronographies of power that differentially produce subjects become projected on the moving image, shaping its reception and composing hierarchies of audiences. Theorizing contemporary media will increasingly necessitate accounting for this third temporality, the time that geographies of control are reorganized for media reception to occur.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Baker, Debbi, and Sandra Dibble, ‘Two Drug Smuggling Tunnels Found’,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>San Diego Union-Tribune</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 4 April 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bigo, Didier. ‘Globalized (In)Security: The field and the Ban-Opticon’, in Didier Bigo and Anastassia Tsoukala (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Terror,Insecurity and Liberty: Illiberal practices of liberal regimes after 9/11</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Routledge, 2008, pp. 10-48.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Brenner, Neil. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>New State Spaces: Urban Governance and the Rescaling of Statehood</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Oxford University Press, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Brighenti, Andrea. ‘Visibility: A Category for the Social Sciences’,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Current Sociology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 55.3 (2007): 323-342.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Burroughs, Benjamin, and Adam Rugg. ‘Extending the Broadcast: Streaming Culture and the Problems of Digital Geographies’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journalof Broadcasting &amp; Electronic Media</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 58.3 (2014): 365-380.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Department of Homeland Security Science and Technology Directorate, ‘Tunnel Detection: Going Underground to Enhance Security’, 31 October 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Edwards, Paul N. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Closed World</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: MIT Press, 1997.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Gandy, Oscar. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Panoptic Sort: A Political Economy of Personal Information</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Boulder, CO: Westview, 1993.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Graham, Stephen D.N. ‘The Software Sorted City: Rethinking the Digital Divide’, in Stephen Graham (ed) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Cybercities Reader</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oxford: Blackwell, 2004, pp. 324-330.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Hay, James. ‘The Invention of Air Space, Outer Space and Cyberspace’,in Lisa Parks and James Schwoch (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Down to Earth: Satellite Technologies, Industries and Cultures</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New Brunswick: Rutgers University Press, 2012, pp. 19-42.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lobato, Ramon, and Julian Thomas. “The Business of Anti-Piracy: New Zones of Enterprise in the Copyright Wars,” </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>International Journal of Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6 (2012): 606-625.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Moores, Shaun. ‘The Doubling of Place: Electronic Media, Time-Space Arrangements, and Social Relationships’, in Nick Couldry and Anna McCarthy (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>MediaSpace: Place, Scale, and Culture in a Media Age</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Routledge, 2003, pp. 21-36.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mosco, Vincent. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Digital Sublime: Myth, Power, and Cyberspace</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: MIT Press, 2005.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Parks, Lisa. ‘Mapping Orbit: Towards a Vertical Public Space,’ in Chris Berry, Janet Hardon, Rachel Moore (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Media Space, Public Space,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> New York: Palgrave Macmillan, 2013, pp. 61-87.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sharma, Sarah. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>In the Meantime: Temporality and Cultural Politics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Durham: Duke University Press, 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Smith, Neil, and Cindi Katz, ‘Grounding Metaphor – Towards a Spatialized Politics’, in Michael Keith and Steve Pile (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Place and the Politics of Identity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Routledge, 1993, pp. 66-81.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Tinic, Serra. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>On Location: Canada’s Television Industry in a Global Market</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Toronto: University of Toronto Press, 2005.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>U.S. Immigration and Customs Enforcement, ‘US, Mexican authorities shut down smuggling tunnel under construction in Nogales’, 26 June 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>U.S. Immigration and Customs Enforcement, ‘Nogales Tunnel Task Force shuts down drug tunnel in backyard shed’, 18 December 2013,</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" Name="link" DestinationURL="http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Name="link" DestinationURL="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Name="link" DestinationURL="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Name="link" DestinationURL="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Name="link" DestinationURL="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Name="link" DestinationURL="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Name="link" DestinationURL="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" Name="link" DestinationURL="http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed</Destination>
+    </Properties>
+  </Hyperlink>
+</Document>

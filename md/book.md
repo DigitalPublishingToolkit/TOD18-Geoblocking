@@ -11,8 +11,7 @@ Article-status: accepted
 Authors: Ramon Lobato, James Meese, Juan Llamas-Rodriguez, Cameran Ashraf, Marketa Trimble, Adam Rugg, Florian Hoof, Roland Burke, Jinying Li, Çiğdem Bozdağ, Chris Baumann, Aneta Podkalicka, Chris Baumann, Sandra Hanchard, Vanessa Mendes Moreira de Sa, Hadi Sohrabi, Fidel Alejandro Rodriguez, Evan Elkins.
 Author-email: rlobato@swin.edu.au, James.Meese@uts.edu.au
 Author-bio:
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract: Video platforms like Youtube, IPlayer, DailyMotion, Netflix, Periscope and Youku use geoblocking to filter international audiences. Geoblocking and Global Video Culture examines the geography of video streaming across different cultures. Studying the linkages between various blocking and circumvention practices and the tactics people use to get around them. The research decodes the approach to geoblocking in various countries like China, Iran, Malaysia, Turkey, Cuba, Brazil, USA, Sweden and Australia, by analyzing how different users negotiate geoblocking and internet filtering controls. This collection of essays offer a series of distinctive stories about this fast-changing and complex issue. Keywords:internet censorship, copyright, Institute of Network Cultures, video distribution, public sphere, proxy filtering, P2P file-sharing, territorialisation, geographies of control, surveillance, VPN, connectivity, anonymity, IP-address, digital infrastructure, USA, China, Sweden, Turkey, Australia, Malaysia, Brazil, Iran, Cuba, piracy, privacy, streaming aggregation platforms, mobile video culture, authorized and unauthorized channels, site-blocking, circumvention practices 
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 Font(s) used: Open Sans
 
@@ -66,48 +65,51 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-<a href="ch003.xhtml">Introduction: The New Video Geography</a><br/>
+<a href="ch004.xhtml">Introduction: The New Video Geography</a><br/>
 *Ramon Lobato, Swinburne University of Technology*<br/>
 
 ##PART I: PERSPECTIVES ON GEOBLOCKING
 
-<a href="ch005.xhtml">Tunnelling Media: Geoblocking and Online Border Resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
+<a href="ch006.xhtml">Tunnelling Media: Geoblocking and Online Border Resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
 
-<a href="ch006.xhtml">The Logics and Territorialities of Geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León, UCLA*<br/>
+<a href="ch007.xhtml">The Logics and Territorialities of Geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León, UCLA*<br/>
 
-<a href="ch007.xhtml">Geoblocking, Technical Standards and the Law</a><br/>*Marketa Trimble, University of Nevada, Las Vegas*<br/>
+<a href="ch008.xhtml">Geoblocking, Technical Standards and the Law</a><br/>*Marketa Trimble, University of Nevada, Las Vegas*<br/>
 
-<a href="ch008.xhtml">Periscope, Live Streaming and Mobile Video Culture</a><br/>*Adam Rugg, University of Iowa, and Ben Burroughs, University of Nevada, Las Vegas*
+<a href="ch009.xhtml">Periscope, Live Streaming and Mobile Video Culture</a><br/>*Adam Rugg, University of Iowa, and Ben Burroughs, University of Nevada, Las Vegas*
 
-<a href="ch009.xhtml"> Circumvention, Media Sport and the Fragmentation of Video Culture
+<a href="ch010.xhtml"> Circumvention, Media Sport and the Fragmentation of Video Culture
 </a><br/>*James Meese, University of Technology Sydney, and Aneta Podkalicka, Swinburne University of Technology*
 
-<a href="ch010.xhtml">Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming
+<a href="ch011.xhtml">Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming
 Aggregation Platforms</a><br/>*Florian Hoof, Frankfurt University*
 
-<a href="ch011.xhtml">The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
+<a href="ch012.xhtml">The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
 
 ##PART II:CIRCUMVENTION CASE STUDIES<br/>
 
-<a href="ch013.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
+<a href="ch014.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
 
-<a href="ch014.xhtml">Australia: Circumvention Goes Mainstream</a><br/>*Ramon Lobato and James Meese, SUT*
+<a href="ch015.xhtml">Australia: Circumvention Goes Mainstream</a><br/>*Ramon Lobato and James Meese, SUT*
 
-<a href="ch015.xhtml">Turkey: Coping with Internet Censorship</a><br/>*Çiğdem Bozdağ, Kadir Has University*
+<a href="ch016.xhtml">Turkey: Coping with Internet Censorship</a><br/>*Çiğdem Bozdağ, Kadir Has University*
 
-<a href="ch016.xhtml"> Sweden: Circumvention and the Quest for Privacy</a><br/>*Chris Baumann, Stockholm University*
+<a href="ch017.xhtml"> Sweden: Circumvention and the Quest for Privacy</a><br/>*Chris Baumann, Stockholm University*
 
-<a href="ch017.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard, SUT*
+<a href="ch018.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard, SUT*
 
-<a href="ch018.xhtml">Brazil: Netflix, VPNs, and the “Paying Pirates”</a><br/>*Vanessa Mendes Moreira de Sa, Queensland University of Technology*
+<a href="ch019.xhtml">Brazil: Netflix, VPNs, and the “Paying Pirates”</a><br/>*Vanessa Mendes Moreira de Sa, Queensland University of Technology*
 
-<a href="ch019.xhtml">Iran: A Friction Between State Ideology and Network Society</a><br/>*Hadi Sohrabi, Swinburne University of Technology, and Behzad Dowran, Iranian Research Institute for Information Science and Technology*
+<a href="ch020.xhtml">Iran: A Friction Between State Ideology and Network Society</a><br/>*Hadi Sohrabi, Swinburne University of Technology, and Behzad Dowran, Iranian Research Institute for Information Science and Technology*
 
-<a href="ch020.xhtml">Cuba: *Videos to the Left* – Circumvention Practices and
+<a href="ch021.xhtml">Cuba: *Videos to the Left* – Circumvention Practices and
 Audiovisual Ecologies</a><br/>*Fidel Alejandro Rodriguez, University of Habana*
 
-<a href="ch021.xhtml">United States: Geoblocking in a Privileged Market</a><br/>*Evan Elkins, University of Miami*
+<a href="ch022.xhtml">United States: Geoblocking in a Privileged Market</a><br/>*Evan Elkins, University of Miami*
 
+
+
+#Preface and acknowledgementsGeoblocking and Global Video Culture is the result of a collaborative research experiment we conducted with the contributors to this book. Our aim was to investigate how online blocking and circumvention are shaping access to digital video in different parts of the world, and explore what this means for screen culture today. Together, we set up a comparative research project around some common questions: What tools are people using to access blocked video content in different countries? What kinds of content are they watching? And what is the political context for these circumvention activities? The chapters collected here are the end result of this collaboration, and a corresponding call for papers. The first section of the book explores the dynamics, histories and possible futures of territorial rights control in various media industries, while the second section compares ground-level circumvention practices in nine countries – Australia, Brazil, China, Cuba, Iran, Malaysia, Sweden, Turkey, and the United States. Given how fast things move in video culture, a book of this nature cannot be definitive. We wanted instead to produce a timely, transnational account of the geoblocking phenomenon, with a comparative dimension that could speak across diverse local experiences. Rather than dense academic prose, our contributors provide vivid snapshots of user practices and provocative reflections on the relationship between geoblocking, government censorship, circumvention, and copyright. We hope you enjoy the eclectic nature of the collection.Of course, we could not have undertaken such a task without the support and assistance of numerous colleagues and friends. We would like to thank Leonieke van Dipten, Geert Lovink and Miriam Rasch at Institute of Network Cultures for their enthusiastic support of the project, Karen Horsley for production assistance, and Sandra Hanchard for the maps and data visualizations. We are also indebted to Philip Branch, Angela Daly, Evan Elkins, Scott Ewing, Dan Golding, Jennifer Holt, Grace Lee, Rebecca Olive, Claudy Op Den Kamp, Hal Roberts, Nic Suzor, Leah Tang, Julian Thomas and Patrick Vonderau, among others, for their advice, support and feedback. Finally, we thank Swinburne University of Technology and the Australian Research Council Discovery programme for funding this project.
 
 
 
@@ -8970,5 +8972,9 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
     *Mondoweiss*, 1 August 2013,
     [http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america](http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america).
 
+
+
+
+#Author BiographiesLuis Felipe Alvarez León is a Ph.D. Candidate in Geography at the University of California, Los Angeles. His areas of interest are geospatial technologies and the political economic geography of information and communication. He is currently researching the geography of digital information economies. Cameran Ashraf is an international human rights consultant and co-founder of AccessNow, a global human rights organization selected as finalist for the 2010 Sakharov Prize for Freedom of Thought, Europe's highest human rights honor. He completed his Ph.D. at UCLA on the geopolitics of Internet control and cyberwar.Chris Baumann is a PhD Candidate in the Department of Media Studies at Stockholm University. He is currently busy working on a dissertation about streaming media players. His research interests include media and information technologies in the domestic space, digital distribution, and media access.Çiğdem Bozdağ is an assistant professor in the New Media department at the Kadir Has University, İstanbul. Her research and teaching interests are digital media, media and socio-cultural change, globalization, inter- and transcultural Communication and ICTs in education.Roland Burke is a senior lecturer in history at La Trobe University.  He is the author of Decolonization and the Evolution of International Human Rights and has published widely on the history of international human rights and internationalism.  Benjamin Burroughs is an assistant professor of emerging media in the Hank Greenspun School of Journalism and Media Studies at the University of Nevada, Las Vegas. His research focuses on streaming media and technology, media industries, and digital media. His work has been published in journals such as New Media and Society, Journal of Broadcasting and Electronic Media, and Games and Culture.Behzad Dowran is a faculty member in Iranian Research Institute for Information Science & Technology (IranDoc), Tehran. His research and teaching interests are social identity, new ICTs, and media studies. Evan Elkins is visiting assistant professor of Media, Journalism, and Film at Miami University. He is currently working on a book manuscript about regional restrictions in digital media technologies. He researches various issues surrounding digital media, media industries, globalization, and cultural identity.Sandra Hanchard completed her PhD at the Swinburne Institute for Social Research, Swinburne University of Technology, on social media information and everyday life in Malaysia. She has an industry background in big data analytics and data visualisation. Sandra is the founder of DataViz My, which facilitates the Data Science Primer course for the Malaysian Global Innovation and Creativity Centre.Florian Hoof is an assistant professor in the Department of Film and Media Studies at Goethe University Frankfurt. He conducts research on digital network markets, piracy and media sports and has published on the media history of consulting knowledge and managerial decision-making systems.Juan Llamas-Rodriguez is a PhD Candidate in Film and Media Studies at the University of California, Santa Barbara, working on a dissertation about life in the age of narco-trafficking. His research encompasses the materiality of media distribution, popular cultures of the Mexico-US border, and the precarity of contemporary labor.Jinying Li is assistant professor of Film Studies at University of Pittsburgh. Her research focuses on the media and visual culture of East Asia. Her essays have been published in Film International, Mechademia, and The International Journal of Communication, and Camera Obscura. Ramon Lobato is Senior Research Fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. His research focuses on the global dynamics of media distribution, copyright, and piracy. He is the author of Shadow Economies of Cinema: Mapping Informal Film Distribution and The Informal Media Economy (with Julian Thomas).James Meese is a lecturer in communication at the University of Technology Sydney. He conducts research on copyright law, mobile media, privacy law and media regulation and has published research in Television and New Media and the International Journal of Communication. Vanessa Mendes Moreira De Sa is a postdoctoral researcher who works in the area of digital piracy, television audiences and translation. Her work has been published in the International Journal of Communication and in the edited collection Piracy: Leakages From Modernity. Aneta Podkalicka is a research fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. Her current work focuses on media and consumption, including thrift-related consumption and sustainable practices. She is currently working on a book on media-based projects for social change with her colleague Ellie Rennie.Hadi Sohrabi is a lecturer in sociology at Swinburne University of Technology in Melbourne. His research interests include sociology of the internet and ethnic studies. He has published on the politics of the internet in Iran and Muslims in Australia. Marketa Trimble is the Samuel Lionel Intellectual Property Professor of Law at the William S. Boyd School of Law, University of Nevada, Las Vegas. Her major areas of expertise are public and private international law of intellectual property, including conflict of laws, transnational litigation, and enforcement of intellectual property rights on the Internet. Fidel A. Rodríguez Fernández is Professor of Hypermedia Communication at Havana University. He researches multimedia discourse on social networks in Cuba, the circulation of digital objects, migration and video games. He is also a journalist and multimedia producer.Adam Rugg is a PhD candidate in Media Studies at the University of Iowa. His research examines the evolution of sports video distribution and consumption amidst emerging digital media infrastructures. His work has been published in the Journal of Electronic Broadcasting and Media and Popular Communication. 
 
 
