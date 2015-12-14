@@ -225,11 +225,6 @@ notices. URLs for streaming aggregation platforms change frequently, and
 platforms often disappear then reappear with a slightly different
 address.
 
-![](imgs/Hoof-Image4.png)
-
-Figure 4. Malware is a common security hazard people have to negotiate
-when using streaming platforms
-
 There is also the risk that there are no streams available at all, or
 that the quality is too low. Previously stable, high-quality streams can
 turn into dysfunctional broadcasts if too many users are trying to
@@ -255,7 +250,7 @@ continuously affected by the problem of ‘lemons’. The prevailing
 uncertainty is a result of different aspects that constitute information
 goods as ‘digital lemons’:
 
-1\. *search ability* (via well-known streaming platforms; by links that
+1\. *searchability* (via well-known streaming platforms; by links that
 suddenly appear in social networks).
 
 2*.* *accessibility* (via browser, video player software or via specific
@@ -364,3 +359,4 @@ Live-Stream’, 17 September 2015,
 [^07HoofLivesportspiracyanduncertainty_8]: See: Ulrich Beck, *Risk Society. Towards a New Modernity*, London:
     Sage, 1992; Anthony Giddens, ‘Risk and Responsibility’, *Modern Law Review* 62.1 (1999): 1-10; Niklas Luhmann, *Risk. A Sociological
     Theory*, Berlin/New York: De Gruyter, 1993.
+xf

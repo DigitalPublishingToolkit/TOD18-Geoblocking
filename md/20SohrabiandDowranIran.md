@@ -18,22 +18,18 @@ Font(s) used: Open Sans
 
 #Iran: A Friction between State Ideology and Network Society
 
-###Hadi Sohrabi
-*Swinburne University of Technology*
+###Hadi Sohrabi and Behzad Dowran
 
-###Behzad Dowran
-*Iranian Research Institute for Information Science & Technology
-(IranDoc)*
 
   
 <div class="statbox">
 - 75 million: total population
 - 23 million: estimated number of internet users
-- 69 %: percentage of internet users who use circumvention tools
+- 69%: proportion of internet users who use circumvention tools
 - 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
  
  
-> President Rouhani:‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
+> President Rouhani: ‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
 
 </div>
 
@@ -92,7 +88,7 @@ outside official channels.
 
 ##Satellite Television: a New Video Culture
 
-To understand Internet circumvention in Iran, we must take a step back
+To understand internet circumvention in Iran, we must take a step back
 to consider an earlier kind of unauthorised media. Since the 1990s,
 foreign-based Persian-language satellite channels have mushroomed,
 posing a serious challenge to the regime’s monopoly over broadcast
@@ -199,9 +195,9 @@ servers. Although users will benefit from higher speed and better
 cyber-security, many are concerned that the government’s main motive is
 to consolidate its control over the internet. In response to such
 concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national
-internet ‘is not in competition with the Internet’ and that ‘if users
+internet ‘is not in competition with the internet’ and that ‘if users
 cannot find the data that they are looking for on the national internet,
-then they will be able to access the Internet to search for it,
+then they will be able to access the internet to search for it,
 instead’.[^7] Put it simply, the government aims to obtain the capacity
 of switching off the internet without disrupting public services, banks,
 and corporations. It is, however, unlikely that the government could
@@ -262,7 +258,7 @@ for Android and Windows.[^14] As of 2013, Psiphon claimed to have
 700,000 to 900,000 daily unique users in Iran. This number is now
 believed to have surpassed one million.[^15]
 
-Small Media reports that the terrain of Internet circumvention is
+Small Media reports that the terrain of internet circumvention is
 increasingly shifting to mobile, with the most popular tools having
 easy-to-use mobile-enabled interfaces now. It also points out that, TOR,
 despite its strong privacy protection, is not very popular among

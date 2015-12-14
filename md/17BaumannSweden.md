@@ -21,7 +21,7 @@ Font(s) used: Open Sans
 
 ###Chris Baumann
 
-<div class="statbox">- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
+<div class="statbox">- 97%: Proportion of Swedes aged 16-54 who have access to the internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85%: Proportion of Swedish internet users who made online purchases in 2014- 14%: Proportion of Swedish internet users who paid for a video streaming service in 2014
 > ‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013> ‘We believe that the time is ripe for everyone to start using VPN services’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014
 </div>
 In mid-October 2012, Netflix flew its top three executives, co-founder
@@ -49,10 +49,10 @@ crush the financial hopes of Netflix and Time Warner executives alike,
 it has, together with certain socio-technical and legal preconditions,
 contributed considerably to turning Sweden into something of a
 streamer’s paradise. Yet, as I will show in this chapter, not everything
-is rosy for Swedish Internet users. With the Swedish government trying
+is rosy for Swedish internet users. With the Swedish government trying
 to negotiate between its political duties within the European Union and
 its cyberlibertarian national politics that have made the country a
-haven for Internet users, many Swedes have turned to VPN services to
+haven for internet users, many Swedes have turned to VPN services to
 circumvent politically motivated data retention practices, and protect
 their privacy.
 
@@ -107,7 +107,7 @@ been broadcast in the United States.
 Given this abundance of local and offshore platforms, it is maybe
 surprising that YouTube and Netflix alone are responsible for more than
 half of the overall consumption of legal streaming video in Sweden.[^12BaumannSweden_2]
-In a country of just over 8.7 million Internet users YouTube accounts
+In a country of just over 8.7 million internet users YouTube accounts
 for 1.3 million viewers every day.[^12BaumannSweden_3] Netflix falls behind with 465,000
 daily viewers; however, with this number still has a lead in the Swedish
 subscription video streaming market, beating local and offshore
@@ -146,8 +146,8 @@ copyrighted material in Sweden.
 ## High Speeds/Low Spending
 
 Arguably the most important reason for this overprovision of video
-streaming services in Sweden is the country’s unique Internet
-infrastructure. The Internet did not spread particularly fast in Sweden
+streaming services in Sweden is the country’s unique internet
+infrastructure. The internet did not spread particularly fast in Sweden
 during the 1990s, at least not compared to a country like the United
 States where it was originally conceived. However, whereas both
 broadband penetration and speeds have leveled out in many OECD
@@ -156,14 +156,14 @@ ranks third in the World Economic Forum’s Network Readiness Index for
 2014 with its ‘world-class, affordable ICT infrastructure’ and ‘one of
 the highest technological and non-technological innovation performances
 in the world’.[^12BaumannSweden_8] Today, 91 percent of the Swedish population have
-access to the Internet, a number that increases to a staggering 97
+access to the internet, a number that increases to a staggering 97
 percent in the age group 16 to 54.[^12BaumannSweden_9] Broadband is available in 88
 percent of Swedish households, with 61 percent of homes and enterprises
 having access to downstream connections of at least 100 Mbit/s.[^12BaumannSweden_10]
 Yet, despite these numbers, prices for fixed broadband remain
 comparatively low in Sweden. With true fiber connections costing from
 SEK 199 per month, the country ranks third cheapest globally for
-Internet connections of 100 Mbit/s or more.[^12BaumannSweden_11]
+internet connections of 100 Mbit/s or more.[^12BaumannSweden_11]
 
 It is predominantly because of this promising infrastructural
 arrangement that major U.S. media companies such as Netflix and Time
@@ -176,15 +176,15 @@ noted that ‘\[t\]he Nordic countries constitute one of the most advanced
 markets for new services and technologies, and particularly Sweden…both
 for its high broadband speeds and its people who tend to be early
 adopters.’[^12BaumannSweden_12] Chief Product Officer Neil Hunt seemed to agree with the
-remarks, adding that the company found the country’s Internet
+remarks, adding that the company found the country’s internet
 infrastructure to be much better than anywhere else they had previously
 been. For Time Warner, too, Sweden continues to play a significant role.
 In 2012 the decision to make HBO’s entire library available to stream as
 a standalone subscription service under the moniker of HBO Nordic raised
 many eyebrows in Sweden, and abroad.[^12BaumannSweden_13] However, in light of the
 company’s recent announcement to launch its HBO Now video streaming
-service—essentially a carbon copy of HBO Nordic destined for the U.S.
-market—it can be argued that the Nordic countries, and Sweden in
+service — essentially a carbon copy of HBO Nordic destined for the U.S.
+market — it can be argued that the Nordic countries, and Sweden in
 particular, served as a test market for the media giant, and a
 convenient way to quietly launch their new flagship video streaming
 product.
@@ -193,16 +193,16 @@ As promising as this arrangement appears from a corporate perspective,
 however, it has surprisingly not resulted in any sizable consumer
 spending on subscription or transaction-based video streaming services.
 Swedes are generally open towards making their purchases online, with 85
-percent of Internet users regularly buying and paying for items or
-services via the Internet.[^12BaumannSweden_14] Yet, whereas purchases of home
-electronics or clothes over the Internet have surged in recent years,
+percent of internet users regularly buying and paying for items or
+services via the internet.[^12BaumannSweden_14] Yet, whereas purchases of home
+electronics or clothes over the internet have surged in recent years,
 sales of digital media have not contributed nearly as much.[^12BaumannSweden_15] The
 numbers are somewhat improving in the music sector, where the Swedish
 company Spotify has helped to increase the number of users paying for
 music online from 15 percent in 2011 to 38 percent in 2014. In the
 online video sector, however, consumer spending is considerably lower as
 the great majority of content is still accessed for free. Only 14
-percent of all Swedish Internet users subscribed to a video streaming
+percent of all Swedish internet users subscribed to a video streaming
 service in 2014.[^12BaumannSweden_16] The reasons behind this comparatively low spending
 on online video in Sweden are complex, with unauthorized streaming
 services such as Swefilmer, or peer-to-peer file sharing facilitated
@@ -218,7 +218,7 @@ and Popcorn Time, if we want to begin to understand this development.
 ## Privacy Matters
 
 Given Sweden’s comparatively strong digital infrastructure and
-historically laissez-faire approach towards Internet use and censorship,
+historically laissez-faire approach towards internet use and censorship,
 it is easy to see why the country is often described as the prototypical
 cyberlibertarian information economy. It should not come as a surprise,
 then, that Sweden was always decidedly reluctant about the 2006 EU Data
@@ -228,7 +228,7 @@ Court of Justice (ECJ) ruled that Sweden had to follow the other member
 states and implement the directive. However, it was not until the spring
 of 2012 that the Swedish government gave in and adopted measures
 transposing the directive into local legislation. Yet, this collection
-of Swedish call records and Internet metadata would only last for two
+of Swedish call records and internet metadata would only last for two
 years. In April 2014 the ECJ had a change of heart and declared the Data
 Retention Directive invalid, describing it as a ‘serious interference
 with the fundamental rights to respect for private life and to the
@@ -243,18 +243,18 @@ collecting customer metadata yet again.[^12BaumannSweden_20]
 
 The drama around data retention in Sweden reflects the country’s efforts
 to negotiate between its political duties within a European context and
-its libertarian digital politics that have made it a haven for Internet
-users. In recent years, many Swedish Internet users have turned to VPN
+its libertarian digital politics that have made it a haven for internet
+users. In recent years, many Swedish internet users have turned to VPN
 services to protect their privacy and avoid the crossfire between
 authorities and ISPs. Curiously, in their quest for privacy Swedish
-Internet users are even supported by some of the companies that are
+internet users are even supported by some of the companies that are
 supposed to collect data about them. In trying to avoid a fine of 5
 million Swedish Kronor for its refusal to comply with local data
 retention rules, the Swedish ISP Bahnhof decided to offer a free VPN
 service to all of its customers the day it had to resume storing
 metadata.[^12BaumannSweden_21] Explaining the somewhat surprising move, Bahnhof CEO Jon
 Karlung said: ‘The European Court of Justice has ruled that it is a
-human right to not have your Internet traffic monitored. We therefore
+human right to not have your internet traffic monitored. We therefore
 believe that the time is ripe for everyone to start using VPN
 services.’[^12BaumannSweden_22] In Sweden, the EU Data Retention Directive was never
 applied to VPN providers under the local implementation of the law.
@@ -266,7 +266,7 @@ time.
 ## Anonine
 
 VPN services make highly effective tools for hiding the identity of
-Internet users. In Sweden, they predominantly act as efficient, and most
+internet users. In Sweden, they predominantly act as efficient, and most
 importantly, legal, vehicles for circumventing politically motivated
 data retention practices. It is primarily thanks to the legal status of
 VPN services that Sweden has emerged as a home to a number of local VPN
@@ -280,11 +280,11 @@ grew so large that the company had to expand its servers considerably.
 Today, Anonine operates servers in more than a dozen international
 locations, and ranks as one of the most popular VPN services in Sweden.
 
-Given the uncertainty of many Swedish Internet users about the
+Given the uncertainty of many Swedish internet users about the
 collection of metadata, it is not surprising that privacy concerns turn
-out to be the main driver for VPN usage in Sweden. On Flashback – the
-biggest Swedish-speaking Internet forum with around one million
-registered members – the six hundred or so threads dealing with VPN use
+out to be the main driver for VPN usage in Sweden. On Flashback — the
+biggest Swedish-speaking internet forum with around one million
+registered members — the six hundred or so threads dealing with VPN use
 often revolve around privacy concerns. In the lengthy thread dedicated
 to Anonine, one user responds to a question about the level of security
 provided by Anonine’s different VPN solutions as follows:
@@ -297,8 +297,8 @@ provided by Anonine’s different VPN solutions as follows:
 > OpenVPN.[^12BaumannSweden_23]
 
 Here, the use of a VPN service is justified out of fear that someone’s
-Internet activity could become uncovered—with anyone, from customers in
-a coffee shop, to an Internet service provider, or even bigger threats
+internet activity could become uncovered — with anyone, from customers in
+a coffee shop, to an internet service provider, or even bigger threats
 (possibly the government?), a potential security risk.
 
 Anonine is all too aware of the privacy concerns of its customers. The
@@ -306,7 +306,7 @@ company’s website is a gray and somewhat generic looking home page
 listing some of the key features of the service (Fig. 1). It is not
 until we look at the top right corner of the page that we notice a
 bright red button warning us: ‘You are not anonymous!’ Speaking directly
-at us, the Internet users, the site makes a point of highlighting the
+at us, the internet users, the site makes a point of highlighting the
 danger of our behavior, namely surfing the web carelessly without the
 security only a VPN service can provide. Upon further inspection of
 Anonine’s web presence, we notice that the first page alone makes
@@ -319,7 +319,7 @@ or ‘secure.’ This, of course, is hardly a coincidence.
 
 Figure 1. The website of Anonine, a popular Swedish VPN provider
 
-Another reason for Anonine’s popularity among Swedish Internet users is
+Another reason for Anonine’s popularity among Swedish internet users is
 the company’s “local” brand. Swedes tend to be loyal to homegrown
 services, as evident by the immense popularity of Spotify and Swefilmer,
 and Anonine proves that even in the competitive VPN field marketing a
@@ -331,7 +331,7 @@ clients to use local payment options, such as Payson (a Swedish
 alternative to PayPal) and Cellsynt (mobile payment via SMS and
 telephone), in addition to the more conventional credit card options.
 These might seem like small touches to some, but to a dedicated
-community of technology-savvy Swedish Internet users discussing the ins
+community of technology-savvy Swedish internet users discussing the ins
 and outs of different VPN services on an online forum, they can make all
 the difference.
 
@@ -356,13 +356,13 @@ in Sweden noticeably. Yet, much like in many of the countries studied in
 this book, circumvention tools are an important aspect of online
 culture. VPN services, which in other countries might be used for
 geoblocking circumvention purposes, are important tools for Swedish
-Internet users to bypass government data retention. There are reports of
+internet users to bypass government data retention. There are reports of
 Sweden being implicated in mass surveillance practices, based on
 documents provided by the NSA whistleblower Edward Snowden in the summer
 of 2013.[^12BaumannSweden_24] Consequently, privacy remains high on the agenda for many
-Internet users who have become accustomed to a country famed for its
+internet users who have become accustomed to a country famed for its
 libertarian digital politics. Companies providing VPN services like
-Anonine surely will not complain about Swedish Internet users’ quest for
+Anonine surely will not complain about Swedish internet users’ quest for
 privacy.
 
 *The author wishes to thank Patrick Vonderau for helpful suggestions.*

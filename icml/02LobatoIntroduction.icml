@@ -54,7 +54,7 @@
 		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Substituted" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -84,12 +84,12 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans">
-		<Font Self="diec8FontnOpen Sans Light" FontFamily="Open Sans" Name="Open Sans Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans Light Italic" FontFamily="Open Sans" Name="Open Sans Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans Semibold Italic" FontFamily="Open Sans" Name="Open Sans Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans Bold" FontFamily="Open Sans" Name="Open Sans Bold" PostScriptName="OpenSans-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans Semibold" FontFamily="Open Sans" Name="Open Sans Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+	<FontFamily Self="diec8" Name="Open Sans (OTF)">
+		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -170,10 +170,10 @@
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Open Sans</AppliedFont>
+				<AppliedFont type="string">Open Sans (OTF)</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -215,6 +215,20 @@
 					</ListItem>
 				</TabList>
 				<AppliedFont type="string">Helvetica Neue</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" Imported="false" NextStyle="ParagraphStyle/Caption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="8" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">12</Leading>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
+				<AllGREPStyles type="list">
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
+						<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
+					</ListItem>
+				</AllGREPStyles>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="14.173228346456694" SpaceBefore="5.669291338582678" GridAlignment="AlignBaseline">
@@ -791,14 +805,14 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="238.23361855751517" BottomCrop="782.0763821940453" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="51.56998895348062" BottomCrop="657.6339624580223" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1511" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="120 120" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1511" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="269 269" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.44554857373937845 0 0 0.4455485737393785 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAJDtAgCAOFut9/wKCQJvQVuwmEQqGN1uwqIuFuROKwWLxSLNyMRyKR5uSBtxiRxSStyStuUt
@@ -4202,8 +4216,16 @@ AlIBAwABAAAAAgAAADWCAQABAAAAACYAAgAAAAA=]]></GraphicProxy>
 					</Image>
 				</Rectangle>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Figure 1. A VPN server selection menu</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Rectangle Self="u1432" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
@@ -4225,14 +4247,14 @@ AlIBAwABAAAAAgAAADWCAQABAAAAACYAAgAAAAA=]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="1384.3328634490979" BottomCrop="690.2684322105835" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="662.7132690991897" BottomCrop="209.188702643978" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1519" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="120 120" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1519" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="697 697" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17209342352138898 0 0 0.17209342352138896 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqABhyCwCAACBP+BACCQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS

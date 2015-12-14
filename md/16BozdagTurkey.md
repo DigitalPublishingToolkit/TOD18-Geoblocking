@@ -52,26 +52,17 @@ in turn has prompted many Turkish internet users to take up VPN services
 that allow them access to banned websites.
 
 Media freedom has always been a problematic issue in Turkey. Freedom of
-expression is restricted by laws that include quite broad definitions of
-crimes such as “defamation of Atatürk”, “threats against the unity of
-the state”, “threats against national security” or “defamation of
-religion”. Although communication rights improved in the early 2000s
+expression is restricted by laws that include quite broad definitions of crimes such as 'defamation of Atatürk', 'threats against the unity of the state', 'threats against national security' or 'defamation of religion'. Although communication rights improved in the early 2000s
 under the AKP (Justice and Development Party), the situation seems to
 have worsened in recent years, especially after the 2013 Gezi protests
 when hundreds of thousands of people took to the streets in Istanbul
 against the Erdoğan government. Since then, the government has attempted
 to put pressure on mass media outlets and introduce stricter control
 measures for online content. A change to the law in 2014 enabled the
-blocking of websites within 24 hours, in the absence of a court order,
-by the Telecommunications Communication Presidency and the Ministry of
-Transport, Maritime Affairs and Communication. This leads to the
-arbitrary blocking of many websites in Turkey that are critical of
-government policies.
+blocking of websites within 24 hours, in the absence of a court order, by the Telecommunications Communication Presidency and the Ministry of Transport, Maritime Affairs and Communication. This leads to the arbitrary blocking of many websites in Turkey that are critical of government policies.
 
-Given this political situation in Turkey, VPN, DNS and proxy services
-have become important tools to circumvent censorship and access content.
-In this sense, circumvention practices in Turkey have evolved in
-response to local political conditions. The key issue here is access to
+Given this political situation in Turkey, VPN, DNS and proxy services have become important tools to circumvent censorship and access content.
+In this sense, circumvention practices in Turkey have evolved in response to local political conditions. The key issue here is access to
 blocked social networking and video sites, especially YouTube and
 Twitter. Using VPNs to access commercial streaming sites like Netflix is
 not popular – partly because Turks have long used P2P networks and, more
@@ -120,7 +111,7 @@ increasingly used for streaming videos.
 
 Besides video platforms such as YouTube, İzlesene or DailyMotion, there
 are many illegal streaming websites that offer links to Turkish and
-foreign TV series. These “series websites” often use Russian or Asian
+foreign TV series. These 'series websites' often use Russian or Asian
 video platforms such as VK that are more difficult to control through
 national regulation. They even offer subtitles for foreign content. Most
 of these offshore video services target the Turkish diaspora as well as
@@ -167,16 +158,11 @@ for the regulation and control of online content, was founded in 2005.
 The first law in Turkey that focused directly on the regulation of
 online content – Law No. 5651 on the Regulation of Publications on the
 Internet and Suppression of Crimes Committed by means of Such
-Publications (“Law No. 5651”) – was passed in 2007. This law originally
+Publications ('Law No. 5651') – was passed in 2007. This law originally
 was drafted to define and regulate cybercrime. However, the enacted law
 had an expanded scope, and included vague statements that pave the way
 for arbitrary political censorship of media content as noted in the
-previous section. For example, article 8 defined “\[encouraging\]
-suicide, sexual abuse of children, facilitating the usage of drugs and
-stimulants, provision of materials being dangerous for the health,
-vulgarity, prostitution, providing area and opportunity for gambling,
-crimes indicated in the Law about the Crimes Committed Against
-Atatürk”[^11BozdagTurkey_4] as crimes. Accordingly, entire websites could be banned for
+previous section. For example, article 8 defined '\[encouraging\] suicide, sexual abuse of children, facilitating the usage of drugs and stimulants, provision of materials being dangerous for the health, vulgarity, prostitution, providing area and opportunity for gambling, crimes indicated in the Law about the Crimes Committed Against Atatürk'[^11BozdagTurkey_4] as crimes. Accordingly, entire websites could be banned for
 allegedly violating the principles and reforms of Atatürk – as was the
 case with the first blocking of YouTube in 2007 – or for making alleged
 threats to Turkey’s independence. Given the vague wording of the law,
@@ -191,7 +177,7 @@ internet filtering mandatory for all users in Turkey. The draft law
 provoked a passionate reaction, mobilizing not only activists and NGOs
 but also regular users of the internet, who are not necessarily
 politically active. Large protests were organized under the slogan
-“Don’t touch my internet”. Over half a million people participated in
+'Don’t touch my internet'. Over half a million people participated in
 the campaign, which included both online and offline activism. This was
 one of the most successful internet freedom campaigns in Turkey to date,
 and it forced the government to change the draft law. The use of filters
@@ -221,8 +207,8 @@ court order for quite long periods.
 
 These changes provoked a strong reaction on Twitter, Facebook and
 Eksisozluk, a widely used dictionary-like user-generated website in
-Turkey. However, not as many people participated as in the “Don’t touch
-my internet” mobilization of 2011. One reason behind for this is the
+Turkey. However, not as many people participated as in the 'Don’t touch
+my internet' mobilization of 2011. One reason behind for this is the
 fallout from the Gezi protests, which saw escalated police violence.
 Another reason is that people were more interested in the local election
 campaigns that also took place in March 2104.
@@ -245,7 +231,7 @@ Gezi protests, where the hashtag \#direngezi (resist Gezi) became a
 symbol of the protest.
 
 As was also the case in Gezi, people’s online protests were full of
-irony and humour. This can be considered a form of “passive resistance”,
+irony and humour. This can be considered a form of 'passive resistance',
 putting the legitimacy of government discourses about the need for site
 blocks into question.[^11BozdagTurkey_8] This time, despite a strong reaction online,
 there were only small street protests and almost no organized and
@@ -256,7 +242,7 @@ speak about the matter.
 The most common form of internet resistance in Turkey is the use of
 software tools to access blocked websites. Until 2014, most users
 preferred alternative and free DNS providers outside of Turkey, such as
-Google DNS and OpenDNS*.* Countless websites provided advice on how to
+Google DNS and OpenDNS. Countless websites provided advice on how to
 change DNS settings to get around the government blocks, and users
 quickly became familiar with these tactics. This increased again after
 YouTube and Twitter were blocked in March 2014, as people searched
@@ -267,8 +253,7 @@ Table 1 below, which shows the use of the words DNS, VPN and *sansür*
 ![](imgs/BozdagImage2.png)
 
 Figure 2. During the March 2014 Twitter ban, a global search of tweets
-shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms
+shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were prominent terms
 
 On the second day of the Twitter ban in March 2014, access to commonly
 used DNS providers was also blocked from within Turkey. This was a
@@ -306,14 +291,14 @@ were blocked for being pro-PKK.
 Unfortunately, there is no transparency about which websites are
 currently being blocked. However, activist groups are working to compile
 public lists of these blocked websites. One example is the anonymous
-collective behind the Engelli Web (“Blocked Web”) project. According to
+collective behind the Engelli Web ('Blocked Web') project. According to
 their research, the most commonly blocked category of websites contain
 “obscene” content. These are not only pornographic websites, but for
 example also websites that contain any sort of nudity or homosexual
 content. Among these websites there is an increasing number of video and
 video series sites. Then there are the sites blocked for political
 reasons – for example, pro-Kurdish websites such as Fırat News or Yeni
-Özgür Politika According to Engelli Web*,* more than 80,000 websites are
+Özgür Politika According to Engelli Web, more than 80,000 websites are
 blocked as of May 2015.[^11BozdagTurkey_9]
 
 Other activist groups in Turkey, such as Alternatif Bilisim Dernegi, the
@@ -325,8 +310,8 @@ popular among young people.
 
 Prosecution of individual internet users for posting material in online
 forums has increased in recent years. These cases are again based on
-definitions of crime that refer to “defamation of religion”, “violation
-of personal rights” and so on. Some of these cases are legitimate, but
+definitions of crime that refer to 'defamation of religion', 'violation
+of personal rights' and so on. Some of these cases are legitimate, but
 many of them seem to be simply attempts to silence anti-government
 voices. Although website blocks have little effect in terms of
 curtailing online expression (since people can always get around these
@@ -352,7 +337,7 @@ effects as people start to self-censor their online communication.
 Second, these blocks are a demonstration of power to the AKP’s own
 voters. As Twitter was blocked shortly before the local elections in
 March 2014, Erdogan made this part of his political campaign by saying
-that “they (AKP) were going to root out Twitter”, thus signaling his
+that 'they (AKP) were going to root out Twitter', thus signaling his
 power to take on a global internet actor. Third, through website
 blocking the government is forcing big internet companies like Twitter
 to be more cooperative in terms of removing content. Twitter
@@ -380,7 +365,7 @@ not necessarily to fight it. Given the fast-changing political
 environment in Turkey, the issue of internet censorship seems to only
 gain priority when bigger websites such as Twitter and YouTube are being
 blocked. However, internet censorship in Turkey is an ongoing issue.
-Campaigns like “Don’t touch my internet” in 2011 showed the power of a
+Campaigns like 'Don’t touch my internet' in 2011 showed the power of a
 well-organized protest, in which different actors from across the
 political spectrum come together. In the face of increasing government
 control, organizing well-networked, sustainable and effective action

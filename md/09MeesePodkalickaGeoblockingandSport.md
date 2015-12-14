@@ -125,7 +125,7 @@ circumstances it could just as likely replace it (for example, if it was
 difficult to access an official broadcast).
 
 Geography also plays a role in the diminishing this exclusivity. The
-British Broadcasting Corporation (BBC) – a public broadcaster -
+British Broadcasting Corporation (BBC) – a public broadcaster –
 broadcasts Match of the Day (MotD), a popular Association Football
 highlights show, and also streams it on their VoD service. However,
 their streaming service is restricted to the United Kingdom ostensibly
@@ -157,7 +157,7 @@ circumvention is not just about access, but about sustaining alternative
 consumption preferences, which are often not catered for in the dominant
 forms of sporting broadcast.
 
-####Circumvention Practices in Media Sport####
+##Circumvention Practices in Media Sport
 
 Circumvention in media sport occurred from the 1970s onwards, thanks to
 flexible consumer technologies like VCRs, which gave audiences with
@@ -166,12 +166,12 @@ notes that ‘\[u\]nauthorised video dubbing and illegal access to cable
 and satellite sports television channels was’ a practice undertaken in
 many countries, ‘but these activities … had a relatively minor effect
 upon profitability in the media market’.[^06MeesePodkalickaGeoblockingandSport_6] Unsurprisingly, the
-Internet has intensified opportunities for circumvention practices, and
+internet has intensified opportunities for circumvention practices, and
 here we outline some of the most common methods. However, we leave a
 discussion around one of the most novel methods, the use of the live
-streaming app Periscope, to Adam Rugg and Ben Burroughs in Chapter X.
+streaming app Periscope, to Adam Rugg and Ben Burroughs in the previous chapter.
 
-####Unauthorized live-streaming websites####
+###Unauthorized live-streaming websites###
 
 One prominent practice is the live streaming of sporting content on
 websites such as *Wiziwig* or *ATDHE*, which offer free unauthorized
@@ -203,7 +203,7 @@ is also worth noting that it is not prohibitively difficult to upload a
 stream of a sporting match for online broadcast, to the extent that
 walkthroughs are available online.
 
-####Circulation of Game Replays
+###Circulation of Game Replays
 
 An alternative circumvention tactic is based around a number of
 websites, which host delayed highlights of games after the match has
@@ -215,7 +215,7 @@ However, these websites often feature copyright infringing content. The
 only way they stay clear of lawsuits is by sourcing content uploaded by
 individuals hosted on third party video hosting websites (such as
 DailyMotion or MetaCafe). We will turn to one of the more prominent
-sites, footytube.com to show how this negotiation takes place.
+sites, Footytube, to show how this negotiation takes place.
 
 Footytube deploys three specifically customized search aggregation bots,
 which scan the open web for content (bots are small programs that run on
@@ -243,7 +243,7 @@ unlike live sport, there is a limited audience for delayed content.[^06MeesePodk
 
 ![](imgs/MeesePodkalicka-Image1.png)
 
-Figure 1. Highlights aggregated by footytube.com from youtube.com. The
+Figure 1. Highlights aggregated by Footytube from Youtube. The
 YouTube account associated with this footage has since been terminated
 
 ###Conventional Circumvention Tools
@@ -296,7 +296,7 @@ copyright. This frenzy of activity even led to the Vine accounts of
 major media companies being taken down. These debates around the
 publication of fan recordings further underlines the tensions between
 established geographies of rights and the de-territorialization the
-Internet affords. As an aside, it is also interesting to note that while
+internet affords. As an aside, it is also interesting to note that while
 all corporate organisations – including sporting organisations – enjoy
 it when a deliberately selected piece of content goes viral, losing
 control over this process is often treated as a direct threat to their
@@ -337,7 +337,7 @@ a computer up to the television and watch it from an online stream.
 Alternatively, a publican noted that if fans from different teams were
 attending his pub, he would show one broadcast through the parallel
 imported broadcast and another ‘through on that screen or that screen
-\[points to two large televisions\] from the computer \[an Internet
+\[points to two large televisions\] from the computer \[an internet
 live-stream\]’.[^06MeesePodkalickaGeoblockingandSport_10]
 
 This shows how circumvention practices often work in tandem with each
@@ -398,7 +398,7 @@ commentary is in a foreign language might impact on the enjoyment of the
 game.
 
 
-| Platform  | Do you need to pay  |Timing   |Geographic restriction   | 'Quality'  |
+| Platform  | Do you need to pay?  |Timing   |Geographic restriction   | 'Quality'  |
 |---|---|---|---|---|
 | TV (Satellite)  |Yes| Live  | Yes  | Excellent  |
 | TV (FTA)  | Sometimes  | Live  |  Yes | Excellent|
@@ -407,7 +407,7 @@ game.
 |Live Streaming|  No | Live | No|Average to Poor|
 |Vine| No  | Slight Delay | No  | Poor |
 |YouTube/Other Third Party Site| No  |Delay of a few hours| No  | Average to Poor  |
-|Skype|  No | Live  | No  | poor  |
+|Skype|  No | Live  | No  | Poor  |
 |Website| No  |Delay of a few hours| No  | Average to Poor  |
 
 Figure 2: A breakdown of the relationship between geographic

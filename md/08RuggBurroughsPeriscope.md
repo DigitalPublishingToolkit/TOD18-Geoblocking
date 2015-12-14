@@ -113,7 +113,7 @@ all media produced in and around the event, adding that Wei was
 Wimbledon have all banned the use of Periscope from stadiums. Outside of
 sports, Comic-Con, the largest popular culture convention in the world,
 also instituted a Periscope ban for its 2015 gathering. Key players on
-the film festival circuit are similarly wary .While Cannes Film Festival
+the film festival circuit are similarly wary. While Cannes Film Festival
 already bans any form of video recording inside the festival, Mark Gill,
 the president of Millennium Films, has declared the app, ‘a whole new
 brand of terrifying’ as organizers have promised extra vigilance to
@@ -127,7 +127,7 @@ well.[^05RuggBurroughsPeriscope_13]
 
 Figure 1. The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
-corporate and state media infrastructures Source: (CC BY 2.0/Anthony
+corporate and state media infrastructures Source: Anthony Quintano (CC BY 2.0)
 Quintano)
 
 In 2007, Viacom waged a long legal battle against YouTube, seeking
@@ -135,7 +135,7 @@ damages for profiting off of the viewing of infringing content. The
 Second Circuit court ruled that YouTube was indeed protected by the safe
 harbor provision because the ‘DMCA requires knowledge or awareness of
 specific infringing activity in order to find a party liable for
-hosting...the district court found that YouTube was protected by the
+hosting [...] the district court found that YouTube was protected by the
 safe harbor provision’.[^05RuggBurroughsPeriscope_14] However, to bolster their legal positioning
 and dissuade other lawsuits YouTube started filtering videos and posting
 takedown notices. In the case of Periscope the safe harbor provision
@@ -212,7 +212,7 @@ exemplify the unique possibilities of mobile live streaming and reveal
 the competing discontinuities of emergent mobile video culture. Further,
 they illustrate the increasing divergence of the mobile video space from
 existing broadcast and desktop platforms. Within the realm of desktop
-access to Internet video, distribution has historically been modeled
+access to internet video, distribution has historically been modeled
 according to existing television broadcast logics that divide control of
 content by nation and enforce those divisions through the use of
 geofences. Even platforms with large amounts of amateur content have
@@ -310,14 +310,14 @@ happened has made many live-streaming apps solely responsible to broadly
 applied copyright laws and their own internal policies.
 
 As Marketa Trimble states, many governments across the world have just
-started grappling with the physical and digital mobility of Internet
+started grappling with the physical and digital mobility of internet
 users and are still early in the process of figuring out how to
 legislate and regulate the concept of geographical territories and
 borders within the constructed geography of the front facing
-Internet.[^05RuggBurroughsPeriscope_20] While many apps and techniques currently take advantage
+internet.[^05RuggBurroughsPeriscope_20] While many apps and techniques currently take advantage
 of this legal grey area to bypass geofences and other restrictions,
 governments and regulatory bodies could pass laws or restrictions that
-give greater weight to territorial boundaries on the Internet and
+give greater weight to territorial boundaries on the internet and
 establish mechanisms for authorizing temporary and permanent geofences
 that restrict the use of media-sharing platforms in certain locations.
 Recent patents developed by Apple already point toward the technological
@@ -339,7 +339,7 @@ around Twitter and Facebook were partially subverted by the use of VPNs
 and the digital attacks of the hacker group Anonymous, they starkly
 revealed the importance of social media apps in conflicts between states
 and their citizens.[^05RuggBurroughsPeriscope_24] As live-streaming continues to enmesh itself
-within the structures of social media platforms and as Civic Streaming
+within the structures of social media platforms and as civic streaming
 increasingly becomes an important tool to communicate and share
 information in times of crisis, it was will be subject to increased
 efforts by states to restrict and control its use.
@@ -351,7 +351,7 @@ marketing efforts that reject the technical difficulty of previous
 circumvention technologies to position themselves instead as
 user-friendly computing tools. Some of these technologies, like VPNs,
 DNS proxies, and IP maskers, utilize the geographical ambiguity of the
-Internet to bypass geofences and access content authorized to users in
+internet to bypass geofences and access content authorized to users in
 different locales. Others, such as Periscope, Ustream, and Vine, provide
 mobile users with live video publishing tools, allowing them to become
 hosts of original and copyrighted content that can be streamed across

@@ -30,8 +30,8 @@ video at least once a month[^13HanchardMalaysia_2]
 - RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
 
-> “iflix will fight entertainment piracy and provide an entirely new and
-legitimate way for the region’s hundreds of millions of Internet users
+> “iFlix will fight entertainment piracy and provide an entirely new and
+legitimate way for the region’s hundreds of millions of internet users
 to enjoy their favourite films and television shows.” -Press release
 from Catcha Group’s iFlix, March 2015.[^13HanchardMalaysia_1]
 
@@ -52,7 +52,7 @@ with Vision 2020, a cornerstone policy of former Prime Minister Mahathir
 Mohamad. The ‘democratic’ use of the internet was seen as a key means
 for ensuring economic prosperity for all. The legacy of this macro
 policy has shaped internet-driven economies and startup cultures in
-urban-centres. Access to the internet is steady at 67 percent of the
+urban centres. Access to the internet is steady at 67 percent of the
 population in 2014, representing more than 20 million users (although
 connection speeds are comparatively slow for the Southeast Asian
 region).[^13HanchardMalaysia_5] Through smartphone ownership, combined with free public
@@ -123,7 +123,7 @@ Korea, Hong Kong, China, Japan and Thailand. There is also a taste for
 local popular genres, especially Bahasa-language horror and ghost
 dramas, as well as independent cinema. MovieGoGo, a startup which
 organises screenings of movies no longer in distribution based on online
-votes by enthusiasts,, recently facilitated the theatrical re-release of
+votes by enthusiasts, recently facilitated the theatrical re-release of
 the acclaimed Malaysian film *Sepet* by Yasmin Ahmad, loved by many
 Malaysians as a major work of national cinema. The gala event, ten years
 after the original release date, was well-attended by movie lovers and

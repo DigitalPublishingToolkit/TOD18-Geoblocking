@@ -74,7 +74,7 @@ overlap and thereafter develop concurrently.
 
 Figure 1. Geoblocking has a complicated relationship with national legal
 systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)
+tool for legal compliance. Credit: Karen Roe (CC BY 2.0)
 
 ## Geoblocking as a Tool of Regulation and Enforcement
 
@@ -177,17 +177,17 @@ website and watch content on the website for which *Spanski Enterprises*
 held an exclusive license.
 
 The first lawsuit that *Spanski Enterprises* filed (in 2007) resulted in
-a 2009 settlement agreement in which the parties agreed to “maintain and
+a 2009 settlement agreement in which the parties agreed to 'maintain and
 continue all Internet geo-blocking which is currently in effect, and
 \[…\] use their best efforts to conform their respective future
 geo-blocking efforts to the latest widely disseminated and financially
-practicable geo-blocking technologies.”<span id="_Ref427140367"
+practicable geo-blocking technologies.'<span id="_Ref427140367"
 class="anchor"></span>[^04TrimbleGeoblockingandEvasion_8] Then, in 2012, *Spanski Enterprises* returned
-to court with allegations that *Telewizja Polska* had “turned off the
+to court with allegations that *Telewizja Polska* had 'turned off the
 geoblocking feature and thereby intentionally made available to viewers
 in the United States via the Internet thousands of episodes of shows to
 which \[*Spanski Enterprises*\] had the exclusive distribution rights in
-the United States.”[^04TrimbleGeoblockingandEvasion_9] As of September 2015 the case was still pending
+the United States.'[^04TrimbleGeoblockingandEvasion_9] As of September 2015 the case was still pending
 before the U.S. District Court for the District of Columbia with the
 trial date set for December 7, 2015.[^04TrimbleGeoblockingandEvasion_10]
 
@@ -198,10 +198,10 @@ violate U.S. copyright law – whether the use of geoblocking is a
 reasonable measure that the law today should expect to be employed by
 content providers to avoid infringing the copyrights of others. *Spanski
 Enterprises* claims that *Telewizja Polska* infringed copyright under
-U.S. law; *Telewizja Polska* contends that its “obligation to geo-block
+U.S. law; *Telewizja Polska* contends that its 'obligation to geo-block
 is a contractual covenant to protect the rights actually licensed to
 \[*Spanski Enterprises*\] – it is not part of the licensed rights
-themselves.”[^04TrimbleGeoblockingandEvasion_11]
+themselves.'[^04TrimbleGeoblockingandEvasion_11]
 
 *Telewizja Polska* argues that an obligation to geoblock is a
 contractual covenant. If *Spanski Enterprises* can prove its
@@ -232,16 +232,16 @@ As mentioned earlier, minimum standards for geoblocking exist in
 contracts between parties that have agreed to the use of geoblocking.
 For example, the language of the 2009 settlement agreement between
 *Spanski Enterprises* and *Telewizja Polska* sets a minimum standard for
-geoblocking; the parties agreed to “the latest widely disseminated and
-financially practicable geo-blocking technologies.”[^04TrimbleGeoblockingandEvasion_13] In a licensing
+geoblocking; the parties agreed to 'the latest widely disseminated and
+financially practicable geo-blocking technologies.'[^04TrimbleGeoblockingandEvasion_13] In a licensing
 agreement concluded between Sony and Netflix, the parties agreed on very
-general language according to which Netflix would “utilize an industry
-standard geolocation service”[^04TrimbleGeoblockingandEvasion_14] and language that specified that the
-geolocation service employed must, for example, “provide geographic
+general language according to which Netflix would 'utilize an industry
+standard geolocation service'[^04TrimbleGeoblockingandEvasion_14] and language that specified that the
+geolocation service employed must, for example, 'provide geographic
 location information based on DNS registrations, WHOIS databases and
-Internet subnet mapping” and “provide geolocation bypass detection
+Internet subnet mapping' and 'provide geolocation bypass detection
 technology designed to detect IP addresses located in the Territory, but
-being used by Registered Users outside the Territory.”[^04TrimbleGeoblockingandEvasion_15] For the
+being used by Registered Users outside the Territory.'[^04TrimbleGeoblockingandEvasion_15] For the
 purposes of legal compliance, courts and regulators will play an
 important role in defining the minimum standards of geoblocking.
 
@@ -280,10 +280,10 @@ circumvention tool; it might be sufficient for the measure to prevent
 *average* users from accessing protected content.[^04TrimbleGeoblockingandEvasion_18] The U.S. District
 Court for the Northern District of California rejected an argument
 proposing that a measure not be considered effective if tools to
-circumvent the measure are “widely available on the Internet.”[^04TrimbleGeoblockingandEvasion_19] The
-court said that the argument is “equivalent to a claim that, since it is
+circumvent the measure are 'widely available on the Internet.'[^04TrimbleGeoblockingandEvasion_19] The
+court said that the argument is 'equivalent to a claim that, since it is
 easy to find skeleton keys on the black market, a deadbolt is not an
-effective lock to a door.”[^04TrimbleGeoblockingandEvasion_20]
+effective lock to a door.'[^04TrimbleGeoblockingandEvasion_20]
 
 ## Regulating the Circumvention of Geoblocking
 
@@ -295,7 +295,7 @@ content providers now include provisions in their terms of service that
 prohibit internet users from evading geoblocking. For example, German
 television station *Sat.1* in its terms of service for the use of its
 online video portal makes it a violation of the terms of service for
-users to “alter, evade or otherwise disregard” the technical measures
+users to 'alter, evade or otherwise disregard' the technical measures
 that the station uses to territorially limit the access to content on
 the portal.[^04TrimbleGeoblockingandEvasion_22] If a user does use a VPN or other tool to circumvent
 geoblocking, the user violates this provision of the terms of service
@@ -318,8 +318,8 @@ MediaWorks on one side and ByPass Network Services on the other side
 seemed to have provided impetus for a clarification – or at least a
 fruitful discussion – of the status of circumvention of geoblocking in
 New Zealand.<span id="_Ref427225220" class="anchor"></span>[^04TrimbleGeoblockingandEvasion_27] The
-dispute over the Bypass *GlobalMode* product – a “geo-unblocking
-solution” for ISPs – was settled in June 2015 and therefore provided no
+dispute over the Bypass *GlobalMode* product – a 'geo-unblocking
+solution' for ISPs – was settled in June 2015 and therefore provided no
 guidance on the status of the evasion of geoblocking in New Zealand;
 nevertheless, it is notable that the practical result was the promise to
 withdraw the geoblocking circumvention tool from the New Zealand market
@@ -358,8 +358,8 @@ the use of geoblocking in the European Union in ‘A Digital Single Market
 Strategy for Europe – Analysis and Evidence’<span id="_Ref427226427"
 class="anchor"></span>[^04TrimbleGeoblockingandEvasion_29] and launched a related inquiry into the
 e-commerce sector.[^04TrimbleGeoblockingandEvasion_30] In the document the Commission referred to
-geoblocking as one of the “barriers that hold back cross-border
-e-commerce.”[^04TrimbleGeoblockingandEvasion_31] A preference for unencumbered cross-border access to
+geoblocking as one of the 'barriers that hold back cross-border
+e-commerce.'[^04TrimbleGeoblockingandEvasion_31] A preference for unencumbered cross-border access to
 content on the internet is also apparent from the draft ‘Trade in
 Services Agreement’[^04TrimbleGeoblockingandEvasion_32] that is being negotiated by a group of
 countries – members of the World Trade Organization. However, all
@@ -384,7 +384,7 @@ required by law, contracts will not be able to eliminate geoblocking
 entirely; however, contracting parties can eliminate some geoblocking,
 and limited geoblocking evasion could mitigate some of the effects of
 geoblocking where the use of geoblocking exceeds what is required by
-law. For example, a system of “digital passports” could facilitate
+law. For example, a system of 'digital passports' could facilitate
 access to users who travel abroad.[^04TrimbleGeoblockingandEvasion_35]
 
 ## References
@@ -579,7 +579,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
     Lawsuit Ends’, PCWorld, 23 June 2015,
     [http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html](http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html).
 
-[^04TrimbleGeoblockingandEvasion_28]: *Supra* note 30.
+[^04TrimbleGeoblockingandEvasion_28]: *Supra* note 27.
 
 [^04TrimbleGeoblockingandEvasion_29]: A Digital Single Market Strategy for Europe – Analysis and
     Evidence, European Commission, SWD(2015) 100 final, 6 May 2015, pp.
@@ -589,7 +589,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
     e-commerce sector pursuant to Article 17 of Council Regulation (EC)
     No 1/2003.
 
-[^04TrimbleGeoblockingandEvasion_31]: *Supra* note 33, p. 3.
+[^04TrimbleGeoblockingandEvasion_31]: *Supra* note 30, p. 3.
 
 [^04TrimbleGeoblockingandEvasion_32]: Draft Trade in Services Agreement (TiSA), Annex on Electronic
     Commerce, 16 September 2013. *See also* Marketa Trimble, Local

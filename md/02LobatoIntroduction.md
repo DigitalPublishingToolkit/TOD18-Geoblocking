@@ -17,7 +17,7 @@ Font(s) used: Open Sans
 ...
 
 
-# The New Video Geography: An Introduction To Geoblocking and Global Video Culture
+# The New Video Geography: An Introduction To *Geoblocking and Global Video Culture*
 
 ###Ramon Lobato###
 
@@ -108,7 +108,7 @@ consoles of the 1980s – and provide theoretical tools to understand the
 evolution of regional lock-out technologies in particular media sectors.
 The second section, ‘Circumvention Case Studies’, looks at these issues
 from the ground up, by analysing how users negotiate geoblocking and
-internet filtering controls in different countries. Here, our seven
+internet filtering controls in different countries. Here, our nine
 contributors – experts on informal media circulation that we have
 collaborated with over the course of a year-long research project – have
 written vivid first-hand accounts of ground-level circumvention
@@ -268,7 +268,7 @@ unlock geo-restricted content by rerouting data through an offshore IP
 address, making it appear as though the user is located in another
 country. In recent years a growing ecology of circumvention tools has
 emerged, including free ad-supported services (Hotspot Shield, Hola,
-Addtele), subscription VPNs (Private internet Access, HotSpotNordVPN,
+Addtelly), subscription VPNs (Private internet Access, HotSpotNordVPN,
 TigerVPN), and DNS proxies designed explicitly for unlocking offshore
 content (Unblock-US, Getflix).
 
@@ -337,7 +337,7 @@ untold history: the VPN, for example, has been around for decades and
 was used primarily as a business networking tool until the early 2000s
 when it morphed into a personal computing product. Since then hundreds
 of small VPN companies have appeared and disappeared (by our count,
-there are at least 140 currently operating). In addition to these
+there are at least 140 VPN brands in the market). In addition to these
 international VPNs, there are also “local” VPNs running in some
 countries, notably Iran, which have Persian-language interfaces and
 local payment systems. There is much scepticism as to the bona fides of
@@ -470,7 +470,7 @@ multiply-subtitled DVDs, and make shopping trips to neighbouring
 countries where prices are cheaper. This is an enduring feature of
 European consumption, one that has diminished little with the
 establishment of a single currency. While much policy attention is now
-directed at the creation of an EU Digital Single market – in which all
+directed at the creation of an EU Digital Single Market – in which all
 28 EU member countries would share common pricing and availability for
 digital goods – intra-European variances in price and availability
 naturally persist.
@@ -542,7 +542,7 @@ simultaneously:
 > fasttrack past the firewall like express check-in at the airport. For
 > the ordinary punter, a data feed from Bloomberg; for the wealthy
 > subscriber, real-time data on every stock for sale on every
-> market.[^01LobatoIntroduction_13]
+> market.[^01LobatoIntroduction_13]<br/>
 
 It may be that VPNs, proxies, and other geo-evasion technologies provide
 a set of popular technical competencies that are, taken together, laying
@@ -564,7 +564,7 @@ Geographies of Television*, Lanham: Lexington Books, 2009.
 Cubitt, Sean. ‘Telecommunication Networks: Economy, Ecology, Rule’,
 *Theory, Culture and Society* 31 (2014): 185-199.
 
-Deibert, Ronald et al (eds). *Access Controlled: The Shaping of Power,
+Deibert, Ronald et al. (eds). *Access Controlled: The Shaping of Power,
 Rights, and Rule in Cyberspace*, Cambridge, MA: MIT Press, 2010.
 
 Deibert, Ronald et al. (eds). *Access Contested: Security, Identity, and

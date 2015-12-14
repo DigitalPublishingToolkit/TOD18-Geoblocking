@@ -132,7 +132,7 @@ the GFW. Many popular blogs faced the same fate when the Chinese
 blogsphere was subjected to tightened control. Thus when people climb
 over the wall, what they often see is information about domestic affairs
 from domestic sources.[^09LiChina_11] What the wall really achieves is not simply
-to stop outside contents from coming in, but to purge out the unwanted
+to stop outside content from coming in, but to purge out the unwanted
 information from inside. Therefore, by blocking video-sharing sites such
 as YouTube and Vimeo, what are in fact blocked are not videos from the
 U.S. but underground films, documentaries and citizens’ reportage *from
@@ -152,7 +152,7 @@ GFW resonates with the widespread feelings of entrapment, suppression,
 and control in people’s daily life online and offline. Thus the
 experience with, and the imagination of, the “wall” are often evoked to
 express the public anger and anxiety toward many different forms of
-suppression that go far beyond Internet control. “If you are arrested,
+suppression that go far beyond internet control. “If you are arrested,
 your freedom curtailed, your posts deleted, these can also all be cases
 of being ‘walled.’”[^09LiChina_12]
 
@@ -176,14 +176,14 @@ Countless circumvention tools based on proxies, VPNs, and encryption
 technologies were developed and adopted. They are described as “ladders”
 (*tizi*). Popular ladders include Tor (The Onion Router), FreeGate (a
 proxy network system), Ultrasurf (a freeware based on proxy servers and
-encryption protocols), I2P (the Invisible Internet Project, a free,
+encryption protocols), I2P (the Invisible internet Project, a free,
 open-source program for pseudonymous information transfer), Psiphone (a
 combination system developed by the Citizen Lab at the University of
 Toronto), and GoAgent (a cross-platform software). Other new weapons are
 constantly emerging, including VPN Gate (a free public-minded VPN
 service), Lantern (a P2P network where users share bandwidth), Pritunl
 (a enterprise distributed VPN server), Shadowsocks (a socks5 server),
-FreeBrowser( a free Internet browser for Android systems), and Fqrouter
+FreeBrowser (a free internet browser for Android systems), and Fqrouter
 (a circumvention router for Android systems).
 
 The battle between the wall and wall crossing is fierce and continuous,
@@ -191,7 +191,7 @@ and all these tools have to be updated frequently in order to remain
 functional. New technological developments such as cloud computing and
 IPv6 also pose challenges to the GFW and provide more ladders for wall
 crossing. Information about how to circumvent the GFW, where to download
-the tools, and how to use them is abundant on the Internet, though some
+the tools, and how to use them is abundant on the internet, though some
 of this information is censored in China. Since many of these
 circumvention tools are free, open-source projects, they are often
 hosted at GitHub, a source code management network where programmers
@@ -205,7 +205,7 @@ Due to the underground nature of wall crossing, it is difficult to
 estimate how many Chinese users practice circumvention. There have been
 conflicting reports about the size and impact of the wall-crossing
 community. In 2014, Globalwebindex reported that there are 93 million
-Chinese VPN users, which amounts to 20% of total Internet users in China
+Chinese VPN users, which amounts to 20% of total internet users in China
 and is the largest number in the world.[^09LiChina_14] The actual impact of
 circumvention, however, cannot be simply measured by its popularity.
 Since the GFW has become so visible and ubiquitous, circumvention talk
@@ -239,7 +239,7 @@ recording, publicizing, and mobilizing such events. Thus, it is not
 accidental that the GFW’s first blockage of YouTube in 2007 coincided
 with the aftermath of the mass protest in the city of Xiamen against the
 construction of a chemical plant. Cellphone videos recorded at the
-Xiamen protest were widely circulated on the Internet, generating heated
+Xiamen protest were widely circulated on the internet, generating heated
 public debate about China’s environmental problems. Months later,
 YouTube was walled.
 
@@ -249,7 +249,7 @@ sentimentality of the so-called post-80s generation. Born in the 1980s
 when China just began its economic reform, the post-80s generation came
 of age amidst the skyrocket boom in both economy and popular media. They
 are the first generation to witness the spread of television, computers,
-and the Internet in Chinese households, and thus became the first group
+and the internet in Chinese households, and thus became the first group
 of avid media consumers in China. Growing up in the age of
 globalization, this generation is also decidedly cosmopolitan. Their
 increasing desire for global media is the major force that drives the
@@ -272,20 +272,20 @@ desire for obscenity can deliver quite subversive messages. In 2009, the
 Chinese government launched a dramatic “anti-smut” campaign, whose true
 purpose however was to censor information about a pro-democratic online
 petition. Right in the middle of the campaign, an imaginary creature
-named “Grass Mud Horse” (*cao ni ma*) became a huge Internet phenomenon
+named “Grass Mud Horse” (*cao ni ma*) became a huge internet phenomenon
 after a series of widely circulated online videos attracted millions of
 viewers. The videos feature cute images of an alpaca-like animal as the
 embodiment of the homophone of a sexually charged profane curse, which
 expresses public anger toward censorship in a hilarious manner. Although
 the videos were quickly banned in Chinese cyberspace (but can be
-accessed on YouTube), the phenomenon continued in countless Internet
+accessed on YouTube), the phenomenon continued in countless internet
 memes, video games, toys, and even clothing lines that all referenced
 the lovely animal.
 
 ![](imgs/Li-image1.png)
 
 Figure 1. The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)
+internet censorship. Credit: chumsdock (CC BY SA 2.0)
 
 Equally provocative is the animation series *Kuang Kuang*, which was
 created by artist Pi San and his independent studio Huxiao Animation.
@@ -406,7 +406,7 @@ do not center around changing existent technologies but instead involve
 discovering holes in existent technologies and projecting potential
 change through those holes.”[^09LiChina_21] The wall generates those holes through
 missing links, blocked contents, and error messages. And that is where
-counterprotocols­­ —the wall-crossing tactics— emerge and exploit,
+counterprotocols­­ — the wall-crossing tactics — emerge and exploit,
 politicizing our mundane technological life of searching, browsing, and
 networking.
 

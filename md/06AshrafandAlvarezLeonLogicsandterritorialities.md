@@ -62,11 +62,11 @@ development of the internet, however, represents a new space for states
 to act and to reassert traditional notions of territory. For example,
 early cyber-utopians such as John Perry Barlow, co-founder of the
 Electronic Frontier Foundation, envisioned cyberspace as a radical space
-where borders and states no longer mattered: “Governments of the
+where borders and states no longer mattered: 'Governments of the
 Industrial World, you weary giants of flesh and steel, I come from
 Cyberspace, the new home of Mind. On behalf of the future, I ask you of
 the past to leave us alone. You are not welcome among us. You have no
-sovereignty where we gather.”[^03AshrafandAlvarezLeonLogicsandterritorialities_1] In cyberspace one could be something
+sovereignty where we gather.'[^03AshrafandAlvarezLeonLogicsandterritorialities_1] In cyberspace one could be something
 radically different and no longer be constrained by any of the perceived
 drawbacks of the physical world, such as physical appearance or
 geography.
@@ -84,7 +84,7 @@ controls states are able to restrict the flow of information inside and
 outside of their borders, regardless of political circumstances. In
 cyberspace internet filtering is the primary way states assert their
 geopolitical visions, which are founded on the principles of sovereignty
-and borders. This is the “information curtain” first articulated by
+and borders. This is the 'information curtain' first articulated by
 Secretary of State Hillary Clinton in 2010.[^03AshrafandAlvarezLeonLogicsandterritorialities_2]
 
 The rise of state internet controls and internet filtering has led many
@@ -108,7 +108,7 @@ depending on social and political factors. For example, some states,
 such as Saudi Arabia or Iran, choose to enact content regulations to
 restrict or forbid citizens from developing, consuming, or distributing
 certain types of content. On the other hand, states may choose to
-“relocate” content regulations by requiring internet service providers
+'relocate' content regulations by requiring internet service providers
 (ISPs) to filter content on behalf of the state in order to get a
 business license. Companies that do not filter on behalf of the state
 may be subject to various liabilities and penalties until they are in
@@ -174,10 +174,10 @@ address, domain name, service port number, etc.) and this is checked
 against a defined block list, usually provided by the state. This level
 of analysis can occur at a router level or require a deeper level of
 inspection. Filtering at the router level will examine just the header
-of the information packet –equivalent to the address on an envelope– and
+of the information packet – equivalent to the address on an envelope – and
 block or allow that packet to continue to its destination. Examining the
-content of the data packet –equivalent to opening the envelope and
-reading its contents– requires more sophisticated technologies, called
+content of the data packet – equivalent to opening the envelope and
+reading its contents – requires more sophisticated technologies, called
 Deep Packet Inspection (DPI), which is currently believed to be in use
 in Iran.[^03AshrafandAlvarezLeonLogicsandterritorialities_13]
 
@@ -224,7 +224,7 @@ geographically.
 
 Content takedowns are a relatively new method of filtering which
 reflects the explosion of user-generated content in the web. In this
-method, states and citizen sympathizers or paid actors “flag” or report
+method, states and citizen sympathizers or paid actors 'flag' or report
 objectionable content to content providers in the hopes of having the
 offending content removed and the uploader banned.[^03AshrafandAlvarezLeonLogicsandterritorialities_15] If, for example,
 a protest video were uploaded to video sharing site YouTube, a content
@@ -297,18 +297,13 @@ which geoblocking produces a broad range of territorialities which
 transcend attempts to understand the internet through an open/closed
 binary perspective.
 
-![](imgs/AshrafImage1.jpg)
-
-Figure 1. Source: States are enforcing their territorial boundaries online
-and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)
 
 ## Markets
 
 While states can control or record flows of information to preserve
 their sovereignty and territorial power online, market actors pursue a
 different type of territorialization: one that allows them to maximize
-profit. Often this involves “locking information” through technical
+profit. Often this involves 'locking information' through technical
 means, such as Digital Rights Management technologies, in order to
 target specific authorized spaces or devices. This means that the
 territorialities of information markets can be determined by the extent
@@ -337,8 +332,8 @@ time and space at transnational scales. This level of coordination has
 made it more difficult to maintain a strategy long used by film
 distributors: the windowed release of products according to geographic
 region, and even by medium, such as theater and then home video. This
-strategy was designed to “manage time and control speed through space so
-as to minimize the threat posed by new technologies.”[^03AshrafandAlvarezLeonLogicsandterritorialities_20] Consistent
+strategy was designed to 'manage time and control speed through space so
+as to minimize the threat posed by new technologies.'[^03AshrafandAlvarezLeonLogicsandterritorialities_20] Consistent
 with the logic of market actors, the ultimate goal in this stepwise
 control of information is to reach the highest possible price each
 segmented market is capable of bearing.[^03AshrafandAlvarezLeonLogicsandterritorialities_21]
@@ -379,7 +374,7 @@ strategies such as hard territorial markets through geoblocking, hybrid
 release campaigns across platforms, and simultaneous global releases.
 
 Much like the controls of information enforced by states, the
-“geographic rights management” approach behind geoblocking has been
+'geographic rights management' approach behind geoblocking has been
 successful in producing territorialized spaces of information through
 exclusion. This process can be self-reinforcing because its deployment
 in a digital network environment expands the scope of its control with
@@ -390,7 +385,7 @@ use of DRM and the internet
 > over access to their content. Because each use of the Internet
 > produces a copy, use on the Internet becomes subject of the copyright
 > owner’s control. The technology expands the scope of effective control
-> because the technology builds a copy into every transaction.[^03AshrafandAlvarezLeonLogicsandterritorialities_23]
+> because the technology builds a copy into every transaction.[^03AshrafandAlvarezLeonLogicsandterritorialities_23] <br/>
 
 Yet, like states’ control of information, which is often contested (and
 subverted) by groups of actors, the territorialities of information
@@ -432,7 +427,7 @@ number – which identifies the physical location of a computer – is
 within the United States or Japan, the two markets where this service
 operates. While for some time users abroad were able to circumvent these
 controls through the use of Virtual Private Networks or other
-technologies[^03AshrafandAlvarezLeonLogicsandterritorialities_24], Hulu has now blocked this possibility[^03AshrafandAlvarezLeonLogicsandterritorialities_25] –further
+technologies[^03AshrafandAlvarezLeonLogicsandterritorialities_24], Hulu has now blocked this possibility[^03AshrafandAlvarezLeonLogicsandterritorialities_25] – further
 demonstrating the territorialized construction of their market.
 
 These video platforms present building blocks in territorialized
@@ -518,7 +513,7 @@ firms, articulate clear territorialities based on intellectual property
 regimes, markets, and internet censorship or control. The existence of
 an “open” internet can be considered a techno-utopian vision at odds
 with the historical development of this network.[^03AshrafandAlvarezLeonLogicsandterritorialities_27] Indeed, the word
-“geoblocking” presupposes that there is something to be blocked,
+'geoblocking' presupposes that there is something to be blocked,
 necessitating a binary open/closed model of the internet. This idea
 represents yet another frame of territorial logic mapped onto the
 internet. However, as this chapter demonstrates, multiple actors

@@ -35,7 +35,7 @@ Figure 3. Average internet connection speeds around the world.Data source: Akam
 ##Netflix by Numbers
 ![](imgs/dataviz7.jpg)
 
-Figure 4. U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
+Figure 4. US and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
 
 ![](imgs/dataviz8.jpg)
 

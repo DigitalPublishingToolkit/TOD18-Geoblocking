@@ -17,7 +17,7 @@ Font(s) used: Open Sans
 ...
 
 
-#Tunnelling Media: Geoblocking and Online Border Resistance
+#Tunneling Media: Geoblocking and Online Border Resistance
 
 ###Juan Llamas-Rodriguez###
 
@@ -89,8 +89,8 @@ In essence, tunneling reorganizes geographies of control for a stretch
 of time. If geoblocks, like borders, function not to protect sovereignty
 but to sort populations, to categorize users and provide content based
 on these categories, then tunneling provides an opportunity for change.
-Yet not all tunnelling is the same. Degrees of technological
-sophistication for physical and virtual tunnelling create a hierarchy
+Yet not all tunneling is the same. Degrees of technological
+sophistication for physical and virtual tunneling create a hierarchy
 between those that can ‘hack’ their way around a geofence and those that
 need the help of others. These various levels of differentiation
 constitute users in relation to their distinct experiences of the
@@ -181,7 +181,7 @@ create an alternative world of connectivity.
 
 ## A World of Tunnels
 
-Tunnels come in multiple forms. The US Department of Homeland Security
+Tunnels come in multiple forms. The U.S. Department of Homeland Security
 identifies at least three different types of underground border tunnels.
 Rudimentary tunnels are small, shallow, often crudely constructed and
 used only to travel only a short distance. These are usually detected
@@ -235,12 +235,12 @@ of interconnecting tunnels depend less on creating their own channels.
 This reduced effort benefits tunnels users both because they take less
 time to construct the tunnel and because they are less likely to be
 found. There is no complete mapping of the existing sewage drains around
-the Mexico-US border, a region that extends almost 2000 miles, so
+the Mexico-U.S. border, a region that extends almost 2000 miles, so
 authorities need to evaluate whether an underground construction is
 legitimate on an individual basis. In addition, interconnecting tunnels
 take advantage of the geological affordances of the border region. The
 physical characteristics of the local soil, for instance, vary
-tremendously across the southern US border. Any tunnel detection
+tremendously across the southern U.S. border. Any tunnel detection
 technology would need to adapt to different levels of porosity and
 texture, and tunnel task forces would have to map the variations in
 types of soil across the entire area they wanted to surveil. These
@@ -287,7 +287,7 @@ that tunneling reorganizes geographies of control for a stretch of time.
 If borders have become dynamic, as Didier Bigo argues, then tunneling
 takes advantage of this fluctuation to allow for previously restricted
 traffic flow – but only temporarily. The dynamism of borders does not
-imply an imbalance: tunnelling creates new routes that are eventually
+imply an imbalance: tunneling creates new routes that are eventually
 foreclosed again. The stretch of time that tunnels occupy thus becomes a
 crucial aspect to their successful implementation. In the case of
 physical tunnels, this ‘stretch of time’ acquires a double significance:

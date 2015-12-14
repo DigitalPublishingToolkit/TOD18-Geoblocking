@@ -149,9 +149,9 @@ a way around the time lag.
 Making matters worse is the problem of pricing. Digital content is
 invariably more expensive in Australia than overseas when purchased
 through iTunes and other online services. According to the consumer
-group Choice, Australian viewers of *The Walking Dead ‘*will be paying
+group Choice, Australian viewers of *The Walking Dead*, 'will be paying
 up to 376% more than people watching the same show in the United
-Kingdom*’*.[^10LobatoandMeeseAustralia_2] This discrepancy, known colloquially as the ‘Australia
+Kingdom'.[^10LobatoandMeeseAustralia_2] This discrepancy, known colloquially as the ‘Australia
 tax’ has been a major topic of public discussion. Dissatisfaction about
 digital pricing has become a rallying cry for Australian early adopters
 who increasingly see themselves as ‘second-class’ media citizens, who
@@ -196,8 +196,7 @@ equitable pricing did not come out of nowhere. Australians have had to
 pay a higher price for cultural goods for much of the twentieth century.
 The country’s geographic isolation means higher shipping costs, lower
 levels of competition, and, in many cases, price gouging by media
-companies and publishers. Many incumbents have also been artificially
-protected by legislative bans on parallel-importing cheaper goods from
+companies and publishers. Many incumbents have also been protected by legislative bans on parallel-importing cheaper goods from
 overseas, keeping prices artificially high. While these parallel import
 bans have been partly dismantled since the 1990s – imports of CDs are
 now permitted, reducing what were previously ‘exceptionally high’ prices
@@ -316,7 +315,7 @@ Australian users on this basis (see Figure 1).
 
 ![](imgs/lobatomeese.png)
 
-Figure 1. [http://www.ibvpn.com/australia-vpn-service/](http://www.ibvpn.com/australia-vpn-service/)
+Figure 1. Australia-specific VPN marketing. Source:  [http://www.ibvpn.com/australia-vpn-service/](http://www.ibvpn.com/australia-vpn-service/)
 
 Recent developments in copyright law also bear directly on VPNs. In June
 2015 federal legislation was passed that gives judges the power to block

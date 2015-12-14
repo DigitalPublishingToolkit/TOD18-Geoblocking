@@ -293,14 +293,14 @@ stating that ‘if Netflix start blocking my VPN I will move to Popcorn
 Time, downloads, and torrents’. I did notice however, that there were
 many people in these discussions either defending Netflix Brazil,
 accepting their policies – to a certain extent – on geoblocking and
-distributions rights.
+distribution rights.
 
 I have also noticed a certain willingness to pay for access to content
 among Netflix VPN pirates, which is quite different from the attitude of
 audiences that informally download content.[^14MendesMoreiradeSaBrazil_16] Some Netflix
 subscribers even mentioned that they have minimized or even ceased
 torrenting since they signed up for the service. Everyone who mentioned
-the monthly subscription of R\ 19.90 (about USD6) per month said the
+the monthly subscription of R\19.90 (about USD6) per month said the
 price was fair.
 
 Once again, it is important to note that only 60% of the population in

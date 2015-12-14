@@ -25,10 +25,8 @@ Font(s) used: Open Sans
 
 Figure 1. Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
-Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014
 
-IP address geoblocking has been implemented to partition what would
+Geoblocking has been implemented to partition what would
 otherwise be potentially borderless worlds of information and
 entertainment delivered via the internet.[^08BurkeGamecartridges_1] Digital media markets,
 differentiated in price and access to different ‘regions’ of the globe,
@@ -54,7 +52,7 @@ information as a discrete physical entity.[^08BurkeGamecartridges_2]
 
 ## The Future Elsewhere: Japan’s revival of home video gaming
 
-Video gaming, as a consumer past time, emerged in the United States.
+Video gaming, as a consumer pastime, emerged in the United States.
 After a number of comparatively unsuccessful precursors, Atari
 inaugurated a popular culture boom in video games between 1978 and 1983.
 It was not to last, and after quality control concerns, and catastrophic
@@ -110,7 +108,7 @@ by the system vendor.[^08BurkeGamecartridges_9]
 Between 1988 and 1993, the second wave of Japanese origin consoles,
 first from Sega in 1988 (Japan, 1990 US, 1991 EU/Australia), and later
 Nintendo (1990 Japan, 1991 US, 1992 EU/Australia) – arrived in the
-historically neglected PAL markets. This chapter willfocus on Australia,
+historically neglected PAL markets. This chapter will focus on Australia,
 a geographically isolated region, with no land borders, and no proximate
 NTSC neighbour – and one which often lagged behind Japan and the United
 States, in terms of the release of both video game hardware and its
@@ -209,8 +207,8 @@ A\$399 in 1991. Acquiring the console required studious petitioning and
 parental patronage, and even then, the cost involved made it the
 preserve of the middle class.[^08BurkeGamecartridges_15] With Australia entering a very steep
 and prolonged economic recession shortly after the release of the
-Megadrive, it tookyears of depreciationand improving economic
-conditionsbefore it arrived at a mass market price Breaching the
+Megadrive, it took years of depreciation and improving economic
+conditions before it arrived at a mass market price Breaching the
 cartridge slot, and thus reaching the ‘future’ (actually the
 geographically distant present), was an enterprise that involved great
 risk. Physical puncture of the motherboard, or electrostatic discharge,
@@ -222,7 +220,7 @@ for a failed attempt would be severe.
 
 As video game journalism matured during the 1990s, popular knowledge of
 circumvention increased. Until this point, this gap between promised
-excitement and local disappointment was present, but manageable.  The
+excitement and local disappointment was present, but manageable. The
 latency between knowledge of new overseas games, as revealed in effusive
 print reviews and colorful screenshots, was modest.  Almost all
 dedicated English-language video game journalism was published in the UK
@@ -319,8 +317,7 @@ sporadic and well-publicized confiscation of imported games by
 Australian Customs (promptly and ostentatiously donated to local
 children’s hospitals), an enforcement measure which was abandoned in the
 wave of competition reforms which relaxed parallel import rules. Even
-the expansive, omnibus anti-circumvention provisions of the Digital
-Agenda Bill (2001) would seem ill-armed to counter the threat of a
+the expansive, omnibus anti-circumvention provisions of the Digital Agenda Act (2000) would seem ill-armed to counter the threat of a
 kitchen knife and a determined young video game enthusiast with a poorly
 developed sense of risk.
 
