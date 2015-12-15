@@ -2,8 +2,9 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="11.0(72)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
-	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
@@ -43,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -84,51 +72,29 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans (OTF)">
-		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+	<FontFamily Self="di201c" Name="Lato">
+		<Font Self="di201cFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di201cFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di1bd2" Name="Lato">
-		<Font Self="di1bd2FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e7e" Name="Lato">
-		<Font Self="di1e7eFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e81" Name="Lato">
-		<Font Self="di1e81FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+	<FontFamily Self="di201d" Name="HK Grotesk">
+		<Font Self="di201dFontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
+		<Font Self="di201dFontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -169,25 +135,21 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
+		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Link" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Link">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/No-break" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="No-break">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -197,112 +159,88 @@
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" SpaceAfter="17.007874015748033" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text" Name="$ID/Page &gt; Running Text">
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aHeadings" Name="$ID/Page &gt; Running Text:Headings">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" Name="Page &gt; Running Text:Headings:Header1 (title of the part)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">17</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" Name="Page &gt; Running Text:Headings:Header2 (subtitle)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">12</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" LeftIndent="10" AppliedLanguage="$ID/English: USA" SpaceBefore="2.834645669291339" SpaceAfter="2.834645669291339" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" Name="Page &gt; Running Text:Text:Caption" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">8</Leading>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<AllGREPStyles type="list">
+							<ListItem type="record">
+								<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
+								<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
+							</ListItem>
+						</AllGREPStyles>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aReferences (end of each part)" Name="$ID/Page &gt; Running Text:References (end of each part)">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" Name="Page &gt; Running Text:References (end of each part):Reference List" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+		</ParagraphStyleGroup>
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
 			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">14</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Author" Name="Author" Imported="false" NextStyle="ParagraphStyle/Author" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceAfter="8.503937007874017" FillTint="100" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Open Sans (OTF)</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/databox list" Name="databox list" Imported="false" NextStyle="ParagraphStyle/databox list" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" LeftIndent="19.84251968503937" RightIndent="14.173228346456694" SpaceBefore="19.84251968503937" Justification="LeftJustified" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">28.34645669291339</Position>
-					</ListItem>
-				</TabList>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/databox blockquote" Name="databox blockquote" Imported="false" NextStyle="ParagraphStyle/databox blockquote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Italic" Ligatures="false" LeftIndent="19.84251968503937" RightIndent="14.173228346456694" SpaceBefore="19.84251968503937" SpaceAfter="19.84251968503937" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/No-break</AppliedCharacterStyle>
-						<GrepExpression type="string">(?&lt;=\w)\s(?=\w+[[:punct:]]*\r)</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Black" SpaceBefore="8.503937007874017" SpaceAfter="5.669291338582678">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" LeftIndent="14.173228346456694" SpaceBefore="5.669291338582678" SpaceAfter="14.173228346456694" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" Imported="false" NextStyle="ParagraphStyle/Caption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="8" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
-						<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Reference-paragraph" Name="Reference-paragraph" Imported="false" NextStyle="ParagraphStyle/Reference-paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="8" GridAlignFirstLineOnly="true">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">9</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
@@ -523,38 +461,26 @@
 	<Story Self="u1ea4" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Australia: Circumvention Goes Mainstream</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Author">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Ramon Lobato and James Meese</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FillColor="Color/Black" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" Capitalization="Normal" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue</AppliedFont>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox list">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>18%: proportion of Australians who use VPNs or proxies to access the internet</Content>
 				<Br />
-				<Content>200,000: estimated number of unauthorised Netflix subscribers in Australia, as of late 2014</Content>
-				<Br />
-				<Content>$25- $134: Monthly cost of a Foxtel pay-TV subscription, in A$</Content>
-				<Br />
-				<Content>$15-$20: Monthly cost of a US Netflix subscription and VPN, in A$</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox blockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>‘You’ve all got VPNs anyway. All of you appear to be somewhere in Iowa when you go online I know that anyway, I won’t go on.’ – Australia’s former Minister for Communications (and current Prime Minister), Malcolm Turnbull, in 2014</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Over the last decade Australia has become an unlikely hotspot of circumvention activity. Frustrated by the high cost and slow delivery of first-release TV and movies from the United States – and by their own self-perceived status as ‘second-class’ media citizens – Australians have taken to offshore streaming with a singular enthusiasm, signing up for VPNs and proxy services and using them to access US Netflix, Hulu, HBO Now, and BBC iPlayer. Unlike many nations in the Asia-Pacific region, where circumvention has an overtly political dimension, the conversation in Australia has revolved substantially around access to entertainment rather than privacy, surveillance or censorship. Many Australians have acquired a working knowledge of circumvention tools simply because they were unable to watch episodes of their favourite television shows quickly and legally.</Content>
 				<Br />
 				<Content>Take for example </Content>
@@ -593,13 +519,13 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Australian screen culture and the politics of distance</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>To understand the effects of geoblocking in Australia, we must first consider the national broadcast system and how it has evolved over time. There are three commercial free-to-air stations in Australia – Seven, Nine and Ten – and two public-service broadcasters – the ABC (Australian Broadcasting Corporation) and SBS (the Special Broadcasting Service, a multicultural broadcaster). Each of these free-to-air stations has additional digital multi-channels (ABC2, ABC3 and so on). Government-mandated quotas on commercial channels require at least 55% of prime-time programming to be locally produced, with the rest mostly imported from the US and UK.</Content>
 				<Br />
@@ -623,7 +549,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, Melbourne: The Swinburne Institute, 2012, p. 3.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -636,16 +561,10 @@
 				<Content>Making matters worse is the problem of pricing. Digital content is invariably more expensive in Australia than overseas when purchased through iTunes and other online services. According to the consumer group Choice, Australian viewers of </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>The Walking Dead ‘</Content>
+				<Content>The Walking Dead</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>will be paying up to 376% more than people watching the same show in the United Kingdom</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>’</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>.</Content>
+				<Content>, &apos;will be paying up to 376% more than people watching the same show in the United Kingdom&apos;.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -663,13 +582,12 @@
 							<Content>, 13 October 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1eb8" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f82" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -693,13 +611,12 @@
 							<Content>, 21 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ebc" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f86" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -709,19 +626,19 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Geoblocking and Cultural Nationalism</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>By 2012 geoblocking had become a political issue. Sensing the mood of the public, Australian regulators were questioning the price-discrimination policies of U.S. tech companies and asking why our media and software products were more expensive than they needed to be. Opportunistic politicians started to see geoblocking as a popular issue, one that enabled a nationalist narrative (US-based multinationals ripping off Australians) to be fused with a free-market narrative (geoblocking as anti-competitive). In other words, it was a vote-winner. As Labor MP Ed Husic put it,</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>For too long, businesses and consumers have asked: why does it sometimes cost up to 80 per cent more to simply download software in Australia compared to overseas… No one doubts that IT firms should be able to recover legitimate costs but the Australian consumer shouldn’t shoulder an unfair share of the pricing load.</Content>
 			</CharacterStyleRange>
@@ -735,20 +652,19 @@
 							<Content>	See </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ebf" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f88" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The level of disquiet was such that the government announced a Parliamentary Inquiry into the ‘Australia tax’ in 2012. Its final report included some remarkable recommendations, including abolishing all parallel-import restrictions, amending the 1968 Copyright Act to allow lawful circumvention of geoblocking, and educating consumers about how to use VPNs effectively.</Content>
 			</CharacterStyleRange>
@@ -760,7 +676,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	‘At what cost? IT Pricing and the “Australia tax”’, Australian House of Representatives Standing Committee on Infrastructure and Communications, The Parliament of the Commonwealth of Australia, 2013.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -784,20 +699,19 @@
 							<Content> program, 23 March 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ec3" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f8d" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>At this point, it is worth noting that this strong political push for equitable pricing did not come out of nowhere. Australians have had to pay a higher price for cultural goods for much of the twentieth century. The country’s geographic isolation means higher shipping costs, lower levels of competition, and, in many cases, price gouging by media companies and publishers. Many incumbents have also been artificially protected by legislative bans on parallel-importing cheaper goods from overseas, keeping prices artificially high. While these parallel import bans have been partly dismantled since the 1990s – imports of CDs are now permitted, reducing what were previously ‘exceptionally high’ prices for recorded music</Content>
+				<Content>At this point, it is worth noting that this strong political push for equitable pricing did not come out of nowhere. Australians have had to pay a higher price for cultural goods for much of the twentieth century. The country’s geographic isolation means higher shipping costs, lower levels of competition, and, in many cases, price gouging by media companies and publishers. Many incumbents have also been protected by legislative bans on parallel-importing cheaper goods from overseas, keeping prices artificially high. While these parallel import bans have been partly dismantled since the 1990s – imports of CDs are now permitted, reducing what were previously ‘exceptionally high’ prices for recorded music</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -809,13 +723,12 @@
 							<Content>	David Richardson, ‘Copyright and Monopoly Profits: Books, Records and Software’, Current Issues Brief 15, 1996, The Parliament of Australia, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ec5" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f8f" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -831,7 +744,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	Books can be legally parallel imported in specific circumstances to fill market gaps. For example, if an order for a book is not filled within ninety days by the copyright holder or licensee.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -843,13 +755,13 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The VPN Explosion</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Renewed attention to the parallel-import issue has naturally drawn attention to geoblocking. Taking a cue from their elected representatives, Australians have recently begun to sign up for offshore streaming services in ever-greater numbers, using fake IDs and location-masking tools. In part this was due to more people using streaming services generally: internet speeds were rising, catch-up TV was catching on, and everyone was used to watching TV in their browsers. From here it was just a small step to hacking into BBC iPlayer, Netflix and Hulu.</Content>
 				<Br />
@@ -875,7 +787,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, 12 September 2011.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -902,13 +813,12 @@
 							<Content>, October 2 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ecb" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f95" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -930,7 +840,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content> 6.4 (2012): 260-280.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -941,13 +850,13 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Governing Circumvention</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Running through this debate about geoblocking are several unresolved legal and policy issues. One of these is the uncertain legal status of VPNs as circumvention tools.</Content>
 				<Br />
@@ -961,7 +870,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	See information sheet G127v01, ‘Geo-blocking, VPNs &amp; Copyright’, Australian Copyright Council, July 2015.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -979,13 +887,12 @@
 							<Content>	Nick Murray, the managing director of TV producer Cornell Jigsaw Zapruder argues that these tools inhibit the ability of these companies to sell the same content to different regions, which is how ‘they make [their] money’. See </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ed0" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f99" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1009,13 +916,12 @@
 							<Content>, July 22, 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ed2" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1f9c" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1025,15 +931,15 @@
 				<Br />
 				<Content>This legal uncertainty is an issue because it is clouding the Australian public’s understanding of VPNs, which can of course be used for many purposes unrelated to geo-evasion. In the wake of hacking scandals and daily reports of cybercrime, VPN use is being promoted by consumer and technology advocates as a way to stay safe online – an act of responsible cyber-citizenship. VPN use is also being recommended as an antidote to Australia’s controversial metadata retention law, the Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015, which has just come into effect. This law requires ISPs and telcos to retain logs of customer activity, NSA-style, for two years. Unsurprisingly there has been massive public backlash against this data retention regime, and VPN services are an appealing counter-measure. Savvy VPN companies such as PureVPN and IBVPN, now promote themselves to Australian users on this basis (see Figure 1).</Content>
 				<Br />
-				<Rectangle Self="u1ed3" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1f9e" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 61.43307086614096" LeftDirection="-75 61.43307086614096" RightDirection="-75 61.43307086614096" />
-									<PathPointType Anchor="155.74015748031496 61.43307086614096" LeftDirection="155.74015748031496 61.43307086614096" RightDirection="155.74015748031496 61.43307086614096" />
-									<PathPointType Anchor="155.74015748031496 -50" LeftDirection="155.74015748031496 -50" RightDirection="155.74015748031496 -50" />
+									<PathPointType Anchor="-75 90.62992125984192" LeftDirection="-75 90.62992125984192" RightDirection="-75 90.62992125984192" />
+									<PathPointType Anchor="220.08661417322844 90.62992125984192" LeftDirection="220.08661417322844 90.62992125984192" RightDirection="220.08661417322844 90.62992125984192" />
+									<PathPointType Anchor="220.08661417322844 -50" LeftDirection="220.08661417322844 -50" RightDirection="220.08661417322844 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -1046,14 +952,14 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="-32.11751961562982" BottomCrop="-24.75651998920921" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="10.92913310349013" BottomCrop="4.079574738705901" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1eda" Space="$ID/#Links_RGB" ActualPpi="144 144" EffectivePpi="816 816" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17651709741071475 0 0 0.17651709741071475 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1fa3" Space="$ID/#Links_RGB" ActualPpi="144 144" EffectivePpi="617 617" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.23342941093356492 0 0 0.23342941093356495 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAFT3AACABtPBx/wKCQaCwOEweFQiHQ2IQyJQuKQ+JxaKxGMxeNRiPR2QRyRRuSR+RyaSyGUy
@@ -2195,7 +2101,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1ed7" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/lobatomeese.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130929377090000000 543838" LinkImportModificationTime="2015-11-25T16:08:29" LinkImportTime="2015-12-08T17:38:33" LinkResourceSize="0~84c5e" />
+						<Link Self="u1fa2" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/lobatomeese.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130929377090000000 543838" LinkImportModificationTime="2015-11-25T16:08:29" LinkImportTime="2015-12-15T13:44:36" LinkResourceSize="0~84c5e" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2203,30 +2109,30 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Figure 1. </Content>
+				<Content>Figure 1. Australia-specific VPN marketing. Source: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ee0" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fa7" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.ibvpn.com/australia-vpn-service/</Content>
 				</HyperlinkTextSource>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Recent developments in copyright law also bear directly on VPNs. In June 2015 federal legislation was passed that gives judges the power to block access to pirate websites such as The Pirate Bay. While the law is expected to mostly target file-sharing and streaming sites, the initial wording of the law was vague and many consumer groups feared that websites for VPN services could be blocked too. In the end the government was forced to add an Explanatory Memorandum specifying that the blocking should not apply to VPNs ‘that are promoted and used for legitimate purposes, or merely used to access legitimate copyright material distributed in a foreign geographic market’. But given that the marketing practices adopted by many VPNs are not always legitimate, there is still some ambiguity here. All this is happening at the same time that the Government is trying to introduce a new internet industry Code of Practice – a three-strikes graduated response scheme in which repeat offenders receive infringement notices. Like the metadata law, the three-strikes Code is likely to further increase demand for VPNs as an identity-masking tool for P2P users. In this complex game of whack-a-mole, public awareness of VPNs, proxies and other circumvention tools is always on the rise.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Coming of Netflix</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Another recent development is the launch in March 2015 of Netflix’s Australian service. For the first time Australians can now access an authorised, local version of the service, which should in theory reduce the appeal of geo-hacking. However, due to existing licensing agreements and limited investment in local content acquisition, the local Netflix has a much smaller library. Only 1116 streaming titles were available at launch, compared to 7000 in the United States. This is a sore point for Australian consumers, and it has attracted a lot of media attention.</Content>
 				<Br />
@@ -2240,13 +2146,13 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>References</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference-paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>‘Choice tells Australians to become digital smugglers’, ABC Radio </Content>
 			</CharacterStyleRange>
@@ -2257,7 +2163,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content> program, 23 March 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ee3" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fa9" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2277,7 +2183,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, 13 October 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ee5" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fab" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2309,7 +2215,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, 21 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ee6" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fad" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2333,7 +2239,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, October 2 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ee8" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fae" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2343,7 +2249,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>Richardson, David. ‘Copyright and Monopoly Profits: Books, Records and Software’, Current Issues Brief 15, 1996, The Parliament of Australia, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ee9" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1faf" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2359,7 +2265,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, July 22, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1eea" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fb0" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2487,94 +2393,108 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 115" DestinationUniqueKey="217" Name="URL 115" DestinationURL="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 116" DestinationUniqueKey="218" Name="URL 116" DestinationURL="numbering.xml" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 117" DestinationUniqueKey="219" Name="URL 117" DestinationURL="../customXml/item1.xml" Hidden="false" />
-	<Hyperlink Self="u1ef7" Name="http://www.ibvpn.com/australia-vpn-service/" Source="u1ee0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="211">
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 118" DestinationUniqueKey="220" Name="URL 118" DestinationURL="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 119" DestinationUniqueKey="221" Name="URL 119" DestinationURL="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 120" DestinationUniqueKey="222" Name="URL 120" DestinationURL="http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 121" DestinationUniqueKey="223" Name="URL 121" DestinationURL="https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 122" DestinationUniqueKey="224" Name="URL 122" DestinationURL="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 123" DestinationUniqueKey="225" Name="URL 123" DestinationURL="http://www.ibvpn.com/australia-vpn-service/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 124" DestinationUniqueKey="226" Name="URL 124" DestinationURL="http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 125" DestinationUniqueKey="227" Name="URL 125" DestinationURL="http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 126" DestinationUniqueKey="228" Name="URL 126" DestinationURL="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373." Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 127" DestinationUniqueKey="229" Name="URL 127" DestinationURL="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 128" DestinationUniqueKey="230" Name="URL 128" DestinationURL="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 129" DestinationUniqueKey="231" Name="URL 129" DestinationURL="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 130" DestinationUniqueKey="232" Name="URL 130" DestinationURL="numbering.xml" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 131" DestinationUniqueKey="233" Name="URL 131" DestinationURL="../customXml/item1.xml" Hidden="false" />
+	<Hyperlink Self="u1fbd" Name="http://www.ibvpn.com/australia-vpn-service/" Source="u1fa7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="225">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 109</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 123</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ef5" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Source="u1ee3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="210">
+	<Hyperlink Self="u1fbb" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Source="u1fa9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="224">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 108</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 122</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ef3" Name="https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax" Source="u1ee5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="209">
+	<Hyperlink Self="u1fb9" Name="https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax" Source="u1fab" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="223">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 107</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 121</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ef1" Name="http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns" Source="u1ee6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="208">
+	<Hyperlink Self="u1fb7" Name="http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns" Source="u1fad" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="222">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 106</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 120</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1eef" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373" Source="u1ee8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="207">
+	<Hyperlink Self="u1fb5" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373" Source="u1fae" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="221">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 105</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 119</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1eed" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 1" Source="u1ee9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="206">
+	<Hyperlink Self="u1fb3" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 1" Source="u1faf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="220">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 104</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 118</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1eeb" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Source="u1eea" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1fb1" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Source="u1fb0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1f07" Name="../customXml/item1.xml" Source="u1eb8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="219">
+	<Hyperlink Self="u1fcd" Name="../customXml/item1.xml" Source="u1f82" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 117</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 131</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1f05" Name="numbering.xml" Source="u1ebc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="218">
+	<Hyperlink Self="u1fcb" Name="numbering.xml" Source="u1f86" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 116</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 130</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1f03" Name="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Source="u1ebf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="217">
+	<Hyperlink Self="u1fc9" Name="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Source="u1f88" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 115</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 129</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1f01" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164 1" Source="u1ec3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="216">
+	<Hyperlink Self="u1fc7" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164 1" Source="u1f8d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 114</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 128</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1eff" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 2" Source="u1ec5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="215">
+	<Hyperlink Self="u1fc5" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 2" Source="u1f8f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="229">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 113</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 127</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1efd" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373." Source="u1ecb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="214">
+	<Hyperlink Self="u1fc3" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373." Source="u1f95" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="228">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 112</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 126</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1efb" Name="http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634" Source="u1ed0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="213">
+	<Hyperlink Self="u1fc1" Name="http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634" Source="u1f99" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="227">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 111</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 125</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ef9" Name="http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/" Source="u1ed2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="212">
+	<Hyperlink Self="u1fbf" Name="http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/" Source="u1f9c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="226">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 110</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 124</Destination>
 		</Properties>
 	</Hyperlink>
 </Document>

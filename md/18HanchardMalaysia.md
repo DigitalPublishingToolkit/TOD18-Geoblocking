@@ -30,9 +30,9 @@ video at least once a month[^13HanchardMalaysia_2]
 - RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
 
-> “iFlix will fight entertainment piracy and provide an entirely new and
+> 'iFlix will fight entertainment piracy and provide an entirely new and
 legitimate way for the region’s hundreds of millions of internet users
-to enjoy their favourite films and television shows.” -Press release
+to enjoy their favourite films and television shows.' -Press release
 from Catcha Group’s iFlix, March 2015.[^13HanchardMalaysia_1]
 
 </div>

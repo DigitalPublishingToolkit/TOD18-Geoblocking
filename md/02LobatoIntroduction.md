@@ -338,7 +338,7 @@ was used primarily as a business networking tool until the early 2000s
 when it morphed into a personal computing product. Since then hundreds
 of small VPN companies have appeared and disappeared (by our count,
 there are at least 140 VPN brands in the market). In addition to these
-international VPNs, there are also “local” VPNs running in some
+international VPNs, there are also 'local' VPNs running in some
 countries, notably Iran, which have Persian-language interfaces and
 local payment systems. There is much scepticism as to the bona fides of
 these companies, which are seen to be government-linked, but people use

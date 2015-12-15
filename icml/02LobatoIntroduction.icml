@@ -2,6 +2,7 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="11.0(72)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
+	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
@@ -43,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -84,12 +72,29 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans (OTF)">
-		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+	<FontFamily Self="di15e9" Name="HK Grotesk">
+		<Font Self="di15e9FontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
+		<Font Self="di15e9FontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di1607" Name="Lato">
+		<Font Self="di1607FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di1607FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -130,25 +135,21 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic" VerticalScale="101" Skew="12">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Link" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Link">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/No-break" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="No-break">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -158,100 +159,123 @@
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" SpaceAfter="17.007874015748033" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">14</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Author" Name="Author" Imported="false" NextStyle="ParagraphStyle/Author" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceAfter="8.503937007874017" FillTint="100" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Open Sans (OTF)</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/No-break</AppliedCharacterStyle>
-						<GrepExpression type="string">(?&lt;=\w)\s(?=\w+[[:punct:]]*\r)</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10</Leading>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Black" SpaceBefore="8.503937007874017" SpaceAfter="5.669291338582678">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/BulList &gt; Paragraph" Name="BulList &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/BulList &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" LeftIndent="19.84251968503937" SpaceBefore="5.669291338582678" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10.8</Leading>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-				</TabList>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" Imported="false" NextStyle="ParagraphStyle/Caption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="8" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
-						<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" LeftIndent="14.173228346456694" SpaceBefore="5.669291338582678" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Reference-paragraph" Name="Reference-paragraph" Imported="false" NextStyle="ParagraphStyle/Reference-paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="8" GridAlignFirstLineOnly="true">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">9</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text" Name="$ID/Page &gt; Running Text">
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aHeadings" Name="$ID/Page &gt; Running Text:Headings">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" Name="Page &gt; Running Text:Headings:Header1 (title of the part)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">17</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" Name="Page &gt; Running Text:Headings:Header2 (subtitle)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">12</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBullet list" Name="Page &gt; Running Text:Text:Bullet list" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBullet list" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" LeftIndent="11.338582677165356" FirstLineIndent="-5.669291338582678" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" BulletsAndNumberingListType="BulletList" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<TabList type="list">
+							<ListItem type="record">
+								<Alignment type="enumeration">LeftAlign</Alignment>
+								<AlignmentCharacter type="string">.</AlignmentCharacter>
+								<Leader type="string"></Leader>
+								<Position type="unit">8.503937007874017</Position>
+							</ListItem>
+							<ListItem type="record">
+								<Alignment type="enumeration">LeftAlign</Alignment>
+								<AlignmentCharacter type="string">.</AlignmentCharacter>
+								<Leader type="string"></Leader>
+								<Position type="unit">11.338582677165356</Position>
+							</ListItem>
+							<ListItem type="record">
+								<Alignment type="enumeration">LeftAlign</Alignment>
+								<AlignmentCharacter type="string">.</AlignmentCharacter>
+								<Leader type="string"></Leader>
+								<Position type="unit">14.173228346456694</Position>
+							</ListItem>
+							<ListItem type="record">
+								<Alignment type="enumeration">LeftAlign</Alignment>
+								<AlignmentCharacter type="string">.</AlignmentCharacter>
+								<Leader type="string"></Leader>
+								<Position type="unit">17.007874015748033</Position>
+							</ListItem>
+						</TabList>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+						<BulletChar BulletCharacterType="UnicodeWithFont" BulletCharacterValue="8226" />
+						<BulletsFont type="string">Helvetica Neue</BulletsFont>
+						<BulletsFontStyle type="string">Light</BulletsFontStyle>
+						<BulletsCharacterStyle type="object">CharacterStyle/Default</BulletsCharacterStyle>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" Name="Page &gt; Running Text:Text:Caption" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">8</Leading>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<AllGREPStyles type="list">
+							<ListItem type="record">
+								<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
+								<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
+							</ListItem>
+						</AllGREPStyles>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" Name="Page &gt; Running Text:Text:Blockquote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" LeftIndent="10" AppliedLanguage="$ID/English: USA" SpaceBefore="2.834645669291339" SpaceAfter="2.834645669291339" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aReferences (end of each part)" Name="$ID/Page &gt; Running Text:References (end of each part)">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" Name="Page &gt; Running Text:References (end of each part):Reference List" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+		</ParagraphStyleGroup>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
 			<Properties>
 				<Leading type="enumeration">Auto</Leading>
@@ -291,6 +315,13 @@
 				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
 				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
 				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DiacriticPosition="OpentypePosition">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -470,29 +501,54 @@
 	<Story Self="u140b" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The New Video Geography: An Introduction To Geoblocking and Global Video Culture</Content>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" HyphenationZone="35.64356435643565" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">16.831683168316832</Leading>
+				</Properties>
+				<Content>The New Video Geography: An Introduction To</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Bold Italic" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">16.831683168316832</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Bold" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">16.831683168316832</Leading>
+					<AppliedFont type="string">Lato</AppliedFont>
+				</Properties>
+				<Content>Geoblocking and Global Video Culture</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Properties>
+					<Leading type="unit">16.831683168316832</Leading>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Author">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" HyphenationZone="35.64356435643565" SpaceBefore="8.419739611756452" SpaceAfter="8.419739611756452" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9.900990099009901" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>Ramon Lobato</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" HyphenationZone="35.64356435643565" SpaceAfter="5.613159741170968" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>This book is about the cultural geography of video streaming. It is about platforms – YouTube, iPlayer, DailyMotion, Netflix, Periscope, Youku – and how they manage their international audiences and shape them into markets. It is about governments, state institutions and public-service broadcasters, and the technologies they use to regulate video flows across national borders. It is about users and audiences, and how they negotiate diverse forms of access and restriction. Above all, it is about cultural circulation – how different kinds of content reach dispersed audiences through authorized and unauthorized channels.</Content>
 				<Br />
 				<Content>As an entry point into these wider issues, contributors to this book focus on a specific technology of access control: geoblocking. Geoblocking, a spatially-aware filtering technology that uses IP address detection to determine a user’s location, has become a key mechanism for managing international video streaming traffic and maintaining separation of national media markets. The process is simple: when you visit a website, your IP address (e.g. 198.8.80.200) is run through a database to identify your ISP and geographic location, which is then matched against a blacklist or whitelist to establish access rights. If you are in an approved location, access is granted and the video automatically plays. Those outside the authorized zone will likely see a familiar error message – something like ‘this video is not available in your region’ – or perhaps an endlessly buffering screen.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Most major video platforms use geoblocking to filter international audiences. Geoblocking allows these platforms to customise their offerings according to territory, language, and advertising markets, and provides an automated mechanism to enforce territorial licensing arrangements with rights-holders. In this sense it is a form of access control enacted at the level of content and platform regulation, rather than network infrastructure.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" LeftIndent="16.839479223512903" FirstLineIndent="-16.839479223512903" HyphenationZone="35.64356435643565" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -507,25 +563,35 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" LeftIndent="16.839479223512903" FirstLineIndent="-16.839479223512903" HyphenationZone="35.64356435643565" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> But geoblocking has more subtle effects as well. Like search localisation and algorithmic recommendation, geoblocking is a ‘soft’ form of cultural regulation. Its widespread adoption is changing the nature of the open internet by locating users within national cyberspaces and customising content based on certain ideas about territorial markets.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" HyphenationZone="35.64356435643565" SpaceAfter="5.613159741170968" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>Geoblocking and Global Video Culture</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+				<Content> takes thse issues as the basis for a critical and eclectic discussion of the internet’s changing cultural geography. Many contributors to this book are screen scholars, interested in the politics of media globalisation and how this translates into the digital environment. Other contributors approach the topic through </Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> takes these issues as the basis for a critical and eclectic discussion of the internet’s changing cultural geography. Many contributors to this book are screen scholars, interested in the politics of media globalisation and how this translates into the digital environment. Other contributors approach the topic through legal analysis, cultural history, and spatial theory. Together, these essays offer a series of distinctive stories about a fast-changing and complex issue. Mixing macro-level insights with bottom-up accounts of everyday user experience, and moving from Europe to South America to the Asia-Pacific, the various essays in this book provide provocative arguments about the cultural implications of the new video geography.</Content>
+				<Content>legal analysis, cultural history, and spatial theory. Together, these essays offer a series of distinctive stories about a fast-changing and complex issue. Mixing macro-level insights with bottom-up accounts of everyday user experience, and moving from Europe to South America to the Asia-Pacific, the various essays in this book provide provocative arguments about the cultural implications of the new video geography.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>A major theme of the book is circumvention. As with many digital rights management technologies, geoblocking systems can be easily tricked. In recent years the appearance of user-friendly circumvention tools – including VPNs (virtual private networks), DNS (domain name system) proxies, web proxies, and location-masking browser extensions – has unleashed a wave of unauthorised cross-border media activity, allowing audiences to easily access streaming, news and sports services from other countries. As we shall soon see, these and other tools are used by a wide cross-section of users, and for remarkably different purposes. In exploring these various forms of blockage and circumvention, and the connections between them, our aim is to tell a different kind of story about internet blocking beyond the ‘digital divide’ paradigm.</Content>
 				<Br />
 				<Content>Geoblocking circumvention is closely linked to other issues including internet governance, censorship, and cultural policy, because the same privacy tools that can be used to hack into iPlayer or Netflix are in other contexts used to get around state internet censorship. As researchers at Harvard University’s Berkman Center for internet and Society have documented, global circumvention – encompassing the use of commercial VPNs, activist-designed tools, simple web proxies and HTTP/SOCKS proxies – is an activity that involves tens of millions of internet users worldwide.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -558,6 +624,7 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -569,19 +636,19 @@
 				<Content>Geoblocking and Global Video Culture</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> is to explore linkages between these various blocking and circumvention practices – site-blocking, geoblocking, and the tactics people use to get around them. To this end, we have organized the book into two sections. The first section, ‘Perspectives on Geoblocking’, probes the historical, legal and cultural dimensions of geo-location and region control in media industries. These essays investigate a diverse array of platforms – from live-streaming apps and illegal streaming websites to the game consoles of the 1980s – and provide theoretical tools to understand the evolution of regional lock-out technologies in particular media sectors. The second section, ‘Circumvention Case Studies’, looks at these issues from the ground up, by analysing how users negotiate geoblocking and internet filtering controls in different countries. Here, our seven contributors – experts on informal media circulation that we have collaborated with over the course of a year-long research project – have written vivid first-hand accounts of ground-level circumvention practices in nine countries: China, Australia, Turkey, Sweden, Malaysia, Brazil, Iran, Cuba and the United States. Each of these countries has a different story to tell when it comes to geoblocking, and together these accounts provide a fascinating snapshot of global circumvention practice (broadly defined).</Content>
+				<Content> is to explore linkages between these various blocking and circumvention practices – site-blocking, geoblocking, and the tactics people use to get around them. To this end, we have organized the book into two sections. The first section, ‘Perspectives on Geoblocking’, probes the historical, legal and cultural dimensions of geo-location and region control in media industries. These essays investigate a diverse array of platforms – from live-streaming apps and illegal streaming websites to the game consoles of the 1980s – and provide theoretical tools to understand the evolution of regional lock-out technologies in particular media sectors. The second section, ‘Circumvention Case Studies’, looks at these issues from the ground up, by analysing how users negotiate geoblocking and internet filtering controls in different countries. Here, our nine contributors – experts on informal media circulation that we have collaborated with over the course of a year-long research project – have written vivid first-hand accounts of ground-level circumvention practices in nine countries: China, Australia, Turkey, Sweden, Malaysia, Brazil, Iran, Cuba and the United States. Each of these countries has a different story to tell when it comes to geoblocking, and together these accounts provide a fascinating snapshot of global circumvention practice (broadly defined).</Content>
 				<Br />
 				<Content>To provide a taste of what is to come, I will now introduce three cross-cutting issues that connect the various essays in this book. First, I discuss the experience of blockage as a foundational logic of the internet; second, the history of circumvention technologies and practices; and third, the relationship between political censorship and pleasurable consumption, as seen through the lens of geoblocking.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Blockage and Flow</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>One of our starting points when developing the idea for this book was the uncontroversial observation that, for many internet users, the experience of online video is characterised by blockage rather than flow. Governments (and ISPs) block internet sites for reasons related to public policy and political expediency. Media companies use geo-filtering to screen out undesirable audiences. Poor infrastructure and choked servers lead to delays, dropouts and buffering. The end result of these back-end blockages, from the perspective of the end-user, is that digital video culture becomes a set of unevenly distributed experiences with a peculiar geography of availability and unavailability. As Ira Wagman and Peter Urquhart observe, ‘the fact remains that </Content>
 			</CharacterStyleRange>
@@ -599,7 +666,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -614,6 +681,7 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
@@ -622,7 +690,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBullet list">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>YouTube is available in 70 different country-specific versions, including dedicated platforms for small countries such as Latvia and Yemen. But it is blocked in China, Iran, Pakistan and Syria, among other countries, and is intermittently unavailable in Thailand, Turkey, Bangladesh and Morocco.</Content>
 				<Br />
@@ -636,17 +704,17 @@
 				<Br />
 				<Content>Wealthy countries have abundant local catch-up TV while poorer countries have little or none, and rely on piracy as a post-broadcast circulatory system.</Content>
 				<Br />
-				<Content>As this list suggests, video services are fast and free in some countries but are unavailable or prohibitively expensive in others. These examples underscore the enduring importance of geography to digital video culture, reminding us that where we live – or at least where websites think we live – makes a big difference to how we experience the digital.</Content>
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>As this list suggests, video services are fast and free in some countries but are unavailable or prohibitively expensive in others. These examples underscore the enduring importance of geography to digital video culture, reminding us that where we live – or at least where websites think we live – makes a big difference to how we experience the digital.</Content>
+				<Br />
 				<Content>Jack Goldsmith and Tim Wu argue that internet history since the late 1990s can be described as a process of ‘becoming bordered’. ‘The result,’ they write, ‘is an internet that differs among nations and regions that are increasingly separated by walls of bandwidth, language, and filters’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -661,6 +729,7 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -678,7 +747,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -692,13 +761,12 @@
 							<Content>, 24 Feb 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1425" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1549" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://flowtv.org/2014/02/adverstreaming-hulu-plus/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>.</Content>
-							<Br />
+							<Content>. </Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -710,7 +778,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -727,8 +795,7 @@
 							<Content>Envisioning Media Power: On Capital and Geographies of Television</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> Lanham: Lexington Books, 2009.</Content>
-							<Br />
+							<Content> Lanham: Lexington Books, 2009. </Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -752,7 +819,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -767,6 +834,7 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -774,30 +842,30 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Control and Circumvention</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>A second cross-cutting theme in our book is circumvention – the tactics, tools and workarounds that people use to access blocked video sites. As our contributors elegantly describe, the geography of blockage and flow is provisional rather than absolute because internet users have many ways to work around geographic restrictions. Indeed, IP address geoblocking is particularly easy to circumvent through basic software tools – including VPNs, DNS proxies, web proxies, and TOR – which can unlock geo-restricted content by rerouting data through an offshore IP address, making it appear as though the user is located in another country. In recent years a growing ecology of circumvention tools has emerged, including free ad-supported services (Hotspot Shield, Hola, Addtele), subscription VPNs (Private internet Access, HotSpotNordVPN, TigerVPN), and DNS proxies designed explicitly for unlocking offshore content (Unblock-US, Getflix).</Content>
+				<Content>A second cross-cutting theme in our book is circumvention – the tactics, tools and workarounds that people use to access blocked video sites. As our contributors elegantly describe, the geography of blockage and flow is provisional rather than absolute because internet users have many ways to work around geographic restrictions. Indeed, IP address geoblocking is particularly easy to circumvent through basic software tools – including VPNs, DNS proxies, web proxies, and TOR – which can unlock geo-restricted content by rerouting data through an offshore IP address, making it appear as though the user is located in another country. In recent years a growing ecology of circumvention tools has emerged, including free ad-supported services (Hotspot Shield, Hola, Addtelly), subscription VPNs (Private internet Access, HotSpotNordVPN, TigerVPN), and DNS proxies designed explicitly for unlocking offshore content (Unblock-US, Getflix).</Content>
 				<Br />
-				<Rectangle Self="u142b" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u154f" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -292.4566929133857">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+									<PathPointType Anchor="-75 292.4566929133857" LeftDirection="-75 292.4566929133857" RightDirection="-75 292.4566929133857" />
+									<PathPointType Anchor="75 292.4566929133857" LeftDirection="75 292.4566929133857" RightDirection="75 292.4566929133857" />
 									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
 					</Properties>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="-7.086614173226735" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
@@ -805,14 +873,14 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="51.56998895348062" BottomCrop="657.6339624580223" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="1.3404173898723002" BottomCrop="-1.2180590229162362" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1511" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="269 269" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.44554857373937845 0 0 0.4455485737393785 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u15d3" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="310 310" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.38770389230749036 0 0 0.38770389230749036 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAJDtAgCAOFut9/wKCQJvQVuwmEQqGN1uwqIuFuROKwWLxSLNyMRyKR5uSBtxiRxSStyStuUt
@@ -4182,9 +4250,9 @@ X9VkX83lSNMlQ9PVNNO0lc2afFVD/8pcSVVAzVTdZtWtPNRlaFUQzUFNZ1HROtLjKqrdNdMtMZds
 mdVk37X9Zgf9SFMlIsk1U1cVb8xNUDXqsjW4yD/MmZPgx0Y1eagFfUZUZiqVGiqUZ4mkfpUch8bB
 45UM/D2gh7Q8fYhDVFhB2p4NEU95yz7rU9EAqL+Ao1CT40ixSFCykSkT9jMQsQt4gIAACAAAAEz3
 AQBD9wEAI/YAADYAAAABAAAANgAAAAEAAAAOAAABBAABAAAAJAEAAAEBBAABAAAAlgIAAAIBAwAB
-AAAACAAAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAACAAAAcO0CABUBAwABAAAABAAAABYB
-BAABAAAAwAEAABcBBAACAAAAeO0CABoBBQABAAAAgO0CABsBBQABAAAAiO0CABwBAwABAAAAAQAA
-AlIBAwABAAAAAgAAADWCAQABAAAAACYAAgAAAAA=]]></GraphicProxy>
+AAAACAAAAAMBAwABAAAABQA1AQYBAwABAAAAAgAAABEBBAACAAAAcO0CABUBAwABAAAABAAAABYB
+BAABAAAAwAEAABcBBAACAAAAeO0CABoBBQABAAAAgO0CABsBBQABAAAAiO0CABwBAwABAAAAAQBW
+GVIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="388.2336185575152" Bottom="882.0763821940453" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -4210,7 +4278,7 @@ AlIBAwABAAAAAgAAADWCAQABAAAAACYAAgAAAAA=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u142f" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130916320820000000 597013" LinkImportModificationTime="2015-11-10T13:28:02" LinkImportTime="2015-12-08T15:32:43" LinkResourceSize="0~91c15" />
+						<Link Self="u1553" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130916320820000000 597013" LinkImportModificationTime="2015-11-10T13:28:02" LinkImportTime="2015-12-14T13:52:32" LinkResourceSize="0~91c15" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -4218,28 +4286,28 @@ AlIBAwABAAAAAgAAADWCAQABAAAAACYAAgAAAAA=]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Figure 1. A VPN server selection menu</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1432" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1555" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -86">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 86" LeftDirection="-75 86" RightDirection="-75 86" />
+									<PathPointType Anchor="189.75590551181108 86" LeftDirection="189.75590551181108 86" RightDirection="189.75590551181108 86" />
+									<PathPointType Anchor="189.75590551181108 -50" LeftDirection="189.75590551181108 -50" RightDirection="189.75590551181108 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
 					</Properties>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="-9.373785863945614" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
@@ -4247,14 +4315,14 @@ AlIBAwABAAAAAgAAADWCAQABAAAAACYAAgAAAAA=]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="662.7132690991897" BottomCrop="209.188702643978" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="-4.1100363105513225" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1519" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="697 697" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17209342352138898 0 0 0.17209342352138896 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u15db" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="697 697" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17209342352138898 0 0 0.17209342352138896 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqABhyCwCAACBP+BACCQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS
@@ -17419,7 +17487,7 @@ w39EtoIfTg2v+Evw443cvYII0ksMuksUwgigIogBqQD/JBqP7/J5rPr/KxrPj/L5uPz/MpxQT/M5
 AAgAAACY3QMAlEwJAI7dAwD7bgUAWyUCACQAAAABAAAAJAAAAAEAAAAOAAABBAABAAAAAAMAAAEB
 BAABAAAAjAEAAAIBAwABAAAACAAAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAADAAAA8HEL
 ABUBAwABAAAABAAAABYBBAABAAAAqgAAABcBBAADAAAA/HELABoBBQABAAAACHILABsBBQABAAAA
-EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
+EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="1534.3328634490979" Bottom="790.2684322105835" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -17443,21 +17511,29 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1436" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130906565240000000 2904881" LinkImportModificationTime="2015-10-30T06:28:44" LinkImportTime="2015-12-08T15:32:43" LinkResourceSize="0~2c5331" />
+						<Link Self="u155a" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130906565240000000 2904881" LinkImportModificationTime="2015-10-30T06:28:44" LinkImportTime="2015-12-14T13:52:32" LinkResourceSize="0~2c5331" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Figure 2. VPN marketing highlights unblocking functions</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Circumvention is a complex topic, because most technologies used for geoblocking circumvention were not designed for this purpose and have other, licit functions. For example, VPNs are a popular security tool with privacy-conscious internet users who want extra protection when using public wifi networks. Others use VPNs for business-related networking or to dial into remote servers when working from home. There is nothing questionable about these activities, which are increasingly part of mainstream computer use. Indeed, many consumer groups advocate VPN adoption as a protection measure against hacking and identity theft. But VPNs are confounding objects for internet governance because they erode the link between IP address, location and identity. Allowing users to ‘tunnel’ outside national borders, they offer an ideal workaround for geoblocking, filtering and site-blocking, while presenting complex challenges for governments and media corporations.</Content>
 				<Br />
 				<Content>Our point here is that there are different kinds of circumvention and proxying practices, associated with different kinds of internet use, and enabled by different kinds of software tools – and none of these things can be conflated in a straightforward manner. As Roberts, Zuckerman and Palfrey write, circumvention needs to be understood as ‘a large topic that reaches deeply into a number of other large topics, including filtering, privacy, surveillance, and content neutrality’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -17472,6 +17548,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -17481,13 +17558,13 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Br />
 				<Content>Thinking about circumvention from this perspective makes visible an array of everyday location-masking practices, from prosaic acts of access (Chinese teenagers using proxies to log into Facebook and YouTube, German tourists streaming Euro league matches) through to more overtly political resistances (as when Turkish activists share proxy settings in defiance of government internet censorship). So there is a nexus here between corporate media policies, censorship and circumvention, which are all linked through the use of informal software hacks. As our contributors show, this nexus is a rich site for theorising. In the small-scale tactics of internet circumvention we see larger stories unfolding about cultural regulation, networked activism, and cyber-identity.</Content>
 				<Br />
-				<Content>There are also interesting possibilities here for media historiography, and for understanding the social shaping of network technologies. Each piece of circumvention software has its own fascinating and largely untold history: the VPN, for example, has been around for decades and was used primarily as a business networking tool until the early 2000s when it morphed into a personal computing product. Since then hundreds of small VPN companies have appeared and disappeared (by our count, there are at least 140 currently operating). In addition to these international VPNs, there are also “local” VPNs running in some countries, notably Iran, which have Persian-language interfaces and local payment systems. There is much scepticism as to the bona fides of these companies, which are seen to be government-linked, but people use them anyway because they are functional and cheap. In this unusual state-supervised circumvention practice we see a strange mix of sanctioned and unauthorised, formal and informal, all blurring together.</Content>
+				<Content>There are also interesting possibilities here for media historiography, and for understanding the social shaping of network technologies. Each piece of circumvention software has its own fascinating and largely untold history: the VPN, for example, has been around for decades and was used primarily as a business networking tool until the early 2000s when it morphed into a personal computing product. Since then hundreds of small VPN companies have appeared and disappeared (by our count, there are at least 140 VPN brands in the market). In addition to these international VPNs, there are also ‘local’ VPNs running in some countries, notably Iran, which have Persian-language interfaces and local payment systems. There is much scepticism as to the bona fides of these companies, which are seen to be government-linked, but people use them anyway because they are functional and cheap. In this unusual state-supervised circumvention practice we see a strange mix of sanctioned and unauthorised, formal and informal, all blurring together.</Content>
 				<Br />
 				<Content>Some popular VPNs, such as the British service Hide My Ass, have become major commercial enterprises. Founded in 2005 by a sixteen year old high-school student from Norfolk, Jack Cator, Hide My Ass has built itself into a mainstream privacy brand. Between its current VPN offering and its older web proxy service – which was tailor-made for kids to get around social media blocks on school computers – Hide My Ass claims to have had more than two million customers over the years, with 200,000 paying subscribers currently on the books, and almost 100 staff based in London, Kiev and Belgrade. This growth has paid off handsomely for Cator, who in 2015 cashed in and sold his business to the antivirus company AVG for £40 million.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -17501,13 +17578,20 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Content>, 18 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u143b" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u155f" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.bbc.com/news/business-32702501</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>.</Content>
+							<Content>. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 							<Br />
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> </Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -17518,7 +17602,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -17532,7 +17616,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Content>, 29 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u143d" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1561" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -17541,6 +17625,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -17552,13 +17637,13 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Censorship and Consumption</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>A third theme in this book is the relationship between market and state – or more specifically, the relationship between commercial technologies of access control and government site-blocking, surveillance and censorship. As we have seen already, from the user’s perspective these two realities are closely intertwined: the geography of digital markets is overlaid with a political geography of unavailability. While technologically distinct, these two control systems need to be considered in tandem if we are to understand their cultural ramifications.</Content>
 				<Br />
@@ -17574,7 +17659,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -17589,23 +17674,24 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In Europe, the politics of geoblocking are quite different. With its dense patchwork of languages, borders and diasporas, Europe has long been a hotbed of unauthorised cross-border media consumption: people watch satellite TV signals meant for other nations, buy multiply-subtitled DVDs, and make shopping trips to neighbouring countries where prices are cheaper. This is an enduring feature of European consumption, one that has diminished little with the establishment of a single currency. While much policy attention is now directed at the creation of an EU Digital Single market – in which all 28 EU member countries would share common pricing and availability for digital goods – intra-European variances in price and availability naturally persist.</Content>
+				<Content>In Europe, the politics of geoblocking are quite different. With its dense patchwork of languages, borders and diasporas, Europe has long been a hotbed of unauthorised cross-border media consumption: people watch satellite TV signals meant for other nations, buy multiply-subtitled DVDs, and make shopping trips to neighbouring countries where prices are cheaper. This is an enduring feature of European consumption, one that has diminished little with the establishment of a single currency. While much policy attention is now directed at the creation of an EU Digital Single Market – in which all 28 EU member countries would share common pricing and availability for digital goods – intra-European variances in price and availability naturally persist.</Content>
 				<Br />
-				<Content>Within the European integration project, geoblocking is starting to be seen by as an anti-competitive – indeed, anti-European – technological restriction on free trade. Andrus Ansip, the former Estonian prime minister and current European Commission vice-president, has been leading the charge. Since 2014, “tackling geoblocking” has been an official policy priority of the European Commission. Its Digital Single Market policy reads like a </Content>
+				<Content>Within the European integration project, geoblocking is starting to be seen by as an anti-competitive – indeed, anti-European – technological restriction on free trade. Andrus Ansip, the former Estonian prime minister and current European Commission vice-president, has been leading the charge. Since 2014, ‘tackling geoblocking’ has been an official policy priority of the European Commission. Its Digital Single Market policy reads like a </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Lifehacker</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> post: “Geo-blocking leaves many Europeans unable to use the online services available in other EU countries, or redirects them to a local store with different prices… Such discrimination cannot exist in a single market.”</Content>
+				<Content> post: ‘Geo-blocking leaves many Europeans unable to use the online services available in other EU countries, or redirects them to a local store with different prices… Such discrimination cannot exist in a single market.’</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -17613,7 +17699,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Content>	European Commission, ‘Better Online Access to Digital Services’, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1443" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1567" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://ec.europa.eu/priorities/digital-single-market/access/index_en.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -17622,10 +17708,11 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Here we see the “merely cultural” issue of geoblocking framed quite seriously as a threat to continental capitalism and its cherished values of free trade, consumer rights, and smart regulation.</Content>
+				<Content> Here we see the ‘merely cultural’ issue of geoblocking framed quite seriously as a threat to continental capitalism and its cherished values of free trade, consumer rights, and smart regulation.</Content>
 				<Br />
 				<Content>The politics of blockage and flow are different again in China, where a fast-growing domestic media sector – including a massive digital media production ecology – is overlaid with a carefully managed state system of site blocks, filtering and slow-downs, designed to temper demand for offshore services (especially Facebook and Google) and direct this inward to the local, regulated alternatives. For China the geoblocking issue is not so much the unavailability of content; when it comes to Chinese-language media and services, everything you would need is now inside the Great Firewall. Instead, it is about how and why certain user groups feel the need to climb this wall. As Jinying Li’s chapter in this book evocatively describes, ‘wall crossing’ desire is widespread but unevenly distributed among the middle classes, and linked in complex ways to internal governance.</Content>
 				<Br />
@@ -17637,13 +17724,13 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The network society affords various kinds of access: to the rich consumer, video-on-demand (VOD), and to the genuinely wealthy subscription or sale models which avoid the dull necessity of paying attention to ads. For the Chinese masses, the protection of the Golden Shield; for the wealthy, Virtual Private Networks (VPNs) which fasttrack past the firewall like express check-in at the airport. For the ordinary punter, a data feed from Bloomberg; for the wealthy subscriber, real-time data on every stock for sale on every market.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -17658,23 +17745,24 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>It may be that VPNs, proxies, and other geo-evasion technologies provide a set of popular technical competencies that are, taken together, laying the foundations for a global geo-circumvention system. This system connects politics with pleasure; connects censorship with consumption; embraces cutting-edge technologies while drawing on longer prehistories of cross-border arbitrage; and brings activists, file-sharers, hackers and mainstream users into unlikely and uncomfortable contact with each other. The politics of circumvention are anything but straightforward, as our authors illustrate. But in their complexity they provide the coordinates for a different map of cultural power, and a new way to think about the geopolitics of internet control.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>References</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Christophers, Brett. </Content>
 			</CharacterStyleRange>
@@ -17692,7 +17780,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> 31 (2014): 185-199.</Content>
 				<Br />
-				<Content>Deibert, Ronald et al (eds). </Content>
+				<Content>Deibert, Ronald et al. (eds). </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Access Controlled: The Shaping of Power, Rights, and Rule in Cyberspace</Content>
@@ -17719,7 +17807,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Content>European Commission, ‘Better Online Access to Digital Services’, n.d., </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1447" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u156b" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17743,7 +17831,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Content>, 24 Feb 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1449" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u156d" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://flowtv.org/2014/02/adverstreaming-hulu-plus/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17783,7 +17871,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Content>, 29 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u144b" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u156f" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17792,7 +17880,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference-paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Roberts, Hal et al. </Content>
 			</CharacterStyleRange>
@@ -17800,7 +17888,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Content>2010 Circumvention Tool Usage Report</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge, MA: Berkman Center for Internet and Society, 2010</Content>
+				<Content>, Cambridge, MA: Berkman Center for Internet and Society, 2010.</Content>
 				<Br />
 				<Content>Roberts, Hal, Ethan Zuckerman, and John Palfrey, </Content>
 			</CharacterStyleRange>
@@ -17819,7 +17907,7 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 				<Content>, 18 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u144d" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1571" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.bbc.com/news/business-32702501</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17859,52 +17947,59 @@ EHILABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAFg0AQAAAAA=]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 11" DestinationUniqueKey="113" Name="URL 11" DestinationURL="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 12" DestinationUniqueKey="114" Name="URL 12" DestinationURL="http://www.bbc.com/news/business-32702501" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 13" DestinationUniqueKey="115" Name="URL 13" DestinationURL="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Hidden="false" />
-	<Hyperlink Self="u1454" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm" Source="u1447" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="111">
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 14" DestinationUniqueKey="116" Name="URL 14" DestinationURL="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 15" DestinationUniqueKey="117" Name="URL 15" DestinationURL="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 16" DestinationUniqueKey="118" Name="URL 16" DestinationURL="http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 17" DestinationUniqueKey="119" Name="URL 17" DestinationURL="http://ec.europa.eu/priorities/digital-single-market/access/index_en.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 18" DestinationUniqueKey="120" Name="URL 18" DestinationURL="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 19" DestinationUniqueKey="121" Name="URL 19" DestinationURL="http://www.bbc.com/news/business-32702501" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 20" DestinationUniqueKey="122" Name="URL 20" DestinationURL="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Hidden="false" />
+	<Hyperlink Self="u1578" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm" Source="u156b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="118">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 9</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 16</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1452" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Source="u1449" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="110">
+	<Hyperlink Self="u1576" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Source="u156d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="117">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 8</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 15</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1450" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Source="u144b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="109">
+	<Hyperlink Self="u1574" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Source="u156f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="116">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 7</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 14</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u144e" Name="http://www.bbc.com/news/business-32702501" Source="u144d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1572" Name="http://www.bbc.com/news/business-32702501" Source="u1571" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u145c" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/ 1" Source="u1425" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="115">
+	<Hyperlink Self="u1580" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/ 1" Source="u1549" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="122">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 13</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 20</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u145a" Name="http://www.bbc.com/news/business-32702501 1" Source="u143b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="114">
+	<Hyperlink Self="u157e" Name="http://www.bbc.com/news/business-32702501 1" Source="u155f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="121">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 12</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 19</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1458" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html 1" Source="u143d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="113">
+	<Hyperlink Self="u157c" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html 1" Source="u1561" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="120">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 11</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 18</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1456" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.html" Source="u1443" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="112">
+	<Hyperlink Self="u157a" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.html" Source="u1567" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="119">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 10</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 17</Destination>
 		</Properties>
 	</Hyperlink>
 </Document>

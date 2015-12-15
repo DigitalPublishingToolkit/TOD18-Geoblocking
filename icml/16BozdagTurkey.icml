@@ -2,8 +2,9 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="11.0(72)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
-	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
@@ -84,51 +85,29 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans (OTF)">
-		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+	<FontFamily Self="di20f0" Name="Lato">
+		<Font Self="di20f0FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di20f0FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di1bd2" Name="Lato">
-		<Font Self="di1bd2FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e7e" Name="Lato">
-		<Font Self="di1e7eFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e81" Name="Lato">
-		<Font Self="di1e81FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+	<FontFamily Self="di20f9" Name="HK Grotesk">
+		<Font Self="di20f9FontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
+		<Font Self="di20f9FontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -169,10 +148,11 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
+		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Link" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Link">
@@ -181,115 +161,89 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/No-break" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="No-break">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" Name="$ID/[No character style]" />
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" SpaceAfter="17.007874015748033" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">14</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Author" Name="Author" Imported="false" NextStyle="ParagraphStyle/Author" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceAfter="8.503937007874017" FillTint="100" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Open Sans (OTF)</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/databox list" Name="databox list" Imported="false" NextStyle="ParagraphStyle/databox list" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" LeftIndent="19.84251968503937" RightIndent="14.173228346456694" SpaceBefore="19.84251968503937" Justification="LeftJustified" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">28.34645669291339</Position>
-					</ListItem>
-				</TabList>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/No-break</AppliedCharacterStyle>
-						<GrepExpression type="string">(?&lt;=\w)\s(?=\w+[[:punct:]]*\r)</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" Imported="false" NextStyle="ParagraphStyle/Caption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="8" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
-						<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Black" SpaceBefore="8.503937007874017" SpaceAfter="5.669291338582678">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10</Leading>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Reference-paragraph" Name="Reference-paragraph" Imported="false" NextStyle="ParagraphStyle/Reference-paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="8" GridAlignFirstLineOnly="true">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">9</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text" Name="$ID/Page &gt; Running Text">
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aHeadings" Name="$ID/Page &gt; Running Text:Headings">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" Name="Page &gt; Running Text:Headings:Header1 (title of the part)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">17</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" Name="Page &gt; Running Text:Headings:Header2 (subtitle)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">12</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" Name="Page &gt; Running Text:Text:Caption" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">8</Leading>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<AllGREPStyles type="list">
+							<ListItem type="record">
+								<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
+								<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
+							</ListItem>
+						</AllGREPStyles>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aReferences (end of each part)" Name="$ID/Page &gt; Running Text:References (end of each part)">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" Name="Page &gt; Running Text:References (end of each part):Reference List" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+		</ParagraphStyleGroup>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
 			<Properties>
 				<Leading type="enumeration">Auto</Leading>
@@ -329,6 +283,13 @@
 				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
 				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
 				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DiacriticPosition="OpentypePosition">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -508,46 +469,41 @@
 	<Story Self="u1f9e" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Turkey: Coping With Internet Censorship</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Author">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Çiğdem Bozdağ</Content>
+				<Content>Çigdem Bozdag</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FillColor="Color/Black" FontStyle="Regular" Capitalization="Normal">
+				<Properties>
+					<Leading type="unit">10</Leading>
+					<AppliedFont type="string">Lato</AppliedFont>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox list">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>54%: Proportion of the Turkish population who have access to the internet</Content>
 				<Br />
-				<Content>60TL (US$20): Monthly cost for a 50/mbit fiber connection</Content>
-				<Br />
-				<Content>94%: Proportion of mobile phone subscribers in Turkey</Content>
-				<Br />
-				<Content>31%: Proportion of Turkish internet users who made online purchases in 2014</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1faf" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2064" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
-									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+									<PathPointType Anchor="-75 -55.212598425196816" LeftDirection="-75 -55.212598425196816" RightDirection="-75 -55.212598425196816" />
 									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="106.41732283464577 50" LeftDirection="106.41732283464577 50" RightDirection="106.41732283464577 50" />
-									<PathPointType Anchor="106.41732283464577 -50" LeftDirection="106.41732283464577 -50" RightDirection="106.41732283464577 -50" />
+									<PathPointType Anchor="105.70866141732296 50" LeftDirection="105.70866141732296 50" RightDirection="105.70866141732296 50" />
+									<PathPointType Anchor="105.70866141732296 -55.212598425196816" LeftDirection="105.70866141732296 -55.212598425196816" RightDirection="105.70866141732296 -55.212598425196816" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
 					</Properties>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="-12.755905511810937" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="-9.212598425196788" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
@@ -555,14 +511,14 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="-3.602228402002595" BottomCrop="2.8060837189513563" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="-2.842170943040401e-14" RightCrop="10.426733139974203" BottomCrop="0.2514236734302244" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u203e" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="286 286" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5246096495372129 0 0 0.5246096495372129 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u206a" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="275 275" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5446559683316071 0 0 0.5446559683316069 -75 -55.2125984251968" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAITeAwCADYbCt/jkcjJ/jcbDF/jAVip/iQQCB/iURRQulgpv8nkskP83G0yv8wGONmAyFV/m
@@ -5025,7 +4981,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1fb3" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130881231740000000 545945" LinkImportModificationTime="2015-09-30T23:46:14" LinkImportTime="2015-12-08T20:59:58" LinkResourceSize="0~85499" />
+						<Link Self="u2068" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130881231740000000 545945" LinkImportModificationTime="2015-09-30T23:46:14" LinkImportTime="2015-12-15T13:58:24" LinkResourceSize="0~85499" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -5033,35 +4989,35 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Figure 1. This image promoting DNS proxies circulated widely during the 2013 Istanbul protests. Translation: &quot;DNS - let your bird sing&quot; (Author unknown)</Content>
+				<Content>Figure 1. This image promoting DNS proxies circulated widely during the 2013 Istanbul protests. Translation: ‘DNS - let your bird sing’ (Author unknown)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In recent years the acronyms DNS and VPN have entered into the everyday vocabulary of Turkish internet users. Since 2007, when Law No. 5651 was passed giving Turkish authorities unprecedented regulatory powers over the internet, thousands of websites including YouTube and Twitter have been blocked. Most internet users became aware of this issue after YouTube was blocked sporadically from 2007 to 2010. During this period, users started to look for other ways to access the site and started using alternative DNS providers as a solution. At this time, it was easy to find hundreds of articles, tutorials and posts in Turkish about how to change your DNS settings and access blocked websites through a simple online search. However, when Twitter and YouTube were blocked (again) in March 2014, the most commonly used DNS providers were also blocked. This in turn has prompted many Turkish internet users to take up VPN services that allow them access to banned websites.</Content>
 				<Br />
-				<Content>Media freedom has always been a problematic issue in Turkey. Freedom of expression is restricted by laws that include quite broad definitions of crimes such as “defamation of Atatürk”, “threats against the unity of the state”, “threats against national security” or “defamation of religion”. Although communication rights improved in the early 2000s under the AKP (Justice and Development Party), the situation seems to have worsened in recent years, especially after the 2013 Gezi protests when hundreds of thousands of people took to the streets in Istanbul against the Erdoğan government. Since then, the government has attempted to put pressure on mass media outlets and introduce stricter control measures for online content. A change to the law in 2014 enabled the blocking of websites within 24 hours, in the absence of a court order, by the Telecommunications Communication Presidency and the Ministry of Transport, Maritime Affairs and Communication. This leads to the arbitrary blocking of many websites in Turkey that are critical of government policies.</Content>
+				<Content>Media freedom has always been a problematic issue in Turkey. Freedom of expression is restricted by laws that include quite broad definitions of crimes such as &apos;defamation of Atatürk&apos;, &apos;threats against the unity of the state&apos;, &apos;threats against national security&apos; or &apos;defamation of religion&apos;. Although communication rights improved in the early 2000s under the AKP (Justice and Development Party), the situation seems to have worsened in recent years, especially after the 2013 Gezi protests when hundreds of thousands of people took to the streets in Istanbul against the Erdoğan government. Since then, the government has attempted to put pressure on mass media outlets and introduce stricter control measures for online content. A change to the law in 2014 enabled the blocking of websites within 24 hours, in the absence of a court order, by the Telecommunications Communication Presidency and the Ministry of Transport, Maritime Affairs and Communication. This leads to the arbitrary blocking of many websites in Turkey that are critical of government policies.</Content>
 				<Br />
 				<Content>Given this political situation in Turkey, VPN, DNS and proxy services have become important tools to circumvent censorship and access content. In this sense, circumvention practices in Turkey have evolved in response to local political conditions. The key issue here is access to blocked social networking and video sites, especially YouTube and Twitter. Using VPNs to access commercial streaming sites like Netflix is not popular – partly because Turks have long used P2P networks and, more recently, illegal streaming sites to access TV content, films and music. Piracy became the norm for consuming video content in Turkey long before legal streaming services were available. In other words, the online video culture in Turkey is marked on the one hand by internet censorship, and pirate consumption of videos on the other.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Internet Use and Video Consumption in Turkey</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Although Turkey is one of the world’s fastest growing countries in terms of internet adoption, the digital divide is still a crucial issue to consider. According to the Statistical Institute of Turkey (TUIK), only 54% of Turks are online and only 45% of the population uses the internet regularly, at least once a week.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5069,13 +5025,12 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>	TUİK, 22 August 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1fb7" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u206e" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5087,7 +5042,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5095,13 +5050,12 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>	TUİK, 22 August 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1fbb" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2072" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5112,13 +5066,12 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	Boston Consulting Group, Türkiye’de Internet Ekonomisi Raporu, 2013, p. 5.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5127,7 +5080,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Watching and downloading videos is one of the most common internet activities of the Turkish users. Video streaming makes up a growing proportion of overall internet traffic, especially among mobile users. YouTube, the fourth most visited website in Turkey, is far and away the most popular video service, followed by DailyMotion and various other local and international sites including 59Saniye, İzlesene, Vimeo and UzmanTV. Unlike the other video portals, UzmanTV is a professional video site featuring expert advice on topics such as beauty and health. Facebook and newspaper websites such as Hurriyet and Milliyet are also increasingly used for streaming videos.</Content>
 				<Br />
-				<Content>Besides video platforms such as YouTube, İzlesene or DailyMotion, there are many illegal streaming websites that offer links to Turkish and foreign TV series. These “series websites” often use Russian or Asian video platforms such as VK that are more difficult to control through national regulation. They even offer subtitles for foreign content. Most of these offshore video services target the Turkish diaspora as well as viewers in Turkey. Websites such as Canlidizi.tv or Dizist.com are popular among Turks living in Germany, home to the largest Turkish expatriate community, and in the United States. Some of these series websites focus on Turkish content, while others concentrate on subtitled foreign series. There are also similar illegal streaming services for watching movies, and these are quite popular in Turkey. FullOnlineFilmİzle and HDFilmiFullizle are two examples – both are among the 100 most visited websites in Turkey.</Content>
+				<Content>Besides video platforms such as YouTube, İzlesene or DailyMotion, there are many illegal streaming websites that offer links to Turkish and foreign TV series. These &apos;series websites&apos; often use Russian or Asian video platforms such as VK that are more difficult to control through national regulation. They even offer subtitles for foreign content. Most of these offshore video services target the Turkish diaspora as well as viewers in Turkey. Websites such as Canlidizi.tv or Dizist.com are popular among Turks living in Germany, home to the largest Turkish expatriate community, and in the United States. Some of these series websites focus on Turkish content, while others concentrate on subtitled foreign series. There are also similar illegal streaming services for watching movies, and these are quite popular in Turkey. FullOnlineFilmİzle and HDFilmiFullizle are two examples – both are among the 100 most visited websites in Turkey.</Content>
 				<Br />
 				<Content>Legal streaming alternatives are starting to emerge. Examples include Tivibu and Tvyo, which began operation in 2010 and in 2012 respectively. Turkish TV channels have also started to provide streaming content via their own websites, after a late start. User numbers for these legal services are increasing. However, offshore video services such as Netflix and Hulu are not yet very popular in Turkey. While some early adopters have taken up offshore streaming – as can be seen in discussions in Turkish tech blogs and forums such as DonanimHaber – most Turkish internet users are used to accessing series and videos for free and are not ready to pay for streaming services.</Content>
 				<Br />
@@ -5147,27 +5100,29 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Internet Censorship, Circumvention and Resistance Practices</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Internet regulation in Turkey was introduced in the early 2000s as online content became bound to the RTUK law (2002), which regulated broadcasting in Turkey. Prior to this, various websites in Turkey had been blocked due to their critical content. The Telecommunications Communication Presidency (TIB), which still continues to be responsible for the regulation and control of online content, was founded in 2005.</Content>
 				<Br />
-				<Content>The first law in Turkey that focused directly on the regulation of online content – Law No. 5651 on the Regulation of Publications on the Internet and Suppression of Crimes Committed by means of Such Publications (“Law No. 5651”) – was passed in 2007. This law originally was drafted to define and regulate cybercrime. However, the enacted law had an expanded scope, and included vague statements that pave the way for arbitrary political censorship of media content as noted in the previous section. For example, article 8 defined “[encouraging] suicide, sexual abuse of children, facilitating the usage of drugs and stimulants, provision of materials being dangerous for the health, vulgarity, prostitution, providing area and opportunity for gambling, crimes indicated in the Law about the Crimes Committed Against Atatürk”</Content>
+				<Content>The first law in Turkey that focused directly on the regulation of online content – Law No. 5651 on the Regulation of Publications on the Internet and Suppression of Crimes Committed by means of Such Publications (&apos;Law No. 5651&apos;) – was passed in 2007. This law originally was drafted to define and regulate cybercrime. However, the enacted law had an expanded scope, and included vague statements that pave the way for arbitrary political censorship of media content as noted in the previous section. For example, article 8 defined &apos;[encouraging] suicide, sexual abuse of children, facilitating the usage of drugs and stimulants, provision of materials being dangerous for the health, vulgarity, prostitution, providing area and opportunity for gambling, crimes indicated in the Law about the Crimes Committed Against Atatürk&apos;</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	Banu Terkan and Nurullah Terkan, ‘Analysis of the Political Discourses of the Ruling and Opposition Parties Regarding the New Regulations in the Internet Law in Turkey’, Proceedings of the 13th International Academic Conference, Antibes, 2014, p. 552.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5177,7 +5132,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5185,26 +5140,25 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>	Yaman Akdeniz and Kerem Altıparmak, ‘AİHM Kararı: 5651 Sayılı Yasa AİHS&apos;e Aykırı’, Bianet, 19 December 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1fc0" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2077" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In 2011 the government attempted to introduce a new law that would make internet filtering mandatory for all users in Turkey. The draft law provoked a passionate reaction, mobilizing not only activists and NGOs but also regular users of the internet, who are not necessarily politically active. Large protests were organized under the slogan “Don’t touch my internet”. Over half a million people participated in the campaign, which included both online and offline activism. This was one of the most successful internet freedom campaigns in Turkey to date, and it forced the government to change the draft law. The use of filters became voluntary, not mandatory.</Content>
+				<Content>In 2011 the government attempted to introduce a new law that would make internet filtering mandatory for all users in Turkey. The draft law provoked a passionate reaction, mobilizing not only activists and NGOs but also regular users of the internet, who are not necessarily politically active. Large protests were organized under the slogan &apos;Don’t touch my internet&apos;. Over half a million people participated in the campaign, which included both online and offline activism. This was one of the most successful internet freedom campaigns in Turkey to date, and it forced the government to change the draft law. The use of filters became voluntary, not mandatory.</Content>
 				<Br />
 				<Content>Another controversial change in Turkish internet law took place in 2014, when Law No. 5651 was changed to enable URL-based blocking of websites. Fines for crimes defined in this law also increased.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5218,13 +5172,12 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>, 2014, p. 14, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1fc2" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2079" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5234,7 +5187,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5248,13 +5201,12 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>, 2014, p.14, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1fc5" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u207c" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5264,15 +5216,15 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 				<Br />
 				<Content>The amended Law No. 5651 contained a new article about the protection of personal rights and privacy of individuals, but once again these terms are vaguely defined. This leaves the TIB, the Ministry and the courts with a lot of flexibility as to what can be considered a violation. According to the new law, individuals can directly apply to the TIB, which can decide to block websites as a precaution before a court order has been granted. These extrajudicial blocks have been criticized as unlawful, since TIB and the Ministry might block websites without a court order for quite long periods.</Content>
 				<Br />
-				<Content>These changes provoked a strong reaction on Twitter, Facebook and Eksisozluk, a widely used dictionary-like user-generated website in Turkey. However, not as many people participated as in the “Don’t touch my internet” mobilization of 2011. One reason behind for this is the fallout from the Gezi protests, which saw escalated police violence. Another reason is that people were more interested in the local election campaigns that also took place in March 2104.</Content>
+				<Content>These changes provoked a strong reaction on Twitter, Facebook and Eksisozluk, a widely used dictionary-like user-generated website in Turkey. However, not as many people participated as in the &apos;Don’t touch my internet&apos; mobilization of 2011. One reason behind for this is the fallout from the Gezi protests, which saw escalated police violence. Another reason is that people were more interested in the local election campaigns that also took place in March 2104.</Content>
 				<Br />
 				<Content>In March 2014 – a month after this new law was passed, and shortly before the local elections – Twitter was suddenly blocked again for two weeks (20 March to 3 April). The purported reason for this was claims about violations of personal rights and privacy of individuals, who applied to TIB. Shortly after, YouTube was also blocked, this time for more than two months (27 March to 29 May). The official explanation this time was that the YouTube block was a response to a user uploading voice recordings from a secret government meeting, in which officials discussed a military intervention in Syria. The YouTube video containing these voice recordings was said to reveal state secrets and as such was considered a threat to the national security of Turkey. Once again, this prompted massive reactions on Facebook, Twitter and Eksisozluk, with people united around hashtags such as #direntwitter (resist Twitter) and #direnyoutube (resist Youtube). This was a clear reference to the Gezi protests, where the hashtag #direngezi (resist Gezi) became a symbol of the protest.</Content>
 				<Br />
-				<Content>As was also the case in Gezi, people’s online protests were full of irony and humour. This can be considered a form of “passive resistance”, putting the legitimacy of government discourses about the need for site blocks into question.</Content>
+				<Content>As was also the case in Gezi, people’s online protests were full of irony and humour. This can be considered a form of &apos;passive resistance&apos;, putting the legitimacy of government discourses about the need for site blocks into question.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5284,7 +5236,6 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content> 16 (2014): 271.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5292,13 +5243,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> This time, despite a strong reaction online, there were only small street protests and almost no organized and long-lasting campaign against the blocks. The online protests decreased over time, although some activist groups and politicians continued to speak about the matter.</Content>
 				<Br />
-				<Content>The most common form of internet resistance in Turkey is the use of software tools to access blocked websites. Until 2014, most users preferred alternative and free DNS providers outside of Turkey, such as Google DNS and OpenDNS</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Countless websites provided advice on how to change DNS settings to get around the government blocks, and users quickly became familiar with these tactics. This increased again after YouTube and Twitter were blocked in March 2014, as people searched online for information about changing DNS settings. This can be seen in Table 1 below, which shows the use of the words DNS, VPN and </Content>
+				<Content>The most common form of internet resistance in Turkey is the use of software tools to access blocked websites. Until 2014, most users preferred alternative and free DNS providers outside of Turkey, such as Google DNS and OpenDNS. Countless websites provided advice on how to change DNS settings to get around the government blocks, and users quickly became familiar with these tactics. This increased again after YouTube and Twitter were blocked in March 2014, as people searched online for information about changing DNS settings. This can be seen in Table 1 below, which shows the use of the words DNS, VPN and </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>sansür</Content>
@@ -5306,15 +5251,15 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> (censorship) on Twitter during the first days of the blocks in Turkey.</Content>
 				<Br />
-				<Rectangle Self="u1fc8" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u207f" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
-									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 -54.645669291339345" LeftDirection="-75 -54.645669291339345" RightDirection="-75 -54.645669291339345" />
+									<PathPointType Anchor="-75 98.47244094487951" LeftDirection="-75 98.47244094487951" RightDirection="-75 98.47244094487951" />
+									<PathPointType Anchor="267.70866141732284 98.47244094487951" LeftDirection="267.70866141732284 98.47244094487951" RightDirection="267.70866141732284 98.47244094487951" />
+									<PathPointType Anchor="267.70866141732284 -54.645669291339345" LeftDirection="267.70866141732284 -54.645669291339345" RightDirection="267.70866141732284 -54.645669291339345" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -5327,14 +5272,14 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="131.8376317643542" BottomCrop="14.777801226286925" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="-5.645708802937321" TopCrop="-6.900310759146272" RightCrop="-6.183395355597895" BottomCrop="11.66129318622265" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u2045" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="246 246" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.6088376699522573 0 0 0.6088376699522573 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u2085" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="171 171" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.8786549385400446 0 0 0.8786549385400446 -70.03937007874012 -48.58267716535447" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqADhXAACAPuBP+BPuCQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS
@@ -5740,7 +5685,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1fcc" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130890723020000000 69267" LinkImportModificationTime="2015-10-11T23:25:02" LinkImportTime="2015-12-08T20:59:59" LinkResourceSize="0~10e93" />
+						<Link Self="u2084" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130890723020000000 69267" LinkImportModificationTime="2015-10-11T23:25:02" LinkImportTime="2015-12-15T13:58:24" LinkResourceSize="0~10e93" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -5748,29 +5693,23 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Caption">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Figure 2. During the March 2014 Twitter ban, a global search of tweets shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were both prominent terms</Content>
+				<Content>Figure 2. During the March 2014 Twitter ban, a global search of tweets shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were prominent terms</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>On the second day of the Twitter ban in March 2014, access to commonly used DNS providers was also blocked from within Turkey. This was a turning point for Turkish internet users, and many of them became aware of VPN services for the first time. As can be seen in the Twitter statistics above, the word VPN suddenly entered into online conversation. During this period two popular free VPN services, Hotspot Shield and TunnelBear, removed the usual download limits for their Turkish customers, to support their circumvention practices against censorship. These apps were downloaded by hundreds of thousands of people in a couple of hours after the Twitter ban. Other VPN services such as Zenmate or VPNTraffic also became very popular within a short period of time. The popularity of VPN services for circumvention practices of Turkish audiences can be seen plainly in the marketing strategies of services like Torguard, which promotes its product to Turkish users as a tool to “unblock Twitter”. Another tool used for circumvention was the Tor browser. It appears that the combined effect of these tools was successful overall, since the number of Tweets in Turkish did not decrease but actually increased during the first days of the 2014 Twitter ban.</Content>
 				<Br />
 				<Content>Within a few weeks both Twitter and Youtube were unblocked following a decision by Turkey’s constitutional court. The lawyers Yaman Akdeniz and Kerem Altıparmak – internet freedom campaigners and NGO activists – had petitioned the court on the basis that banning websites was a violation of the right to freedom of expression. The constitutional court decided in their favor and ordered the blocks to be lifted. Although this decision can be seen as a positive step, many other websites are still blocked in Turkey; in fact, the total number of blocked websites is increasing. For example, in the aftermath of the June 2015 general elections, when the ceasefire between the PKK and the Turkish state was violated, critical websites such as Sendika, ÖzgürGündem and DagMedya were blocked for being pro-PKK.</Content>
 				<Br />
-				<Content>Unfortunately, there is no transparency about which websites are currently being blocked. However, activist groups are working to compile public lists of these blocked websites. One example is the anonymous collective behind the Engelli Web (“Blocked Web”) project. According to their research, the most commonly blocked category of websites contain “obscene” content. These are not only pornographic websites, but for example also websites that contain any sort of nudity or homosexual content. Among these websites there is an increasing number of video and video series sites. Then there are the sites blocked for political reasons – for example, pro-Kurdish websites such as Fırat News or Yeni Özgür Politika According to Engelli Web</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>,</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> more than 80,000 websites are blocked as of May 2015.</Content>
+				<Content>Unfortunately, there is no transparency about which websites are currently being blocked. However, activist groups are working to compile public lists of these blocked websites. One example is the anonymous collective behind the Engelli Web (&apos;Blocked Web&apos;) project. According to their research, the most commonly blocked category of websites contain “obscene” content. These are not only pornographic websites, but for example also websites that contain any sort of nudity or homosexual content. Among these websites there is an increasing number of video and video series sites. Then there are the sites blocked for political reasons – for example, pro-Kurdish websites such as Fırat News or Yeni Özgür Politika According to Engelli Web, more than 80,000 websites are blocked as of May 2015.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -5778,13 +5717,12 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 							<Content>	Engelli Web, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1fce" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2089" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://engelliweb.com/istatistikler/numbering.xml</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5793,35 +5731,35 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Other activist groups in Turkey, such as Alternatif Bilisim Dernegi, the Pirate Party (Korsan Parti) and Internet Derneği (Inetd), focus on ICTs and internet freedom. These groups actively campaigns against internet censorship, mount legal challenges, and organize events to raise awareness. While marginal to national politics, they are increasingly popular among young people.</Content>
 				<Br />
-				<Content>Prosecution of individual internet users for posting material in online forums has increased in recent years. These cases are again based on definitions of crime that refer to “defamation of religion”, “violation of personal rights” and so on. Some of these cases are legitimate, but many of them seem to be simply attempts to silence anti-government voices. Although website blocks have little effect in terms of curtailing online expression (since people can always get around these blocks), the threat of court cases and imprisonment may be more effective in silencing dissent.</Content>
+				<Content>Prosecution of individual internet users for posting material in online forums has increased in recent years. These cases are again based on definitions of crime that refer to &apos;defamation of religion&apos;, &apos;violation of personal rights&apos; and so on. Some of these cases are legitimate, but many of them seem to be simply attempts to silence anti-government voices. Although website blocks have little effect in terms of curtailing online expression (since people can always get around these blocks), the threat of court cases and imprisonment may be more effective in silencing dissent.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Conclusion: Circumvention as a Solution to Internet Censorship?</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>As the preceding discussion shows, over the last decade circumvention activity and online rights discourses have become widespread in Turkey. While some of this activity is entertainment-related, the main driver of circumvention is not the geoblocked commercial video streaming services but the country’s internet censorship system.</Content>
 				<Br />
-				<Content>Of course, people can always circumvent these IP-based blocks by using alternative DNS settings or VPN services. Blocking has been ineffective in reducing traffic to banned sites, and may even increase it. In this sense the blocking of the websites remains a rather symbolic act on the part of the government. First and foremost, it is a tool for intimidation and delegitimization. Combined with court cases against individuals on the basis of their posts online, these have long-term effects as people start to self-censor their online communication. Second, these blocks are a demonstration of power to the AKP’s own voters. As Twitter was blocked shortly before the local elections in March 2014, Erdogan made this part of his political campaign by saying that “they (AKP) were going to root out Twitter”, thus signaling his power to take on a global internet actor. Third, through website blocking the government is forcing big internet companies like Twitter to be more cooperative in terms of removing content. Twitter representatives visited TIB a couple of times after the ban in 2014, however the content of the meetings was never made public. Many Tweets and Twitter accounts have been removed since then at the request of the TIB. Again these blocked accounts and tweets are not made public by Twitter.</Content>
+				<Content>Of course, people can always circumvent these IP-based blocks by using alternative DNS settings or VPN services. Blocking has been ineffective in reducing traffic to banned sites, and may even increase it. In this sense the blocking of the websites remains a rather symbolic act on the part of the government. First and foremost, it is a tool for intimidation and delegitimization. Combined with court cases against individuals on the basis of their posts online, these have long-term effects as people start to self-censor their online communication. Second, these blocks are a demonstration of power to the AKP’s own voters. As Twitter was blocked shortly before the local elections in March 2014, Erdogan made this part of his political campaign by saying that &apos;they (AKP) were going to root out Twitter&apos;, thus signaling his power to take on a global internet actor. Third, through website blocking the government is forcing big internet companies like Twitter to be more cooperative in terms of removing content. Twitter representatives visited TIB a couple of times after the ban in 2014, however the content of the meetings was never made public. Many Tweets and Twitter accounts have been removed since then at the request of the TIB. Again these blocked accounts and tweets are not made public by Twitter.</Content>
 				<Br />
 				<Content>Even the government is aware of the fact that they cannot completely ban websites. Erdogan himself argued that everybody, including himself, can access YouTube during the ban in 2009. Many state officials continued to use Twitter during the 2014 ban. Yet, this picture might change since there are also attempts to increase the level of control on both a legal and technological level. As we have seen, new laws are making it easier to block websites without a court order, and the government is investing in more sophisticated blocking technologies.</Content>
 				<Br />
-				<Content>As the government extends internet regulation, people are looking for new technological workarounds. This was evident in March 2014, when the most used alternative DNS providers could not be used and people moved to alternative VPN services. These tools enable Turkish internet users to individually cope with internet censorship through circumvention, but not necessarily to fight it. Given the fast-changing political environment in Turkey, the issue of internet censorship seems to only gain priority when bigger websites such as Twitter and YouTube are being blocked. However, internet censorship in Turkey is an ongoing issue. Campaigns like “Don’t touch my internet” in 2011 showed the power of a well-organized protest, in which different actors from across the political spectrum come together. In the face of increasing government control, organizing well-networked, sustainable and effective action against internet censorship seems more important than ever in Turkey.</Content>
+				<Content>As the government extends internet regulation, people are looking for new technological workarounds. This was evident in March 2014, when the most used alternative DNS providers could not be used and people moved to alternative VPN services. These tools enable Turkish internet users to individually cope with internet censorship through circumvention, but not necessarily to fight it. Given the fast-changing political environment in Turkey, the issue of internet censorship seems to only gain priority when bigger websites such as Twitter and YouTube are being blocked. However, internet censorship in Turkey is an ongoing issue. Campaigns like &apos;Don’t touch my internet&apos; in 2011 showed the power of a well-organized protest, in which different actors from across the political spectrum come together. In the face of increasing government control, organizing well-networked, sustainable and effective action against internet censorship seems more important than ever in Turkey.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>References</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference-paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Akdeniz, Yaman and Kerem Altıparmak. ‘AİHM Kararı: 5651 Sayılı Yasa AİHS&apos;e Aykırı’, </Content>
 			</CharacterStyleRange>
@@ -5832,7 +5770,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content>, 19 December 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fd0" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u208b" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5842,7 +5780,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content>Boston Consulting Group. Türkiye’de Internet Ekonomisi Raporu, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fd1" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u208c" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5858,7 +5796,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content> 12 February 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fd3" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u208d" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5870,7 +5808,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content>TUİK. 22 August 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fd4" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u208e" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5894,13 +5832,12 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content> 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fd5" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2090" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
@@ -6032,70 +5969,80 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 125" DestinationUniqueKey="227" Name="URL 125" DestinationURL="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 126" DestinationUniqueKey="228" Name="URL 126" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 127" DestinationUniqueKey="229" Name="URL 127" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
-	<Hyperlink Self="u1fde" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Source="u1fd0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="223">
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 128" DestinationUniqueKey="230" Name="URL 128" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 129" DestinationUniqueKey="231" Name="URL 129" DestinationURL="http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 130" DestinationUniqueKey="232" Name="URL 130" DestinationURL="http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 131" DestinationUniqueKey="233" Name="URL 131" DestinationURL="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 132" DestinationUniqueKey="234" Name="URL 132" DestinationURL="http://engelliweb.com/istatistikler/numbering.xml" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 133" DestinationUniqueKey="235" Name="URL 133" DestinationURL="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 134" DestinationUniqueKey="236" Name="URL 134" DestinationURL="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 135" DestinationUniqueKey="237" Name="URL 135" DestinationURL="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 136" DestinationUniqueKey="238" Name="URL 136" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 137" DestinationUniqueKey="239" Name="URL 137" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
+	<Hyperlink Self="u2099" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Source="u208b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 121</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 131</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fdc" Name="http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf" Source="u1fd1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="222">
+	<Hyperlink Self="u2097" Name="http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf" Source="u208c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 120</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 130</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fda" Name="http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html" Source="u1fd3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="221">
+	<Hyperlink Self="u2095" Name="http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html" Source="u208d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 119</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 129</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fd8" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Source="u1fd4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="220">
+	<Hyperlink Self="u2093" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Source="u208e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 118</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 128</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fd6" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Source="u1fd5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u2091" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Source="u2090" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fea" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 2" Source="u1fb7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="229">
+	<Hyperlink Self="u20a5" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 2" Source="u206e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="239">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 127</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 137</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fe8" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 1" Source="u1fbb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="228">
+	<Hyperlink Self="u20a3" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 1" Source="u2072" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="238">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 126</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 136</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fe6" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri 1" Source="u1fc0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="227">
+	<Hyperlink Self="u20a1" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri 1" Source="u2077" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="237">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 125</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 135</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fe4" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 2" Source="u1fc2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="226">
+	<Hyperlink Self="u209f" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 2" Source="u2079" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="236">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 124</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 134</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fe2" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 1" Source="u1fc5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="225">
+	<Hyperlink Self="u209d" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 1" Source="u207c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="235">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 123</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 133</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fe0" Name="http://engelliweb.com/istatistikler/numbering.xml" Source="u1fce" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="224">
+	<Hyperlink Self="u209b" Name="http://engelliweb.com/istatistikler/numbering.xml" Source="u2089" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="234">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 122</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 132</Destination>
 		</Properties>
 	</Hyperlink>
 </Document>

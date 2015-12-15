@@ -40,7 +40,9 @@ Theory on Demand #18
 **Copy-editing:** Leonieke van Dipten<br/>
 **Editorial support:** Miriam Rasch<br/>
 
-**Design:** Leonieke van Dipten<br/>
+**Cover Design:** Katja Schiphout<br/>
+**DTP:** Leonieke van Dipten<br/>
+**Infographics:** Sandra Hanchard <br/>
 **EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 
 
 **Printer:** Print on Demand<br/>
@@ -66,54 +68,54 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 # Contents
 
 <a href="ch004.xhtml">Introduction: The New Video Geography</a><br/>
-*Ramon Lobato, Swinburne University of Technology*<br/>
+*Ramon Lobato*<br/>
 
 ##PART I: PERSPECTIVES ON GEOBLOCKING
 
-<a href="ch006.xhtml">Tunnelling Media: Geoblocking and Online Border Resistance</a><br/>*Juan Llamas-Rodriguez, University of California, Santa Barbara*<br/>
+<a href="ch006.xhtml">Tunneling Media: Geoblocking and Online Border Resistance</a><br/>*Juan Llamas-Rodriguez*<br/>
 
-<a href="ch007.xhtml">The Logics and Territorialities of Geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León, UCLA*<br/>
+<a href="ch007.xhtml">The Logics and Territorialities of Geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León*<br/>
 
-<a href="ch008.xhtml">Geoblocking, Technical Standards and the Law</a><br/>*Marketa Trimble, University of Nevada, Las Vegas*<br/>
+<a href="ch008.xhtml">Geoblocking, Technical Standards and the Law</a><br/>*Marketa Trimble*<br/>
 
-<a href="ch009.xhtml">Periscope, Live Streaming and Mobile Video Culture</a><br/>*Adam Rugg, University of Iowa, and Ben Burroughs, University of Nevada, Las Vegas*
+<a href="ch009.xhtml">Periscope, Live Streaming and Mobile Video Culture</a><br/>*Adam Rugg and Ben Burroughs*
 
 <a href="ch010.xhtml"> Circumvention, Media Sport and the Fragmentation of Video Culture
-</a><br/>*James Meese, University of Technology Sydney, and Aneta Podkalicka, Swinburne University of Technology*
+</a><br/>*James Meese and Aneta Podkalicka*
 
 <a href="ch011.xhtml">Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming
-Aggregation Platforms</a><br/>*Florian Hoof, Frankfurt University*
+Aggregation Platforms</a><br/>*Florian Hoof*
 
-<a href="ch012.xhtml">The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988-1993</a><br/>*Roland Burke, Latrobe University*
+<a href="ch012.xhtml">The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988 - 1993</a><br/>*Roland Burke*
 
-##PART II:CIRCUMVENTION CASE STUDIES<br/>
+##PART II: CIRCUMVENTION CASE STUDIES<br/>
 
-<a href="ch014.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li, University of Pittsburgh*
+<a href="ch014.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li*
 
-<a href="ch015.xhtml">Australia: Circumvention Goes Mainstream</a><br/>*Ramon Lobato and James Meese, SUT*
+<a href="ch015.xhtml">Australia: Circumvention Goes Mainstream</a><br/>*Ramon Lobato and James Meese*
 
-<a href="ch016.xhtml">Turkey: Coping with Internet Censorship</a><br/>*Çiğdem Bozdağ, Kadir Has University*
+<a href="ch016.xhtml">Turkey: Coping with Internet Censorship</a><br/>*Çiğdem Bozdağ*
 
-<a href="ch017.xhtml"> Sweden: Circumvention and the Quest for Privacy</a><br/>*Chris Baumann, Stockholm University*
+<a href="ch017.xhtml"> Sweden: Circumvention and the Quest for Privacy</a><br/>*Chris Baumann*
 
-<a href="ch018.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard, SUT*
+<a href="ch018.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard*
 
-<a href="ch019.xhtml">Brazil: Netflix, VPNs, and the “Paying Pirates”</a><br/>*Vanessa Mendes Moreira de Sa, Queensland University of Technology*
+<a href="ch019.xhtml">Brazil: Netflix, VPNs, and the 'Paying Pirates'</a><br/>*Vanessa Mendes Moreira de Sa*
 
-<a href="ch020.xhtml">Iran: A Friction Between State Ideology and Network Society</a><br/>*Hadi Sohrabi, Swinburne University of Technology, and Behzad Dowran, Iranian Research Institute for Information Science and Technology*
+<a href="ch020.xhtml">Iran: A Friction Between State Ideology and Network Society</a><br/>*Hadi Sohrabi and Behzad Dowran*
 
 <a href="ch021.xhtml">Cuba: *Videos to the Left* – Circumvention Practices and
-Audiovisual Ecologies</a><br/>*Fidel Alejandro Rodriguez, University of Habana*
+Audiovisual Ecologies</a><br/>*Fidel Alejandro Rodriguez*
 
-<a href="ch022.xhtml">United States: Geoblocking in a Privileged Market</a><br/>*Evan Elkins, University of Miami*
-
-
-
-#Preface and acknowledgementsGeoblocking and Global Video Culture is the result of a collaborative research experiment we conducted with the contributors to this book. Our aim was to investigate how online blocking and circumvention are shaping access to digital video in different parts of the world, and explore what this means for screen culture today. Together, we set up a comparative research project around some common questions: What tools are people using to access blocked video content in different countries? What kinds of content are they watching? And what is the political context for these circumvention activities? The chapters collected here are the end result of this collaboration, and a corresponding call for papers. The first section of the book explores the dynamics, histories and possible futures of territorial rights control in various media industries, while the second section compares ground-level circumvention practices in nine countries – Australia, Brazil, China, Cuba, Iran, Malaysia, Sweden, Turkey, and the United States. Given how fast things move in video culture, a book of this nature cannot be definitive. We wanted instead to produce a timely, transnational account of the geoblocking phenomenon, with a comparative dimension that could speak across diverse local experiences. Rather than dense academic prose, our contributors provide vivid snapshots of user practices and provocative reflections on the relationship between geoblocking, government censorship, circumvention, and copyright. We hope you enjoy the eclectic nature of the collection.Of course, we could not have undertaken such a task without the support and assistance of numerous colleagues and friends. We would like to thank Leonieke van Dipten, Geert Lovink and Miriam Rasch at Institute of Network Cultures for their enthusiastic support of the project, Karen Horsley for production assistance, and Sandra Hanchard for the maps and data visualizations. We are also indebted to Philip Branch, Angela Daly, Evan Elkins, Scott Ewing, Dan Golding, Jennifer Holt, Grace Lee, Rebecca Olive, Claudy Op Den Kamp, Hal Roberts, Nic Suzor, Leah Tang, Julian Thomas and Patrick Vonderau, among others, for their advice, support and feedback. Finally, we thank Swinburne University of Technology and the Australian Research Council Discovery programme for funding this project.
+<a href="ch022.xhtml">United States: Geoblocking in a Privileged Market</a><br/>*Evan Elkins*
 
 
 
-# The New Video Geography: An Introduction To Geoblocking and Global Video Culture
+#Preface and acknowledgements*Geoblocking and Global Video Culture* is the result of a collaborative research experiment we conducted with the contributors to this book. Our aim was to investigate how online blocking and circumvention are shaping access to digital video in different parts of the world, and explore what this means for screen culture today. Together, we set up a comparative research project around some common questions: What tools are people using to access blocked video content in different countries? What kinds of content are they watching? And what is the political context for these circumvention activities? The chapters collected here are the end result of this collaboration, and a corresponding call for papers. The first section of the book explores the dynamics, histories and possible futures of territorial rights control in various media industries, while the second section compares ground-level circumvention practices in nine countries – Australia, Brazil, China, Cuba, Iran, Malaysia, Sweden, Turkey, and the United States. Given how fast things move in video culture, a book of this nature cannot be definitive. We wanted instead to produce a timely, transnational account of the geoblocking phenomenon, with a comparative dimension that could speak across diverse local experiences. Rather than dense academic prose, our contributors provide vivid snapshots of user practices and provocative reflections on the relationship between geoblocking, government censorship, circumvention, and copyright. We hope you enjoy the eclectic nature of the collection.Of course, we could not have undertaken such a task without the support and assistance of numerous colleagues and friends. We would like to thank Leonieke van Dipten, Geert Lovink and Miriam Rasch at Institute of Network Cultures for their enthusiastic support of the project, Karen Horsley for production assistance, and Sandra Hanchard for the maps and data visualizations. We are also indebted to Philip Branch, Angela Daly, Evan Elkins, Scott Ewing, Dan Golding, Jennifer Holt, Grace Lee, Teresa Calabria, Rebecca Olive, Claudy Op Den Kamp, Hal Roberts, Nic Suzor, Leah Tang, Julian Thomas and Patrick Vonderau, among others, for their advice, support and feedback. Finally, we thank Swinburne University of Technology and the Australian Research Council Discovery programme for funding this project.
+
+
+
+# The New Video Geography: An Introduction To *Geoblocking and Global Video Culture*
 
 ###Ramon Lobato###
 
@@ -204,7 +206,7 @@ consoles of the 1980s – and provide theoretical tools to understand the
 evolution of regional lock-out technologies in particular media sectors.
 The second section, ‘Circumvention Case Studies’, looks at these issues
 from the ground up, by analysing how users negotiate geoblocking and
-internet filtering controls in different countries. Here, our seven
+internet filtering controls in different countries. Here, our nine
 contributors – experts on informal media circulation that we have
 collaborated with over the course of a year-long research project – have
 written vivid first-hand accounts of ground-level circumvention
@@ -364,7 +366,7 @@ unlock geo-restricted content by rerouting data through an offshore IP
 address, making it appear as though the user is located in another
 country. In recent years a growing ecology of circumvention tools has
 emerged, including free ad-supported services (Hotspot Shield, Hola,
-Addtele), subscription VPNs (Private internet Access, HotSpotNordVPN,
+Addtelly), subscription VPNs (Private internet Access, HotSpotNordVPN,
 TigerVPN), and DNS proxies designed explicitly for unlocking offshore
 content (Unblock-US, Getflix).
 
@@ -433,7 +435,7 @@ untold history: the VPN, for example, has been around for decades and
 was used primarily as a business networking tool until the early 2000s
 when it morphed into a personal computing product. Since then hundreds
 of small VPN companies have appeared and disappeared (by our count,
-there are at least 140 currently operating). In addition to these
+there are at least 140 VPN brands in the market). In addition to these
 international VPNs, there are also “local” VPNs running in some
 countries, notably Iran, which have Persian-language interfaces and
 local payment systems. There is much scepticism as to the bona fides of
@@ -566,7 +568,7 @@ multiply-subtitled DVDs, and make shopping trips to neighbouring
 countries where prices are cheaper. This is an enduring feature of
 European consumption, one that has diminished little with the
 establishment of a single currency. While much policy attention is now
-directed at the creation of an EU Digital Single market – in which all
+directed at the creation of an EU Digital Single Market – in which all
 28 EU member countries would share common pricing and availability for
 digital goods – intra-European variances in price and availability
 naturally persist.
@@ -638,7 +640,7 @@ simultaneously:
 > fasttrack past the firewall like express check-in at the airport. For
 > the ordinary punter, a data feed from Bloomberg; for the wealthy
 > subscriber, real-time data on every stock for sale on every
-> market.[^01LobatoIntroduction_13]
+> market.[^01LobatoIntroduction_13]<br/>
 
 It may be that VPNs, proxies, and other geo-evasion technologies provide
 a set of popular technical competencies that are, taken together, laying
@@ -660,7 +662,7 @@ Geographies of Television*, Lanham: Lexington Books, 2009.
 Cubitt, Sean. ‘Telecommunication Networks: Economy, Ecology, Rule’,
 *Theory, Culture and Society* 31 (2014): 185-199.
 
-Deibert, Ronald et al (eds). *Access Controlled: The Shaping of Power,
+Deibert, Ronald et al. (eds). *Access Controlled: The Shaping of Power,
 Rights, and Rule in Cyberspace*, Cambridge, MA: MIT Press, 2010.
 
 Deibert, Ronald et al. (eds). *Access Contested: Security, Identity, and
@@ -800,7 +802,7 @@ Figure 3. Average internet connection speeds around the world.Data source: Akam
 ##Netflix by Numbers
 ![](imgs/dataviz7.jpg)
 
-Figure 4. U.S. and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
+Figure 4. US and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
 
 ![](imgs/dataviz8.jpg)
 
@@ -825,7 +827,7 @@ Figure 9. Number of VPNs by host country.Data source: Swinburne University, Ber
 
 
 
-#Tunnelling Media: Geoblocking and Online Border Resistance
+#Tunneling Media: Geoblocking and Online Border Resistance
 
 ###Juan Llamas-Rodriguez###
 
@@ -897,8 +899,8 @@ In essence, tunneling reorganizes geographies of control for a stretch
 of time. If geoblocks, like borders, function not to protect sovereignty
 but to sort populations, to categorize users and provide content based
 on these categories, then tunneling provides an opportunity for change.
-Yet not all tunnelling is the same. Degrees of technological
-sophistication for physical and virtual tunnelling create a hierarchy
+Yet not all tunneling is the same. Degrees of technological
+sophistication for physical and virtual tunneling create a hierarchy
 between those that can ‘hack’ their way around a geofence and those that
 need the help of others. These various levels of differentiation
 constitute users in relation to their distinct experiences of the
@@ -989,7 +991,7 @@ create an alternative world of connectivity.
 
 ## A World of Tunnels
 
-Tunnels come in multiple forms. The US Department of Homeland Security
+Tunnels come in multiple forms. The U.S. Department of Homeland Security
 identifies at least three different types of underground border tunnels.
 Rudimentary tunnels are small, shallow, often crudely constructed and
 used only to travel only a short distance. These are usually detected
@@ -1043,12 +1045,12 @@ of interconnecting tunnels depend less on creating their own channels.
 This reduced effort benefits tunnels users both because they take less
 time to construct the tunnel and because they are less likely to be
 found. There is no complete mapping of the existing sewage drains around
-the Mexico-US border, a region that extends almost 2000 miles, so
+the Mexico-U.S. border, a region that extends almost 2000 miles, so
 authorities need to evaluate whether an underground construction is
 legitimate on an individual basis. In addition, interconnecting tunnels
 take advantage of the geological affordances of the border region. The
 physical characteristics of the local soil, for instance, vary
-tremendously across the southern US border. Any tunnel detection
+tremendously across the southern U.S. border. Any tunnel detection
 technology would need to adapt to different levels of porosity and
 texture, and tunnel task forces would have to map the variations in
 types of soil across the entire area they wanted to surveil. These
@@ -1095,7 +1097,7 @@ that tunneling reorganizes geographies of control for a stretch of time.
 If borders have become dynamic, as Didier Bigo argues, then tunneling
 takes advantage of this fluctuation to allow for previously restricted
 traffic flow – but only temporarily. The dynamism of borders does not
-imply an imbalance: tunnelling creates new routes that are eventually
+imply an imbalance: tunneling creates new routes that are eventually
 foreclosed again. The stretch of time that tunnels occupy thus becomes a
 crucial aspect to their successful implementation. In the case of
 physical tunnels, this ‘stretch of time’ acquires a double significance:
@@ -1297,11 +1299,11 @@ development of the internet, however, represents a new space for states
 to act and to reassert traditional notions of territory. For example,
 early cyber-utopians such as John Perry Barlow, co-founder of the
 Electronic Frontier Foundation, envisioned cyberspace as a radical space
-where borders and states no longer mattered: “Governments of the
+where borders and states no longer mattered: 'Governments of the
 Industrial World, you weary giants of flesh and steel, I come from
 Cyberspace, the new home of Mind. On behalf of the future, I ask you of
 the past to leave us alone. You are not welcome among us. You have no
-sovereignty where we gather.”[^03AshrafandAlvarezLeonLogicsandterritorialities_1] In cyberspace one could be something
+sovereignty where we gather.'[^03AshrafandAlvarezLeonLogicsandterritorialities_1] In cyberspace one could be something
 radically different and no longer be constrained by any of the perceived
 drawbacks of the physical world, such as physical appearance or
 geography.
@@ -1319,7 +1321,7 @@ controls states are able to restrict the flow of information inside and
 outside of their borders, regardless of political circumstances. In
 cyberspace internet filtering is the primary way states assert their
 geopolitical visions, which are founded on the principles of sovereignty
-and borders. This is the “information curtain” first articulated by
+and borders. This is the 'information curtain' first articulated by
 Secretary of State Hillary Clinton in 2010.[^03AshrafandAlvarezLeonLogicsandterritorialities_2]
 
 The rise of state internet controls and internet filtering has led many
@@ -1343,7 +1345,7 @@ depending on social and political factors. For example, some states,
 such as Saudi Arabia or Iran, choose to enact content regulations to
 restrict or forbid citizens from developing, consuming, or distributing
 certain types of content. On the other hand, states may choose to
-“relocate” content regulations by requiring internet service providers
+'relocate' content regulations by requiring internet service providers
 (ISPs) to filter content on behalf of the state in order to get a
 business license. Companies that do not filter on behalf of the state
 may be subject to various liabilities and penalties until they are in
@@ -1409,10 +1411,10 @@ address, domain name, service port number, etc.) and this is checked
 against a defined block list, usually provided by the state. This level
 of analysis can occur at a router level or require a deeper level of
 inspection. Filtering at the router level will examine just the header
-of the information packet –equivalent to the address on an envelope– and
+of the information packet – equivalent to the address on an envelope – and
 block or allow that packet to continue to its destination. Examining the
-content of the data packet –equivalent to opening the envelope and
-reading its contents– requires more sophisticated technologies, called
+content of the data packet – equivalent to opening the envelope and
+reading its contents – requires more sophisticated technologies, called
 Deep Packet Inspection (DPI), which is currently believed to be in use
 in Iran.[^03AshrafandAlvarezLeonLogicsandterritorialities_13]
 
@@ -1459,7 +1461,7 @@ geographically.
 
 Content takedowns are a relatively new method of filtering which
 reflects the explosion of user-generated content in the web. In this
-method, states and citizen sympathizers or paid actors “flag” or report
+method, states and citizen sympathizers or paid actors 'flag' or report
 objectionable content to content providers in the hopes of having the
 offending content removed and the uploader banned.[^03AshrafandAlvarezLeonLogicsandterritorialities_15] If, for example,
 a protest video were uploaded to video sharing site YouTube, a content
@@ -1532,18 +1534,13 @@ which geoblocking produces a broad range of territorialities which
 transcend attempts to understand the internet through an open/closed
 binary perspective.
 
-![](imgs/AshrafImage1.jpg)
-
-Figure 1. Source: States are enforcing their territorial boundaries online
-and in doing so adapt existing notions of territory, borders, and
-sovereignty (Nicolas Sanson/Wikimedia Commons)
 
 ## Markets
 
 While states can control or record flows of information to preserve
 their sovereignty and territorial power online, market actors pursue a
 different type of territorialization: one that allows them to maximize
-profit. Often this involves “locking information” through technical
+profit. Often this involves 'locking information' through technical
 means, such as Digital Rights Management technologies, in order to
 target specific authorized spaces or devices. This means that the
 territorialities of information markets can be determined by the extent
@@ -1572,8 +1569,8 @@ time and space at transnational scales. This level of coordination has
 made it more difficult to maintain a strategy long used by film
 distributors: the windowed release of products according to geographic
 region, and even by medium, such as theater and then home video. This
-strategy was designed to “manage time and control speed through space so
-as to minimize the threat posed by new technologies.”[^03AshrafandAlvarezLeonLogicsandterritorialities_20] Consistent
+strategy was designed to 'manage time and control speed through space so
+as to minimize the threat posed by new technologies.'[^03AshrafandAlvarezLeonLogicsandterritorialities_20] Consistent
 with the logic of market actors, the ultimate goal in this stepwise
 control of information is to reach the highest possible price each
 segmented market is capable of bearing.[^03AshrafandAlvarezLeonLogicsandterritorialities_21]
@@ -1614,7 +1611,7 @@ strategies such as hard territorial markets through geoblocking, hybrid
 release campaigns across platforms, and simultaneous global releases.
 
 Much like the controls of information enforced by states, the
-“geographic rights management” approach behind geoblocking has been
+'geographic rights management' approach behind geoblocking has been
 successful in producing territorialized spaces of information through
 exclusion. This process can be self-reinforcing because its deployment
 in a digital network environment expands the scope of its control with
@@ -1625,7 +1622,7 @@ use of DRM and the internet
 > over access to their content. Because each use of the Internet
 > produces a copy, use on the Internet becomes subject of the copyright
 > owner’s control. The technology expands the scope of effective control
-> because the technology builds a copy into every transaction.[^03AshrafandAlvarezLeonLogicsandterritorialities_23]
+> because the technology builds a copy into every transaction.[^03AshrafandAlvarezLeonLogicsandterritorialities_23] <br/>
 
 Yet, like states’ control of information, which is often contested (and
 subverted) by groups of actors, the territorialities of information
@@ -1667,7 +1664,7 @@ number – which identifies the physical location of a computer – is
 within the United States or Japan, the two markets where this service
 operates. While for some time users abroad were able to circumvent these
 controls through the use of Virtual Private Networks or other
-technologies[^03AshrafandAlvarezLeonLogicsandterritorialities_24], Hulu has now blocked this possibility[^03AshrafandAlvarezLeonLogicsandterritorialities_25] –further
+technologies[^03AshrafandAlvarezLeonLogicsandterritorialities_24], Hulu has now blocked this possibility[^03AshrafandAlvarezLeonLogicsandterritorialities_25] – further
 demonstrating the territorialized construction of their market.
 
 These video platforms present building blocks in territorialized
@@ -1753,7 +1750,7 @@ firms, articulate clear territorialities based on intellectual property
 regimes, markets, and internet censorship or control. The existence of
 an “open” internet can be considered a techno-utopian vision at odds
 with the historical development of this network.[^03AshrafandAlvarezLeonLogicsandterritorialities_27] Indeed, the word
-“geoblocking” presupposes that there is something to be blocked,
+'geoblocking' presupposes that there is something to be blocked,
 necessitating a binary open/closed model of the internet. This idea
 represents yet another frame of territorial logic mapped onto the
 internet. However, as this chapter demonstrates, multiple actors
@@ -1948,7 +1945,7 @@ overlap and thereafter develop concurrently.
 
 Figure 1. Geoblocking has a complicated relationship with national legal
 systems but it is starting to be increasingly recognized as a useful
-tool for legal compliance. Source: (CC BY 2.0/Karen Roe)
+tool for legal compliance. Credit: Karen Roe (CC BY 2.0)
 
 ## Geoblocking as a Tool of Regulation and Enforcement
 
@@ -2051,17 +2048,17 @@ website and watch content on the website for which *Spanski Enterprises*
 held an exclusive license.
 
 The first lawsuit that *Spanski Enterprises* filed (in 2007) resulted in
-a 2009 settlement agreement in which the parties agreed to “maintain and
+a 2009 settlement agreement in which the parties agreed to 'maintain and
 continue all Internet geo-blocking which is currently in effect, and
 \[…\] use their best efforts to conform their respective future
 geo-blocking efforts to the latest widely disseminated and financially
-practicable geo-blocking technologies.”<span id="_Ref427140367"
+practicable geo-blocking technologies.'<span id="_Ref427140367"
 class="anchor"></span>[^04TrimbleGeoblockingandEvasion_8] Then, in 2012, *Spanski Enterprises* returned
-to court with allegations that *Telewizja Polska* had “turned off the
+to court with allegations that *Telewizja Polska* had 'turned off the
 geoblocking feature and thereby intentionally made available to viewers
 in the United States via the Internet thousands of episodes of shows to
 which \[*Spanski Enterprises*\] had the exclusive distribution rights in
-the United States.”[^04TrimbleGeoblockingandEvasion_9] As of September 2015 the case was still pending
+the United States.'[^04TrimbleGeoblockingandEvasion_9] As of September 2015 the case was still pending
 before the U.S. District Court for the District of Columbia with the
 trial date set for December 7, 2015.[^04TrimbleGeoblockingandEvasion_10]
 
@@ -2072,10 +2069,10 @@ violate U.S. copyright law – whether the use of geoblocking is a
 reasonable measure that the law today should expect to be employed by
 content providers to avoid infringing the copyrights of others. *Spanski
 Enterprises* claims that *Telewizja Polska* infringed copyright under
-U.S. law; *Telewizja Polska* contends that its “obligation to geo-block
+U.S. law; *Telewizja Polska* contends that its 'obligation to geo-block
 is a contractual covenant to protect the rights actually licensed to
 \[*Spanski Enterprises*\] – it is not part of the licensed rights
-themselves.”[^04TrimbleGeoblockingandEvasion_11]
+themselves.'[^04TrimbleGeoblockingandEvasion_11]
 
 *Telewizja Polska* argues that an obligation to geoblock is a
 contractual covenant. If *Spanski Enterprises* can prove its
@@ -2106,16 +2103,16 @@ As mentioned earlier, minimum standards for geoblocking exist in
 contracts between parties that have agreed to the use of geoblocking.
 For example, the language of the 2009 settlement agreement between
 *Spanski Enterprises* and *Telewizja Polska* sets a minimum standard for
-geoblocking; the parties agreed to “the latest widely disseminated and
-financially practicable geo-blocking technologies.”[^04TrimbleGeoblockingandEvasion_13] In a licensing
+geoblocking; the parties agreed to 'the latest widely disseminated and
+financially practicable geo-blocking technologies.'[^04TrimbleGeoblockingandEvasion_13] In a licensing
 agreement concluded between Sony and Netflix, the parties agreed on very
-general language according to which Netflix would “utilize an industry
-standard geolocation service”[^04TrimbleGeoblockingandEvasion_14] and language that specified that the
-geolocation service employed must, for example, “provide geographic
+general language according to which Netflix would 'utilize an industry
+standard geolocation service'[^04TrimbleGeoblockingandEvasion_14] and language that specified that the
+geolocation service employed must, for example, 'provide geographic
 location information based on DNS registrations, WHOIS databases and
-Internet subnet mapping” and “provide geolocation bypass detection
+Internet subnet mapping' and 'provide geolocation bypass detection
 technology designed to detect IP addresses located in the Territory, but
-being used by Registered Users outside the Territory.”[^04TrimbleGeoblockingandEvasion_15] For the
+being used by Registered Users outside the Territory.'[^04TrimbleGeoblockingandEvasion_15] For the
 purposes of legal compliance, courts and regulators will play an
 important role in defining the minimum standards of geoblocking.
 
@@ -2154,10 +2151,10 @@ circumvention tool; it might be sufficient for the measure to prevent
 *average* users from accessing protected content.[^04TrimbleGeoblockingandEvasion_18] The U.S. District
 Court for the Northern District of California rejected an argument
 proposing that a measure not be considered effective if tools to
-circumvent the measure are “widely available on the Internet.”[^04TrimbleGeoblockingandEvasion_19] The
-court said that the argument is “equivalent to a claim that, since it is
+circumvent the measure are 'widely available on the Internet.'[^04TrimbleGeoblockingandEvasion_19] The
+court said that the argument is 'equivalent to a claim that, since it is
 easy to find skeleton keys on the black market, a deadbolt is not an
-effective lock to a door.”[^04TrimbleGeoblockingandEvasion_20]
+effective lock to a door.'[^04TrimbleGeoblockingandEvasion_20]
 
 ## Regulating the Circumvention of Geoblocking
 
@@ -2169,7 +2166,7 @@ content providers now include provisions in their terms of service that
 prohibit internet users from evading geoblocking. For example, German
 television station *Sat.1* in its terms of service for the use of its
 online video portal makes it a violation of the terms of service for
-users to “alter, evade or otherwise disregard” the technical measures
+users to 'alter, evade or otherwise disregard' the technical measures
 that the station uses to territorially limit the access to content on
 the portal.[^04TrimbleGeoblockingandEvasion_22] If a user does use a VPN or other tool to circumvent
 geoblocking, the user violates this provision of the terms of service
@@ -2192,8 +2189,8 @@ MediaWorks on one side and ByPass Network Services on the other side
 seemed to have provided impetus for a clarification – or at least a
 fruitful discussion – of the status of circumvention of geoblocking in
 New Zealand.<span id="_Ref427225220" class="anchor"></span>[^04TrimbleGeoblockingandEvasion_27] The
-dispute over the Bypass *GlobalMode* product – a “geo-unblocking
-solution” for ISPs – was settled in June 2015 and therefore provided no
+dispute over the Bypass *GlobalMode* product – a 'geo-unblocking
+solution' for ISPs – was settled in June 2015 and therefore provided no
 guidance on the status of the evasion of geoblocking in New Zealand;
 nevertheless, it is notable that the practical result was the promise to
 withdraw the geoblocking circumvention tool from the New Zealand market
@@ -2232,8 +2229,8 @@ the use of geoblocking in the European Union in ‘A Digital Single Market
 Strategy for Europe – Analysis and Evidence’<span id="_Ref427226427"
 class="anchor"></span>[^04TrimbleGeoblockingandEvasion_29] and launched a related inquiry into the
 e-commerce sector.[^04TrimbleGeoblockingandEvasion_30] In the document the Commission referred to
-geoblocking as one of the “barriers that hold back cross-border
-e-commerce.”[^04TrimbleGeoblockingandEvasion_31] A preference for unencumbered cross-border access to
+geoblocking as one of the 'barriers that hold back cross-border
+e-commerce.'[^04TrimbleGeoblockingandEvasion_31] A preference for unencumbered cross-border access to
 content on the internet is also apparent from the draft ‘Trade in
 Services Agreement’[^04TrimbleGeoblockingandEvasion_32] that is being negotiated by a group of
 countries – members of the World Trade Organization. However, all
@@ -2258,7 +2255,7 @@ required by law, contracts will not be able to eliminate geoblocking
 entirely; however, contracting parties can eliminate some geoblocking,
 and limited geoblocking evasion could mitigate some of the effects of
 geoblocking where the use of geoblocking exceeds what is required by
-law. For example, a system of “digital passports” could facilitate
+law. For example, a system of 'digital passports' could facilitate
 access to users who travel abroad.[^04TrimbleGeoblockingandEvasion_35]
 
 ## References
@@ -2453,7 +2450,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
     Lawsuit Ends’, PCWorld, 23 June 2015,
     [http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html](http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html).
 
-[^04TrimbleGeoblockingandEvasion_28]: *Supra* note 30.
+[^04TrimbleGeoblockingandEvasion_28]: *Supra* note 27.
 
 [^04TrimbleGeoblockingandEvasion_29]: A Digital Single Market Strategy for Europe – Analysis and
     Evidence, European Commission, SWD(2015) 100 final, 6 May 2015, pp.
@@ -2463,7 +2460,7 @@ Trimble, Marketa. ‘The Multiplicity of Copyright Laws on the Internet’,
     e-commerce sector pursuant to Article 17 of Council Regulation (EC)
     No 1/2003.
 
-[^04TrimbleGeoblockingandEvasion_31]: *Supra* note 33, p. 3.
+[^04TrimbleGeoblockingandEvasion_31]: *Supra* note 30, p. 3.
 
 [^04TrimbleGeoblockingandEvasion_32]: Draft Trade in Services Agreement (TiSA), Annex on Electronic
     Commerce, 16 September 2013. *See also* Marketa Trimble, Local
@@ -2581,7 +2578,7 @@ all media produced in and around the event, adding that Wei was
 Wimbledon have all banned the use of Periscope from stadiums. Outside of
 sports, Comic-Con, the largest popular culture convention in the world,
 also instituted a Periscope ban for its 2015 gathering. Key players on
-the film festival circuit are similarly wary .While Cannes Film Festival
+the film festival circuit are similarly wary. While Cannes Film Festival
 already bans any form of video recording inside the festival, Mark Gill,
 the president of Millennium Films, has declared the app, ‘a whole new
 brand of terrifying’ as organizers have promised extra vigilance to
@@ -2595,7 +2592,7 @@ well.[^05RuggBurroughsPeriscope_13]
 
 Figure 1. The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
-corporate and state media infrastructures Source: (CC BY 2.0/Anthony
+corporate and state media infrastructures Source: Anthony Quintano (CC BY 2.0)
 Quintano)
 
 In 2007, Viacom waged a long legal battle against YouTube, seeking
@@ -2603,7 +2600,7 @@ damages for profiting off of the viewing of infringing content. The
 Second Circuit court ruled that YouTube was indeed protected by the safe
 harbor provision because the ‘DMCA requires knowledge or awareness of
 specific infringing activity in order to find a party liable for
-hostingthe district court found that YouTube was protected by the
+hosting [] the district court found that YouTube was protected by the
 safe harbor provision’.[^05RuggBurroughsPeriscope_14] However, to bolster their legal positioning
 and dissuade other lawsuits YouTube started filtering videos and posting
 takedown notices. In the case of Periscope the safe harbor provision
@@ -2680,7 +2677,7 @@ exemplify the unique possibilities of mobile live streaming and reveal
 the competing discontinuities of emergent mobile video culture. Further,
 they illustrate the increasing divergence of the mobile video space from
 existing broadcast and desktop platforms. Within the realm of desktop
-access to Internet video, distribution has historically been modeled
+access to internet video, distribution has historically been modeled
 according to existing television broadcast logics that divide control of
 content by nation and enforce those divisions through the use of
 geofences. Even platforms with large amounts of amateur content have
@@ -2778,14 +2775,14 @@ happened has made many live-streaming apps solely responsible to broadly
 applied copyright laws and their own internal policies.
 
 As Marketa Trimble states, many governments across the world have just
-started grappling with the physical and digital mobility of Internet
+started grappling with the physical and digital mobility of internet
 users and are still early in the process of figuring out how to
 legislate and regulate the concept of geographical territories and
 borders within the constructed geography of the front facing
-Internet.[^05RuggBurroughsPeriscope_20] While many apps and techniques currently take advantage
+internet.[^05RuggBurroughsPeriscope_20] While many apps and techniques currently take advantage
 of this legal grey area to bypass geofences and other restrictions,
 governments and regulatory bodies could pass laws or restrictions that
-give greater weight to territorial boundaries on the Internet and
+give greater weight to territorial boundaries on the internet and
 establish mechanisms for authorizing temporary and permanent geofences
 that restrict the use of media-sharing platforms in certain locations.
 Recent patents developed by Apple already point toward the technological
@@ -2807,7 +2804,7 @@ around Twitter and Facebook were partially subverted by the use of VPNs
 and the digital attacks of the hacker group Anonymous, they starkly
 revealed the importance of social media apps in conflicts between states
 and their citizens.[^05RuggBurroughsPeriscope_24] As live-streaming continues to enmesh itself
-within the structures of social media platforms and as Civic Streaming
+within the structures of social media platforms and as civic streaming
 increasingly becomes an important tool to communicate and share
 information in times of crisis, it was will be subject to increased
 efforts by states to restrict and control its use.
@@ -2819,7 +2816,7 @@ marketing efforts that reject the technical difficulty of previous
 circumvention technologies to position themselves instead as
 user-friendly computing tools. Some of these technologies, like VPNs,
 DNS proxies, and IP maskers, utilize the geographical ambiguity of the
-Internet to bypass geofences and access content authorized to users in
+internet to bypass geofences and access content authorized to users in
 different locales. Others, such as Periscope, Ustream, and Vine, provide
 mobile users with live video publishing tools, allowing them to become
 hosts of original and copyrighted content that can be streamed across
@@ -3108,7 +3105,7 @@ circumstances it could just as likely replace it (for example, if it was
 difficult to access an official broadcast).
 
 Geography also plays a role in the diminishing this exclusivity. The
-British Broadcasting Corporation (BBC) – a public broadcaster -
+British Broadcasting Corporation (BBC) – a public broadcaster –
 broadcasts Match of the Day (MotD), a popular Association Football
 highlights show, and also streams it on their VoD service. However,
 their streaming service is restricted to the United Kingdom ostensibly
@@ -3140,7 +3137,7 @@ circumvention is not just about access, but about sustaining alternative
 consumption preferences, which are often not catered for in the dominant
 forms of sporting broadcast.
 
-####Circumvention Practices in Media Sport####
+##Circumvention Practices in Media Sport
 
 Circumvention in media sport occurred from the 1970s onwards, thanks to
 flexible consumer technologies like VCRs, which gave audiences with
@@ -3149,12 +3146,12 @@ notes that ‘\[u\]nauthorised video dubbing and illegal access to cable
 and satellite sports television channels was’ a practice undertaken in
 many countries, ‘but these activities … had a relatively minor effect
 upon profitability in the media market’.[^06MeesePodkalickaGeoblockingandSport_6] Unsurprisingly, the
-Internet has intensified opportunities for circumvention practices, and
+internet has intensified opportunities for circumvention practices, and
 here we outline some of the most common methods. However, we leave a
 discussion around one of the most novel methods, the use of the live
-streaming app Periscope, to Adam Rugg and Ben Burroughs in Chapter X.
+streaming app Periscope, to Adam Rugg and Ben Burroughs in the previous chapter.
 
-####Unauthorized live-streaming websites####
+###Unauthorized live-streaming websites###
 
 One prominent practice is the live streaming of sporting content on
 websites such as *Wiziwig* or *ATDHE*, which offer free unauthorized
@@ -3186,7 +3183,7 @@ is also worth noting that it is not prohibitively difficult to upload a
 stream of a sporting match for online broadcast, to the extent that
 walkthroughs are available online.
 
-####Circulation of Game Replays
+###Circulation of Game Replays
 
 An alternative circumvention tactic is based around a number of
 websites, which host delayed highlights of games after the match has
@@ -3198,7 +3195,7 @@ However, these websites often feature copyright infringing content. The
 only way they stay clear of lawsuits is by sourcing content uploaded by
 individuals hosted on third party video hosting websites (such as
 DailyMotion or MetaCafe). We will turn to one of the more prominent
-sites, footytube.com to show how this negotiation takes place.
+sites, Footytube, to show how this negotiation takes place.
 
 Footytube deploys three specifically customized search aggregation bots,
 which scan the open web for content (bots are small programs that run on
@@ -3226,10 +3223,10 @@ unlike live sport, there is a limited audience for delayed content.[^06MeesePodk
 
 ![](imgs/MeesePodkalicka-Image1.png)
 
-Figure 1. Highlights aggregated by footytube.com from youtube.com. The
+Figure 1. Highlights aggregated by Footytube from Youtube. The
 YouTube account associated with this footage has since been terminated
 
-####Conventional Circumvention Tools
+###Conventional Circumvention Tools
 
 Sporting audiences also use commercial Virtual Private Networks and
 Domain Name System proxy services in order to evade geoblocking,
@@ -3254,7 +3251,7 @@ of the sports broadcasting landscape, the use of circumvention
 technologies challenges this distribution strategy, which has been in
 place for some time.
 
-####Fan Recordings on Social Media
+###Fan Recordings on Social Media
 
 Another phenomenon that has emerged in recent years is people posting
 sporting content on social media platforms, either during or after a
@@ -3279,13 +3276,13 @@ copyright. This frenzy of activity even led to the Vine accounts of
 major media companies being taken down. These debates around the
 publication of fan recordings further underlines the tensions between
 established geographies of rights and the de-territorialization the
-Internet affords. As an aside, it is also interesting to note that while
+internet affords. As an aside, it is also interesting to note that while
 all corporate organisations – including sporting organisations – enjoy
 it when a deliberately selected piece of content goes viral, losing
 control over this process is often treated as a direct threat to their
 business model.
 
-####Parallel Imports of Cable Decoders
+###Parallel Imports of Cable Decoders
 
 Our final example is a practice that constitutes, perhaps, one of the
 most ingenious methods of circumvention: paying for a cheaper cable
@@ -3320,7 +3317,7 @@ a computer up to the television and watch it from an online stream.
 Alternatively, a publican noted that if fans from different teams were
 attending his pub, he would show one broadcast through the parallel
 imported broadcast and another ‘through on that screen or that screen
-\[points to two large televisions\] from the computer \[an Internet
+\[points to two large televisions\] from the computer \[an internet
 live-stream\]’.[^06MeesePodkalickaGeoblockingandSport_10]
 
 This shows how circumvention practices often work in tandem with each
@@ -3381,7 +3378,7 @@ commentary is in a foreign language might impact on the enjoyment of the
 game.
 
 
-| Platform  | Do you need to pay  |Timing   |Geographic restriction   | 'Quality'  |
+| Platform  | Do you need to pay?  |Timing   |Geographic restriction   | 'Quality'  |
 |---|---|---|---|---|
 | TV (Satellite)  |Yes| Live  | Yes  | Excellent  |
 | TV (FTA)  | Sometimes  | Live  |  Yes | Excellent|
@@ -3390,7 +3387,7 @@ game.
 |Live Streaming|  No | Live | No|Average to Poor|
 |Vine| No  | Slight Delay | No  | Poor |
 |YouTube/Other Third Party Site| No  |Delay of a few hours| No  | Average to Poor  |
-|Skype|  No | Live  | No  | poor  |
+|Skype|  No | Live  | No  | Poor  |
 |Website| No  |Delay of a few hours| No  | Average to Poor  |
 
 Figure 2: A breakdown of the relationship between geographic
@@ -3484,7 +3481,7 @@ and DNS proxies to access PSB by these citizens in a similar fashion. Of
 course, the circumvention of geoblocking by non-citizens is a different
 matter and raises a more complex set of questions for PSBs.
 
-##Conclusion##
+##Conclusion
 
 Thanks to the preponderance of various circumvention practices, sporting
 video culture has fragmented. Because of this we see other interesting
@@ -3584,7 +3581,7 @@ York Times, 21 October 2011,
 
 # Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming Aggregation Platforms
 
-###Florian Hoof##
+###Florian Hoof
 
 ## Geoblocked in Australia
 
@@ -3790,11 +3787,6 @@ notices. URLs for streaming aggregation platforms change frequently, and
 platforms often disappear then reappear with a slightly different
 address.
 
-![](imgs/Hoof-Image4.png)
-
-Figure 4. Malware is a common security hazard people have to negotiate
-when using streaming platforms
-
 There is also the risk that there are no streams available at all, or
 that the quality is too low. Previously stable, high-quality streams can
 turn into dysfunctional broadcasts if too many users are trying to
@@ -3820,7 +3812,7 @@ continuously affected by the problem of ‘lemons’. The prevailing
 uncertainty is a result of different aspects that constitute information
 goods as ‘digital lemons’:
 
-1\. *search ability* (via well-known streaming platforms; by links that
+1\. *searchability* (via well-known streaming platforms; by links that
 suddenly appear in social networks).
 
 2*.* *accessibility* (via browser, video player software or via specific
@@ -3929,7 +3921,7 @@ Live-Stream’, 17 September 2015,
 [^07HoofLivesportspiracyanduncertainty_8]: See: Ulrich Beck, *Risk Society. Towards a New Modernity*, London:
     Sage, 1992; Anthony Giddens, ‘Risk and Responsibility’, *Modern Law Review* 62.1 (1999): 1-10; Niklas Luhmann, *Risk. A Sociological
     Theory*, Berlin/New York: De Gruyter, 1993.
-
+xf
 
 
 
@@ -3941,10 +3933,8 @@ Live-Stream’, 17 September 2015,
 
 Figure 1. Drawing the Borders: Detail of the original Sega Megadrive
 design schematic, with the assorted cartridge slot shapes indicated.
-Reproduced from Stuart and Wall, Sega Mega Drive/Genesis: Collected
-Works, n.p: Read Only Memory, 2014
 
-IP address geoblocking has been implemented to partition what would
+Geoblocking has been implemented to partition what would
 otherwise be potentially borderless worlds of information and
 entertainment delivered via the internet.[^08BurkeGamecartridges_1] Digital media markets,
 differentiated in price and access to different ‘regions’ of the globe,
@@ -3970,7 +3960,7 @@ information as a discrete physical entity.[^08BurkeGamecartridges_2]
 
 ## The Future Elsewhere: Japan’s revival of home video gaming
 
-Video gaming, as a consumer past time, emerged in the United States.
+Video gaming, as a consumer pastime, emerged in the United States.
 After a number of comparatively unsuccessful precursors, Atari
 inaugurated a popular culture boom in video games between 1978 and 1983.
 It was not to last, and after quality control concerns, and catastrophic
@@ -4026,7 +4016,7 @@ by the system vendor.[^08BurkeGamecartridges_9]
 Between 1988 and 1993, the second wave of Japanese origin consoles,
 first from Sega in 1988 (Japan, 1990 US, 1991 EU/Australia), and later
 Nintendo (1990 Japan, 1991 US, 1992 EU/Australia) – arrived in the
-historically neglected PAL markets. This chapter willfocus on Australia,
+historically neglected PAL markets. This chapter will focus on Australia,
 a geographically isolated region, with no land borders, and no proximate
 NTSC neighbour – and one which often lagged behind Japan and the United
 States, in terms of the release of both video game hardware and its
@@ -4125,8 +4115,8 @@ A\$399 in 1991. Acquiring the console required studious petitioning and
 parental patronage, and even then, the cost involved made it the
 preserve of the middle class.[^08BurkeGamecartridges_15] With Australia entering a very steep
 and prolonged economic recession shortly after the release of the
-Megadrive, it tookyears of depreciationand improving economic
-conditionsbefore it arrived at a mass market price Breaching the
+Megadrive, it took years of depreciation and improving economic
+conditions before it arrived at a mass market price Breaching the
 cartridge slot, and thus reaching the ‘future’ (actually the
 geographically distant present), was an enterprise that involved great
 risk. Physical puncture of the motherboard, or electrostatic discharge,
@@ -4138,7 +4128,7 @@ for a failed attempt would be severe.
 
 As video game journalism matured during the 1990s, popular knowledge of
 circumvention increased. Until this point, this gap between promised
-excitement and local disappointment was present, but manageable.  The
+excitement and local disappointment was present, but manageable. The
 latency between knowledge of new overseas games, as revealed in effusive
 print reviews and colorful screenshots, was modest.  Almost all
 dedicated English-language video game journalism was published in the UK
@@ -4235,8 +4225,7 @@ sporadic and well-publicized confiscation of imported games by
 Australian Customs (promptly and ostentatiously donated to local
 children’s hospitals), an enforcement measure which was abandoned in the
 wave of competition reforms which relaxed parallel import rules. Even
-the expansive, omnibus anti-circumvention provisions of the Digital
-Agenda Bill (2001) would seem ill-armed to counter the threat of a
+the expansive, omnibus anti-circumvention provisions of the Digital Agenda Act (2000) would seem ill-armed to counter the threat of a
 kitchen knife and a determined young video game enthusiast with a poorly
 developed sense of risk.
 
@@ -4656,7 +4645,7 @@ the GFW. Many popular blogs faced the same fate when the Chinese
 blogsphere was subjected to tightened control. Thus when people climb
 over the wall, what they often see is information about domestic affairs
 from domestic sources.[^09LiChina_11] What the wall really achieves is not simply
-to stop outside contents from coming in, but to purge out the unwanted
+to stop outside content from coming in, but to purge out the unwanted
 information from inside. Therefore, by blocking video-sharing sites such
 as YouTube and Vimeo, what are in fact blocked are not videos from the
 U.S. but underground films, documentaries and citizens’ reportage *from
@@ -4676,7 +4665,7 @@ GFW resonates with the widespread feelings of entrapment, suppression,
 and control in people’s daily life online and offline. Thus the
 experience with, and the imagination of, the “wall” are often evoked to
 express the public anger and anxiety toward many different forms of
-suppression that go far beyond Internet control. “If you are arrested,
+suppression that go far beyond internet control. “If you are arrested,
 your freedom curtailed, your posts deleted, these can also all be cases
 of being ‘walled.’”[^09LiChina_12]
 
@@ -4700,14 +4689,14 @@ Countless circumvention tools based on proxies, VPNs, and encryption
 technologies were developed and adopted. They are described as “ladders”
 (*tizi*). Popular ladders include Tor (The Onion Router), FreeGate (a
 proxy network system), Ultrasurf (a freeware based on proxy servers and
-encryption protocols), I2P (the Invisible Internet Project, a free,
+encryption protocols), I2P (the Invisible internet Project, a free,
 open-source program for pseudonymous information transfer), Psiphone (a
 combination system developed by the Citizen Lab at the University of
 Toronto), and GoAgent (a cross-platform software). Other new weapons are
 constantly emerging, including VPN Gate (a free public-minded VPN
 service), Lantern (a P2P network where users share bandwidth), Pritunl
 (a enterprise distributed VPN server), Shadowsocks (a socks5 server),
-FreeBrowser( a free Internet browser for Android systems), and Fqrouter
+FreeBrowser (a free internet browser for Android systems), and Fqrouter
 (a circumvention router for Android systems).
 
 The battle between the wall and wall crossing is fierce and continuous,
@@ -4715,7 +4704,7 @@ and all these tools have to be updated frequently in order to remain
 functional. New technological developments such as cloud computing and
 IPv6 also pose challenges to the GFW and provide more ladders for wall
 crossing. Information about how to circumvent the GFW, where to download
-the tools, and how to use them is abundant on the Internet, though some
+the tools, and how to use them is abundant on the internet, though some
 of this information is censored in China. Since many of these
 circumvention tools are free, open-source projects, they are often
 hosted at GitHub, a source code management network where programmers
@@ -4729,7 +4718,7 @@ Due to the underground nature of wall crossing, it is difficult to
 estimate how many Chinese users practice circumvention. There have been
 conflicting reports about the size and impact of the wall-crossing
 community. In 2014, Globalwebindex reported that there are 93 million
-Chinese VPN users, which amounts to 20% of total Internet users in China
+Chinese VPN users, which amounts to 20% of total internet users in China
 and is the largest number in the world.[^09LiChina_14] The actual impact of
 circumvention, however, cannot be simply measured by its popularity.
 Since the GFW has become so visible and ubiquitous, circumvention talk
@@ -4763,7 +4752,7 @@ recording, publicizing, and mobilizing such events. Thus, it is not
 accidental that the GFW’s first blockage of YouTube in 2007 coincided
 with the aftermath of the mass protest in the city of Xiamen against the
 construction of a chemical plant. Cellphone videos recorded at the
-Xiamen protest were widely circulated on the Internet, generating heated
+Xiamen protest were widely circulated on the internet, generating heated
 public debate about China’s environmental problems. Months later,
 YouTube was walled.
 
@@ -4773,7 +4762,7 @@ sentimentality of the so-called post-80s generation. Born in the 1980s
 when China just began its economic reform, the post-80s generation came
 of age amidst the skyrocket boom in both economy and popular media. They
 are the first generation to witness the spread of television, computers,
-and the Internet in Chinese households, and thus became the first group
+and the internet in Chinese households, and thus became the first group
 of avid media consumers in China. Growing up in the age of
 globalization, this generation is also decidedly cosmopolitan. Their
 increasing desire for global media is the major force that drives the
@@ -4796,20 +4785,20 @@ desire for obscenity can deliver quite subversive messages. In 2009, the
 Chinese government launched a dramatic “anti-smut” campaign, whose true
 purpose however was to censor information about a pro-democratic online
 petition. Right in the middle of the campaign, an imaginary creature
-named “Grass Mud Horse” (*cao ni ma*) became a huge Internet phenomenon
+named “Grass Mud Horse” (*cao ni ma*) became a huge internet phenomenon
 after a series of widely circulated online videos attracted millions of
 viewers. The videos feature cute images of an alpaca-like animal as the
 embodiment of the homophone of a sexually charged profane curse, which
 expresses public anger toward censorship in a hilarious manner. Although
 the videos were quickly banned in Chinese cyberspace (but can be
-accessed on YouTube), the phenomenon continued in countless Internet
+accessed on YouTube), the phenomenon continued in countless internet
 memes, video games, toys, and even clothing lines that all referenced
 the lovely animal.
 
 ![](imgs/Li-image1.png)
 
 Figure 1. The Grass Mud Horse became a popular expression of resistance to
-internet censorship source: (CC BY-SA 2.0/chumsdock)
+internet censorship. Credit: chumsdock (CC BY SA 2.0)
 
 Equally provocative is the animation series *Kuang Kuang*, which was
 created by artist Pi San and his independent studio Huxiao Animation.
@@ -4930,7 +4919,7 @@ do not center around changing existent technologies but instead involve
 discovering holes in existent technologies and projecting potential
 change through those holes.”[^09LiChina_21] The wall generates those holes through
 missing links, blocked contents, and error messages. And that is where
-counterprotocols­­ —the wall-crossing tactics— emerge and exploit,
+counterprotocols­­ — the wall-crossing tactics — emerge and exploit,
 politicizing our mundane technological life of searching, browsing, and
 networking.
 
@@ -5197,9 +5186,9 @@ a way around the time lag.
 Making matters worse is the problem of pricing. Digital content is
 invariably more expensive in Australia than overseas when purchased
 through iTunes and other online services. According to the consumer
-group Choice, Australian viewers of *The Walking Dead ‘*will be paying
+group Choice, Australian viewers of *The Walking Dead*, 'will be paying
 up to 376% more than people watching the same show in the United
-Kingdom*’*.[^10LobatoandMeeseAustralia_2] This discrepancy, known colloquially as the ‘Australia
+Kingdom'.[^10LobatoandMeeseAustralia_2] This discrepancy, known colloquially as the ‘Australia
 tax’ has been a major topic of public discussion. Dissatisfaction about
 digital pricing has become a rallying cry for Australian early adopters
 who increasingly see themselves as ‘second-class’ media citizens, who
@@ -5244,8 +5233,7 @@ equitable pricing did not come out of nowhere. Australians have had to
 pay a higher price for cultural goods for much of the twentieth century.
 The country’s geographic isolation means higher shipping costs, lower
 levels of competition, and, in many cases, price gouging by media
-companies and publishers. Many incumbents have also been artificially
-protected by legislative bans on parallel-importing cheaper goods from
+companies and publishers. Many incumbents have also been protected by legislative bans on parallel-importing cheaper goods from
 overseas, keeping prices artificially high. While these parallel import
 bans have been partly dismantled since the 1990s – imports of CDs are
 now permitted, reducing what were previously ‘exceptionally high’ prices
@@ -5364,7 +5352,7 @@ Australian users on this basis (see Figure 1).
 
 ![](imgs/lobatomeese.png)
 
-Figure 1. [http://www.ibvpn.com/australia-vpn-service/](http://www.ibvpn.com/australia-vpn-service/)
+Figure 1. Australia-specific VPN marketing. Source:  [http://www.ibvpn.com/australia-vpn-service/](http://www.ibvpn.com/australia-vpn-service/)
 
 Recent developments in copyright law also bear directly on VPNs. In June
 2015 federal legislation was passed that gives judges the power to block
@@ -5590,26 +5578,17 @@ in turn has prompted many Turkish internet users to take up VPN services
 that allow them access to banned websites.
 
 Media freedom has always been a problematic issue in Turkey. Freedom of
-expression is restricted by laws that include quite broad definitions of
-crimes such as “defamation of Atatürk”, “threats against the unity of
-the state”, “threats against national security” or “defamation of
-religion”. Although communication rights improved in the early 2000s
+expression is restricted by laws that include quite broad definitions of crimes such as 'defamation of Atatürk', 'threats against the unity of the state', 'threats against national security' or 'defamation of religion'. Although communication rights improved in the early 2000s
 under the AKP (Justice and Development Party), the situation seems to
 have worsened in recent years, especially after the 2013 Gezi protests
 when hundreds of thousands of people took to the streets in Istanbul
 against the Erdoğan government. Since then, the government has attempted
 to put pressure on mass media outlets and introduce stricter control
 measures for online content. A change to the law in 2014 enabled the
-blocking of websites within 24 hours, in the absence of a court order,
-by the Telecommunications Communication Presidency and the Ministry of
-Transport, Maritime Affairs and Communication. This leads to the
-arbitrary blocking of many websites in Turkey that are critical of
-government policies.
+blocking of websites within 24 hours, in the absence of a court order, by the Telecommunications Communication Presidency and the Ministry of Transport, Maritime Affairs and Communication. This leads to the arbitrary blocking of many websites in Turkey that are critical of government policies.
 
-Given this political situation in Turkey, VPN, DNS and proxy services
-have become important tools to circumvent censorship and access content.
-In this sense, circumvention practices in Turkey have evolved in
-response to local political conditions. The key issue here is access to
+Given this political situation in Turkey, VPN, DNS and proxy services have become important tools to circumvent censorship and access content.
+In this sense, circumvention practices in Turkey have evolved in response to local political conditions. The key issue here is access to
 blocked social networking and video sites, especially YouTube and
 Twitter. Using VPNs to access commercial streaming sites like Netflix is
 not popular – partly because Turks have long used P2P networks and, more
@@ -5658,7 +5637,7 @@ increasingly used for streaming videos.
 
 Besides video platforms such as YouTube, İzlesene or DailyMotion, there
 are many illegal streaming websites that offer links to Turkish and
-foreign TV series. These “series websites” often use Russian or Asian
+foreign TV series. These 'series websites' often use Russian or Asian
 video platforms such as VK that are more difficult to control through
 national regulation. They even offer subtitles for foreign content. Most
 of these offshore video services target the Turkish diaspora as well as
@@ -5705,16 +5684,11 @@ for the regulation and control of online content, was founded in 2005.
 The first law in Turkey that focused directly on the regulation of
 online content – Law No. 5651 on the Regulation of Publications on the
 Internet and Suppression of Crimes Committed by means of Such
-Publications (“Law No. 5651”) – was passed in 2007. This law originally
+Publications ('Law No. 5651') – was passed in 2007. This law originally
 was drafted to define and regulate cybercrime. However, the enacted law
 had an expanded scope, and included vague statements that pave the way
 for arbitrary political censorship of media content as noted in the
-previous section. For example, article 8 defined “\[encouraging\]
-suicide, sexual abuse of children, facilitating the usage of drugs and
-stimulants, provision of materials being dangerous for the health,
-vulgarity, prostitution, providing area and opportunity for gambling,
-crimes indicated in the Law about the Crimes Committed Against
-Atatürk”[^11BozdagTurkey_4] as crimes. Accordingly, entire websites could be banned for
+previous section. For example, article 8 defined '\[encouraging\] suicide, sexual abuse of children, facilitating the usage of drugs and stimulants, provision of materials being dangerous for the health, vulgarity, prostitution, providing area and opportunity for gambling, crimes indicated in the Law about the Crimes Committed Against Atatürk'[^11BozdagTurkey_4] as crimes. Accordingly, entire websites could be banned for
 allegedly violating the principles and reforms of Atatürk – as was the
 case with the first blocking of YouTube in 2007 – or for making alleged
 threats to Turkey’s independence. Given the vague wording of the law,
@@ -5729,7 +5703,7 @@ internet filtering mandatory for all users in Turkey. The draft law
 provoked a passionate reaction, mobilizing not only activists and NGOs
 but also regular users of the internet, who are not necessarily
 politically active. Large protests were organized under the slogan
-“Don’t touch my internet”. Over half a million people participated in
+'Don’t touch my internet'. Over half a million people participated in
 the campaign, which included both online and offline activism. This was
 one of the most successful internet freedom campaigns in Turkey to date,
 and it forced the government to change the draft law. The use of filters
@@ -5759,8 +5733,8 @@ court order for quite long periods.
 
 These changes provoked a strong reaction on Twitter, Facebook and
 Eksisozluk, a widely used dictionary-like user-generated website in
-Turkey. However, not as many people participated as in the “Don’t touch
-my internet” mobilization of 2011. One reason behind for this is the
+Turkey. However, not as many people participated as in the 'Don’t touch
+my internet' mobilization of 2011. One reason behind for this is the
 fallout from the Gezi protests, which saw escalated police violence.
 Another reason is that people were more interested in the local election
 campaigns that also took place in March 2104.
@@ -5783,7 +5757,7 @@ Gezi protests, where the hashtag \#direngezi (resist Gezi) became a
 symbol of the protest.
 
 As was also the case in Gezi, people’s online protests were full of
-irony and humour. This can be considered a form of “passive resistance”,
+irony and humour. This can be considered a form of 'passive resistance',
 putting the legitimacy of government discourses about the need for site
 blocks into question.[^11BozdagTurkey_8] This time, despite a strong reaction online,
 there were only small street protests and almost no organized and
@@ -5794,7 +5768,7 @@ speak about the matter.
 The most common form of internet resistance in Turkey is the use of
 software tools to access blocked websites. Until 2014, most users
 preferred alternative and free DNS providers outside of Turkey, such as
-Google DNS and OpenDNS*.* Countless websites provided advice on how to
+Google DNS and OpenDNS. Countless websites provided advice on how to
 change DNS settings to get around the government blocks, and users
 quickly became familiar with these tactics. This increased again after
 YouTube and Twitter were blocked in March 2014, as people searched
@@ -5805,8 +5779,7 @@ Table 1 below, which shows the use of the words DNS, VPN and *sansür*
 ![](imgs/BozdagImage2.png)
 
 Figure 2. During the March 2014 Twitter ban, a global search of tweets
-shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were
-both prominent terms
+shows that ‘VPN’ and ‘DNS’ as well the Turkish word for censorship were prominent terms
 
 On the second day of the Twitter ban in March 2014, access to commonly
 used DNS providers was also blocked from within Turkey. This was a
@@ -5844,14 +5817,14 @@ were blocked for being pro-PKK.
 Unfortunately, there is no transparency about which websites are
 currently being blocked. However, activist groups are working to compile
 public lists of these blocked websites. One example is the anonymous
-collective behind the Engelli Web (“Blocked Web”) project. According to
+collective behind the Engelli Web ('Blocked Web') project. According to
 their research, the most commonly blocked category of websites contain
 “obscene” content. These are not only pornographic websites, but for
 example also websites that contain any sort of nudity or homosexual
 content. Among these websites there is an increasing number of video and
 video series sites. Then there are the sites blocked for political
 reasons – for example, pro-Kurdish websites such as Fırat News or Yeni
-Özgür Politika According to Engelli Web*,* more than 80,000 websites are
+Özgür Politika According to Engelli Web, more than 80,000 websites are
 blocked as of May 2015.[^11BozdagTurkey_9]
 
 Other activist groups in Turkey, such as Alternatif Bilisim Dernegi, the
@@ -5863,8 +5836,8 @@ popular among young people.
 
 Prosecution of individual internet users for posting material in online
 forums has increased in recent years. These cases are again based on
-definitions of crime that refer to “defamation of religion”, “violation
-of personal rights” and so on. Some of these cases are legitimate, but
+definitions of crime that refer to 'defamation of religion', 'violation
+of personal rights' and so on. Some of these cases are legitimate, but
 many of them seem to be simply attempts to silence anti-government
 voices. Although website blocks have little effect in terms of
 curtailing online expression (since people can always get around these
@@ -5890,7 +5863,7 @@ effects as people start to self-censor their online communication.
 Second, these blocks are a demonstration of power to the AKP’s own
 voters. As Twitter was blocked shortly before the local elections in
 March 2014, Erdogan made this part of his political campaign by saying
-that “they (AKP) were going to root out Twitter”, thus signaling his
+that 'they (AKP) were going to root out Twitter', thus signaling his
 power to take on a global internet actor. Third, through website
 blocking the government is forcing big internet companies like Twitter
 to be more cooperative in terms of removing content. Twitter
@@ -5918,7 +5891,7 @@ not necessarily to fight it. Given the fast-changing political
 environment in Turkey, the issue of internet censorship seems to only
 gain priority when bigger websites such as Twitter and YouTube are being
 blocked. However, internet censorship in Turkey is an ongoing issue.
-Campaigns like “Don’t touch my internet” in 2011 showed the power of a
+Campaigns like 'Don’t touch my internet' in 2011 showed the power of a
 well-organized protest, in which different actors from across the
 political spectrum come together. In the face of increasing government
 control, organizing well-networked, sustainable and effective action
@@ -5997,7 +5970,7 @@ report, *Cyber Rights,* 2014,
 
 ###Chris Baumann
 
-<div class="statbox">- 97%: Proportion of Swedes aged 16-54 who have access to the Internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85 %: Number of Swedish Internet users who made online purchases in 2014- 14%: Proportion of Swedish Internet users who paid for a video streaming service in 2014
+<div class="statbox">- 97%: Proportion of Swedes aged 16-54 who have access to the internet- SEK 199: Monthly cost for a true fiber connection (100 Mbit/s or more)- 85%: Proportion of Swedish internet users who made online purchases in 2014- 14%: Proportion of Swedish internet users who paid for a video streaming service in 2014
 > ‘The Nordic countries constitute one of the most advanced markets for new services and technologies, and particularly Sweden…both for its high broadband speeds and its people who tend to be early adopters.*’ — Reed Hastings, Netflix CEO and co-founder, in 2013> ‘We believe that the time is ripe for everyone to start using VPN services’ — Jon Karlung, CEO of the Swedish ISP Bahnhof, in 2014
 </div>
 In mid-October 2012, Netflix flew its top three executives, co-founder
@@ -6025,10 +5998,10 @@ crush the financial hopes of Netflix and Time Warner executives alike,
 it has, together with certain socio-technical and legal preconditions,
 contributed considerably to turning Sweden into something of a
 streamer’s paradise. Yet, as I will show in this chapter, not everything
-is rosy for Swedish Internet users. With the Swedish government trying
+is rosy for Swedish internet users. With the Swedish government trying
 to negotiate between its political duties within the European Union and
 its cyberlibertarian national politics that have made the country a
-haven for Internet users, many Swedes have turned to VPN services to
+haven for internet users, many Swedes have turned to VPN services to
 circumvent politically motivated data retention practices, and protect
 their privacy.
 
@@ -6083,7 +6056,7 @@ been broadcast in the United States.
 Given this abundance of local and offshore platforms, it is maybe
 surprising that YouTube and Netflix alone are responsible for more than
 half of the overall consumption of legal streaming video in Sweden.[^12BaumannSweden_2]
-In a country of just over 8.7 million Internet users YouTube accounts
+In a country of just over 8.7 million internet users YouTube accounts
 for 1.3 million viewers every day.[^12BaumannSweden_3] Netflix falls behind with 465,000
 daily viewers; however, with this number still has a lead in the Swedish
 subscription video streaming market, beating local and offshore
@@ -6122,8 +6095,8 @@ copyrighted material in Sweden.
 ## High Speeds/Low Spending
 
 Arguably the most important reason for this overprovision of video
-streaming services in Sweden is the country’s unique Internet
-infrastructure. The Internet did not spread particularly fast in Sweden
+streaming services in Sweden is the country’s unique internet
+infrastructure. The internet did not spread particularly fast in Sweden
 during the 1990s, at least not compared to a country like the United
 States where it was originally conceived. However, whereas both
 broadband penetration and speeds have leveled out in many OECD
@@ -6132,14 +6105,14 @@ ranks third in the World Economic Forum’s Network Readiness Index for
 2014 with its ‘world-class, affordable ICT infrastructure’ and ‘one of
 the highest technological and non-technological innovation performances
 in the world’.[^12BaumannSweden_8] Today, 91 percent of the Swedish population have
-access to the Internet, a number that increases to a staggering 97
+access to the internet, a number that increases to a staggering 97
 percent in the age group 16 to 54.[^12BaumannSweden_9] Broadband is available in 88
 percent of Swedish households, with 61 percent of homes and enterprises
 having access to downstream connections of at least 100 Mbit/s.[^12BaumannSweden_10]
 Yet, despite these numbers, prices for fixed broadband remain
 comparatively low in Sweden. With true fiber connections costing from
 SEK 199 per month, the country ranks third cheapest globally for
-Internet connections of 100 Mbit/s or more.[^12BaumannSweden_11]
+internet connections of 100 Mbit/s or more.[^12BaumannSweden_11]
 
 It is predominantly because of this promising infrastructural
 arrangement that major U.S. media companies such as Netflix and Time
@@ -6152,15 +6125,15 @@ noted that ‘\[t\]he Nordic countries constitute one of the most advanced
 markets for new services and technologies, and particularly Sweden…both
 for its high broadband speeds and its people who tend to be early
 adopters.’[^12BaumannSweden_12] Chief Product Officer Neil Hunt seemed to agree with the
-remarks, adding that the company found the country’s Internet
+remarks, adding that the company found the country’s internet
 infrastructure to be much better than anywhere else they had previously
 been. For Time Warner, too, Sweden continues to play a significant role.
 In 2012 the decision to make HBO’s entire library available to stream as
 a standalone subscription service under the moniker of HBO Nordic raised
 many eyebrows in Sweden, and abroad.[^12BaumannSweden_13] However, in light of the
 company’s recent announcement to launch its HBO Now video streaming
-service—essentially a carbon copy of HBO Nordic destined for the U.S.
-market—it can be argued that the Nordic countries, and Sweden in
+service — essentially a carbon copy of HBO Nordic destined for the U.S.
+market — it can be argued that the Nordic countries, and Sweden in
 particular, served as a test market for the media giant, and a
 convenient way to quietly launch their new flagship video streaming
 product.
@@ -6169,16 +6142,16 @@ As promising as this arrangement appears from a corporate perspective,
 however, it has surprisingly not resulted in any sizable consumer
 spending on subscription or transaction-based video streaming services.
 Swedes are generally open towards making their purchases online, with 85
-percent of Internet users regularly buying and paying for items or
-services via the Internet.[^12BaumannSweden_14] Yet, whereas purchases of home
-electronics or clothes over the Internet have surged in recent years,
+percent of internet users regularly buying and paying for items or
+services via the internet.[^12BaumannSweden_14] Yet, whereas purchases of home
+electronics or clothes over the internet have surged in recent years,
 sales of digital media have not contributed nearly as much.[^12BaumannSweden_15] The
 numbers are somewhat improving in the music sector, where the Swedish
 company Spotify has helped to increase the number of users paying for
 music online from 15 percent in 2011 to 38 percent in 2014. In the
 online video sector, however, consumer spending is considerably lower as
 the great majority of content is still accessed for free. Only 14
-percent of all Swedish Internet users subscribed to a video streaming
+percent of all Swedish internet users subscribed to a video streaming
 service in 2014.[^12BaumannSweden_16] The reasons behind this comparatively low spending
 on online video in Sweden are complex, with unauthorized streaming
 services such as Swefilmer, or peer-to-peer file sharing facilitated
@@ -6194,7 +6167,7 @@ and Popcorn Time, if we want to begin to understand this development.
 ## Privacy Matters
 
 Given Sweden’s comparatively strong digital infrastructure and
-historically laissez-faire approach towards Internet use and censorship,
+historically laissez-faire approach towards internet use and censorship,
 it is easy to see why the country is often described as the prototypical
 cyberlibertarian information economy. It should not come as a surprise,
 then, that Sweden was always decidedly reluctant about the 2006 EU Data
@@ -6204,7 +6177,7 @@ Court of Justice (ECJ) ruled that Sweden had to follow the other member
 states and implement the directive. However, it was not until the spring
 of 2012 that the Swedish government gave in and adopted measures
 transposing the directive into local legislation. Yet, this collection
-of Swedish call records and Internet metadata would only last for two
+of Swedish call records and internet metadata would only last for two
 years. In April 2014 the ECJ had a change of heart and declared the Data
 Retention Directive invalid, describing it as a ‘serious interference
 with the fundamental rights to respect for private life and to the
@@ -6219,18 +6192,18 @@ collecting customer metadata yet again.[^12BaumannSweden_20]
 
 The drama around data retention in Sweden reflects the country’s efforts
 to negotiate between its political duties within a European context and
-its libertarian digital politics that have made it a haven for Internet
-users. In recent years, many Swedish Internet users have turned to VPN
+its libertarian digital politics that have made it a haven for internet
+users. In recent years, many Swedish internet users have turned to VPN
 services to protect their privacy and avoid the crossfire between
 authorities and ISPs. Curiously, in their quest for privacy Swedish
-Internet users are even supported by some of the companies that are
+internet users are even supported by some of the companies that are
 supposed to collect data about them. In trying to avoid a fine of 5
 million Swedish Kronor for its refusal to comply with local data
 retention rules, the Swedish ISP Bahnhof decided to offer a free VPN
 service to all of its customers the day it had to resume storing
 metadata.[^12BaumannSweden_21] Explaining the somewhat surprising move, Bahnhof CEO Jon
 Karlung said: ‘The European Court of Justice has ruled that it is a
-human right to not have your Internet traffic monitored. We therefore
+human right to not have your internet traffic monitored. We therefore
 believe that the time is ripe for everyone to start using VPN
 services.’[^12BaumannSweden_22] In Sweden, the EU Data Retention Directive was never
 applied to VPN providers under the local implementation of the law.
@@ -6242,7 +6215,7 @@ time.
 ## Anonine
 
 VPN services make highly effective tools for hiding the identity of
-Internet users. In Sweden, they predominantly act as efficient, and most
+internet users. In Sweden, they predominantly act as efficient, and most
 importantly, legal, vehicles for circumventing politically motivated
 data retention practices. It is primarily thanks to the legal status of
 VPN services that Sweden has emerged as a home to a number of local VPN
@@ -6256,11 +6229,11 @@ grew so large that the company had to expand its servers considerably.
 Today, Anonine operates servers in more than a dozen international
 locations, and ranks as one of the most popular VPN services in Sweden.
 
-Given the uncertainty of many Swedish Internet users about the
+Given the uncertainty of many Swedish internet users about the
 collection of metadata, it is not surprising that privacy concerns turn
-out to be the main driver for VPN usage in Sweden. On Flashback – the
-biggest Swedish-speaking Internet forum with around one million
-registered members – the six hundred or so threads dealing with VPN use
+out to be the main driver for VPN usage in Sweden. On Flashback — the
+biggest Swedish-speaking internet forum with around one million
+registered members — the six hundred or so threads dealing with VPN use
 often revolve around privacy concerns. In the lengthy thread dedicated
 to Anonine, one user responds to a question about the level of security
 provided by Anonine’s different VPN solutions as follows:
@@ -6273,8 +6246,8 @@ provided by Anonine’s different VPN solutions as follows:
 > OpenVPN.[^12BaumannSweden_23]
 
 Here, the use of a VPN service is justified out of fear that someone’s
-Internet activity could become uncovered—with anyone, from customers in
-a coffee shop, to an Internet service provider, or even bigger threats
+internet activity could become uncovered — with anyone, from customers in
+a coffee shop, to an internet service provider, or even bigger threats
 (possibly the government?), a potential security risk.
 
 Anonine is all too aware of the privacy concerns of its customers. The
@@ -6282,7 +6255,7 @@ company’s website is a gray and somewhat generic looking home page
 listing some of the key features of the service (Fig. 1). It is not
 until we look at the top right corner of the page that we notice a
 bright red button warning us: ‘You are not anonymous!’ Speaking directly
-at us, the Internet users, the site makes a point of highlighting the
+at us, the internet users, the site makes a point of highlighting the
 danger of our behavior, namely surfing the web carelessly without the
 security only a VPN service can provide. Upon further inspection of
 Anonine’s web presence, we notice that the first page alone makes
@@ -6295,7 +6268,7 @@ or ‘secure.’ This, of course, is hardly a coincidence.
 
 Figure 1. The website of Anonine, a popular Swedish VPN provider
 
-Another reason for Anonine’s popularity among Swedish Internet users is
+Another reason for Anonine’s popularity among Swedish internet users is
 the company’s “local” brand. Swedes tend to be loyal to homegrown
 services, as evident by the immense popularity of Spotify and Swefilmer,
 and Anonine proves that even in the competitive VPN field marketing a
@@ -6307,7 +6280,7 @@ clients to use local payment options, such as Payson (a Swedish
 alternative to PayPal) and Cellsynt (mobile payment via SMS and
 telephone), in addition to the more conventional credit card options.
 These might seem like small touches to some, but to a dedicated
-community of technology-savvy Swedish Internet users discussing the ins
+community of technology-savvy Swedish internet users discussing the ins
 and outs of different VPN services on an online forum, they can make all
 the difference.
 
@@ -6332,13 +6305,13 @@ in Sweden noticeably. Yet, much like in many of the countries studied in
 this book, circumvention tools are an important aspect of online
 culture. VPN services, which in other countries might be used for
 geoblocking circumvention purposes, are important tools for Swedish
-Internet users to bypass government data retention. There are reports of
+internet users to bypass government data retention. There are reports of
 Sweden being implicated in mass surveillance practices, based on
 documents provided by the NSA whistleblower Edward Snowden in the summer
 of 2013.[^12BaumannSweden_24] Consequently, privacy remains high on the agenda for many
-Internet users who have become accustomed to a country famed for its
+internet users who have become accustomed to a country famed for its
 libertarian digital politics. Companies providing VPN services like
-Anonine surely will not complain about Swedish Internet users’ quest for
+Anonine surely will not complain about Swedish internet users’ quest for
 privacy.
 
 *The author wishes to thank Patrick Vonderau for helpful suggestions.*
@@ -6528,8 +6501,8 @@ video at least once a month[^13HanchardMalaysia_2]
 - RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
 
-> “iflix will fight entertainment piracy and provide an entirely new and
-legitimate way for the region’s hundreds of millions of Internet users
+> “iFlix will fight entertainment piracy and provide an entirely new and
+legitimate way for the region’s hundreds of millions of internet users
 to enjoy their favourite films and television shows.” -Press release
 from Catcha Group’s iFlix, March 2015.[^13HanchardMalaysia_1]
 
@@ -6550,7 +6523,7 @@ with Vision 2020, a cornerstone policy of former Prime Minister Mahathir
 Mohamad. The ‘democratic’ use of the internet was seen as a key means
 for ensuring economic prosperity for all. The legacy of this macro
 policy has shaped internet-driven economies and startup cultures in
-urban-centres. Access to the internet is steady at 67 percent of the
+urban centres. Access to the internet is steady at 67 percent of the
 population in 2014, representing more than 20 million users (although
 connection speeds are comparatively slow for the Southeast Asian
 region).[^13HanchardMalaysia_5] Through smartphone ownership, combined with free public
@@ -6621,7 +6594,7 @@ Korea, Hong Kong, China, Japan and Thailand. There is also a taste for
 local popular genres, especially Bahasa-language horror and ghost
 dramas, as well as independent cinema. MovieGoGo, a startup which
 organises screenings of movies no longer in distribution based on online
-votes by enthusiasts,, recently facilitated the theatrical re-release of
+votes by enthusiasts, recently facilitated the theatrical re-release of
 the acclaimed Malaysian film *Sepet* by Yasmin Ahmad, loved by many
 Malaysians as a major work of national cinema. The gala event, ten years
 after the original release date, was well-attended by movie lovers and
@@ -7156,14 +7129,14 @@ stating that ‘if Netflix start blocking my VPN I will move to Popcorn
 Time, downloads, and torrents’. I did notice however, that there were
 many people in these discussions either defending Netflix Brazil,
 accepting their policies – to a certain extent – on geoblocking and
-distributions rights.
+distribution rights.
 
 I have also noticed a certain willingness to pay for access to content
 among Netflix VPN pirates, which is quite different from the attitude of
 audiences that informally download content.[^14MendesMoreiradeSaBrazil_16] Some Netflix
 subscribers even mentioned that they have minimized or even ceased
 torrenting since they signed up for the service. Everyone who mentioned
-the monthly subscription of R\ 19.90 (about USD6) per month said the
+the monthly subscription of R\19.90 (about USD6) per month said the
 price was fair.
 
 Once again, it is important to note that only 60% of the population in
@@ -7327,22 +7300,18 @@ Silva, Rafael. ‘Netflix Bloqueia Acesso de Assinantes Usando VPNs
 
 #Iran: A Friction between State Ideology and Network Society
 
-###Hadi Sohrabi
-*Swinburne University of Technology*
+###Hadi Sohrabi and Behzad Dowran
 
-###Behzad Dowran
-*Iranian Research Institute for Information Science & Technology
-(IranDoc)*
 
   
 <div class="statbox">
 - 75 million: total population
 - 23 million: estimated number of internet users
-- 69 %: percentage of internet users who use circumvention tools
+- 69%: proportion of internet users who use circumvention tools
 - 330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran
  
  
-> President Rouhani:‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
+> President Rouhani: ‘Supporters of internet filtering should explain whether they've successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’
 
 </div>
 
@@ -7401,7 +7370,7 @@ outside official channels.
 
 ##Satellite Television: a New Video Culture
 
-To understand Internet circumvention in Iran, we must take a step back
+To understand internet circumvention in Iran, we must take a step back
 to consider an earlier kind of unauthorised media. Since the 1990s,
 foreign-based Persian-language satellite channels have mushroomed,
 posing a serious challenge to the regime’s monopoly over broadcast
@@ -7508,9 +7477,9 @@ servers. Although users will benefit from higher speed and better
 cyber-security, many are concerned that the government’s main motive is
 to consolidate its control over the internet. In response to such
 concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national
-internet ‘is not in competition with the Internet’ and that ‘if users
+internet ‘is not in competition with the internet’ and that ‘if users
 cannot find the data that they are looking for on the national internet,
-then they will be able to access the Internet to search for it,
+then they will be able to access the internet to search for it,
 instead’.[^7] Put it simply, the government aims to obtain the capacity
 of switching off the internet without disrupting public services, banks,
 and corporations. It is, however, unlikely that the government could
@@ -7571,7 +7540,7 @@ for Android and Windows.[^14] As of 2013, Psiphon claimed to have
 700,000 to 900,000 daily unique users in Iran. This number is now
 believed to have surpassed one million.[^15]
 
-Small Media reports that the terrain of Internet circumvention is
+Small Media reports that the terrain of internet circumvention is
 increasingly shifting to mobile, with the most popular tools having
 easy-to-use mobile-enabled interfaces now. It also points out that, TOR,
 despite its strong privacy protection, is not very popular among
@@ -7827,16 +7796,16 @@ The World Bank. Internet Users by Country, 2014,
 ###Fidel A. Rodriguez
 
 <div class="statbox">
-- 30%: Proportion of Cubans aged 16-54 who have access to the Internet
+- 30%: Proportion of Cubans aged 16-54 who have access to the internet
 - \$2: Hourly cost for a 100 Mbit/s fiber connection in CUC/USD
 - 0%: Proportion of internet users who made online purchases in 2014 from
 Cuban accounts
 - 0%: Proportion of internet users who paid for a video streaming service
 in 2014 from Cuban accounts
 
-> “Starting today, people in Cuba with Internet connections and access to
+> 'Starting today, people in Cuba with internet connections and access to
 international payment methods will be able to subscribe to Netflix and
-instantly watch a curated selection of popular movies and TV shows.” –
+instantly watch a curated selection of popular movies and TV shows.' –
 Netflix press release, 9 February 2015
 
 </div>
@@ -7921,7 +7890,7 @@ circuit existed in Cuba, but prices were prohibitively expensive for
 most people. Hotels and shopping centers stocked a small selection of
 prestige Cuban movies on VHS, with pricing aimed at the tourist market.
 Another program in the early 2000s established movie rental facilities
-in some theaters, featuring a catalog of quality titles, but lacking of
+in some theaters, featuring a catalog of quality titles, but lacking
 the variety of the private video stores. Aside from a few other
 small-scale initiatives, these are the only authorized systems of home
 video distribution organized by the Cuban government. The few
@@ -8049,7 +8018,7 @@ of the weekly *paquete* is a source of collective obsession in Cuba,
 because until 2015 there were very few places that had the bandwidth to
 download such a large amount of data. Nonetheless, different researchers
 have confirmed that content in the *paquete* comes from has diverse
-sources, from cable antennas to p2p download sites[^16RodriguezCuba_15].
+sources, from cable antennas to P2P download sites.[^16RodriguezCuba_15]
 
 The price of the *paquete* is variable, depending on where you live and
 what day of the week you buy it.[^16RodriguezCuba_16] The content selection within each
@@ -8975,6 +8944,6 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
 
 
 
-#Biographies**Luis Felipe Alvarez León** is a Ph.D. Candidate in Geography at the University of California, Los Angeles. His areas of interest are geospatial technologies and the political economic geography of information and communication. He is currently researching the geography of digital information economies. **Cameran Ashraf** is an international human rights consultant and co-founder of AccessNow, a global human rights organization selected as finalist for the 2010 Sakharov Prize for Freedom of Thought, Europe's highest human rights honor. He completed his Ph.D. at UCLA on the geopolitics of Internet control and cyberwar.**Chris Baumann** is a PhD Candidate in the Department of Media Studies at Stockholm University. He is currently busy working on a dissertation about streaming media players. His research interests include media and information technologies in the domestic space, digital distribution, and media access.**Çiğdem Bozdağ** is an assistant professor in the New Media department at the Kadir Has University, İstanbul. Her research and teaching interests are digital media, media and socio-cultural change, globalization, inter- and transcultural Communication and ICTs in education.**Roland Burke** is a senior lecturer in history at La Trobe University.  He is the author of Decolonization and the Evolution of International Human Rights and has published widely on the history of international human rights and internationalism.  **Benjamin Burroughs** is an assistant professor of emerging media in the Hank Greenspun School of Journalism and Media Studies at the University of Nevada, Las Vegas. His research focuses on streaming media and technology, media industries, and digital media. His work has been published in journals such as New Media and Society, Journal of Broadcasting and Electronic Media, and Games and Culture.**Behzad Dowran** is a faculty member in Iranian Research Institute for Information Science & Technology (IranDoc), Tehran. His research and teaching interests are social identity, new ICTs, and media studies. **Evan Elkins** is visiting assistant professor of Media, Journalism, and Film at Miami University. He is currently working on a book manuscript about regional restrictions in digital media technologies. He researches various issues surrounding digital media, media industries, globalization, and cultural identity.**Sandra Hanchard** completed her PhD at the Swinburne Institute for Social Research, Swinburne University of Technology, on social media information and everyday life in Malaysia. She has an industry background in big data analytics and data visualisation. Sandra is the founder of DataViz My, which facilitates the Data Science Primer course for the Malaysian Global Innovation and Creativity Centre.**Florian Hoof** is an assistant professor in the Department of Film and Media Studies at Goethe University Frankfurt. He conducts research on digital network markets, piracy and media sports and has published on the media history of consulting knowledge and managerial decision-making systems.**Juan Llamas-Rodriguez** is a PhD Candidate in Film and Media Studies at the University of California, Santa Barbara, working on a dissertation about life in the age of narco-trafficking. His research encompasses the materiality of media distribution, popular cultures of the Mexico-US border, and the precarity of contemporary labor.**Jinying Li** is assistant professor of Film Studies at University of Pittsburgh. Her research focuses on the media and visual culture of East Asia. Her essays have been published in Film International, Mechademia, and The International Journal of Communication, and Camera Obscura. **Ramon Lobato** is Senior Research Fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. His research focuses on the global dynamics of media distribution, copyright, and piracy. He is the author of Shadow Economies of Cinema: Mapping Informal Film Distribution and The Informal Media Economy (with Julian Thomas).**James Meese** is a lecturer in communication at the University of Technology Sydney. He conducts research on copyright law, mobile media, privacy law and media regulation and has published research in Television and New Media and the International Journal of Communication. **Vanessa Mendes Moreira De Sa** is a postdoctoral researcher who works in the area of digital piracy, television audiences and translation. Her work has been published in the International Journal of Communication and in the edited collection Piracy: Leakages From Modernity. **Aneta Podkalicka** is a research fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. Her current work focuses on media and consumption, including thrift-related consumption and sustainable practices. She is currently working on a book on media-based projects for social change with her colleague Ellie Rennie.**Hadi Sohrabi** is a lecturer in sociology at Swinburne University of Technology in Melbourne. His research interests include sociology of the internet and ethnic studies. He has published on the politics of the internet in Iran and Muslims in Australia. **Marketa Trimble** is the Samuel Lionel Intellectual Property Professor of Law at the William S. Boyd School of Law, University of Nevada, Las Vegas. Her major areas of expertise are public and private international law of intellectual property, including conflict of laws, transnational litigation, and enforcement of intellectual property rights on the Internet. **Fidel A. Rodríguez Fernández** is Professor of Hypermedia Communication at Havana University. He researches multimedia discourse on social networks in Cuba, the circulation of digital objects, migration and video games. He is also a journalist and multimedia producer.**Adam Rugg** is a PhD candidate in Media Studies at the University of Iowa. His research examines the evolution of sports video distribution and consumption amidst emerging digital media infrastructures. His work has been published in the Journal of Electronic Broadcasting and Media and Popular Communication. 
+#Biographies**Luis Felipe Alvarez León** is a Ph.D. Candidate in Geography at the University of California, Los Angeles. His areas of interest are geospatial technologies and the political economic geography of information and communication. He is currently researching the geography of digital information economies. **Cameran Ashraf** is an international human rights consultant and co-founder of AccessNow, a global human rights organization selected as finalist for the 2010 Sakharov Prize for Freedom of Thought, Europe's highest human rights honor. He completed his Ph.D. at UCLA on the geopolitics of Internet control and cyberwar.**Chris Baumann** is a PhD Candidate in the Department of Media Studies at Stockholm University. He is currently busy working on a dissertation about streaming media players. His research interests include media and information technologies in the domestic space, digital distribution, and media access.**Çiğdem Bozdağ** is an assistant professor in the New Media department at the Kadir Has University, İstanbul. Her research and teaching interests are digital media, media and socio-cultural change, globalization, inter- and transcultural Communication and ICTs in education.**Roland Burke** is a senior lecturer in history at La Trobe University.  He is the author of Decolonization and the Evolution of International Human Rights and has published widely on the history of international human rights and internationalism.  **Benjamin Burroughs** is an assistant professor of emerging media in the Hank Greenspun School of Journalism and Media Studies at the University of Nevada, Las Vegas. His research focuses on streaming media and technology, media industries, and digital media. His work has been published in journals such as New Media and Society, Journal of Broadcasting and Electronic Media, and Games and Culture.**Behzad Dowran** is a faculty member in Iranian Research Institute for Information Science & Technology (IranDoc), Tehran. His research and teaching interests are social identity, new ICTs, and media studies. **Evan Elkins** is visiting assistant professor of Media, Journalism, and Film at Miami University. He is currently working on a book manuscript about regional restrictions in digital media technologies. He researches various issues surrounding digital media, media industries, globalization, and cultural identity.**Sandra Hanchard** completed her PhD at the Swinburne Institute for Social Research, Swinburne University of Technology, on social media information and everyday life in Malaysia. She has an industry background in big data analytics and data visualisation. Sandra is the founder of DataViz My, which facilitates the Data Science Primer course for the Malaysian Global Innovation and Creativity Centre.**Florian Hoof** is an assistant professor in the Department of Film and Media Studies at Goethe University Frankfurt. He conducts research on digital network markets, piracy and media sports and has published on the media history of consulting knowledge and managerial decision-making systems.**Juan Llamas-Rodriguez** is a PhD Candidate in Film and Media Studies at the University of California, Santa Barbara, working on a dissertation about life in the age of narco-trafficking. His research encompasses the materiality of media distribution, popular cultures of the Mexico-US border, and the precarity of contemporary labor.**Jinying Li** is assistant professor of Film Studies at University of Pittsburgh. Her research focuses on the media and visual culture of East Asia. Her essays have been published in Film International, Mechademia, and The International Journal of Communication, and Camera Obscura. **Ramon Lobato** is Senior Research Fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. His research focuses on the global dynamics of media distribution, copyright, and piracy. He is the author of Shadow Economies of Cinema: Mapping Informal Film Distribution and The Informal Media Economy (with Julian Thomas).**James Meese** is a lecturer in communication at the University of Technology Sydney. He conducts research on copyright law, mobile media, privacy law and media regulation and has published research in Television and New Media and the International Journal of Communication. **Vanessa Mendes Moreira De Sa** completed her Ph.D. at the University of Western Sydney. Her research interests lie in the area of media piracy with a focus on television distribution on the internet. Her work has been published in the International Journal of Communication and in the edited collection Piracy: Leakages From Modernity.**Aneta Podkalicka** is a research fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. Her current work focuses on media and consumption, including thrift-related consumption and sustainable practices. She is currently working on a book on media-based projects for social change with her colleague Ellie Rennie.**Hadi Sohrabi** is a lecturer in sociology at Swinburne University of Technology in Melbourne. His research interests include sociology of the internet and ethnic studies. He has published on the politics of the internet in Iran and Muslims in Australia. **Marketa Trimble** is the Samuel Lionel Intellectual Property Professor of Law at the William S. Boyd School of Law, University of Nevada, Las Vegas. Her major areas of expertise are public and private international law of intellectual property, including conflict of laws, transnational litigation, and enforcement of intellectual property rights on the Internet. **Fidel A. Rodríguez Fernández** is Professor of Hypermedia Communication at Havana University. He researches multimedia discourse on social networks in Cuba, the circulation of digital objects, migration and video games. He is also a journalist and multimedia producer.**Adam Rugg** is a PhD candidate in Media Studies at the University of Iowa. His research examines the evolution of sports video distribution and consumption amidst emerging digital media infrastructures. His work has been published in the Journal of Electronic Broadcasting and Media and Popular Communication. 
 
 

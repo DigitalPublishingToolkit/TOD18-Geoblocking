@@ -2,6 +2,7 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="11.0(72)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
+	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
@@ -84,51 +85,29 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans (OTF)">
-		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+	<FontFamily Self="di263b" Name="Lato">
+		<Font Self="di263bFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di263bFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di1bd2" Name="Lato">
-		<Font Self="di1bd2FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e7e" Name="Lato">
-		<Font Self="di1e7eFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e81" Name="Lato">
-		<Font Self="di1e81FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+	<FontFamily Self="di263c" Name="HK Grotesk">
+		<Font Self="di263cFontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
+		<Font Self="di263cFontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -169,25 +148,21 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
+		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Link" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Link">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/No-break" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="No-break">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -197,91 +172,109 @@
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" SpaceAfter="17.007874015748033" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text" Name="$ID/Page &gt; Running Text">
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aHeadings" Name="$ID/Page &gt; Running Text:Headings">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" Name="Page &gt; Running Text:Headings:Header1 (title of the part)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">17</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" Name="Page &gt; Running Text:Headings:Header2 (subtitle)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">12</Leading>
+						<AppliedFont type="string">Lato</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aText" Name="$ID/Page &gt; Running Text:Text">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" Name="Page &gt; Running Text:Text:Caption" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">8</Leading>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<AllGREPStyles type="list">
+							<ListItem type="record">
+								<AppliedCharacterStyle type="object">CharacterStyle/Bold</AppliedCharacterStyle>
+								<GrepExpression type="string">~v(Table|Figure)\s</GrepExpression>
+							</ListItem>
+						</AllGREPStyles>
+					</Properties>
+				</ParagraphStyle>
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" Name="Page &gt; Running Text:Text:Paragraph" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<AppliedFont type="string">Helvetica Neue</AppliedFont>
+						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aReferences (end of each part)" Name="$ID/Page &gt; Running Text:References (end of each part)">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" Name="Page &gt; Running Text:References (end of each part):Reference List" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
+		</ParagraphStyleGroup>
+		<ParagraphStyle Self="ParagraphStyle/databox number" Name="databox number" Imported="false" NextStyle="ParagraphStyle/databox number" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" LeftIndent="28.34645669291339" RightIndent="28.34645669291339" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">14</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Author" Name="Author" Imported="false" NextStyle="ParagraphStyle/Author" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceAfter="8.503937007874017" FillTint="100" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Open Sans (OTF)</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" AppliedLanguage="$ID/English: USA" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/No-break</AppliedCharacterStyle>
-						<GrepExpression type="string">(?&lt;=\w)\s(?=\w+[[:punct:]]*\r)</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/databox list" Name="databox list" Imported="false" NextStyle="ParagraphStyle/databox list" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" LeftIndent="19.84251968503937" RightIndent="14.173228346456694" SpaceBefore="19.84251968503937" Justification="LeftJustified" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">12</Leading>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">28.34645669291339</Position>
-					</ListItem>
-				</TabList>
 				<AppliedFont type="string">Lato</AppliedFont>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/databox blockquote" Name="databox blockquote" Imported="false" NextStyle="ParagraphStyle/databox blockquote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Italic" Ligatures="false" LeftIndent="19.84251968503937" RightIndent="14.173228346456694" SpaceBefore="19.84251968503937" SpaceAfter="19.84251968503937" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/databox text" Name="databox text" Imported="false" NextStyle="ParagraphStyle/databox text" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" Tracking="-5" LeftIndent="28.34645669291339" RightIndent="28.34645669291339" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Black" SpaceBefore="8.503937007874017" SpaceAfter="5.669291338582678">
+		<ParagraphStyle Self="ParagraphStyle/databox blockquote" Name="databox blockquote" Imported="false" NextStyle="ParagraphStyle/databox blockquote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light Italic" PointSize="9" Ligatures="false" LeftIndent="28.34645669291339" RightIndent="28.34645669291339" SpaceBefore="14.173228346456694" SpaceAfter="5.669291338582678">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
+				<Leading type="unit">10</Leading>
+				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Reference-paragraph" Name="Reference-paragraph" Imported="false" NextStyle="ParagraphStyle/Reference-paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="8" GridAlignFirstLineOnly="true">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">9</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
@@ -502,55 +495,79 @@
 	<Story Self="u23f9" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Iran: A Friction between State Ideology and Network Society</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Author">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Hadi Sohrabi</Content>
+				<Content>Hadi Sohrabi and Behzad Dowran</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Swinburne University of Technology</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Author">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Behzad Dowran</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Iranian Research Institute for Information Science &amp; Technology (IranDoc)</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox list">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox number">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>75 million: total population</Content>
+				<Content>75 million</Content>
 				<Br />
-				<Content>23 million: estimated number of internet users</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox text">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Total population</Content>
 				<Br />
-				<Content>69 %: percentage of internet users who use circumvention tools</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox number">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>23 million</Content>
 				<Br />
-				<Content>330,000: number of Twitter followers for President Rouhani, despite Twitter being banned in Iran</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox text">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Estimated number of internet users</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox number">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>69%</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox text">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Proportion of internet users who use circumvention tools</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox number">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>330,000</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox text">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Number of Twitter followers for President Rouhani, despite Twitter being banned in Iran</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox blockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>President Rouhani:‘Supporters of internet filtering should explain whether they&apos;ve successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’</Content>
+				<Content>President Rouhani: ‘Supporters of internet filtering should explain whether they&apos;ve successfully restricted access to information? Which important piece of news has filtering been able to black out in recent years?’</Content>
+				<Br />
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Iranian movie </Content>
 			</CharacterStyleRange>
@@ -562,13 +579,12 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	‘New Ahangaran’ means, a new eulogy from Sadegh Ahangaran, an iconic eulogist during Iran-Iraq war in the 1980s. His performance encouraged many young Iranians to volunteer in the war.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -584,19 +600,19 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Satellite Television: a New Video Culture</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>To understand Internet circumvention in Iran, we must take a step back to consider an earlier kind of unauthorised media. Since the 1990s, foreign-based Persian-language satellite channels have mushroomed, posing a serious challenge to the regime’s monopoly over broadcast media. The satellite television networks offer all sorts of programs, ranging from news, commentary and politics to music, entertainment and soap operas. The state has banned satellite television ‘to protect the country’s cultural borders and the foundations of family’ against immoral content. The law bans selling, buying, installing, and using satellite television equipment such as dishes and receivers. Nevertheless, the majority of Iranians easily access these channels by installing dishes on rooftops and balconies. The Minister of Culture and Islamic Guidance, Ali Jannati, reported that 71 per cent of people in Tehran watch satellite TV.</Content>
+				<Content>To understand internet circumvention in Iran, we must take a step back to consider an earlier kind of unauthorised media. Since the 1990s, foreign-based Persian-language satellite channels have mushroomed, posing a serious challenge to the regime’s monopoly over broadcast media. The satellite television networks offer all sorts of programs, ranging from news, commentary and politics to music, entertainment and soap operas. The state has banned satellite television ‘to protect the country’s cultural borders and the foundations of family’ against immoral content. The law bans selling, buying, installing, and using satellite television equipment such as dishes and receivers. Nevertheless, the majority of Iranians easily access these channels by installing dishes on rooftops and balconies. The Minister of Culture and Islamic Guidance, Ali Jannati, reported that 71 per cent of people in Tehran watch satellite TV.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -610,13 +626,12 @@
 							<Content>, 24 June 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u240c" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2545" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -644,19 +659,19 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>A Halal Internet</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Statistics on the number of Iranian internet users are inconsistent. While the Iranian government counts about 40 million internet users out of a population of 75 million, the World Bank estimates the number to be around 23 million.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -664,7 +679,7 @@
 							<Content>	Iran’s Internet Penetration Management Portal, 2014, Penetration Rate Report, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2410" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2549" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.iriu.ir/matma/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -672,13 +687,12 @@
 							<Content>; The World Bank, Internet users by country, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2411" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u254a" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://data.worldbank.org/indicator/IT.NET.USER.P2</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -688,7 +702,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -696,13 +710,12 @@
 							<Content>	Mehr News Agency, ‘9.5 Million Viber users in Iran’, 5 Feb 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2413" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u254c" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.mehrnews.com/news/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -714,7 +727,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -728,28 +741,27 @@
 							<Content>, 2014, p.26, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2417" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u254f" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://smallmedia.org.uk/revolutiondecoded/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u2418" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2551" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 137.3070866141734" LeftDirection="-75 137.3070866141734" RightDirection="-75 137.3070866141734" />
+									<PathPointType Anchor="233.97637795275588 137.3070866141734" LeftDirection="233.97637795275588 137.3070866141734" RightDirection="233.97637795275588 137.3070866141734" />
+									<PathPointType Anchor="233.97637795275588 -50" LeftDirection="233.97637795275588 -50" RightDirection="233.97637795275588 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -762,14 +774,14 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="598.4063816352929" BottomCrop="426.4341482043843" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="-91.28786024064027" BottomCrop="17.396262736883955" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u241f" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="96 96" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u2556" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="261 261" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.36796295906767446 0 0 0.36796295906767446 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqADxlAQCAPp8vp/vmBwWDwKCQp/wx9QKGw+CxCBwSBvmJxaKRKHxiLw2DwaPQaEQuJR+UQmEy
@@ -2388,19 +2400,27 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u241c" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/iran.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130897226500000000 173140" LinkImportModificationTime="2015-10-19T12:04:10" LinkImportTime="2015-12-08T21:30:44" LinkResourceSize="0~2a454" />
+						<Link Self="u2555" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/iran.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130897226500000000 173140" LinkImportModificationTime="2015-10-19T12:04:10" LinkImportTime="2015-12-15T14:34:04" LinkResourceSize="0~2a454" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Br />
-				<Content>Figure 1. Iranian internet users see this government notice when trying to access blocked websites. It reads: “Access to the requested website is not possible. Please click here to access reports and complaints”</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Figure 1. Iranian internet users see this government notice when trying to access blocked websites. It reads: ‘Access to the requested website is not possible. Please click here to access reports and complaints’</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Taking office as President in 2013, Hassan Rouhani criticized internet censorship, raising hopes for reducing internet barriers (to be discussed further below). However, he faced fierce opposition from conservative rivals. In 2014, as soon as the ICT ministry issued 3G and 4G licenses to two mobile-phone operators, a leading cleric called on the government to revoke them because ‘dirty pictures and clips’ could poison young minds.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2414,13 +2434,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 2 September 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2425" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u255a" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2428,11 +2447,11 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Comparing these technologies to ‘unsanitary and muddy water’, and worrying about ‘all sorts of polluted films without any filtering’, he declared that ‘3G mobile communication services and higher are against Sharia [Islamic law] and moral and human norms’.</Content>
 				<Br />
-				<Content>Perhaps Iran’s most ambitious plan for extending its control over the internet has been the launching of a “walled-off” national internet. The network will connect government ministries, universities, banks, healthcare, tax systems, and other state institutions through local servers. Although users will benefit from higher speed and better cyber-security, many are concerned that the government’s main motive is to consolidate its control over the internet. In response to such concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national internet ‘is not in competition with the Internet’ and that ‘if users cannot find the data that they are looking for on the national internet, then they will be able to access the Internet to search for it, instead’.</Content>
+				<Content>Perhaps Iran’s most ambitious plan for extending its control over the internet has been the launching of a ‘walled-off’ national internet. The network will connect government ministries, universities, banks, healthcare, tax systems, and other state institutions through local servers. Although users will benefit from higher speed and better cyber-security, many are concerned that the government’s main motive is to consolidate its control over the internet. In response to such concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national internet ‘is not in competition with the internet’ and that ‘if users cannot find the data that they are looking for on the national internet, then they will be able to access the internet to search for it, instead’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2440,13 +2459,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Small Media, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2427" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u255c" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.smallmedia.org.uk/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2456,7 +2474,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2470,13 +2488,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 28 May 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2429" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u255e" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.wsj.com/articles/SB10001424052748704889404576277391449002016</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2487,19 +2504,19 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Internet Circumvention Tools</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Despite government restrictions, users often find ways to get around internet censorship. In a survey conducted by Iran’s Ministry of Youth Affairs and Sport, 69 per cent of respondents said they use anti-filtering software.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2507,13 +2524,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Iranian Student News Agency, 69 Per cent of Iranian Youth use Anti-filtering, According to the Findings of a New Survey, 27 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u242d" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2561" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://isna.ir/fa/news/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2523,7 +2539,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2531,13 +2547,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Small Media, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u242f" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2564" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://smallmedia.org.uk/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2547,7 +2562,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2561,13 +2576,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content> 3 July 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2431" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2566" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2579,7 +2593,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2587,13 +2601,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Freedom House, ‘Country Report for End Users in Iran’, 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2433" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2568" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2603,7 +2616,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2611,13 +2624,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Small Media, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2436" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u256a" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.smallmedia.org.uk/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2627,7 +2639,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2641,13 +2653,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content> 22 Feb 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2438" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u256d" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.dailydot.com/politics/iran-censorship-circumvention-tech/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2657,7 +2668,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2677,24 +2688,23 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 2010, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u243b" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u256f" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p.45.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Small Media reports that the terrain of Internet circumvention is increasingly shifting to mobile, with the most popular tools having easy-to-use mobile-enabled interfaces now. It also points out that, TOR, despite its strong privacy protection, is not very popular among Iranians partly because it has been constantly attacked by the government. Overall, Iranians seem to care more about ease of access than security. There are also anti-filtering tools that are unique to Iran. For example, Simurgh is ‘Iranian stand-alone proxy software’ which has been widely used since 2009; due to its small size (1 MB), users with low speed connection can download it easily. It is also free. This software has been recently used by Syrian dissidents.</Content>
+				<Content>Small Media reports that the terrain of internet circumvention is increasingly shifting to mobile, with the most popular tools having easy-to-use mobile-enabled interfaces now. It also points out that, TOR, despite its strong privacy protection, is not very popular among Iranians partly because it has been constantly attacked by the government. Overall, Iranians seem to care more about ease of access than security. There are also anti-filtering tools that are unique to Iran. For example, Simurgh is ‘Iranian stand-alone proxy software’ which has been widely used since 2009; due to its small size (1 MB), users with low speed connection can download it easily. It is also free. This software has been recently used by Syrian dissidents.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2702,26 +2712,25 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	It was recently announced that a malicious copy of this software has been circulated as ‘Simurgh-setup.zip’ that compromises all information on the infected computer. See: The Citizen Lab, ‘Iranian Anti-Censorship Software “Simurgh” Circulated with Malicious Backdoor’, 25 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u243d" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2572" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Political Context of Circumvention</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Despite common perceptions, most Iranians do not go online specifically in search of ‘forbidden’ political material; rather they wish to ‘live their normal lives’ by accessing social media such as Telegram, Viber, Facebook and the like to communicate with their family members and friends. They share photos, music videos, comedies, shows, and educational material within their social circles; they look for entertainment, search for all sorts of information and read news online. A question that naturally arises is: why then are authorities so sensitive about the free internet? The answer has to do with the ideological nature of the Iranian state.</Content>
 				<Br />
@@ -2731,7 +2740,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2745,13 +2754,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 15 August 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2441" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2576" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2761,13 +2769,13 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Future Trends</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Islamic Republic of Iran has struggled to maintain and strengthen cultural sovereignty within its borders. By establishing numerous cultural, political, and legal institutions, the regime has invested enormously in constructing and imposing Islamic identity on all spheres of social life. The state has set itself the ambitious task not only of restructuring the entire society on the basis of Islamic values, but also of controlling and guiding people’s thoughts and morality. The policies, however, have not been executed very effectively and consistently. Constitutionally, Iranians vote in the government through elections, and despite all state restrictions, at times people have defeated the ruling conservatives. President Khatami (1997-2005) campaigned for social and political freedom and sought constructive engagement with the West, policies that were strongly resisted by hardliners. In 2013, Hassan Rouhani won the presidential election after campaigning on moderate foreign and domestic policies. Many hoped that his government would reduce internet barriers and relax ultraconservative regulation of culture and politics.</Content>
 				<Br />
@@ -2775,7 +2783,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2789,13 +2797,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 1 September 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2443" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2578" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2807,7 +2814,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -2815,13 +2822,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem “laughable” in 5 years’, Aljazeera America, 19 Dec 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2447" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u257c" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2831,13 +2837,13 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>References</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference-paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Bowen, Kyle and James Marchant. ‘Internet Censorship in Iran: Preventative, Interceptive, and reactive, </Content>
 			</CharacterStyleRange>
@@ -2848,7 +2854,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 2014, p.26, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2449" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u257d" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://smallmedia.org.uk/revolutiondecoded/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2858,7 +2864,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Derakhshesh, Setareh. ‘Breaking the Law to Go Online in Iran’, New York Times, 24 June 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u244a" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u257e" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2874,7 +2880,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 2 September 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u244b" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u257f" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2884,7 +2890,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Freedom House. ‘Country Report for End Users in Iran’, 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u244d" Name="Hyperlink 59" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2581" Name="Hyperlink 59" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2894,7 +2900,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Iranian Student News Agency. ‘69 Per Cent of Iranian Youth Use Anti-Filtering, According to the Findings of a New Survey’, 27 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u244e" Name="Hyperlink 60" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2582" Name="Hyperlink 60" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://isna.ir/fa/news/93061710204</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2904,7 +2910,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Iran’s Internet Penetration Management Portal. Penetration Rate Report, 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u244f" Name="Hyperlink 61" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2583" Name="Hyperlink 61" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.iriu.ir/matma/;</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2920,7 +2926,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content> 3 July 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2450" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2584" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2936,8 +2942,8 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 1 September 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2451" Name="Hyperlink 63" Hidden="false" AppliedCharacterStyle="n">
-					<Content>http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#</Content>
+				<HyperlinkTextSource Self="u2585" Name="Hyperlink 63" Hidden="false" AppliedCharacterStyle="n">
+					<Content>http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2952,7 +2958,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 15 August 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2453" Name="Hyperlink 64" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2587" Name="Hyperlink 64" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2962,7 +2968,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Mehr News Agency. ‘9.5 Million Viber Users in Iran’, 5 Feb 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2454" Name="Hyperlink 65" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2588" Name="Hyperlink 65" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.mehrnews.com/news/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2978,7 +2984,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 2010, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2456" Name="Hyperlink 66" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u258a" Name="Hyperlink 66" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2988,7 +2994,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>O’Neill, Patrick Howell. ‘The Big Money Behind Iran’s Internet Censorship’, 22 Feb 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2457" Name="Hyperlink 67" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u258b" Name="Hyperlink 67" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.dailydot.com/politics/iran-censorship-circumvention-tech/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2998,7 +3004,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Pizzi, Michael. ‘Iran Government Minister: Media Bans May Seem “Laughable” in 5 Years’, Aljazeera America, 19 Dec 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2459" Name="Hyperlink 68" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u258d" Name="Hyperlink 68" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3014,7 +3020,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 28 May 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u245a" Name="Hyperlink 69" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u258e" Name="Hyperlink 69" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.wsj.com/articles/SB10001424052748704889404576277391449002016</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3024,7 +3030,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Small Media. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u245b" Name="Hyperlink 70" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u258f" Name="Hyperlink 70" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.smallmedia.org.uk/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3034,7 +3040,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>The Citizen Lab. ‘Iranian Anti-Censorship Software “Simurgh” Circulated with Malicious Backdoor’, 25 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u245c" Name="Hyperlink 71" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2590" Name="Hyperlink 71" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3044,13 +3050,12 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>The World Bank. Internet Users by Country, 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u245d" Name="Hyperlink 72" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2591" Name="Hyperlink 72" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://data.worldbank.org/indicator/IT.NET.USER.P2</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
@@ -3283,220 +3288,255 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 226" DestinationUniqueKey="328" Name="URL 226" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 227" DestinationUniqueKey="329" Name="URL 227" DestinationURL="http://www.iriu.ir/matma/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 228" DestinationUniqueKey="330" Name="URL 228" DestinationURL="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Hidden="false" />
-	<Hyperlink Self="u247e" Name="http://smallmedia.org.uk/revolutiondecoded/" Source="u2449" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="311">
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 229" DestinationUniqueKey="331" Name="URL 229" DestinationURL="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 230" DestinationUniqueKey="332" Name="URL 230" DestinationURL="http://www.smallmedia.org.uk/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 231" DestinationUniqueKey="333" Name="URL 231" DestinationURL="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 232" DestinationUniqueKey="334" Name="URL 232" DestinationURL="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 233" DestinationUniqueKey="335" Name="URL 233" DestinationURL="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 234" DestinationUniqueKey="336" Name="URL 234" DestinationURL="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 235" DestinationUniqueKey="337" Name="URL 235" DestinationURL="http://www.mehrnews.com/news/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 236" DestinationUniqueKey="338" Name="URL 236" DestinationURL="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 237" DestinationUniqueKey="339" Name="URL 237" DestinationURL="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 238" DestinationUniqueKey="340" Name="URL 238" DestinationURL="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 239" DestinationUniqueKey="341" Name="URL 239" DestinationURL="http://www.iriu.ir/matma/;" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 240" DestinationUniqueKey="342" Name="URL 240" DestinationURL="http://isna.ir/fa/news/93061710204" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 241" DestinationUniqueKey="343" Name="URL 241" DestinationURL="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 242" DestinationUniqueKey="344" Name="URL 242" DestinationURL="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 243" DestinationUniqueKey="345" Name="URL 243" DestinationURL="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 244" DestinationUniqueKey="346" Name="URL 244" DestinationURL="http://smallmedia.org.uk/revolutiondecoded/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 245" DestinationUniqueKey="347" Name="URL 245" DestinationURL="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 246" DestinationUniqueKey="348" Name="URL 246" DestinationURL="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 247" DestinationUniqueKey="349" Name="URL 247" DestinationURL="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 248" DestinationUniqueKey="350" Name="URL 248" DestinationURL="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 249" DestinationUniqueKey="351" Name="URL 249" DestinationURL="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 250" DestinationUniqueKey="352" Name="URL 250" DestinationURL="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 251" DestinationUniqueKey="353" Name="URL 251" DestinationURL="http://www.smallmedia.org.uk/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 252" DestinationUniqueKey="354" Name="URL 252" DestinationURL="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 253" DestinationUniqueKey="355" Name="URL 253" DestinationURL="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 254" DestinationUniqueKey="356" Name="URL 254" DestinationURL="http://smallmedia.org.uk/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 255" DestinationUniqueKey="357" Name="URL 255" DestinationURL="http://isna.ir/fa/news/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 256" DestinationUniqueKey="358" Name="URL 256" DestinationURL="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 257" DestinationUniqueKey="359" Name="URL 257" DestinationURL="http://www.smallmedia.org.uk/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 258" DestinationUniqueKey="360" Name="URL 258" DestinationURL="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 259" DestinationUniqueKey="361" Name="URL 259" DestinationURL="http://smallmedia.org.uk/revolutiondecoded/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 260" DestinationUniqueKey="362" Name="URL 260" DestinationURL="http://www.mehrnews.com/news/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 261" DestinationUniqueKey="363" Name="URL 261" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 262" DestinationUniqueKey="364" Name="URL 262" DestinationURL="http://www.iriu.ir/matma/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 263" DestinationUniqueKey="365" Name="URL 263" DestinationURL="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Hidden="false" />
+	<Hyperlink Self="u25b2" Name="http://smallmedia.org.uk/revolutiondecoded/" Source="u257d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="346">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 209</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 244</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u247c" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Source="u244a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="310">
+	<Hyperlink Self="u25b0" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Source="u257e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="345">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 208</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 243</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u247a" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Source="u244b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="309">
+	<Hyperlink Self="u25ae" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Source="u257f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="344">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 207</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 242</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2478" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Source="u244d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="308">
+	<Hyperlink Self="u25ac" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Source="u2581" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="343">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 206</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 241</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2476" Name="http://isna.ir/fa/news/93061710204" Source="u244e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="307">
+	<Hyperlink Self="u25aa" Name="http://isna.ir/fa/news/93061710204" Source="u2582" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="342">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 205</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 240</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2474" Name="http://www.iriu.ir/matma/;" Source="u244f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="306">
+	<Hyperlink Self="u25a8" Name="http://www.iriu.ir/matma/;" Source="u2583" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="341">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 204</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 239</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2472" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Source="u2450" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="305">
+	<Hyperlink Self="u25a6" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Source="u2584" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="340">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 203</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 238</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2470" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Source="u2451" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="304">
+	<Hyperlink Self="u25a4" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Source="u2585" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="339">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 202</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 237</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u246e" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Source="u2453" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="303">
+	<Hyperlink Self="u25a2" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Source="u2587" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="338">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 201</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 236</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u246c" Name="http://www.mehrnews.com/news/" Source="u2454" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="302">
+	<Hyperlink Self="u25a0" Name="http://www.mehrnews.com/news/" Source="u2588" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="337">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 200</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 235</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u246a" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Source="u2456" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="301">
+	<Hyperlink Self="u259e" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Source="u258a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="336">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 199</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 234</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2468" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Source="u2457" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="300">
+	<Hyperlink Self="u259c" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Source="u258b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="335">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 198</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 233</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2466" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Source="u2459" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="299">
+	<Hyperlink Self="u259a" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Source="u258d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="334">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 197</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 232</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2464" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Source="u245a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="298">
+	<Hyperlink Self="u2598" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Source="u258e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="333">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 196</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 231</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2462" Name="http://www.smallmedia.org.uk/" Source="u245b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="297">
+	<Hyperlink Self="u2596" Name="http://www.smallmedia.org.uk/" Source="u258f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="332">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 195</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 230</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2460" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Source="u245c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="296">
+	<Hyperlink Self="u2594" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Source="u2590" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="331">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 194</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 229</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u245e" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="u245d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u2592" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="u2591" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u24a4" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html 1" Source="u240c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="330">
+	<Hyperlink Self="u25d8" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html 1" Source="u2545" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="365">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 228</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 263</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u24a2" Name="http://www.iriu.ir/matma/" Source="u2410" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="329">
+	<Hyperlink Self="u25d6" Name="http://www.iriu.ir/matma/" Source="u2549" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="364">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 227</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 262</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u24a0" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2 1" Source="u2411" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="328">
+	<Hyperlink Self="u25d4" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2 1" Source="u254a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="363">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 226</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 261</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u249e" Name="http://www.mehrnews.com/news/ 1" Source="u2413" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="327">
+	<Hyperlink Self="u25d2" Name="http://www.mehrnews.com/news/ 1" Source="u254c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="362">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 225</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 260</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u249c" Name="http://smallmedia.org.uk/revolutiondecoded/ 1" Source="u2417" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="326">
+	<Hyperlink Self="u25d0" Name="http://smallmedia.org.uk/revolutiondecoded/ 1" Source="u254f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="361">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 224</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 259</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u249a" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html 1" Source="u2425" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="325">
+	<Hyperlink Self="u25ce" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html 1" Source="u255a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="360">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 223</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 258</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2498" Name="http://www.smallmedia.org.uk/ 2" Source="u2427" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="324">
+	<Hyperlink Self="u25cc" Name="http://www.smallmedia.org.uk/ 2" Source="u255c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="359">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 222</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 257</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2496" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016 1" Source="u2429" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="323">
+	<Hyperlink Self="u25ca" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016 1" Source="u255e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="358">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 221</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 256</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2494" Name="http://isna.ir/fa/news/" Source="u242d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="322">
+	<Hyperlink Self="u25c8" Name="http://isna.ir/fa/news/" Source="u2561" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="357">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 220</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 255</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2492" Name="http://smallmedia.org.uk/" Source="u242f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="321">
+	<Hyperlink Self="u25c6" Name="http://smallmedia.org.uk/" Source="u2564" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="356">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 219</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 254</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2490" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views 1" Source="u2431" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="320">
+	<Hyperlink Self="u25c4" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views 1" Source="u2566" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="355">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 218</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 253</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u248e" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf 1" Source="u2433" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="319">
+	<Hyperlink Self="u25c2" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf 1" Source="u2568" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="354">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 217</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 252</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u248c" Name="http://www.smallmedia.org.uk/ 1" Source="u2436" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="318">
+	<Hyperlink Self="u25c0" Name="http://www.smallmedia.org.uk/ 1" Source="u256a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="353">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 216</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 251</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u248a" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/ 1" Source="u2438" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="317">
+	<Hyperlink Self="u25be" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/ 1" Source="u256d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="352">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 215</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 250</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2488" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf 1" Source="u243b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="316">
+	<Hyperlink Self="u25bc" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf 1" Source="u256f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="351">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 214</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 249</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2486" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/ 1" Source="u243d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="315">
+	<Hyperlink Self="u25ba" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/ 1" Source="u2572" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="350">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 213</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 248</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2484" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/ 1" Source="u2441" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="314">
+	<Hyperlink Self="u25b8" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/ 1" Source="u2576" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="349">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 212</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 247</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2482" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html# 1" Source="u2443" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="313">
+	<Hyperlink Self="u25b6" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html# 1" Source="u2578" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="348">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 211</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 246</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2480" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html 1" Source="u2447" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="312">
+	<Hyperlink Self="u25b4" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html 1" Source="u257c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="347">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/URL 210</Destination>
+			<Destination type="object">HyperlinkURLDestination/URL 245</Destination>
 		</Properties>
 	</Hyperlink>
 </Document>

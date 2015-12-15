@@ -40,7 +40,7 @@ Theory on Demand #18
 **Copy-editing:** Leonieke van Dipten<br/>
 **Editorial support:** Miriam Rasch<br/>
 
-**Cover Design:** Katja Schiphout<br/>
+**Cover Design:** Katja Stiphout<br/>
 **DTP:** Leonieke van Dipten<br/>
 **Infographics:** Sandra Hanchard <br/>
 **EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 

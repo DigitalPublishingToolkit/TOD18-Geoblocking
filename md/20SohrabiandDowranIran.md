@@ -173,8 +173,8 @@ are throttled during political turmoils.[^5]
 ![](imgs/iran.png)
 
 Figure 1. Iranian internet users see this government notice when trying to
-access blocked websites. It reads: “Access to the requested website is
-not possible. Please click here to access reports and complaints”
+access blocked websites. It reads: 'Access to the requested website is
+not possible. Please click here to access reports and complaints'
 
 Taking office as President in 2013, Hassan Rouhani criticized internet
 censorship, raising hopes for reducing internet barriers (to be
@@ -188,7 +188,7 @@ any filtering’, he declared that ‘3G mobile communication services and
 higher are against Sharia \[Islamic law\] and moral and human norms’.
 
 Perhaps Iran’s most ambitious plan for extending its control over the
-internet has been the launching of a “walled-off” national internet. The
+internet has been the launching of a 'walled-off' national internet. The
 network will connect government ministries, universities, banks,
 healthcare, tax systems, and other state institutions through local
 servers. Although users will benefit from higher speed and better
