@@ -184,7 +184,7 @@ create an alternative world of connectivity.
 Tunnels come in multiple forms. The U.S. Department of Homeland Security
 identifies at least three different types of underground border tunnels.
 Rudimentary tunnels are small, shallow, often crudely constructed and
-used only to travel only a short distance. These are usually detected
+used to travel only a short distance. These are usually detected
 when they cause a sinkhole, or ground surface collapse. In December
 2013, officers from the U.S. Immigration and Customs Enforcement and
 Homeland Security Investigations found one of these tunnels in the

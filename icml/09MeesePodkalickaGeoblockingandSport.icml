@@ -57,6 +57,13 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -539,7 +546,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Lurid tales of football officials pocketing millions hit the headlines following the recent FIFA scandals The reporting rightly shone a light on corruption in football, but also drove home a basic fact: sport is awash with money. This is largely because television networks spend a significant amount on purchasing rights to major sporting events. To provide a few brief examples, Fox Sports has paid over $400 million (USD) in 2011 for the rights to the 2018 and 2022 FIFA World Cups</Content>
+				<Content>Lurid tales of football officials pocketing millions hit the headlines following the recent FIFA scandals. The reporting rightly shone a light on corruption in football, but also drove home a basic fact: sport is awash with money. This is largely because television networks spend a significant amount on purchasing rights to major sporting events. To provide a few brief examples, Fox Sports has paid over $400 million (USD) in 2011 for the rights to the 2018 and 2022 FIFA World Cups</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -557,7 +564,7 @@
 							<Content>, 21 October, 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1bfd" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1d55" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -586,7 +593,7 @@
 							<Content> 7 May, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1c01" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1d59" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -641,7 +648,7 @@
 							<Content>, 7 July 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1c03" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1d5b" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://m.fifa.com/aboutfifa/news/newsid=2401405.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -674,7 +681,7 @@
 							<Content>	Brett Hutchins, ‘Robbing the World’s Largest Jewellery Store’? Digital Sports Piracy, Industry Hyperbole, and Barriers to an Alternative Online Business Model’, ANZCA 2011, Waikato, New Zealand, 5-8 July, 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1c05" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1d5d" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -810,7 +817,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1c0d" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1d65" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -838,7 +845,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1d33" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="257 257" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5830386126482937 0 0 0.5830386126482935 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1d6b" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="257 257" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5830386126482937 0 0 0.5830386126482935 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqADzqAwCAHE0oUPo5CqEPpdLrMPqpQscPrxeNkPsdjuKKxeMxiLOuIsePRJ6x+RrNeSFZxyUx
@@ -5342,10 +5349,10 @@ I5DZLzFSmhxSj/3MF3nEbnRWew8Ewf4KvVD/BZ60f4DvYD/AZ7Mf4Kfbev9j6oFQ/wF+9H+B/4A/
 0upKiVJ+3+CpIn/tifxHuD31G/aQKzNQU/DmPBFFLeqknpQCEhQCnLQDrnwEQDQGQFwHFBNjmcwE
 wJwGwFQLQKHLI4FAoiIivzQPQPwQQQwRQRwSICQIkiwMQLwKwUwUmcpCwWQVwYwHwYQZwZQVQawc
 OtEllBInwaGhQfHpQJEhI4MsLeu5Hiv1HiKMQSwmQmwnQnwoQowpFCwAHjP9KTvuHhFYiAgAAABI
-AAAAAQAAAEgAAAABAAAADgAAAQQAAQAAAJ8BAAABAQQAAQAAAOoAAAACAQMAAQAAAAgAAAADAQMA
-AQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAAOoAAAAX
-AQQAAQAAACHqAwAaAQUAAQAAACzqAwAbAQUAAQAAADTqAwAcAQMAAQAAAAEAwQJSAQMAAQAAAAIA
-AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
+AAAAAQAAAEgAAAABAAAADgAAAQQAAQAAAJ8BAAABAQQAAQAAAOoAAAACAQMAAQAAAAgA8D8DAQMA
+AQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQA738WAQQAAQAAAOoAAAAX
+AQQAAQAAACHqAwAaAQUAAQAAACzqAwAbAQUAAQAAADTqAwAcAQMAAQAAAAEAAABSAQMAAQAAAAIA
+AAA1ggEAAQAAAADvBQAAAAAA]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="414.68570439883666" Bottom="233.26070872434562" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -5400,7 +5407,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1c11" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/MeesePodkalicka-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946511100000000 466315" LinkImportModificationTime="2015-12-15T12:05:10" LinkImportTime="2015-12-15T12:05:14" LinkResourceSize="0~71d8b" />
+						<Link Self="u1d68" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/MeesePodkalicka-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 466315" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T13:55:10" LinkResourceSize="0~71d8b" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -5482,7 +5489,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 							<Content> [2012] EWHC, 466, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1c16" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1d72" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5594,366 +5601,366 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Table Self="u1ae0i1c1d" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="9" ColumnCount="5" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
-					<Row Self="u1ae0i1c1dRow0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.55386376568652" />
-					<Row Self="u1ae0i1c1dRow1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
-					<Row Self="u1ae0i1c1dRow2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
-					<Row Self="u1ae0i1c1dRow3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
-					<Row Self="u1ae0i1c1dRow4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
-					<Row Self="u1ae0i1c1dRow5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
-					<Row Self="u1ae0i1c1dRow6" Name="6" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
-					<Row Self="u1ae0i1c1dRow7" Name="7" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
-					<Row Self="u1ae0i1c1dRow8" Name="8" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
-					<Row Self="u1ae0i1c1dRow9" Name="9" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
-					<Column Self="u1ae0i1c1dColumn0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
-					<Column Self="u1ae0i1c1dColumn1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
-					<Column Self="u1ae0i1c1dColumn2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
-					<Column Self="u1ae0i1c1dColumn3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
-					<Column Self="u1ae0i1c1dColumn4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
-					<Cell Self="u1ae0i1c1di2d" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
+				<Table Self="u1ae0i1d79" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="9" ColumnCount="5" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
+					<Row Self="u1ae0i1d79Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.55386376568652" />
+					<Row Self="u1ae0i1d79Row1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
+					<Row Self="u1ae0i1d79Row2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
+					<Row Self="u1ae0i1d79Row3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
+					<Row Self="u1ae0i1d79Row4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
+					<Row Self="u1ae0i1d79Row5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
+					<Row Self="u1ae0i1d79Row6" Name="6" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
+					<Row Self="u1ae0i1d79Row7" Name="7" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
+					<Row Self="u1ae0i1d79Row8" Name="8" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="17.206894161194327" />
+					<Row Self="u1ae0i1d79Row9" Name="9" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.006894161194328" />
+					<Column Self="u1ae0i1d79Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
+					<Column Self="u1ae0i1d79Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
+					<Column Self="u1ae0i1d79Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
+					<Column Self="u1ae0i1d79Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
+					<Column Self="u1ae0i1d79Column4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
+					<Cell Self="u1ae0i1d79i2d" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Platform </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di2e" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
+					<Cell Self="u1ae0i1d79i2e" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Do you need to pay? </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di2f" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
+					<Cell Self="u1ae0i1d79i2f" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Timing </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di30" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="5" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
+					<Cell Self="u1ae0i1d79i30" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="5" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Geographic restriction </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di31" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="5" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="5">
+					<Cell Self="u1ae0i1d79i31" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="5" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="5">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>&apos;Quality&apos; </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="7" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="11">
+					<Cell Self="u1ae0i1d79i0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="7" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="11">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>TV (Satellite) </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="12">
+					<Cell Self="u1ae0i1d79i1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="12">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Yes </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di2" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="9" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="13">
+					<Cell Self="u1ae0i1d79i2" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="9" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="13">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di3" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="10" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="14">
+					<Cell Self="u1ae0i1d79i3" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="10" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="14">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Yes </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di4" Name="4:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="10" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="15">
+					<Cell Self="u1ae0i1d79i4" Name="4:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="10" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="15">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Excellent </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di5" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="16">
+					<Cell Self="u1ae0i1d79i5" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="16">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>TV (FTA) </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di6" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="13" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="17">
+					<Cell Self="u1ae0i1d79i6" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="13" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="17">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Sometimes </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di7" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="18">
+					<Cell Self="u1ae0i1d79i7" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="18">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di8" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="19">
+					<Cell Self="u1ae0i1d79i8" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="19">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Yes </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di9" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="15" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="20">
+					<Cell Self="u1ae0i1d79i9" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="15" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="20">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Excellent </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1dia" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="17" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="21">
+					<Cell Self="u1ae0i1d79ia" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="17" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="21">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Parallel Import TV </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1dib" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="17" RightEdgeStrokePriority="18" TopEdgeStrokePriority="17" BottomEdgeStrokePriority="22">
+					<Cell Self="u1ae0i1d79ib" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="17" RightEdgeStrokePriority="18" TopEdgeStrokePriority="17" BottomEdgeStrokePriority="22">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Yes </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1dic" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="18" RightEdgeStrokePriority="19" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="23">
+					<Cell Self="u1ae0i1d79ic" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="18" RightEdgeStrokePriority="19" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="23">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1did" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="24">
+					<Cell Self="u1ae0i1d79id" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="24">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1die" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="20" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="25">
+					<Cell Self="u1ae0i1d79ie" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="20" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="25">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Average </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1dif" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="21" RightEdgeStrokePriority="22" TopEdgeStrokePriority="21" BottomEdgeStrokePriority="26">
+					<Cell Self="u1ae0i1d79if" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="21" RightEdgeStrokePriority="22" TopEdgeStrokePriority="21" BottomEdgeStrokePriority="26">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>TV (FTA) through VPN </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di10" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="27">
+					<Cell Self="u1ae0i1d79i10" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="27">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Yes </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di11" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="28">
+					<Cell Self="u1ae0i1d79i11" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="28">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di12" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="25" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="29">
+					<Cell Self="u1ae0i1d79i12" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="25" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="29">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di13" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="25" RightEdgeStrokePriority="25" TopEdgeStrokePriority="25" BottomEdgeStrokePriority="30">
+					<Cell Self="u1ae0i1d79i13" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="25" RightEdgeStrokePriority="25" TopEdgeStrokePriority="25" BottomEdgeStrokePriority="30">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Excellent </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di14" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="31">
+					<Cell Self="u1ae0i1d79i14" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="31">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live Streaming </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di15" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="28" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="32">
+					<Cell Self="u1ae0i1d79i15" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="28" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="32">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di16" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="29" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="33">
+					<Cell Self="u1ae0i1d79i16" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="29" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="33">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di17" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="29" RightEdgeStrokePriority="30" TopEdgeStrokePriority="29" BottomEdgeStrokePriority="34">
+					<Cell Self="u1ae0i1d79i17" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="29" RightEdgeStrokePriority="30" TopEdgeStrokePriority="29" BottomEdgeStrokePriority="34">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di18" Name="4:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="35">
+					<Cell Self="u1ae0i1d79i18" Name="4:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="35">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Average to Poor </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di19" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="36">
+					<Cell Self="u1ae0i1d79i19" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="36">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Vine </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1a" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="33" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="37">
+					<Cell Self="u1ae0i1d79i1a" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="33" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="37">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1b" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="33" RightEdgeStrokePriority="34" TopEdgeStrokePriority="33" BottomEdgeStrokePriority="38">
+					<Cell Self="u1ae0i1d79i1b" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="33" RightEdgeStrokePriority="34" TopEdgeStrokePriority="33" BottomEdgeStrokePriority="38">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Slight Delay </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1c" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="39">
+					<Cell Self="u1ae0i1d79i1c" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="39">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1d" Name="4:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="35" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="40">
+					<Cell Self="u1ae0i1d79i1d" Name="4:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="35" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="40">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Poor </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1e" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="37" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="41">
+					<Cell Self="u1ae0i1d79i1e" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="37" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="41">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>YouTube/Other Third Party Site </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di1f" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="37" RightEdgeStrokePriority="38" TopEdgeStrokePriority="37" BottomEdgeStrokePriority="42">
+					<Cell Self="u1ae0i1d79i1f" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="37" RightEdgeStrokePriority="38" TopEdgeStrokePriority="37" BottomEdgeStrokePriority="42">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di20" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="43">
+					<Cell Self="u1ae0i1d79i20" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="43">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Delay of a few hours </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di21" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="40" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="44">
+					<Cell Self="u1ae0i1d79i21" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="40" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="44">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di22" Name="4:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="40" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="45">
+					<Cell Self="u1ae0i1d79i22" Name="4:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="40" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="45">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Average to Poor </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di23" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="42" TopEdgeStrokePriority="41" BottomEdgeStrokePriority="46">
+					<Cell Self="u1ae0i1d79i23" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="42" TopEdgeStrokePriority="41" BottomEdgeStrokePriority="46">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Skype </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di24" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="42" RightEdgeStrokePriority="43" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="47">
+					<Cell Self="u1ae0i1d79i24" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="42" RightEdgeStrokePriority="43" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="47">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di25" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="48">
+					<Cell Self="u1ae0i1d79i25" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="48">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Live </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di26" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="45" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="49">
+					<Cell Self="u1ae0i1d79i26" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="45" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="49">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di27" Name="4:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="45" RightEdgeStrokePriority="45" TopEdgeStrokePriority="45" BottomEdgeStrokePriority="50">
+					<Cell Self="u1ae0i1d79i27" Name="4:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="45" RightEdgeStrokePriority="45" TopEdgeStrokePriority="45" BottomEdgeStrokePriority="50">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Poor </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di28" Name="0:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="46" RightEdgeStrokePriority="47" TopEdgeStrokePriority="46" BottomEdgeStrokePriority="46">
+					<Cell Self="u1ae0i1d79i28" Name="0:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="46" RightEdgeStrokePriority="47" TopEdgeStrokePriority="46" BottomEdgeStrokePriority="46">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Website </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di29" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="47" RightEdgeStrokePriority="48" TopEdgeStrokePriority="47" BottomEdgeStrokePriority="47">
+					<Cell Self="u1ae0i1d79i29" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="47" RightEdgeStrokePriority="48" TopEdgeStrokePriority="47" BottomEdgeStrokePriority="47">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di2a" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="48" RightEdgeStrokePriority="49" TopEdgeStrokePriority="48" BottomEdgeStrokePriority="48">
+					<Cell Self="u1ae0i1d79i2a" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="48" RightEdgeStrokePriority="49" TopEdgeStrokePriority="48" BottomEdgeStrokePriority="48">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Delay of a few hours </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di2b" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="49" RightEdgeStrokePriority="50" TopEdgeStrokePriority="49" BottomEdgeStrokePriority="49">
+					<Cell Self="u1ae0i1d79i2b" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="49" RightEdgeStrokePriority="50" TopEdgeStrokePriority="49" BottomEdgeStrokePriority="49">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1c1di2c" Name="4:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="50" RightEdgeStrokePriority="50" TopEdgeStrokePriority="50" BottomEdgeStrokePriority="50">
+					<Cell Self="u1ae0i1d79i2c" Name="4:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="50" RightEdgeStrokePriority="50" TopEdgeStrokePriority="50" BottomEdgeStrokePriority="50">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Average to Poor </Content>
@@ -6008,7 +6015,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 							<Content>, 16 May 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1c32" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1d8e" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://insidestory.org.au/bringing-the-abc-back-home/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -6069,7 +6076,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 				<Content>‘2014 FIFA World Cup Breaks Online Streaming Records’, FIFA.com, 7 July 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1c35" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1d91" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://m.fifa.com/aboutfifa/news/newsid=2401405.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -6117,7 +6124,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 				<Content>, 16 May 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1c37" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1d93" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://insidestory.org.au/bringing-the-abc-back-home/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -6127,7 +6134,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 				<Content>Hutchins, Brett. ‘Robbing the World’s Largest Jewellery Store’? Digital Sports Piracy, Industry Hyperbole, and Barriers to an Alternative Online Business Model’, ANZCA 2011, Waikato, New Zealand, 5-8 July, 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1c38" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1d94" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -6145,7 +6152,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 				<Content>‘IOC awards Olympic Games Broadcast Rights to NBC Universal through to 2032’, Official Website of the Olympic Movement, 7 May 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1c39" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1d95" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -6155,7 +6162,7 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 				<Content>Longman, Jere. ‘Fox and Telemundo Win U.S. Rights to World Cups’, New York Times, 21 October 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1c3a" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1d96" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -6264,67 +6271,67 @@ AAA1ggEAAQAAAADjYAIAAAAA]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 97" DestinationUniqueKey="199" Name="URL 97" DestinationURL="http://m.fifa.com/aboutfifa/news/newsid=2401405.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 98" DestinationUniqueKey="200" Name="URL 98" DestinationURL="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 99" DestinationUniqueKey="201" Name="URL 99" DestinationURL="http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html" Hidden="false" />
-	<Hyperlink Self="u1c43" Name="http://m.fifa.com/aboutfifa/news/newsid=2401405.html" Source="u1c35" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="195">
+	<Hyperlink Self="u1d97" Name="http://m.fifa.com/aboutfifa/news/newsid=2401405.html" Source="u1d91" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="195">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 93</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c41" Name="http://insidestory.org.au/bringing-the-abc-back-home/" Source="u1c37" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="194">
+	<Hyperlink Self="u1d98" Name="http://insidestory.org.au/bringing-the-abc-back-home/" Source="u1d93" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="194">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 92</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c3f" Name="http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html" Source="u1c38" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="193">
+	<Hyperlink Self="u1d99" Name="http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html" Source="u1d94" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="193">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 91</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c3d" Name="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995" Source="u1c39" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="192">
+	<Hyperlink Self="u1d9a" Name="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995" Source="u1d95" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="192">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 90</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c3b" Name="http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html" Source="u1c3a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1d9b" Name="http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html" Source="u1d96" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c4f" Name="http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html 1" Source="u1bfd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="201">
+	<Hyperlink Self="u1d9c" Name="http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html 1" Source="u1d55" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="201">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 99</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c4d" Name="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995 1" Source="u1c01" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
+	<Hyperlink Self="u1d9d" Name="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995 1" Source="u1d59" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 98</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c4b" Name="http://m.fifa.com/aboutfifa/news/newsid=2401405.html 1" Source="u1c03" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="199">
+	<Hyperlink Self="u1d9e" Name="http://m.fifa.com/aboutfifa/news/newsid=2401405.html 1" Source="u1d5b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="199">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 97</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c49" Name="http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html 1" Source="u1c05" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="198">
+	<Hyperlink Self="u1d9f" Name="http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html 1" Source="u1d5d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="198">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 96</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c47" Name="http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html" Source="u1c16" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="197">
+	<Hyperlink Self="u1da0" Name="http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html" Source="u1d72" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="197">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 95</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1c45" Name="http://insidestory.org.au/bringing-the-abc-back-home/ 1" Source="u1c32" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="196">
+	<Hyperlink Self="u1da1" Name="http://insidestory.org.au/bringing-the-abc-back-home/ 1" Source="u1d8e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="196">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 94</Destination>

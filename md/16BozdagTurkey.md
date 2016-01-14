@@ -33,7 +33,7 @@ internet
 ![](imgs/BozdagImage1.png)
 
 Figure 1. This image promoting DNS proxies circulated widely during the
-2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
+2014 Istanbul protests. Translation: "DNS - let your bird sing" (Author
 unknown)
 
 In recent years the acronyms DNS and VPN have entered into the everyday

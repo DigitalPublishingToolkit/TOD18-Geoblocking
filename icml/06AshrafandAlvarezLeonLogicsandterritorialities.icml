@@ -337,7 +337,7 @@
 							<Content>	John Perry Barlow, &apos;A Declaration of the Independence of Cyberspace&apos;, 8 February 1996, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u17a3" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u189d" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://projects.eff.org/~barlow/Declaration-Final.html</Content>
 							</HyperlinkTextSource>
 							<Content> </Content>
@@ -463,7 +463,7 @@
 							<Content>	Orans and Firstbrook. 2011. “Magic Quadrant for Secure Web Gateways.”, Gartner Inc., available at </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u17ab" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u18a5" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -644,7 +644,7 @@
 							<Content>, Washington, August 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u17b6" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u18b0" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://jhalderm.com/pub/papers/iran-foci13.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -768,7 +768,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> As with many of the blocking techniques previously discussed, national cyberzones can also intersect state with market logic by creating market spaces that are free from external competition, thus producing conditions that favor specific (often state-backed) actors.</Content>
 				<Br />
-				<Content>Geographical concepts such as borders, territory, and sovereignty thus have both technical and legal analogues that have supported and extended their conceptual development, mutation, and maturation throughout human history. The Treaty of Westphalia&apos;s principle of mutual recognition, for instance, was dependent upon surveying technologies that could accurately demarcate and communicate borders. Technology plays a critical role for states in demarcating their limits and extents as well as communicating and defending those extents. To achieve this, states must combine activity regulation within their geographies with demarcation of these geographies through technical regulation. In spite of ethereal metaphors such as ‘the cloud’, the internet is a tremendously territorial medium grounded in space with easily identifiable packets, standardized national domain registrars, transnational data transit agreements and configuration, and national or sub-national networks (autonomous systems) whose deployment is the foundation of the internet and the purview of states.</Content>
+				<Content>Geographical concepts such as borders, territory, and sovereignty thus have both technical and legal analogues that have supported and extended their conceptual development, mutation, and maturation throughout human history. The Treaty of Westphalia&apos;s principle of mutual recognition, for instance, was dependent upon surveying technologies that could accurately demarcate and communicate borders. Technology plays a critical role for states in demarcating their limits and extents as well as communicating and defending those extents. To achieve this, states must combine activity regulation within their geographies with demarcation of these geographies through technical regulation. In spite of ethereal metaphors such as ‘the cloud’, the internet is a tremendously territorial medium grounded in space with easily identifiable packets, standardized national domain registrars, transnational data agreements and configuration, and national or sub-national networks (autonomous systems) whose deployment is the foundation of the internet and the purview of states.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -777,7 +777,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Roberts, Hal, David Larochelle, Rob Faris, and John Palfrey. 2011. “Mapping Local Internet Control.” In Computer Communications Workshop (Hyannis, CA, 2011), IEEE.</Content>
+							<Content>	Hal Roberts, David Larochelle, Rob Faris, and John Palfrey. 2011. “Mapping Local Internet Control.” In Computer Communications Workshop (Hyannis, CA, 2011), IEEE.</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 							<Br />
@@ -806,7 +806,7 @@
 				<Br />
 				<Content>In order to understand how market actors territorialize information, this process has to be put into the broader context of governance structures, such as regulatory frameworks. Intellectual property regimes, for example, have become instrumental in creating informational market spaces by limiting the distribution of content to specific jurisdictions. However, while this enables copyright holders, such as film studios, to secure revenue from distribution rights, it also presents new challenges. One of these is the difficulty of ensuring that only ‘legitimate’ content flows within the territorialized information markets. In digital environments it is very difficult to eradicate market-anomalous behavior such as piracy and file-sharing due to the low costs of reproduction and distribution online.</Content>
 				<Br />
-				<Content>Another challenge for the construction of territorialized markets across digital information networks is the globalizing scale of information flows. This requires technical and governance frameworks such as payment systems and intellectual property protections to be coordinated across time and space at transnational scales. This level of coordination has made it more difficult to maintain a strategy long used by film distributors: the windowed release of products according to geographic region, and even by medium, such as theater and then home video. This strategy was designed to &apos;manage time and control speed through space so as to minimize the threat posed by new technologies.&apos;</Content>
+				<Content>Another challenge for the construction of territorialized markets across digital information networks is the globalizing scale of information flows. This requires technical and governance frameworks such as payment systems and intellectual property protections to be coordinated across time and space at transnational scales. This level of coordination has made it more difficult to maintain a strategy long used by film distributors: the windowed release of products according to geographic region, and even by medium, such as theater and then home video. This strategy was designed to &apos;manage time and control speed through space so as to minimize the threat posed by new technologies’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -934,7 +934,7 @@
 							<Content>	Hulu, ‘Why Can&apos;t I Use Hulu Internationally?&apos;, n.d., </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u17cb" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u18c5" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.hulu.com/help/articles/171122</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -963,7 +963,7 @@
 							<Content> 7 July 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u17cd" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u18c7" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1068,7 +1068,7 @@
 				<Content> Washington, August 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17d2" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18ce" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://jhalderm.com/pub/papers/iran-foci13.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1086,7 +1086,7 @@
 				<Content>Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace,’ 8 February 1996, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17d4" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18cf" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://homes.eff.org/~barlow/Declaration-Final.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1144,7 +1144,7 @@
 				<Content>Digital Element, ‘Geographic Rights Management’, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17d6" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18d1" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.digital-element.net/our_technology/our_technology.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1178,7 +1178,7 @@
 				<Content>Hulu, ‘Why Can&apos;t I Use Hulu Internationally?&apos;, n.d., </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17d8" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18d3" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.hulu.com/help/articles/171122</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1226,7 +1226,7 @@
 				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17d9" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18d4" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1260,7 +1260,7 @@
 				<Content>, 7 July 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17dc" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18d7" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1292,7 +1292,7 @@
 				<Content> 11.1 (2006), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u17dd" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u18d8" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://firstmonday.org/ojs/index.php/fm/article/view/1307/1227</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1375,73 +1375,73 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 47" DestinationUniqueKey="149" Name="URL 47" DestinationURL="https://jhalderm.com/pub/papers/iran-foci13.pdf" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 48" DestinationUniqueKey="150" Name="URL 48" DestinationURL="https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 49" DestinationUniqueKey="151" Name="URL 49" DestinationURL="https://projects.eff.org/~barlow/Declaration-Final.html" Hidden="false" />
-	<Hyperlink Self="u17ea" Name="https://jhalderm.com/pub/papers/iran-foci13.pdf" Source="u17d2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="146">
+	<Hyperlink Self="u18da" Name="https://jhalderm.com/pub/papers/iran-foci13.pdf" Source="u18ce" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="146">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 44</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17e8" Name="https://homes.eff.org/~barlow/Declaration-Final.html" Source="u17d4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="145">
+	<Hyperlink Self="u18db" Name="https://homes.eff.org/~barlow/Declaration-Final.html" Source="u18cf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="145">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 43</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17e6" Name="http://www.digital-element.net/our_technology/our_technology.html" Source="u17d6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="144">
+	<Hyperlink Self="u18dc" Name="http://www.digital-element.net/our_technology/our_technology.html" Source="u18d1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="144">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 42</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17e4" Name="http://www.hulu.com/help/articles/171122" Source="u17d8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="143">
+	<Hyperlink Self="u18dd" Name="http://www.hulu.com/help/articles/171122" Source="u18d3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="143">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 41</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17e2" Name="http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp" Source="u17d9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="142">
+	<Hyperlink Self="u18de" Name="http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp" Source="u18d4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="142">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 40</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17e0" Name="http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940" Source="u17dc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="141">
+	<Hyperlink Self="u18df" Name="http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940" Source="u18d7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="141">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 39</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17de" Name="http://firstmonday.org/ojs/index.php/fm/article/view/1307/1227" Source="u17dd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u18e0" Name="http://firstmonday.org/ojs/index.php/fm/article/view/1307/1227" Source="u18d8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17f4" Name="https://projects.eff.org/~barlow/Declaration-Final.html" Source="u17a3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="151">
+	<Hyperlink Self="u18e1" Name="https://projects.eff.org/~barlow/Declaration-Final.html" Source="u189d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="151">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 49</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17f2" Name="https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways" Source="u17ab" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="150">
+	<Hyperlink Self="u18e2" Name="https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways" Source="u18a5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="150">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 48</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17f0" Name="https://jhalderm.com/pub/papers/iran-foci13.pdf 1" Source="u17b6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="149">
+	<Hyperlink Self="u18e3" Name="https://jhalderm.com/pub/papers/iran-foci13.pdf 1" Source="u18b0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="149">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 47</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17ee" Name="http://www.hulu.com/help/articles/171122 1" Source="u17cb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="148">
+	<Hyperlink Self="u18e4" Name="http://www.hulu.com/help/articles/171122 1" Source="u18c5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="148">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 46</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u17ec" Name="http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940 1" Source="u17cd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="147">
+	<Hyperlink Self="u18e5" Name="http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940 1" Source="u18c7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="147">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 45</Destination>

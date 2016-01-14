@@ -135,14 +135,14 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic" VerticalScale="101" Skew="12">
+		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic" VerticalScale="101" Skew="12">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -506,30 +506,12 @@
 				<Properties>
 					<Leading type="unit">16.831683168316832</Leading>
 				</Properties>
-				<Content>The New Video Geography: An Introduction To</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Bold Italic" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
-				<Properties>
-					<Leading type="unit">16.831683168316832</Leading>
-				</Properties>
-				<Content> </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Bold" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
-				<Properties>
-					<Leading type="unit">16.831683168316832</Leading>
-					<AppliedFont type="string">Lato</AppliedFont>
-				</Properties>
-				<Content>Geoblocking and Global Video Culture</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="13.861386138613861" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
-				<Properties>
-					<Leading type="unit">16.831683168316832</Leading>
-				</Properties>
+				<Content>Introduction: The New Video Geography</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" HyphenationZone="35.64356435643565" SpaceBefore="8.419739611756452" SpaceAfter="8.419739611756452" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9.900990099009901" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Ramon Lobato</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -538,7 +520,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
 				<Content>This book is about the cultural geography of video streaming. It is about platforms – YouTube, iPlayer, DailyMotion, Netflix, Periscope, Youku – and how they manage their international audiences and shape them into markets. It is about governments, state institutions and public-service broadcasters, and the technologies they use to regulate video flows across national borders. It is about users and audiences, and how they negotiate diverse forms of access and restriction. Above all, it is about cultural circulation – how different kinds of content reach dispersed audiences through authorized and unauthorized channels.</Content>
 				<Br />
-				<Content>As an entry point into these wider issues, contributors to this book focus on a specific technology of access control: geoblocking. Geoblocking, a spatially-aware filtering technology that uses IP address detection to determine a user’s location, has become a key mechanism for managing international video streaming traffic and maintaining separation of national media markets. The process is simple: when you visit a website, your IP address (e.g. 198.8.80.200) is run through a database to identify your ISP and geographic location, which is then matched against a blacklist or whitelist to establish access rights. If you are in an approved location, access is granted and the video automatically plays. Those outside the authorized zone will likely see a familiar error message – something like ‘this video is not available in your region’ – or perhaps an endlessly buffering screen.</Content>
+				<Content>As an entry point into these wider issues, contributors to this book focus on a specific technology of access control: geoblocking. Geoblocking, a spatially-aware filtering technology that uses IP address databases to determine a user’s location, has become a key mechanism for managing international video streaming traffic and maintaining separation of national media markets. The process is simple: when you visit a website, your IP address (e.g. 198.8.80.200) is run through a database to identify your ISP and geographic location, which is then matched against a blacklist or whitelist to establish access rights. If you are in an approved location, access is granted and the video automatically plays. Those outside the authorized zone will likely see a familiar error message – something like ‘this video is not available in your region’ – or perhaps an endlessly buffering screen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -563,7 +545,6 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" LeftIndent="16.839479223512903" FirstLineIndent="-16.839479223512903" HyphenationZone="35.64356435643565" RuleAboveLineWeight="0.9900990099009901" RuleBelowLineWeight="0.9900990099009901" SplitColumnInsideGutter="5.9405940594059405" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -576,7 +557,7 @@
 				<Content>Geoblocking and Global Video Culture</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="8.910891089108912" StrokeWeight="0.9900990099009901" MiterLimit="3.9603960396039604" RubyFontSize="-0.9900990099009901" KentenFontSize="-0.9900990099009901">
-				<Content> takes thse issues as the basis for a critical and eclectic discussion of the internet’s changing cultural geography. Many contributors to this book are screen scholars, interested in the politics of media globalisation and how this translates into the digital environment. Other contributors approach the topic through </Content>
+				<Content> takes these issues as the basis for a critical and eclectic discussion of the internet’s changing cultural geography. Many contributors to this book are screen scholars, interested in the politics of media globalisation and how this translates into the digital environment. Other contributors approach the topic through </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>legal analysis, cultural history, and spatial theory. Together, these essays offer a series of distinctive stories about a fast-changing and complex issue. Mixing macro-level insights with bottom-up accounts of everyday user experience, and moving from Europe to South America to the Asia-Pacific, the various essays in this book provide provocative arguments about the cultural implications of the new video geography.</Content>
@@ -587,7 +568,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>A major theme of the book is circumvention. As with many digital rights management technologies, geoblocking systems can be easily tricked. In recent years the appearance of user-friendly circumvention tools – including VPNs (virtual private networks), DNS (domain name system) proxies, web proxies, and location-masking browser extensions – has unleashed a wave of unauthorised cross-border media activity, allowing audiences to easily access streaming, news and sports services from other countries. As we shall soon see, these and other tools are used by a wide cross-section of users, and for remarkably different purposes. In exploring these various forms of blockage and circumvention, and the connections between them, our aim is to tell a different kind of story about internet blocking beyond the ‘digital divide’ paradigm.</Content>
 				<Br />
-				<Content>Geoblocking circumvention is closely linked to other issues including internet governance, censorship, and cultural policy, because the same privacy tools that can be used to hack into iPlayer or Netflix are in other contexts used to get around state internet censorship. As researchers at Harvard University’s Berkman Center for internet and Society have documented, global circumvention – encompassing the use of commercial VPNs, activist-designed tools, simple web proxies and HTTP/SOCKS proxies – is an activity that involves tens of millions of internet users worldwide.</Content>
+				<Content>Geoblocking circumvention is closely linked to other issues including internet governance, censorship, and cultural policy, because the same privacy tools that can be used to hack into iPlayer or Hulu are in other contexts used to get around state internet censorship. As researchers at Harvard University’s Berkman Center for Internet and Society have documented, global circumvention – encompassing the use of commercial VPNs, activist-designed tools, simple web proxies and HTTP/SOCKS proxies – is an activity that involves tens of millions of internet users worldwide.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -624,7 +605,6 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -681,7 +661,6 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
@@ -692,11 +671,11 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBullet list">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>YouTube is available in 70 different country-specific versions, including dedicated platforms for small countries such as Latvia and Yemen. But it is blocked in China, Iran, Pakistan and Syria, among other countries, and is intermittently unavailable in Thailand, Turkey, Bangladesh and Morocco.</Content>
+				<Content>YouTube is available in 70 different country-specific versions, including dedicated platforms for countries such as Latvia and Yemen. But it is blocked in China, Iran, Pakistan and Syria, among other countries, and is intermittently unavailable in Thailand, Turkey, Bangladesh and Morocco.</Content>
 				<Br />
 				<Content>YouTube also has significantly restricted content in Germany because of a long-running copyright dispute with music collecting societies.</Content>
 				<Br />
-				<Content>Netflix is available in approximately 80 territories but geoblocked in the rest of the world, including China, Japan, Central and Eastern Europe, and all of Africa.</Content>
+				<Content>The Netflix streaming catalog (as of 2016, unblocked everywhere but China) varies markedly between countries, with the availability of movies and TV content reflecting local licensing, copyright and censorship arrangements.</Content>
 				<Br />
 				<Content>Major streaming sites including BBC iPlayer and Hulu are available only in their country of origin (the United Kingdom and United States, respectively) and are geoblocked everywhere else.</Content>
 				<Br />
@@ -729,7 +708,6 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -743,7 +721,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>). But with the rise of geolocation databases and third-party location-detection services, it became practical to automate this process. Now location could be determined by IP address, with pages detecting your location then loading language- and territory-specific content to suit. The accuracy of these IP geolocation systems was sometimes questionable, as many readers will no doubt remember, and the present system still involves a messy patchwork of different databases that do not always play well together. But over time the kinks have been gradually ironed out to a point where IP geolocation works as intended most of the time.</Content>
 				<Br />
-				<Content>To the delight of digital advertising companies, content could now be customised to local markets. Websites could now imagine, understand and process their customers in geographic market segments, down to their postcodes (Hulu, for example, boasts it ‘can target [ads] by Nielsen DMA, State or zip code’</Content>
+				<Content>To the delight of digital advertising companies, content could now be customised to local markets. Websites could now imagine, understand and process their customers in geographic market segments, down to their postcodes (Hulu, for example, boasts it ‘can target [ads] by Nielsen DMA, State or zip code’)</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -761,7 +739,7 @@
 							<Content>, 24 Feb 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1549" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1687" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://flowtv.org/2014/02/adverstreaming-hulu-plus/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -772,7 +750,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>). For internet idealists with their dreams of global connectivity and universal access, this resurgence of physical geography has been problematic. One widely discussed consequence is that there is now no such thing as a universal internet – understood as a stable set of globally available cultural materials – because customisation means that content and experience change according to location.</Content>
+				<Content>. For internet idealists with their dreams of global connectivity and universal access, this resurgence of physical geography has been problematic. One widely discussed consequence is that there is now no such thing as a universal internet – understood as a stable set of globally available cultural materials – because customisation means that content and experience change according to location.</Content>
 				<Br />
 				<Content>This brings us to television, and to its ongoing metamorphosis into an online medium. As television becomes a streaming service, delivered over the internet rather than through the airwaves, it becomes location-aware (and location-blind) in new ways. IP geolocation now serves a primary role in determining what content is available where, reconfiguring the spatial ‘footprints’ and access-control functions familiar to us from the broadcast model (TV as a local/national medium transmitted over the airwaves) and through direct-broadcast satellite transmission (TV as a set of internationally available but locally decoded channels).</Content>
 			</CharacterStyleRange>
@@ -815,7 +793,7 @@
 				<Content>Television Studies after TV</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, ‘Notwithstanding the internationalization of the media industries, these days the answer to the question “What is television?” very much depends on where you are’.</Content>
+				<Content>, ‘Notwithstanding the internationalization of the media industries, these days the answer to the question ‘What is television?’ very much depends on where you are’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -834,7 +812,6 @@
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -852,7 +829,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>A second cross-cutting theme in our book is circumvention – the tactics, tools and workarounds that people use to access blocked video sites. As our contributors elegantly describe, the geography of blockage and flow is provisional rather than absolute because internet users have many ways to work around geographic restrictions. Indeed, IP address geoblocking is particularly easy to circumvent through basic software tools – including VPNs, DNS proxies, web proxies, and TOR – which can unlock geo-restricted content by rerouting data through an offshore IP address, making it appear as though the user is located in another country. In recent years a growing ecology of circumvention tools has emerged, including free ad-supported services (Hotspot Shield, Hola, Addtelly), subscription VPNs (Private internet Access, HotSpotNordVPN, TigerVPN), and DNS proxies designed explicitly for unlocking offshore content (Unblock-US, Getflix).</Content>
 				<Br />
-				<Rectangle Self="u154f" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -292.4566929133857">
+				<Rectangle Self="u168e" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -292.4566929133857">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -880,7 +857,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u15d3" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="310 310" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.38770389230749036 0 0 0.38770389230749036 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1695" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="310 310" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.38770389230749036 0 0 0.38770389230749036 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAJDtAgCAOFut9/wKCQJvQVuwmEQqGN1uwqIuFuROKwWLxSLNyMRyKR5uSBtxiRxSStyStuUt
@@ -4250,9 +4227,9 @@ X9VkX83lSNMlQ9PVNNO0lc2afFVD/8pcSVVAzVTdZtWtPNRlaFUQzUFNZ1HROtLjKqrdNdMtMZds
 mdVk37X9Zgf9SFMlIsk1U1cVb8xNUDXqsjW4yD/MmZPgx0Y1eagFfUZUZiqVGiqUZ4mkfpUch8bB
 45UM/D2gh7Q8fYhDVFhB2p4NEU95yz7rU9EAqL+Ao1CT40ixSFCykSkT9jMQsQt4gIAACAAAAEz3
 AQBD9wEAI/YAADYAAAABAAAANgAAAAEAAAAOAAABBAABAAAAJAEAAAEBBAABAAAAlgIAAAIBAwAB
-AAAACAAAAAMBAwABAAAABQA1AQYBAwABAAAAAgAAABEBBAACAAAAcO0CABUBAwABAAAABAAAABYB
-BAABAAAAwAEAABcBBAACAAAAeO0CABoBBQABAAAAgO0CABsBBQABAAAAiO0CABwBAwABAAAAAQBW
-GVIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
+AAAACAAAAAMBAwABAAAABQA0AQYBAwABAAAAAgAAABEBBAACAAAAcO0CABUBAwABAAAABAAAABYB
+BAABAAAAwAEAABcBBAACAAAAeO0CABoBBQABAAAAgO0CABsBBQABAAAAiO0CABwBAwABAAAAAQAA
+AFIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="388.2336185575152" Bottom="882.0763821940453" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -4278,7 +4255,7 @@ GVIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1553" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130916320820000000 597013" LinkImportModificationTime="2015-11-10T13:28:02" LinkImportTime="2015-12-14T13:52:32" LinkResourceSize="0~91c15" />
+						<Link Self="u1691" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 597013" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T14:17:52" LinkResourceSize="0~91c15" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -4294,7 +4271,7 @@ GVIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1555" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -86">
+				<Rectangle Self="u169b" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -86">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -4322,7 +4299,7 @@ GVIBAwABAAAAAgAAADWCAQABAAAAAAAAAAAAAAA=]]></GraphicProxy>
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u15db" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="697 697" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17209342352138898 0 0 0.17209342352138896 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u16a1" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="697 697" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17209342352138898 0 0 0.17209342352138896 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqABhyCwCAACBP+BACCQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS
@@ -17487,7 +17464,7 @@ w39EtoIfTg2v+Evw443cvYII0ksMuksUwgigIogBqQD/JBqP7/J5rPr/KxrPj/L5uPz/MpxQT/M5
 AAgAAACY3QMAlEwJAI7dAwD7bgUAWyUCACQAAAABAAAAJAAAAAEAAAAOAAABBAABAAAAAAMAAAEB
 BAABAAAAjAEAAAIBAwABAAAACAAAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAADAAAA8HEL
 ABUBAwABAAAABAAAABYBBAABAAAAqgAAABcBBAADAAAA/HELABoBBQABAAAACHILABsBBQABAAAA
-EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
+EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="1534.3328634490979" Bottom="790.2684322105835" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -17511,7 +17488,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u155a" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130906565240000000 2904881" LinkImportModificationTime="2015-10-30T06:28:44" LinkImportTime="2015-12-14T13:52:32" LinkResourceSize="0~2c5331" />
+						<Link Self="u169e" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Lobato-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 2904881" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T14:17:52" LinkResourceSize="0~2c5331" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -17548,7 +17525,6 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -17578,7 +17554,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Content>, 18 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u155f" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u16aa" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.bbc.com/news/business-32702501</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -17588,8 +17564,6 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 							<Br />
 						</CharacterStyleRange>
-					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content> </Content>
 						</CharacterStyleRange>
@@ -17616,7 +17590,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Content>, 29 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1561" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u16ad" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -17625,7 +17599,6 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -17674,7 +17647,6 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
@@ -17699,7 +17671,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Content>	European Commission, ‘Better Online Access to Digital Services’, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1567" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u16b2" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://ec.europa.eu/priorities/digital-single-market/access/index_en.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -17708,7 +17680,6 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -17745,7 +17716,6 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" />
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
@@ -17807,7 +17777,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 				<Content>European Commission, ‘Better Online Access to Digital Services’, n.d., </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u156b" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u16b6" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17831,7 +17801,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 				<Content>, 24 Feb 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u156d" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u16b7" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://flowtv.org/2014/02/adverstreaming-hulu-plus/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17871,17 +17841,13 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 				<Content>, 29 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u156f" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u16ba" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Roberts, Hal et al. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -17907,7 +17873,7 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 				<Content>, 18 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1571" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u16bb" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.bbc.com/news/business-32702501</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17954,49 +17920,49 @@ EHILABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAAHWAAAAAAAA=]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 18" DestinationUniqueKey="120" Name="URL 18" DestinationURL="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 19" DestinationUniqueKey="121" Name="URL 19" DestinationURL="http://www.bbc.com/news/business-32702501" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 20" DestinationUniqueKey="122" Name="URL 20" DestinationURL="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Hidden="false" />
-	<Hyperlink Self="u1578" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm" Source="u156b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="118">
+	<Hyperlink Self="u16bd" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm" Source="u16b6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="118">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 16</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1576" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Source="u156d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="117">
+	<Hyperlink Self="u16be" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Source="u16b7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="117">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 15</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1574" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Source="u156f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="116">
+	<Hyperlink Self="u16bf" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Source="u16ba" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="116">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 14</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1572" Name="http://www.bbc.com/news/business-32702501" Source="u1571" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u16c0" Name="http://www.bbc.com/news/business-32702501" Source="u16bb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1580" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/ 1" Source="u1549" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="122">
+	<Hyperlink Self="u16c1" Name="http://flowtv.org/2014/02/adverstreaming-hulu-plus/ 1" Source="u1687" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="122">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 20</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u157e" Name="http://www.bbc.com/news/business-32702501 1" Source="u155f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="121">
+	<Hyperlink Self="u16c2" Name="http://www.bbc.com/news/business-32702501 1" Source="u16aa" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="121">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 19</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u157c" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html 1" Source="u1561" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="120">
+	<Hyperlink Self="u16c3" Name="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html 1" Source="u16ad" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="120">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 18</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u157a" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.html" Source="u1567" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="119">
+	<Hyperlink Self="u16c4" Name="http://ec.europa.eu/priorities/digital-single-market/access/index_en.html" Source="u16b2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="119">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 17</Destination>

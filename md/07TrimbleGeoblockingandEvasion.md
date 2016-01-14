@@ -178,14 +178,14 @@ held an exclusive license.
 
 The first lawsuit that *Spanski Enterprises* filed (in 2007) resulted in
 a 2009 settlement agreement in which the parties agreed to 'maintain and
-continue all Internet geo-blocking which is currently in effect, and
+continue all internet geo-blocking which is currently in effect, and
 \[…\] use their best efforts to conform their respective future
 geo-blocking efforts to the latest widely disseminated and financially
 practicable geo-blocking technologies.'<span id="_Ref427140367"
 class="anchor"></span>[^04TrimbleGeoblockingandEvasion_8] Then, in 2012, *Spanski Enterprises* returned
 to court with allegations that *Telewizja Polska* had 'turned off the
 geoblocking feature and thereby intentionally made available to viewers
-in the United States via the Internet thousands of episodes of shows to
+in the United States via the internet thousands of episodes of shows to
 which \[*Spanski Enterprises*\] had the exclusive distribution rights in
 the United States.'[^04TrimbleGeoblockingandEvasion_9] As of September 2015 the case was still pending
 before the U.S. District Court for the District of Columbia with the
@@ -239,7 +239,7 @@ general language according to which Netflix would 'utilize an industry
 standard geolocation service'[^04TrimbleGeoblockingandEvasion_14] and language that specified that the
 geolocation service employed must, for example, 'provide geographic
 location information based on DNS registrations, WHOIS databases and
-Internet subnet mapping' and 'provide geolocation bypass detection
+internet subnet mapping' and 'provide geolocation bypass detection
 technology designed to detect IP addresses located in the Territory, but
 being used by Registered Users outside the Territory.'[^04TrimbleGeoblockingandEvasion_15] For the
 purposes of legal compliance, courts and regulators will play an
@@ -280,7 +280,7 @@ circumvention tool; it might be sufficient for the measure to prevent
 *average* users from accessing protected content.[^04TrimbleGeoblockingandEvasion_18] The U.S. District
 Court for the Northern District of California rejected an argument
 proposing that a measure not be considered effective if tools to
-circumvent the measure are 'widely available on the Internet.'[^04TrimbleGeoblockingandEvasion_19] The
+circumvent the measure are 'widely available on the internet.'[^04TrimbleGeoblockingandEvasion_19] The
 court said that the argument is 'equivalent to a claim that, since it is
 easy to find skeleton keys on the black market, a deadbolt is not an
 effective lock to a door.'[^04TrimbleGeoblockingandEvasion_20]
@@ -339,7 +339,7 @@ undesirable.
 In discussing the three stages in the development of the relationship
 between geoblocking and legal compliance this chapter presumes that
 geoblocking will be more pervasive and eventually become the only means
-to achieve legal compliance, including compliance with territorial
+to achieve compliance with territorial
 limitations of the law. The presumption is rooted in the conviction that
 legal compliance on the internet cannot be achieved without replicating
 national borders online. A single global law that would eliminate the

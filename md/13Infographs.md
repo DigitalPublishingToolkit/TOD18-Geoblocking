@@ -31,6 +31,6 @@ Figure 2. Internet users per 100 people. Data source: The World Bank
 
 ![](imgs/dataviz13.jpg)
 
-Figure 3.
+Figure 3. Income status of internet users. Data source: The World Bank.
 
 

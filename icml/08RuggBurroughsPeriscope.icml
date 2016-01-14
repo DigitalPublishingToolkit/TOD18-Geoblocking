@@ -56,6 +56,13 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -542,7 +549,7 @@
 							<Content> 22 August 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b07" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c1b" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -571,7 +578,7 @@
 							<Content> 13 August 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b0b" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c1f" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html</Content>
 							</HyperlinkTextSource>
 							<Content> </Content>
@@ -708,7 +715,7 @@
 							<Content> 14 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b12" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c26" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -737,7 +744,7 @@
 							<Content> 21 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b14" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c28" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -767,7 +774,7 @@
 							<Content> 3 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b17" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c2b" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -796,7 +803,7 @@
 							<Content> 13 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b19" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c2d" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -829,7 +836,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1b1b" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -61.99999999999987">
+				<Rectangle Self="u1c2f" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -61.99999999999987">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -857,7 +864,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1bf2" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="489 520" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.14724163745956817 0 0 0.13833325730496154 -116.10236220472447 -79.54715374323234" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1c35" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="489 520" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.14724163745956817 0 0 0.13833325730496154 -116.10236220472447 -79.54715374323234" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/Use Document Default</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEAEgASAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAEgAAAAEA
@@ -4029,7 +4036,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1b1f" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BurroughsRugg-Image1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946508450000000 2049776" LinkImportModificationTime="2015-12-15T12:00:45" LinkImportTime="2015-12-15T12:00:51" LinkResourceSize="0~1f46f0" />
+						<Link Self="u1c32" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BurroughsRugg-Image1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 2049776" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:06:21" LinkResourceSize="0~1f46f0" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -4039,14 +4046,11 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Figure 1. The live-streaming app Periscope allows individuals to distribute and consume content in new ways that circumvent existing corporate and state media infrastructures Source: Anthony Quintano (CC BY 2.0) Quintano)</Content>
+				<Content>Figure 1. The live-streaming app Periscope allows individuals to distribute and consume content in new ways that circumvent existing corporate and state media infrastructures Source: Anthony Quintano (CC BY 2.0).</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
-				<Br />
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In 2007, Viacom waged a long legal battle against YouTube, seeking damages for profiting off of the viewing of infringing content. The Second Circuit court ruled that YouTube was indeed protected by the safe harbor provision because the ‘DMCA requires knowledge or awareness of specific infringing activity in order to find a party liable for hosting [...] the district court found that YouTube was protected by the safe harbor provision’.</Content>
 			</CharacterStyleRange>
@@ -4111,7 +4115,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 							<Content> 26 March 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b29" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c41" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4156,7 +4160,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 							<Content>	Ericsson, ‘Ericsson Mobility Report: On the Pulse of the Network Society’, June 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b2c" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c44" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4189,7 +4193,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 							<Content> 28 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b2e" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c46" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4268,7 +4272,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 							<Content>, 28 August 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b35" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c4d" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4313,7 +4317,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 							<Content>	Philip N. Howard et al., ‘Opening Closed Regimes: What was the Role of Social Media During the Arab Spring?’, 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1b39" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1c52" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://ssrn.com/abstract=2595096</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4392,17 +4396,13 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 28 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b3d" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c55" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Chemi, Eric and Jessica Golden. ‘Fan Streaming Apps have Sports World Debating TV Rights’, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -4412,7 +4412,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 21 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b3e" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c56" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4422,7 +4422,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content>Ericsson. ‘Ericsson Mobility Report: On the Pulse of the Network Society’, June 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b3f" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c57" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4438,7 +4438,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 13 August 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b41" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c59" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4448,7 +4448,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content>Howard, Philip N. et al. ‘Opening Closed Regimes: What Was the Role of Social Media During the Arab Spring?’, 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b42" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c5a" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://ssrn.com/abstract=259509</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4480,7 +4480,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content>, 14 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b43" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c5b" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4512,7 +4512,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 22 August 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b45" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c5e" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4552,7 +4552,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 26 March 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b47" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c5f" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4568,7 +4568,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 13 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b48" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c60" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4592,7 +4592,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content> 3 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b49" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c62" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4616,7 +4616,7 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 				<Content>, 28 August 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1b4b" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1c63" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4726,133 +4726,133 @@ DI14vJraniMMMp+v0ciEkPe1yq/Q8T9PSE0nTo1E8cUrQcOnF8bt0hvp6HTk0rQcKioHCvH/AAnr
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 98" DestinationUniqueKey="200" Name="URL 98" DestinationURL="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 99" DestinationUniqueKey="201" Name="URL 99" DestinationURL="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 100" DestinationUniqueKey="202" Name="URL 100" DestinationURL="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg" Hidden="false" />
-	<Hyperlink Self="u1b60" Name="http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/" Source="u1b3d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="191">
+	<Hyperlink Self="u1c64" Name="http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/" Source="u1c55" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="191">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 89</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b5e" Name="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html 1" Source="u1b3e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="190">
+	<Hyperlink Self="u1c65" Name="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html 1" Source="u1c56" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="190">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 88</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b5c" Name="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html" Source="u1b3f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="189">
+	<Hyperlink Self="u1c66" Name="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html" Source="u1c57" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="189">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 87</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b5a" Name="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html" Source="u1b41" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="188">
+	<Hyperlink Self="u1c67" Name="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html" Source="u1c59" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="188">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 86</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b58" Name="http://ssrn.com/abstract=259509" Source="u1b42" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="187">
+	<Hyperlink Self="u1c68" Name="http://ssrn.com/abstract=259509" Source="u1c5a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="187">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 85</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b56" Name="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734" Source="u1b43" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="186">
+	<Hyperlink Self="u1c69" Name="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734" Source="u1c5b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="186">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 84</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b54" Name="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg" Source="u1b45" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="185">
+	<Hyperlink Self="u1c6a" Name="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg" Source="u1c5e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="185">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 83</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b52" Name="http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live" Source="u1b47" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="184">
+	<Hyperlink Self="u1c6b" Name="http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live" Source="u1c5f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="184">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 82</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b50" Name="http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342" Source="u1b48" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="183">
+	<Hyperlink Self="u1c6c" Name="http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342" Source="u1c60" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="183">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 81</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b4e" Name="http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials" Source="u1b49" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="182">
+	<Hyperlink Self="u1c6d" Name="http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials" Source="u1c62" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="182">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 80</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b4c" Name="http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location" Source="u1b4b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1c6e" Name="http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location" Source="u1c63" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b76" Name="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg 1" Source="u1b07" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="202">
+	<Hyperlink Self="u1c6f" Name="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg 1" Source="u1c1b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="202">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 100</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b74" Name="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html 1" Source="u1b0b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="201">
+	<Hyperlink Self="u1c70" Name="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html 1" Source="u1c1f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="201">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 99</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b72" Name="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734 1" Source="u1b12" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
+	<Hyperlink Self="u1c71" Name="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734 1" Source="u1c26" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 98</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b70" Name="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html 2" Source="u1b14" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="199">
+	<Hyperlink Self="u1c72" Name="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html 2" Source="u1c28" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="199">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 97</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b6e" Name="http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials 1" Source="u1b17" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="198">
+	<Hyperlink Self="u1c73" Name="http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials 1" Source="u1c2b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="198">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 96</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b6c" Name="http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342 1" Source="u1b19" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="197">
+	<Hyperlink Self="u1c74" Name="http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342 1" Source="u1c2d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="197">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 95</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b6a" Name="http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live 1" Source="u1b29" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="196">
+	<Hyperlink Self="u1c75" Name="http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live 1" Source="u1c41" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="196">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 94</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b68" Name="http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf" Source="u1b2c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="195">
+	<Hyperlink Self="u1c76" Name="http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf" Source="u1c44" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="195">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 93</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b66" Name="ttp://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/" Source="u1b2e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="194">
+	<Hyperlink Self="u1c77" Name="ttp://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/" Source="u1c46" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="194">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 92</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b64" Name="http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location 1" Source="u1b35" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="193">
+	<Hyperlink Self="u1c78" Name="http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location 1" Source="u1c4d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="193">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 91</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1b62" Name="http://ssrn.com/abstract=2595096" Source="u1b39" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="192">
+	<Hyperlink Self="u1c79" Name="http://ssrn.com/abstract=2595096" Source="u1c52" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="192">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 90</Destination>

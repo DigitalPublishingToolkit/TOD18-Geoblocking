@@ -44,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -84,26 +71,6 @@
 		<Font Self="dieaaFontnHelvetica Neue Medium Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium Italic" FullNameNative="Helvetica Neue Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans (OTF)">
-		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1bd2" Name="Lato">
-		<Font Self="di1bd2FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="di1d8e" Name="Lato">
 		<Font Self="di1d8eFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
@@ -621,7 +588,7 @@
 							<Content>, 30 September 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1d21" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1e04" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -706,7 +673,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Legal Risks versus Illegal Uncertainty</Content>
 				<Br />
@@ -718,7 +685,7 @@
 				<Br />
 				<Content>When it comes to live-streaming, this risk emerges in a different way. As it is not visible to the consumer it cannot be turned into a manageable risk strategy. Instead it remains uncertain and unpredictable. In order to comfortably access live football streams consumers rely on live stream aggregation platforms that compile a vast amount of live streaming channels. By systemizing them and making them visible, they provide easy access to these kinds of illegal resources. Platforms such as Stream2watch.me (Fig. 1) provide different categories of live sport events on their starting page. These broad categories can be filtered by country or league. After selecting a certain live sports event a submenu appears (Fig. 2), listing the diverse live streams available. The streams are sorted by resolution, quality, data transfer rate, and language of the commentary.</Content>
 				<Br />
-				<Rectangle Self="u1d27" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1e0a" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -746,7 +713,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1ddd" Space="$ID/#Links_RGB" ActualPpi="144 144" EffectivePpi="666 666" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.21634598757517257 0 0 0.21634598757517257 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1e10" Space="$ID/#Links_RGB" ActualPpi="144 144" EffectivePpi="666 666" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.21634598757517257 0 0 0.21634598757517257 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAAwyAQCACKBP+BCKCQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS
@@ -2124,9 +2091,9 @@ UdjhXkZYiRUVA9+wiRTy7ibV+9/sZSYk96bTrqZWBicTsztDsWCGCTs8dV+V+K/l4L4Vz97daV35
 G9V2DVGtG98qY4eVrIxla+EtwoFoEEGzwlslImGRZyhQEFNRgJgZgpg9/BiBhhhxiBiRilvZi48A
 EdW2DF9l9+C+JbTNhNqAf9Y2JLGq5Eylv2JWK+KWJGLWJmLOLmLeLGL+LuMGLyoWGZ7IgIAAAAgA
 AACYuAAAjrgAAFJ5AAAkAAAAAQAAACQAAAABAAAADgAAAQQAAQAAAIECAAABAQQAAQAAAJEBAAAC
-AQMAAQAAAAgAAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAgAAAOwxAQAVAQMAAQAAAAQA
-AAAWAQQAAQAAAMwAAAAXAQQAAgAAAPQxAQAaAQUAAQAAAPwxAQAbAQUAAQAAAAQyAQAcAQMAAQAA
-AAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABhRQAAAAAA]]></GraphicProxy>
+AQMAAQAAAAgA8D8DAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAgAAAOwxAQAVAQMAAQAAAAQA
+738WAQQAAQAAAMwAAAAXAQQAAgAAAPQxAQAaAQUAAQAAAPwxAQAbAQUAAQAAAAQyAQAcAQMAAQAA
+AAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAADvBQAAAAAA]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="1280.0657857159586" Bottom="800.0411160724741" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -2152,7 +2119,7 @@ AAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABhRQAAAAAA]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1d2c" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hoof-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946522530000000 650096" LinkImportModificationTime="2015-12-15T12:24:13" LinkImportTime="2015-12-15T12:26:19" LinkResourceSize="0~9eb70" />
+						<Link Self="u1e0d" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hoof-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 650096" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T13:53:40" LinkResourceSize="0~9eb70" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2168,7 +2135,7 @@ AAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABhRQAAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1d30" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -44.58868412356629">
+				<Rectangle Self="u1e18" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -44.58868412356629">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -2196,7 +2163,7 @@ AAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABhRQAAAAAA]]></GraphicProxy>
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1dd7" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="352 352" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.34073653340875687 0 0 0.34073653340875687 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1e1e" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="352 352" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.34073653340875687 0 0 0.34073653340875687 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqABz/AACAAiBP+BAiCQMAQl/wkAQuFQyHQ2IROHxWJRaIxmKReORqMRuPR2QSOPyWRSaQymSS
@@ -3347,7 +3314,7 @@ Zdb2Ha9n2Padv23c953Hfd33/deF3vgeL4fg+J4/jeT5nked5fn+V6Xm+h6vp+j6nr+t7Puex73t
 TJAQCAAAAPTRAABA+wAA6tEAAEkpAAC0AwAASAAAAAEAAABIAAAAAQAAAA4AAAEEAAEAAABAAwAA
 AQEEAAEAAABRAQAAAgEDAAEAAAAIAAAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAMAAAD0
 /gAAFQEDAAEAAAAEAAAAFgEEAAEAAACdAAAAFwEEAAMAAAAA/wAAGgEFAAEAAAAM/wAAGwEFAAEA
-AAAU/wAAHAEDAAEAAAABAEAEUgEDAAEAAAACAAAANYIBAAEAAAAASAEEAAAAAA==]]></GraphicProxy>
+AAAU/wAAHAEDAAEAAAABAAAAUgEDAAEAAAACAAAANYIBAAEAAAAAP9UAAAAAAA==]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="831.0719655365665" Bottom="336.62914993936016" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -3371,7 +3338,7 @@ AAAU/wAAHAEDAAEAAAABAEAEUgEDAAEAAAACAAAANYIBAAEAAAAASAEEAAAAAA==]]></GraphicProx
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1d34" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hoof-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946522920000000 121351" LinkImportModificationTime="2015-12-15T12:24:52" LinkImportTime="2015-12-15T12:26:18" LinkResourceSize="0~1da07" />
+						<Link Self="u1e1b" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hoof-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 121351" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T13:53:40" LinkResourceSize="0~1da07" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -3387,7 +3354,7 @@ AAAU/wAAHAEDAAEAAAABAEAEUgEDAAEAAAACAAAANYIBAAEAAAAASAEEAAAAAA==]]></GraphicProx
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1d39" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1e24" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -3415,7 +3382,7 @@ AAAU/wAAHAEDAAEAAAABAEAEUgEDAAEAAAACAAAANYIBAAEAAAAASAEEAAAAAA==]]></GraphicProx
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1d3e" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="155 155" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.9649803736905754 0 0 0.9649803736905752 -75 -51.41732283464595" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1e2a" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="155 155" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.9649803736905754 0 0 0.9649803736905752 -75 -51.41732283464595" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqACDoAQCABqBP8IQV/g+EQSDQUIQqGwgHw6JQyJwuLQ2KRmLxWMRuNR2QRyRR+Rx6TSGSSmTy
@@ -5610,10 +5577,10 @@ IMfSRI0lSLJkeSdJMmyhGcpxVHEiSJJ8lyzKMtSlL0uzBLkxS3MkvzFK8qzLHc0zTM01TPI8hx9N
 k1zrMc3TxMM3z3PM7yXLE5zlQU/UJPk9T7KlB0BO0p0RR0wRfFRPAHSUrziTtLUHN9M0LR9O0PRk
 q05RcZTpJlKT1NstVVHNWR/S9SUTUtV1pWcm1dQNbVfIdcVDRlcy3LFWTRX9azVScVE/IRJRgngH
 rCQQZhsf5CAoDScAEBKqgOq49A4Dy0hiGJ/jkGwcH+N4QqGPMWj9HQ8gLbRDBoHaahS+6uAif6Ag
-SAAAAAEAAABIAAAAAQAAAA4AAAEEAAEAAAAcAQAAAQEEAAEAAACyAAAAAgEDAAEAAAAIAAAAAwED
-AAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAACyAAAA
-FwEEAAEAAAAI6AEAGgEFAAEAAAAQ6AEAGwEFAAEAAAAY6AEAHAEDAAEAAAABAMACUgEDAAEAAAAC
-AAAANYIBAAEAAAAAJMACAAAAAA==]]></GraphicProxy>
+SAAAAAEAAABIAAAAAQAAAA4AAAEEAAEAAAAcAQAAAQEEAAEAAACyAAAAAgEDAAEAAAAIAPA/AwED
+AAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAO9/FgEEAAEAAACyAAAA
+FwEEAAEAAAAI6AEAGgEFAAEAAAAQ6AEAGwEFAAEAAAAY6AEAHAEDAAEAAAABAAAAUgEDAAEAAAAC
+AAAANYIBAAEAAAAA7wUAAAAAAA==]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="283.1765805501315" Bottom="177.1053529203365" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -5622,7 +5589,7 @@ AAAANYIBAAEAAAAAJMACAAAAAA==]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1d3d" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hoof-Image3.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130881226560000000 253060" LinkImportModificationTime="2015-09-30T23:37:36" LinkImportTime="2015-12-15T12:07:12" LinkResourceSize="0~3dc84" />
+						<Link Self="u1e27" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hoof-Image3.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 253060" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T13:53:40" LinkResourceSize="0~3dc84" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -5805,10 +5772,6 @@ AAAANYIBAAEAAAAAJMACAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> 7.4 (2004): 353-361.</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Curtin, Michael, Jennifer Holt, and Kevin Sanson (eds) </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -5868,7 +5831,7 @@ AAAANYIBAAEAAAAAJMACAAAAAA==]]></GraphicProxy>
 				<Content>tz. ‘Hier sehen Sie Borussia Dortmund gegen FK Krasnodar jetzt im TV und Live-Stream’, 17 September 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1d49" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1e3c" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5976,13 +5939,13 @@ AAAANYIBAAEAAAAAJMACAAAAAA==]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 96" DestinationUniqueKey="198" Name="URL 96" DestinationURL="http://archive.computerhistory.org/resources/access/text/2013/04/102723217-05-01-acc.pdf" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 97" DestinationUniqueKey="199" Name="URL 97" DestinationURL="https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 98" DestinationUniqueKey="200" Name="URL 98" DestinationURL="https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html" Hidden="false" />
-	<Hyperlink Self="u1d4a" Name="https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html" Source="u1d49" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1e3e" Name="https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html" Source="u1e3c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1d4c" Name="https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html 1" Source="u1d21" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
+	<Hyperlink Self="u1e3f" Name="https://www.tz.de/sport/fussball/europa-league-borussia-dortmund-gegen-fk-krasnodar-tv-live-stream-sky-sport1-5515199.html 1" Source="u1e04" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="200">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 98</Destination>

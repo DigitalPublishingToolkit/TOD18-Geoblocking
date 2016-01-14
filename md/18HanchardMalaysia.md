@@ -285,6 +285,9 @@ dramas and documentaries. We are likely to see further cultural nuances
 of sharing content openly and privately, as Malaysians gain a greater
 appreciation of who may be watching them.
 
+##Postscript
+On 6 January, 2016, Netflix announced that it would be adding more than 130 countries to their global services, including Malaysia. Many users on social media in Malaysia were excited by the launch, while aware of the large price difference between iFlix and Netflix (RM8 and RM33-RM51 resepctively). Some users said they would need to invest in a VPN service to access titles only available in the U.S. Netflix catalogue; others were concerned that access to content would still be censored in Malaysia. Some users said they would use both services, so they could continue to access Asian-oriented content on iFlix.
+
 ## Acknowledgements
 
 The author wishes to thank Khairil Yusof and Ng Swee Meng of Sinar

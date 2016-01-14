@@ -56,6 +56,13 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -490,7 +497,7 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-				<Rectangle Self="u2064" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2168" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -518,7 +525,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u206a" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="275 275" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5446559683316071 0 0 0.5446559683316069 -75 -55.2125984251968" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u216f" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="275 275" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5446559683316071 0 0 0.5446559683316069 -75 -55.2125984251968" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAITeAwCADYbCt/jkcjJ/jcbDF/jAVip/iQQCB/iURRQulgpv8nkskP83G0yv8wGONmAyFV/m
@@ -4970,9 +4977,9 @@ gVKK4VqDdbIWoWddoV4Vof5erzoUm9AgQTyn6tdfStFp6eABYCYCyB4C6CQCQD6MIOIP6YAUQWB9
 gpVmYnELAo0GwqtNR6ipY2gCACqMKBqIADcmcTXJInMAtpYoHMCWQEieCXwPof4QARSPO74tYDXG
 QCtgYBIBsEYBQBYBqSiR9siQ0FEL4CyMINANEOgPgPduQNYNQObO+czHKUhBtvkswmQlMRgFqEDs
 N4JBoHxSzWpbQIZCZtyPggIAAABIAAAAAQAAAEgAAAABAAAADgAAAQQAAQAAAFcBAAABAQQAAQAA
-AMIAAAACAQMAAQAAAAgA8D8DAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMA
-AQAAAAQA738WAQQAAQAAAMIAAAAXAQQAAQAAAGneAwAaAQUAAQAAAHTeAwAbAQUAAQAAAHzeAwAc
-AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
+AMIAAAACAQMAAQAAAAgAAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMA
+AQAAAAQAAAAWAQQAAQAAAMIAAAAXAQQAAQAAAGneAwAaAQUAAQAAAHTeAwAbAQUAAQAAAHzeAwAc
+AQMAAQAAAAEAYQFSAQMAAQAAAAIAAAA1ggEAAQAAAABMQQEAAAAA]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="342.2116981902437" Bottom="193.42400332492033" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -4981,7 +4988,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u2068" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130881231740000000 545945" LinkImportModificationTime="2015-09-30T23:46:14" LinkImportTime="2015-12-15T13:58:24" LinkResourceSize="0~85499" />
+						<Link Self="u216b" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 545945" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:36:51" LinkResourceSize="0~85499" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -4991,7 +4998,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Figure 1. This image promoting DNS proxies circulated widely during the 2013 Istanbul protests. Translation: ‘DNS - let your bird sing’ (Author unknown)</Content>
+				<Content>Figure 1. This image promoting DNS proxies circulated widely during the 2014 Istanbul protests. Translation: ‘DNS - let your bird sing’ (Author unknown)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5025,7 +5032,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>	TUİK, 22 August 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u206e" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2175" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5050,7 +5057,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>	TUİK, 22 August 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2072" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2179" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5140,7 +5147,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>	Yaman Akdeniz and Kerem Altıparmak, ‘AİHM Kararı: 5651 Sayılı Yasa AİHS&apos;e Aykırı’, Bianet, 19 December 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2077" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u217e" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5172,7 +5179,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>, 2014, p. 14, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2079" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2181" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5201,7 +5208,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<Content>, 2014, p.14, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u207c" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2183" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5251,7 +5258,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> (censorship) on Twitter during the first days of the blocks in Turkey.</Content>
 				<Br />
-				<Rectangle Self="u207f" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2186" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -5279,7 +5286,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAIAAAA1ggEAAQAAAABARQAAAAAA]]></GraphicProxy>
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u2085" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="171 171" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.8786549385400446 0 0 0.8786549385400446 -70.03937007874012 -48.58267716535447" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u218c" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="171 171" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.8786549385400446 0 0 0.8786549385400446 -70.03937007874012 -48.58267716535447" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqADhXAACAPuBP+BPuCQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS
@@ -5676,7 +5683,7 @@ F831fd+X7f1/4BgOBYHgmC4Ng+EYThWF4ZhuHYfiGI4lieKYri2L4xjONY3jmO49j+QZDkWR5Jku
 TZPlGU5VleWZbl2X5hmOZZnmma5tm9YoCEgAAAABAAAASAAAAAEAAAAOAAABBAABAAAAewEAAAEB
 BAABAAAAtAAAAAIBAwABAAAACAAAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAABAAAACAAA
 ABUBAwABAAAABAAAABYBBAABAAAAtAAAABcBBAABAAAAIFcAABoBBQABAAAAKFcAABsBBQABAAAA
-MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
+MFcAABwBAwABAAAAAQBBAVIBAwABAAAAAgAAADWCAQABAAAAADyAAQAAAAA=]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="378.20872114153156" Bottom="179.02519414440516" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -5685,7 +5692,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u2084" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130890723020000000 69267" LinkImportModificationTime="2015-10-11T23:25:02" LinkImportTime="2015-12-15T13:58:24" LinkResourceSize="0~10e93" />
+						<Link Self="u2189" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BozdagImage2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 69267" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:36:51" LinkResourceSize="0~10e93" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -5717,7 +5724,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 							<Content>	Engelli Web, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2089" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2192" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://engelliweb.com/istatistikler/numbering.xml</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5770,7 +5777,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content>, 19 December 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u208b" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2194" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5780,7 +5787,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content>Boston Consulting Group. Türkiye’de Internet Ekonomisi Raporu, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u208c" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2195" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5796,7 +5803,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content> 12 February 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u208d" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2196" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5808,7 +5815,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content>TUİK. 22 August 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u208e" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2198" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5832,7 +5839,7 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 				<Content> 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2090" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2199" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5979,67 +5986,67 @@ MFcAABwBAwABAAAAAQAhAVIBAwABAAAAAgAAADWCAQABAAAAADrAAAAAAAA=]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 135" DestinationUniqueKey="237" Name="URL 135" DestinationURL="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 136" DestinationUniqueKey="238" Name="URL 136" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 137" DestinationUniqueKey="239" Name="URL 137" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" />
-	<Hyperlink Self="u2099" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Source="u208b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
+	<Hyperlink Self="u219a" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Source="u2194" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 131</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2097" Name="http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf" Source="u208c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
+	<Hyperlink Self="u219b" Name="http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf" Source="u2195" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 130</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2095" Name="http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html" Source="u208d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
+	<Hyperlink Self="u219c" Name="http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html" Source="u2196" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 129</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2093" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Source="u208e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
+	<Hyperlink Self="u219d" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Source="u2198" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 128</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2091" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Source="u2090" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u219e" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Source="u2199" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u20a5" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 2" Source="u206e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="239">
+	<Hyperlink Self="u219f" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 2" Source="u2175" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="239">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 137</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u20a3" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 1" Source="u2072" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="238">
+	<Hyperlink Self="u21a0" Name="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198 1" Source="u2179" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="238">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 136</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u20a1" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri 1" Source="u2077" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="237">
+	<Hyperlink Self="u21a1" Name="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri 1" Source="u217e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="237">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 135</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u209f" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 2" Source="u2079" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="236">
+	<Hyperlink Self="u21a2" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 2" Source="u2181" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="236">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 134</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u209d" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 1" Source="u207c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="235">
+	<Hyperlink Self="u21a3" Name="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf 1" Source="u2183" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="235">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 133</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u209b" Name="http://engelliweb.com/istatistikler/numbering.xml" Source="u2089" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="234">
+	<Hyperlink Self="u21a4" Name="http://engelliweb.com/istatistikler/numbering.xml" Source="u2192" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="234">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 132</Destination>

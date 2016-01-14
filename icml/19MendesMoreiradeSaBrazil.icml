@@ -57,6 +57,13 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -86,52 +93,6 @@
 		<Font Self="dieaaFontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 		<Font Self="dieaaFontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d40e1" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="diec8" Name="Open Sans (OTF)">
-		<Font Self="diec8FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-		<Font Self="diec8FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1bd2" Name="Lato">
-		<Font Self="di1bd2FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1bd2FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e7e" Name="Lato">
-		<Font Self="di1e7eFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e7eFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di1e81" Name="Lato">
-		<Font Self="di1e81FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di1e81FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="di24bc" Name="Lato">
 		<Font Self="di24bcFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di24bcFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
@@ -155,6 +116,13 @@
 	<FontFamily Self="di24d1" Name="HK Grotesk">
 		<Font Self="di24d1FontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
 		<Font Self="di24d1FontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 " TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di2599" Name="Open Sans (OTF)">
+		<Font Self="di2599FontnOpen Sans (OTF) Light" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light" PostScriptName="OpenSans-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light" FullNameNative="Open Sans Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="di2599FontnOpen Sans (OTF) Light Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Light Italic" PostScriptName="OpenSansLight-Italic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Light Italic" FullNameNative="Open Sans Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="di2599FontnOpen Sans (OTF) Semibold Italic" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold Italic" PostScriptName="OpenSans-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold Italic" FullNameNative="Open Sans Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="di2599FontnOpen Sans (OTF) Bold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Bold" PostScriptName="OpenSans-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Bold" FullNameNative="Open Sans Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
+		<Font Self="di2599FontnOpen Sans (OTF) Semibold" FontFamily="Open Sans (OTF)" Name="Open Sans (OTF) Semibold" PostScriptName="OpenSans-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Open Sans Semibold" FullNameNative="Open Sans Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.10" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -320,14 +288,6 @@
 				<Leading type="unit">10</Leading>
 				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/databox blockquote" Name="databox blockquote" Imported="false" NextStyle="ParagraphStyle/databox blockquote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Light Italic" PointSize="9" Ligatures="false" LeftIndent="28.34645669291339" RightIndent="28.34645669291339" SpaceBefore="14.173228346456694" SpaceAfter="14.173228346456694">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10</Leading>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/TableCaption" Name="TableCaption" Imported="false" NextStyle="ParagraphStyle/TableCaption" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
@@ -666,8 +626,9 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/databox blockquote">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>From late 2014, the ‘news’ that Netflix had started to block anonymous or unidentified IP addresses spread all over the internet. The overall reaction from Brazilians who used location-masking practices presented similarities to the universal five stages of loss and grief</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -686,7 +647,7 @@
 							<Content>, December 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23e3" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2631" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -700,7 +661,7 @@
 							<Content>, 4 January 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23e6" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2632" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -713,15 +674,6 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>:</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aCaption">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>1. Denial and Isolation:</Content>
 				<Br />
 				<Content>‘I use ‘Hola’ to see the American Netflix. If Netflix decides to block me, I will go back to Torrents and Netflix will lose a customer’.</Content>
@@ -781,7 +733,7 @@
 							<Content>, 24 October 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23e9" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25a1" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.globalwebindex.net/blog/vpn-infographic</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -812,7 +764,7 @@
 							<Content> 147, Rio de Janeiro, RJ: Institute of Applied Economic Research, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23eb" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25a3" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -878,7 +830,7 @@
 							<Content> 1 (2006). Also available from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23ef" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25a7" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -901,7 +853,7 @@
 							<Content>	‘Cable Subscribers Have a Much Higher Commercial Importance than Free-to-Air Audiences, as They Make More Purchases’ </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23f1" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25a9" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://veja.abril.com.br/110401/p_142.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -931,7 +883,7 @@
 							<Content>, 1 October 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23f3" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25ab" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=35223</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -966,7 +918,7 @@
 							<Content> </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23f6" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25ae" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1018,7 +970,7 @@
 							<Content>, 30 July 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u23f9" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25b1" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1054,23 +1006,23 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Table Self="u22cdi23fb" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="4" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
-					<Row Self="u22cdi23fbRow0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.55386376568652" />
-					<Row Self="u22cdi23fbRow1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow6" Name="6" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow7" Name="7" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow8" Name="8" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRow9" Name="9" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Row Self="u22cdi23fbRowa" Name="10" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
-					<Column Self="u22cdi23fbColumn0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
-					<Column Self="u22cdi23fbColumn1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
-					<Column Self="u22cdi23fbColumn2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
-					<Column Self="u22cdi23fbColumn3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
-					<Cell Self="u22cdi23fbi28" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
+				<Table Self="u22cdi25b3" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="4" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
+					<Row Self="u22cdi25b3Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="28.55386376568652" />
+					<Row Self="u22cdi25b3Row1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row6" Name="6" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row7" Name="7" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row8" Name="8" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Row9" Name="9" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Row Self="u22cdi25b3Rowa" Name="10" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="38.80689416119432" />
+					<Column Self="u22cdi25b3Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u22cdi25b3Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u22cdi25b3Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u22cdi25b3Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="85.67716535433073" />
+					<Cell Self="u22cdi25b3i28" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Service</Content>
@@ -1078,7 +1030,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi29" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
+					<Cell Self="u22cdi25b3i29" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Availability</Content>
@@ -1086,7 +1038,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi2a" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
+					<Cell Self="u22cdi25b3i2a" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Price (US$)</Content>
@@ -1094,7 +1046,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi2b" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="4" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
+					<Cell Self="u22cdi25b3i2b" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="4" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No of videos</Content>
@@ -1102,7 +1054,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="6" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="9">
+					<Cell Self="u22cdi25b3i0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="6" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="9">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Netflix</Content>
@@ -1110,7 +1062,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="7" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="10">
+					<Cell Self="u22cdi25b3i1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="7" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="10">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Available to the general public</Content>
@@ -1118,7 +1070,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi2" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="11">
+					<Cell Self="u22cdi25b3i2" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="11">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>$6.60 per month</Content>
@@ -1126,7 +1078,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi3" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="8" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="12">
+					<Cell Self="u22cdi25b3i3" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="8" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="12">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1500+</Content>
@@ -1134,7 +1086,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="10" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="13">
+					<Cell Self="u22cdi25b3i4" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="10" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="13">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Now</Content>
@@ -1142,7 +1094,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="11" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="14">
+					<Cell Self="u22cdi25b3i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="11" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="14">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>NET HD subscribers</Content>
@@ -1150,7 +1102,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi6" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="15">
+					<Cell Self="u22cdi25b3i6" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="15">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Free / from $1.30 per title</Content>
@@ -1158,7 +1110,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi7" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="12" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="16">
+					<Cell Self="u22cdi25b3i7" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="12" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="16">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>20,000+</Content>
@@ -1166,7 +1118,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi8" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="17">
+					<Cell Self="u22cdi25b3i8" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="17">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Cine Sky HD</Content>
@@ -1174,7 +1126,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi9" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="18">
+					<Cell Self="u22cdi25b3i9" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="18">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Sky HDTV subscribers</Content>
@@ -1182,7 +1134,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbia" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="16" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="19">
+					<Cell Self="u22cdi25b3ia" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="16" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="19">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>From $3.30 per title</Content>
@@ -1190,7 +1142,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbib" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="16" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="20">
+					<Cell Self="u22cdi25b3ib" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="16" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="20">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>36</Content>
@@ -1198,7 +1150,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbic" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="17" RightEdgeStrokePriority="18" TopEdgeStrokePriority="17" BottomEdgeStrokePriority="21">
+					<Cell Self="u22cdi25b3ic" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="17" RightEdgeStrokePriority="18" TopEdgeStrokePriority="17" BottomEdgeStrokePriority="21">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Sky Online</Content>
@@ -1206,7 +1158,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbid" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="18" RightEdgeStrokePriority="19" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="22">
+					<Cell Self="u22cdi25b3id" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="18" RightEdgeStrokePriority="19" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="22">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Sky subscribers</Content>
@@ -1214,7 +1166,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="23">
+					<Cell Self="u22cdi25b3ie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="23">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>$5.20 per month or pay per view</Content>
@@ -1222,7 +1174,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbif" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="20" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="24">
+					<Cell Self="u22cdi25b3if" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="20" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="24">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>2,300+</Content>
@@ -1230,7 +1182,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi10" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="21" RightEdgeStrokePriority="22" TopEdgeStrokePriority="21" BottomEdgeStrokePriority="25">
+					<Cell Self="u22cdi25b3i10" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="21" RightEdgeStrokePriority="22" TopEdgeStrokePriority="21" BottomEdgeStrokePriority="25">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Vivo Play</Content>
@@ -1238,7 +1190,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi11" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="26">
+					<Cell Self="u22cdi25b3i11" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="26">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Available to the general public</Content>
@@ -1246,7 +1198,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi12" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="27">
+					<Cell Self="u22cdi25b3i12" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="27">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>$5.20 per month</Content>
@@ -1254,7 +1206,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi13" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="24" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="28">
+					<Cell Self="u22cdi25b3i13" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="24" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="28">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>5000</Content>
@@ -1262,7 +1214,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi14" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="25" RightEdgeStrokePriority="26" TopEdgeStrokePriority="25" BottomEdgeStrokePriority="29">
+					<Cell Self="u22cdi25b3i14" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="25" RightEdgeStrokePriority="26" TopEdgeStrokePriority="25" BottomEdgeStrokePriority="29">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>GVT on demand</Content>
@@ -1270,7 +1222,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi15" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="30">
+					<Cell Self="u22cdi25b3i15" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="30">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>GVT subscribers only</Content>
@@ -1278,7 +1230,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi16" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="28" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="31">
+					<Cell Self="u22cdi25b3i16" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="28" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="31">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Free / $1 per video</Content>
@@ -1286,7 +1238,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi17" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="28" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="32">
+					<Cell Self="u22cdi25b3i17" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="28" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="32">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>5000</Content>
@@ -1294,7 +1246,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi18" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="29" RightEdgeStrokePriority="30" TopEdgeStrokePriority="29" BottomEdgeStrokePriority="33">
+					<Cell Self="u22cdi25b3i18" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="29" RightEdgeStrokePriority="30" TopEdgeStrokePriority="29" BottomEdgeStrokePriority="33">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>ClaroVideo</Content>
@@ -1302,7 +1254,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi19" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="31" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="34">
+					<Cell Self="u22cdi25b3i19" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="31" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="34">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Available to the general public</Content>
@@ -1310,7 +1262,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1a" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="35">
+					<Cell Self="u22cdi25b3i1a" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="35">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>$4.60 per month or pay per view</Content>
@@ -1318,7 +1270,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1b" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="32" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="36">
+					<Cell Self="u22cdi25b3i1b" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="32" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="36">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1200+</Content>
@@ -1326,7 +1278,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1c" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="33" RightEdgeStrokePriority="34" TopEdgeStrokePriority="33" BottomEdgeStrokePriority="37">
+					<Cell Self="u22cdi25b3i1c" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="33" RightEdgeStrokePriority="34" TopEdgeStrokePriority="33" BottomEdgeStrokePriority="37">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>HBOGo</Content>
@@ -1334,7 +1286,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1d" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="38">
+					<Cell Self="u22cdi25b3i1d" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="38">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>HBO/Max on Sky subscribers only</Content>
@@ -1342,7 +1294,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1e" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="36" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="39">
+					<Cell Self="u22cdi25b3i1e" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="36" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="39">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Free for cable subscribers</Content>
@@ -1350,7 +1302,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi1f" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="36" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="40">
+					<Cell Self="u22cdi25b3i1f" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="36" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="40">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1500+</Content>
@@ -1358,7 +1310,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi20" Name="0:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="37" RightEdgeStrokePriority="38" TopEdgeStrokePriority="37" BottomEdgeStrokePriority="41">
+					<Cell Self="u22cdi25b3i20" Name="0:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="37" RightEdgeStrokePriority="38" TopEdgeStrokePriority="37" BottomEdgeStrokePriority="41">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Telecine Play</Content>
@@ -1366,7 +1318,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi21" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="42">
+					<Cell Self="u22cdi25b3i21" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="42">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Telecine subscribers only</Content>
@@ -1374,7 +1326,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi22" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="40" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="43">
+					<Cell Self="u22cdi25b3i22" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="40" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="43">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Free for cable subscribers</Content>
@@ -1382,7 +1334,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi23" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="40" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="44">
+					<Cell Self="u22cdi25b3i23" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="40" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="44">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>1500+</Content>
@@ -1390,7 +1342,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi24" Name="0:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="42" TopEdgeStrokePriority="41" BottomEdgeStrokePriority="41">
+					<Cell Self="u22cdi25b3i24" Name="0:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="42" TopEdgeStrokePriority="41" BottomEdgeStrokePriority="41">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Muu</Content>
@@ -1398,7 +1350,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi25" Name="1:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="42" RightEdgeStrokePriority="43" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="42">
+					<Cell Self="u22cdi25b3i25" Name="1:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="42" RightEdgeStrokePriority="43" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="42">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Globasat subscribers only</Content>
@@ -1406,7 +1358,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi26" Name="2:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="43">
+					<Cell Self="u22cdi25b3i26" Name="2:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="43">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Free for cable subscribers</Content>
@@ -1414,7 +1366,7 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u22cdi23fbi27" Name="3:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="44" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="44">
+					<Cell Self="u22cdi25b3i27" Name="3:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" ClipContentToCell="false" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="44" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="44">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>3000</Content>
@@ -1486,7 +1438,7 @@
 							<Content>, The National Congress, Brazil, EMI Nº 00086 - MJ/MP/MCT/MC, 2011. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u240f" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25c7" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1521,7 +1473,7 @@
 							<Content>, 12 June 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2411" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u25c9" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1567,7 +1519,7 @@
 				<Br />
 				<Content>There are also audiences that want to access video content from their original sources. For instance, since late 2014, accessing the US Netflix catalogue has been a popular discussion topic in Brazilian internet forums. There are two main motivations for accessing the US Netflix service. First, Netflix Brazil has a limited catalogue: the US version offers many times more content, whereas the local version generally offers a lot of content that has already screened widely in Brazil. Second, Netflix subtitles are only available in Portuguese; there are no English captions available, as in the U.S. Netflix service. This is a source of disappointment for the many Brazilian students who use captions to practice their English language skills. They naturally prefer the U.S. service.</Content>
 				<Br />
-				<Rectangle Self="u2413" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -74">
+				<Rectangle Self="u25cb" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -74">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -1595,7 +1547,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u2418" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="225 225" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.53275664134208 0 0 0.53275664134208 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u25d1" Space="$ID/#Links_RGB" ActualPpi="120 120" EffectivePpi="225 225" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.53275664134208 0 0 0.53275664134208 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[iVBORw0KGgoAAAANSUhEUgAAAdMAAAGECAIAAADiF121AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
@@ -2430,7 +2382,7 @@ gg==]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u2417" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Vanessa_Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130890765660000000 46912" LinkImportModificationTime="2015-10-12T00:36:06" LinkImportTime="2015-12-15T15:10:48" LinkResourceSize="0~b740" />
+						<Link Self="u25ce" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Vanessa_Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 46912" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T16:00:26" LinkResourceSize="0~b740" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2471,7 +2423,7 @@ gg==]]></GraphicProxy>
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Some Netflix subscribers even mentioned that they have minimized or even ceased torrenting since they signed up for the service. Everyone who mentioned the monthly subscription of R9.90 (about USD6) per month said the price was fair.</Content>
+				<Content> Some Netflix subscribers even mentioned that they have minimized or even ceased torrenting since they signed up for the service. Everyone who mentioned the monthly subscription of R$9.90 (about USD6) per month said the price was fair.</Content>
 				<Br />
 				<Content>Once again, it is important to note that only 60% of the population in Brazil have access to the internet. Among them, over two million people subscribe to the Netflix Brazil service and of this number, only certain users have the tech know-how and English skills to be a Netflix VPN pirate (assuming that they use their Netflix Brazil account details to connect to the US Netflix). This is an elite community – highly educated, middle-class people from the cities. They are the target audience not only for Netflix but for other VOD services.</Content>
 				<Br />
@@ -2508,7 +2460,7 @@ gg==]]></GraphicProxy>
 				<Content>, 1 October 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u241d" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25d8" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=3522</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2523,7 +2475,7 @@ gg==]]></GraphicProxy>
 				<Content>, The National Congress, Brazil, EMI Nº 00086 - MJ/MP/MCT/MC, 2011. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u241f" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25da" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2539,7 +2491,7 @@ gg==]]></GraphicProxy>
 				<Content>, 4 January 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2420" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25db" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2555,7 +2507,7 @@ gg==]]></GraphicProxy>
 				<Content>, 07 March 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2421" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25dc" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2571,7 +2523,7 @@ gg==]]></GraphicProxy>
 				<Content> 147, Rio de Janeiro, RJ: Institute of Applied Economic Research, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2422" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25dd" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2587,7 +2539,7 @@ gg==]]></GraphicProxy>
 				<Content>, 24 October 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2423" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25de" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.globalwebindex.net/blog/vpn-infographic</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2611,7 +2563,7 @@ gg==]]></GraphicProxy>
 				<Content> 1 (2006). Also available from </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2426" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25e0" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2629,7 +2581,7 @@ gg==]]></GraphicProxy>
 				<Content> 30 July 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2427" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25e2" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2653,7 +2605,7 @@ gg==]]></GraphicProxy>
 				<Content>, 12 June 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2428" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25e3" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2669,7 +2621,7 @@ gg==]]></GraphicProxy>
 				<Content>, December 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2429" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u25e4" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2893,127 +2845,127 @@ gg==]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 211" DestinationUniqueKey="313" Name="URL 211" DestinationURL="http://www.globalwebindex.net/blog/vpn-infographic" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 212" DestinationUniqueKey="314" Name="URL 212" DestinationURL="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 213" DestinationUniqueKey="315" Name="URL 213" DestinationURL="https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/" Hidden="false" />
-	<Hyperlink Self="u243c" Name="http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=3522" Source="u241d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="304">
+	<Hyperlink Self="u25e5" Name="http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=3522" Source="u25d8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="304">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 202</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u243a" Name="http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf" Source="u241f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="303">
+	<Hyperlink Self="u25e6" Name="http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf" Source="u25da" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="303">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 201</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2438" Name="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml" Source="u2420" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="302">
+	<Hyperlink Self="u25e7" Name="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml" Source="u25db" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="302">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 200</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2436" Name="http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml" Source="u2421" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="301">
+	<Hyperlink Self="u25e8" Name="http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml" Source="u25dc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="301">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 199</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2434" Name="http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf" Source="u2422" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="300">
+	<Hyperlink Self="u25e9" Name="http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf" Source="u25dd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="300">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 198</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2432" Name="http://www.globalwebindex.net/blog/vpn-infographic" Source="u2423" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="299">
+	<Hyperlink Self="u25ea" Name="http://www.globalwebindex.net/blog/vpn-infographic" Source="u25de" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="299">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 197</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2430" Name="http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF" Source="u2426" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="298">
+	<Hyperlink Self="u25eb" Name="http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF" Source="u25e0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="298">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 196</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u242e" Name="http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html" Source="u2427" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="297">
+	<Hyperlink Self="u25ec" Name="http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html" Source="u25e2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="297">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 195</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u242c" Name="https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/" Source="u2428" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="296">
+	<Hyperlink Self="u25ed" Name="https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/" Source="u25e3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="296">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 194</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u242a" Name="https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/" Source="u2429" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u25ee" Name="https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/" Source="u25e4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2452" Name="https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/ 1" Source="u23e3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="315">
+	<Hyperlink Self="u2638" Name="https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/ 1" Source="u2631" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="315">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 213</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2450" Name="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml 1" Source="u23e6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="314">
+	<Hyperlink Self="u2637" Name="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml 1" Source="u2632" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="314">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 212</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u244e" Name="http://www.globalwebindex.net/blog/vpn-infographic 1" Source="u23e9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="313">
+	<Hyperlink Self="u25f1" Name="http://www.globalwebindex.net/blog/vpn-infographic 1" Source="u25a1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="313">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 211</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u244c" Name="http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf 1" Source="u23eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="312">
+	<Hyperlink Self="u25f2" Name="http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf 1" Source="u25a3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="312">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 210</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u244a" Name="http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF 1" Source="u23ef" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="311">
+	<Hyperlink Self="u25f3" Name="http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF 1" Source="u25a7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="311">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 209</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2448" Name="http://veja.abril.com.br/110401/p_142.html" Source="u23f1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="310">
+	<Hyperlink Self="u25f4" Name="http://veja.abril.com.br/110401/p_142.html" Source="u25a9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="310">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 208</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2446" Name="http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=35223" Source="u23f3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="309">
+	<Hyperlink Self="u25f5" Name="http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=35223" Source="u25ab" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="309">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 207</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2444" Name="http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml 1" Source="u23f6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="308">
+	<Hyperlink Self="u25f6" Name="http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml 1" Source="u25ae" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="308">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 206</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2442" Name="http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html 1" Source="u23f9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="307">
+	<Hyperlink Self="u25f7" Name="http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html 1" Source="u25b1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="307">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 205</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2440" Name="http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf 1" Source="u240f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="306">
+	<Hyperlink Self="u25f8" Name="http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf 1" Source="u25c7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="306">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 204</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u243e" Name="https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/ 1" Source="u2411" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="305">
+	<Hyperlink Self="u25f9" Name="https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/ 1" Source="u25c9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="305">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 203</Destination>

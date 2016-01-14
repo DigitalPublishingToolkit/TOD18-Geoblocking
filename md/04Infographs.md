@@ -18,26 +18,26 @@ Font(s) used: Open Sans
 
 ##Global Streaming: Scale and Infrastructure
 
-![](imgs/dataviz4.jpg)
+![](imgs/Figure1.tif)
 
 Figure 1. A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019
 
-![](imgs/dataviz1.jpg)
+![](imgs/Figure2.tif)
 
 Figure 2. Income status of global internet users.Data source: The World Bank
 
 
-![](imgs/dataviz2.jpg)
+![](imgs/Figure3_v2.tif)
 
 Figure 3. Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014
 
 
 ##Netflix by Numbers
-![](imgs/dataviz7.jpg)
+![](imgs/Figure4.tif)
 
 Figure 4. US and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
 
-![](imgs/dataviz8.jpg)
+![](imgs/Figure4v2.tif)
 
 Figure 5. Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
 
@@ -45,15 +45,15 @@ Figure 5. Countries where Netflix is officially available. Data source: Netflix,
 
 Figure 6. Size of Netflix catalogue in various countries (Number of available titles). Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)
 
-![](imgs/dataviz9a.jpg)
+![](imgs/Figure7v2.tif)
 
 Figure 7. Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast
 
 ##VPN Geography
-![](imgs/dataviz5.jpg)
+![](imgs/Figure8.tif)
 
-Figure 8. Most popular VPN server locations. Data source: Swinburne University
+Figure 8. Number of VPNs by host country. Data source: Swinburne University
 
-![](imgs/dataviz6.jpg)
+![](imgs/Figure9v2.tif)
 
-Figure 9. Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society
+Figure 9. Most popular VPN server locations.Data source: Swinburne University, Berkman Center for Internet and Society

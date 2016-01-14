@@ -90,7 +90,7 @@ executive and author Jeff Ulin refers to as, naturally enough, ‘Ulin's
 Rule’, wherein the distribution value of media content is maximized
 through the exploitation of four factors: ‘time, repeat consumption
 (platforms), exclusivity, and differential pricing’.[^17ElkinsUSA_5] These factors
-are controlled through the development and maintenance of distinct
+are controlled through the development of distinct
 spatial and temporal distribution windows that geoblocking helps
 maintain. So, for instance, a film’s US theatrical run would represent
 one window, and subsequent availability of that film on Netflix in
@@ -139,8 +139,7 @@ If the US and its corporate interests are usually considered major
 forces shaping the geoblocking of platforms and content around the
 world, this makes geoblocking a tricky and curious phenomenon to
 investigate *within* the nation’s borders. Many major entertainment
-platforms that remain geoblocked in territories around the world –
-Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
+platforms that remain geoblocked in territories around the world – Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
 US-based corporate entities to serve the American market first and
 foremost. Hulu in particular can essentially be considered a national
 broadcasting platform. Although its library has since grown to
@@ -425,7 +424,7 @@ the other hand, for US-based audiences, circumventing geoblocked
 platforms can represent a kind of access entitlement presuming that in a
 digitally connected age, one *should* be able to access everything. When
 this access is interrupted, as in when \#NBCFail led many Americans to
-engage in geoblocking circumvention, they serve as reminders that the
+engage in geoblocking circumvention, it serves as a reminder that the
 United States is not a placeless, universal entity in the global media
 economy and that it can be subject to many of the disconnections and
 disjunctures that viewers around the world experience more regularly.
@@ -498,7 +497,7 @@ Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
 and Video Content*, Burlington, MA: Focal Press, 2000.
 
 [^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
-    States’ *Mashable*, 12 March 2015,
+    States’, *Mashable*, 12 March 2015,
     [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
 
 [^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
@@ -524,7 +523,7 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
     available around the world, but a comprehensive, if by this point
     somewhat out-of-date, snapshot of the global streaming film
     landscape can be found in the appendices in Dina Iordanova and
-    Stuart Cunningham (eds) *Digital Disruption: Cinema Moves On-Line*,
+    Stuart Cunningham (eds), *Digital Disruption: Cinema Moves On-Line*,
     St. Andrews: St. Andrews Film Studies, 2012.
 
 [^17ElkinsUSA_8]: Thomas Streeter, *Selling the Air: A Critique of the Policy of
@@ -541,8 +540,7 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
     foreign-film enthusiasts.’ James C. Luh, ‘Breaking Down DVD
     Borders’, *Washington Post*, 1 June 2001.
 
-[^17ElkinsUSA_11]: Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor
-    Who) from Outside the U.K’.
+[^17ElkinsUSA_11]: Adam Pash, 'How to Access the BBC iPlayer (and TV Like Doctor Who) from Outside the U.K.', Lifehacker, 29 March 2010, [http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
 
 [^17ElkinsUSA_12]: Lucas Hilderbrand, *Inherent Vice: Bootleg Histories of Video and
     Copyright*, Durham, NC: Duke University Press, 2009, p. 229.

@@ -24,7 +24,7 @@ Font(s) used: Open Sans
 ##Introduction 
 
 Lurid tales of football officials pocketing millions hit the headlines
-following the recent FIFA scandals The reporting rightly shone a light
+following the recent FIFA scandals. The reporting rightly shone a light
 on corruption in football, but also drove home a basic fact: sport is
 awash with money. This is largely because television networks spend a
 significant amount on purchasing rights to major sporting events. To

@@ -56,6 +56,13 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
 		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di86fFontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -575,7 +582,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, a relation that is marked by division, domination, containment, and control. In the case of China’s Great Firewall, the space it seeks to divide, dominate, and control is obviously cyberspace, whose imagined “unruliness” pronounces both threat and vulnerability.</Content>
 				<Br />
-				<Content>When computers and the Internet were first introduced to China, they were seen as technological opportunities for economic growth and were highly promoted by the Chinese government. Since the early 1990s, China has invested significantly in network infrastructure, and its Internet user base has expanded at exponential speed. By 2015, China had 668 million Internet users, the largest number in the world, and it is moving toward a fast-growing information society with over 3.35 million websites and 250 million microbloggers (China’s equivalent of Twitter).</Content>
+				<Content>When computers and the internet were first introduced to China, they were seen as technological opportunities for economic growth and were highly promoted by the Chinese government. Since the early 1990s, China has invested significantly in network infrastructure, and its internet user base has expanded at exponential speed. By 2015, China had 668 million internet users, the largest number in the world, and it is moving toward a fast-growing information society with over 3.35 million websites and 250 million microbloggers (China’s equivalent of Twitter).</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -682,9 +689,9 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> In 1996, a list of foreign websites was blocked in China for the first time. In 1997, the government issued the Computer Information and Internet Security Protection Management Regulation, a far-reaching law to dramatically tighten information control online. A comprehensive project was initiated in 1998 and launched in 2003 to systematically monitor, filter, and regulate Internet traffic between China and the outside world. The GFW was soon recognized as the world’s most sophisticated and ambitious system for information control.</Content>
+				<Content> In 1996, a list of foreign websites was blocked in China for the first time. In 1997, the government issued the Computer Information and Internet Security Protection Management Regulation, a far-reaching law to dramatically tighten information control online. A comprehensive project was initiated in 1998 and launched in 2003 to systematically monitor, filter, and regulate internet traffic between China and the outside world. The GFW was soon recognized as the world’s most sophisticated and ambitious system for information control.</Content>
 				<Br />
-				<Content>The construction of the GFW was never officially announced or acknowledged. Its existence, however, is widely known, because its effects are constantly experienced by hundreds of millions Internet users in China. Whenever they try to get onto YouTube or search for a ‘sensitive word’ (</Content>
+				<Content>The construction of the GFW was never officially announced or acknowledged. Its existence, however, is widely known, because its effects are constantly experienced by hundreds of millions internet users in China. Whenever they try to get onto YouTube or search for a ‘sensitive word’ (</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>mingan ci</Content>
@@ -757,7 +764,7 @@
 							<Content>, 17 August 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1eb2" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1fc4" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -847,7 +854,7 @@
 							<Content>	Globalwebindex, &apos;GWI Social Q3 2014: The Latest Social Networking Trends&apos;, 18 November 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1eba" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1fcc" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.globalwebindex.net/blog/social-q3-2014</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -915,7 +922,7 @@
 							<Content>, 4 February 2008, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ebe" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1fd0" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2008/02/04/world/asia/04china.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -964,7 +971,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>) became a huge internet phenomenon after a series of widely circulated online videos attracted millions of viewers. The videos feature cute images of an alpaca-like animal as the embodiment of the homophone of a sexually charged profane curse, which expresses public anger toward censorship in a hilarious manner. Although the videos were quickly banned in Chinese cyberspace (but can be accessed on YouTube), the phenomenon continued in countless internet memes, video games, toys, and even clothing lines that all referenced the lovely </Content>
-				<Rectangle Self="u1ec1" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="138508 1715564017 11268 412467079" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -131.92125984251925">
+				<Rectangle Self="u1fd3" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="138508 524341953 11268 287113038" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -131.92125984251925">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -992,7 +999,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1ec6" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="298 298" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.24169578140480785 0 0 0.24169578140480785 -75 -50" ParentInterfaceChangeCount="138508 1715564017 138558 412467079" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1fd9" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="298 298" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.24169578140480785 0 0 0.24169578140480785 -75 -50" ParentInterfaceChangeCount="138508 524341953 138558 287113038" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEANgA2AAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAANgAAAAEA
@@ -4530,7 +4537,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1ec5" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Li-image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130880597720000000 97829" LinkImportModificationTime="2015-09-30T06:09:32" LinkImportTime="2015-12-15T13:33:03" LinkResourceSize="0~17e25" />
+						<Link Self="u1fd6" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Li-image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 97829" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:29:55" LinkResourceSize="0~17e25" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -4651,7 +4658,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 							<Content>	See: &apos;The Blog of Biancheng Suixiang&apos;, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1ecf" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1fe5" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://program-think.blogspot.com/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4734,7 +4741,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 				<Content>, 4 February 2008, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ed4" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fea" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2008/02/04/world/asia/04china.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4768,7 +4775,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 				<Content>Globalwebindex. &apos;GWI Social Q3 2014: The Latest Social Networking Trends&apos;, 18 November 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ed5" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1feb" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.globalwebindex.net/blog/social-q3-2014</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4850,7 +4857,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 				<Content>The Blog of Biancheng Suixiang. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ed7" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1fed" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://program-think.blogspot.com/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4890,7 +4897,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 				<Content>, 17 August, 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1ed9" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1ff0" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5011,49 +5018,49 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 108" DestinationUniqueKey="210" Name="URL 108" DestinationURL="http://www.nytimes.com/2008/02/04/world/asia/04china.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 109" DestinationUniqueKey="211" Name="URL 109" DestinationURL="https://www.globalwebindex.net/blog/social-q3-2014" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 110" DestinationUniqueKey="212" Name="URL 110" DestinationURL="http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html" Hidden="false" />
-	<Hyperlink Self="u1ee0" Name="http://www.nytimes.com/2008/02/04/world/asia/04china.html 1" Source="u1ed4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="208">
+	<Hyperlink Self="u1ff1" Name="http://www.nytimes.com/2008/02/04/world/asia/04china.html 1" Source="u1fea" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="208">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 106</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ede" Name="http://www.nytimes.com/2008/02/04/world/asia/04china.html" Source="u1ed5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="207">
+	<Hyperlink Self="u1ff2" Name="http://www.nytimes.com/2008/02/04/world/asia/04china.html" Source="u1feb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="207">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 105</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1edc" Name="http://program-think.blogspot.com/" Source="u1ed7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="206">
+	<Hyperlink Self="u1ff3" Name="http://program-think.blogspot.com/" Source="u1fed" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="206">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 104</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1eda" Name="http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html" Source="u1ed9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1ff4" Name="http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html" Source="u1ff0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ee8" Name="http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html 1" Source="u1eb2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="212">
+	<Hyperlink Self="u1ff5" Name="http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html 1" Source="u1fc4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="212">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 110</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ee6" Name="https://www.globalwebindex.net/blog/social-q3-2014" Source="u1eba" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="211">
+	<Hyperlink Self="u1ff6" Name="https://www.globalwebindex.net/blog/social-q3-2014" Source="u1fcc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="211">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 109</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ee4" Name="http://www.nytimes.com/2008/02/04/world/asia/04china.html 2" Source="u1ebe" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="210">
+	<Hyperlink Self="u1ff7" Name="http://www.nytimes.com/2008/02/04/world/asia/04china.html 2" Source="u1fd0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="210">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 108</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1ee2" Name="http://program-think.blogspot.com/ 1" Source="u1ecf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="209">
+	<Hyperlink Self="u1ff8" Name="http://program-think.blogspot.com/ 1" Source="u1fe5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="209">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 107</Destination>

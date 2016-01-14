@@ -44,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -532,7 +519,7 @@
 							<Content>	Kenneth Wong, &apos;Ad:tech Roadshow Kuala Lumpur 2014&apos; (Malaysia Digital Association, 2014), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22bc" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23dc" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -570,7 +557,7 @@
 							<Content>, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22c0" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23e0" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -608,7 +595,7 @@
 							<Content>, 5 March 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22c2" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23e2" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -652,7 +639,7 @@
 							<Content> 10 March 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22c4" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23e4" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -681,7 +668,7 @@
 							<Content>	Internet World Stats, &apos;Asia Internet Usage Stats Facebook and Population Statistics&apos;, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22c6" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23e6" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.internetworldstats.com/stats3.htm</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -718,7 +705,7 @@
 							<Content>	Kenneth Wong, &apos;2014 Malaysia Digital Media Landscape&apos;, presentation at ad:tech Roadshow Kuala Lumpur, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22c9" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23e8" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -743,7 +730,7 @@
 							<Content>	</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22cb" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23eb" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://forum.lowyat.net/topic/905692/all</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -774,7 +761,7 @@
 							<Content>, 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22cd" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23ed" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -787,7 +774,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Grove believes highly-quality American content is keenly sought after by Southeast Asian consumers, and that there is space in the market for a local streaming service as an alternative to torrents (which may be affected by viruses or malware). Based on an analysis of the content that has been released on iFlix so far, they do not appear to be strictly following Malaysian censorship restrictions. This of course could change as a result of greater scrutiny by the authorities if there is mainstream adoption of iFlix.</Content>
 				<Br />
-				<Rectangle Self="u22ce" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u23ee" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -815,7 +802,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u23ba" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="548 548" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17514124293785305 0 0 0.17514124293785308 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u23f4" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="548 548" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.17514124293785305 0 0 0.17514124293785308 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEAJAAkAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAJAAAAAEA
@@ -5592,7 +5579,7 @@ de9+691//9k=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u22d2" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hanchard_image1.jpeg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946682280000000 1158971" LinkImportModificationTime="2015-12-15T16:50:28" LinkImportTime="2015-12-15T16:50:34" LinkResourceSize="0~11af3b" />
+						<Link Self="u23f1" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Hanchard_image1.jpeg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 1158971" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:55:53" LinkResourceSize="0~11af3b" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -5632,7 +5619,7 @@ de9+691//9k=]]></GraphicProxy>
 							<Content>, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22d7" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23fb" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5682,7 +5669,7 @@ de9+691//9k=]]></GraphicProxy>
 							<Content>, 10 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22db" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u23ff" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5711,7 +5698,7 @@ de9+691//9k=]]></GraphicProxy>
 							<Content>, 8 August 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22dd" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2401" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5740,7 +5727,7 @@ de9+691//9k=]]></GraphicProxy>
 							<Content>	The Wall Street Journal, ‘Scandal in Malaysia’, 5 July 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u22e0" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2404" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.wsj.com/articles/scandal-in-malaysia-1436113149</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5787,6 +5774,18 @@ de9+691//9k=]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Postscript</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>On 6 January, 2016, Netflix announced that it would be adding more than 130 countries to their global services, including Malaysia. Many users on social media in Malaysia were excited by the launch, while aware of the large price difference between iFlix and Netflix (RM8 and RM33-RM51 resepctively). Some users said they would need to invest in a VPN service to access titles only available in the U.S. Netflix catalogue; others were concerned that access to content would still be censored in Malaysia. Some users said they would use both services, so they could continue to access Asian-oriented content on iFlix.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Acknowledgements</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -5814,7 +5813,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>, 8 August 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22e2" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2406" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5830,7 +5829,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>, 10 March 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22e3" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2407" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5846,7 +5845,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>, 10 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22e5" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2408" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5862,7 +5861,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>, 5 March 2014,e27 </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22e6" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u240a" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5872,7 +5871,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>Internet World Stats. ‘Asia Internet Usage Stats Facebook and Population Statistics’, 30 June 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22e7" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u240b" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.internetworldstats.com/stats3.htm</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5882,7 +5881,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>The Malay Mail Online. ‘”Rewind” the Year — YouTube Recaps 2014’s Top Videos,’ 10 December 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22e9" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u240d" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5892,7 +5891,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>The Star Online. ‘Rais: Malaysia Will Stop Access to “Innocence of Muslims” Film’, 1 June 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22ea" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u240e" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5908,7 +5907,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>, 10 March 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22eb" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u240f" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5918,7 +5917,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>The Wall Street Journal, ‘Scandal in Malaysia’, 5 July 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22ec" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2410" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.wsj.com/articles/scandal-in-malaysia-1436113149</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -5928,7 +5927,7 @@ de9+691//9k=]]></GraphicProxy>
 				<Content>Wong, Kenneth. ‘2014 Malaysia Digital Media Landscape&apos;, presentation at ad:tech Roadshow Kuala Lumpur. Data sourced from comScore and Nielsen, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u22ed" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2411" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -6133,133 +6132,133 @@ de9+691//9k=]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 192" DestinationUniqueKey="294" Name="URL 192" DestinationURL="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 193" DestinationUniqueKey="295" Name="URL 193" DestinationURL="http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 194" DestinationUniqueKey="296" Name="URL 194" DestinationURL="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf" Hidden="false" />
-	<Hyperlink Self="u2300" Name="http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation" Source="u22e2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="284">
+	<Hyperlink Self="u2412" Name="http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation" Source="u2406" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="284">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 182</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22fe" Name="https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix" Source="u22e3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="283">
+	<Hyperlink Self="u2413" Name="https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix" Source="u2407" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="283">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 181</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22fc" Name="http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media" Source="u22e5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="282">
+	<Hyperlink Self="u2414" Name="http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media" Source="u2408" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="282">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 180</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22fa" Name="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/" Source="u22e6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="281">
+	<Hyperlink Self="u2415" Name="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/" Source="u240a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="281">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 179</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22f8" Name="http://www.internetworldstats.com/stats3.htm" Source="u22e7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="280">
+	<Hyperlink Self="u2416" Name="http://www.internetworldstats.com/stats3.htm" Source="u240b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="280">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 178</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22f6" Name="http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos" Source="u22e9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="279">
+	<Hyperlink Self="u2417" Name="http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos" Source="u240d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="279">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 177</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22f4" Name="http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/" Source="u22ea" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="278">
+	<Hyperlink Self="u2418" Name="http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/" Source="u240e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="278">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 176</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22f2" Name="https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/" Source="u22eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="277">
+	<Hyperlink Self="u2419" Name="https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/" Source="u240f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="277">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 175</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22f0" Name="http://www.wsj.com/articles/scandal-in-malaysia-1436113149" Source="u22ec" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="276">
+	<Hyperlink Self="u241a" Name="http://www.wsj.com/articles/scandal-in-malaysia-1436113149" Source="u2410" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="276">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 174</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u22ee" Name="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf" Source="u22ed" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u241b" Name="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf" Source="u2411" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2318" Name="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf 2" Source="u22bc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="296">
+	<Hyperlink Self="u241c" Name="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf 2" Source="u23dc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="296">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 194</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2316" Name="http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/" Source="u22c0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="295">
+	<Hyperlink Self="u241d" Name="http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/" Source="u23e0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="295">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 193</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2314" Name="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/ 1" Source="u22c2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="294">
+	<Hyperlink Self="u241e" Name="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/ 1" Source="u23e2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="294">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 192</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2312" Name="https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix 1" Source="u22c4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="293">
+	<Hyperlink Self="u241f" Name="https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix 1" Source="u23e4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="293">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 191</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2310" Name="http://www.internetworldstats.com/stats3.htm 1" Source="u22c6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="292">
+	<Hyperlink Self="u2420" Name="http://www.internetworldstats.com/stats3.htm 1" Source="u23e6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="292">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 190</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u230e" Name="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf 1" Source="u22c9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="291">
+	<Hyperlink Self="u2421" Name="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf 1" Source="u23e8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="291">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 189</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u230c" Name="https://forum.lowyat.net/topic/905692/all" Source="u22cb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="290">
+	<Hyperlink Self="u2422" Name="https://forum.lowyat.net/topic/905692/all" Source="u23eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="290">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 188</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u230a" Name="https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/ 1" Source="u22cd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="289">
+	<Hyperlink Self="u2423" Name="https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/ 1" Source="u23ed" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="289">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 187</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2308" Name="http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos 1" Source="u22d7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="288">
+	<Hyperlink Self="u2424" Name="http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos 1" Source="u23fb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="288">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 186</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2306" Name="http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media 1" Source="u22db" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="287">
+	<Hyperlink Self="u2425" Name="http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media 1" Source="u23ff" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="287">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 185</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2304" Name="http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation 1" Source="u22dd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="286">
+	<Hyperlink Self="u2426" Name="http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation 1" Source="u2401" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="286">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 184</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2302" Name="http://www.wsj.com/articles/scandal-in-malaysia-1436113149 1" Source="u22e0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="285">
+	<Hyperlink Self="u2427" Name="http://www.wsj.com/articles/scandal-in-malaysia-1436113149 1" Source="u2404" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="285">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 183</Destination>

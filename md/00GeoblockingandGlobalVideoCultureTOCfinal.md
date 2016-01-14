@@ -44,6 +44,7 @@ Theory on Demand #18
 **DTP:** Leonieke van Dipten<br/>
 **Infographics:** Sandra Hanchard <br/>
 **EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 
+**Infographics:** Sandra Hanchard
 
 **Printer:** Print on Demand<br/>
 **Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>

@@ -26,7 +26,7 @@ Font(s) used: Open Sans
 - 18%: proportion of Australians who use VPNs or proxies to access the
 internet
 - 200,000: estimated number of unauthorised Netflix subscribers in
-Australia, as of late 2014
+Australia, in late 2014
 - \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
 - \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
 

@@ -44,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -538,7 +525,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Rex Santus, ‘Netflix is Now in 36% of Homes Across the United States’ </Content>
+							<Content>	Rex Santus, ‘Netflix is Now in 36% of Homes Across the United States’, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Mashable</Content>
@@ -547,7 +534,7 @@
 							<Content>, 12 March 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u27de" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2905" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://mashable.com/2015/03/12/nielsen-ratings-2014</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -585,7 +572,7 @@
 							<Content>, 28 December 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u27e2" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2909" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -623,7 +610,7 @@
 							<Content>, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u27e4" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u290b" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.privateinternetaccess.com/pages/buy-vpn</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -661,7 +648,7 @@
 							<Content>, 29 August 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u27e6" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u290d" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -684,7 +671,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The hashtag #NBCFail, which popped up regularly on social media in the summer of 2012, represented yet another chapter in the long story of American audiences’ irritation at the often shallow, shoddy character of their national broadcast networks. This time, the target of viewers’ ire was NBC’s coverage of that year’s Summer Olympics in London. Frustrated with tape-delayed events and the network’s US-centric commentary, United States viewers naturally sought out the BBC’s telecast as an alternative. Savvy viewers who did their research may have stumbled upon the BBC’s iPlayer platform. The iPlayer was livestreaming the BBC’s coverage of the Olympics, and thus promised live, superior coverage and an escape from NBC’s jingoistic slant. Upon navigating to that platform, however, Americans found this message: ‘BBC iPlayer TV programmes are available to play in the UK only’.</Content>
 				<Br />
-				<Rectangle Self="u27e7" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u290e" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -712,7 +699,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u28e3" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="268 295" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.2689002909274049 0 0 0.24372641127846123 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u2914" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="268 295" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.2689002909274049 0 0 0.24372641127846123 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEAJAAkAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAJAAAAAEA
@@ -2200,7 +2187,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u27eb" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/ElkinsGeoblocking1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946705580000000 314598" LinkImportModificationTime="2015-12-15T17:29:18" LinkImportTime="2015-12-15T17:29:23" LinkResourceSize="0~4cce6" />
+						<Link Self="u2911" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/ElkinsGeoblocking1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 314598" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T16:39:19" LinkResourceSize="0~4cce6" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2263,7 +2250,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> These factors are controlled through the development and maintenance of distinct spatial and temporal distribution windows that geoblocking helps maintain. So, for instance, a film’s US theatrical run would represent one window, and subsequent availability of that film on Netflix in Germany a few months later would represent another. In retaining distribution windows and ordering them along geographic borders (whether local, national, regional, continental, etc.), certain territories become more valuable or ‘useful’ to American media firms as markets, and release dates, prices, and different versions of texts and platforms are set accordingly. At the risk of generalizing what are in fact rather complex decisions about global distribution markets, this strategy enables powerful American media industries to ‘rank’ (even implicitly) the importance and value of particular markets relative to each other. In the age of DVD, this ranking was made apparent through the numerical region code system, with North America designated as Region 1. These rankings are still present in the practice of geoblocking even if they are less overt.</Content>
+				<Content> These factors are controlled through the development of distinct spatial and temporal distribution windows that geoblocking helps maintain. So, for instance, a film’s US theatrical run would represent one window, and subsequent availability of that film on Netflix in Germany a few months later would represent another. In retaining distribution windows and ordering them along geographic borders (whether local, national, regional, continental, etc.), certain territories become more valuable or ‘useful’ to American media firms as markets, and release dates, prices, and different versions of texts and platforms are set accordingly. At the risk of generalizing what are in fact rather complex decisions about global distribution markets, this strategy enables powerful American media industries to ‘rank’ (even implicitly) the importance and value of particular markets relative to each other. In the age of DVD, this ranking was made apparent through the numerical region code system, with North America designated as Region 1. These rankings are still present in the practice of geoblocking even if they are less overt.</Content>
 				<Br />
 				<Content>As this might indicate, if geoblocking can be explained functionally and practically by pointing to long-established industry practices, its cultural impacts are, for many viewers, more damaging and insulting in their valuing of certain territories over others. For instance, one </Content>
 			</CharacterStyleRange>
@@ -2295,7 +2282,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content>, 13 May 2010, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u27f3" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u291d" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2320,7 +2307,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>within</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> the nation’s borders. Many major entertainment platforms that remain geoblocked in territories around the world – Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by US-based corporate entities to serve the American market first and foremost. Hulu in particular can essentially be considered a national broadcasting platform. Although its library has since grown to incorporate film, cable and “international” TV programs, trailers, and news, it was created by two of the major American commercial television networks (NBC and Fox) as a nationally bound exhibitor of broadcast programming. So, while geoblocking is not a part of the national conversation as much as it is in other countries, this doesn’t mean that it is nonexistent in the US.</Content>
+				<Content> the nation’s borders. Many major entertainment platforms that remain geoblocked in territories around the world – Amazon Instant Video, Hulu, iTunes, HBO Go – were created by US-based corporate entities to serve the American market first and foremost. Hulu in particular can essentially be considered a national broadcasting platform. Although its library has since grown to incorporate film, cable and “international” TV programs, trailers, and news, it was created by two of the major American commercial television networks (NBC and Fox) as a nationally bound exhibitor of broadcast programming. So, while geoblocking is not a part of the national conversation as much as it is in other countries, this doesn’t mean that it is nonexistent in the US.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2353,7 +2340,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Space is far too limited to catalog the scores of VOD platforms available around the world, but a comprehensive, if by this point somewhat out-of-date, snapshot of the global streaming film landscape can be found in the appendices in Dina Iordanova and Stuart Cunningham (eds) </Content>
+							<Content>	Space is far too limited to catalog the scores of VOD platforms available around the world, but a comprehensive, if by this point somewhat out-of-date, snapshot of the global streaming film landscape can be found in the appendices in Dina Iordanova and Stuart Cunningham (eds), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Digital Disruption: Cinema Moves On-Line</Content>
@@ -2438,7 +2425,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content>, 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u27fa" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2923" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://support.google.com/youtube/answer/2797370?hl=en</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2499,7 +2486,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from Outside the U.K’.</Content>
+							<Content>	Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor Who) from Outside the U.K.’, Lifehacker, 29 March 2010, http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2562,7 +2549,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content>, 19 June 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2801" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u292c" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2597,7 +2584,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content>, 24 September 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2804" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u292f" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2634,7 +2621,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content>, 13 January 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2806" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2931" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2664,7 +2651,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 							<Content>, 1 August 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2809" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2934" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2693,7 +2680,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>should</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> be able to access everything. When this access is interrupted, as in when #NBCFail led many Americans to engage in geoblocking circumvention, they serve as reminders that the United States is not a placeless, universal entity in the global media economy and that it can be subject to many of the disconnections and disjunctures that viewers around the world experience more regularly.</Content>
+				<Content> be able to access everything. When this access is interrupted, as in when #NBCFail led many Americans to engage in geoblocking circumvention, it serves as a reminder that the United States is not a placeless, universal entity in the global media economy and that it can be subject to many of the disconnections and disjunctures that viewers around the world experience more regularly.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2714,7 +2701,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 13 May 2010, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u280b" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2936" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2730,7 +2717,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 28 December 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u280c" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2937" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2746,7 +2733,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 13 January 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u280d" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2938" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2762,7 +2749,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 1 August 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u280e" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2939" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2778,20 +2765,12 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2810" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u293b" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.privateinternetaccess.com/pages/buy-vpn</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
-				<Br />
-				<Content>‘Committee Seeks IT Pricing Equity’, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>AAP General News Wire</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (Sydney), 29 July 2013.</Content>
 				<Br />
 				<Content>Ernesto, ‘Find out Who’s Using The Pirate Bay…and Why’, </Content>
 			</CharacterStyleRange>
@@ -2802,7 +2781,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 29 August 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2811" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u293c" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2818,7 +2797,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 19 June 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2812" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u293d" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2842,7 +2821,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2813" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u293e" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://support.google.com/youtube/answer/2797370?hl=en</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2866,7 +2845,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 29 March 2010, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2815" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2940" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2882,7 +2861,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 24 September 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2816" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2941" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2898,7 +2877,7 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 				<Content>, 12 March 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2817" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2942" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://mashable.com/2015/03/12/nielsen-ratings-2014</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2920,22 +2899,6 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Chicago: University of Chicago Press, 1996.</Content>
-				<Br />
-				<Content>Turner, Adam. ‘Content Unlimited’, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Sydney Morning Herald</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, 14 July 2013, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2818" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
-					<Content>http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html</Content>
-				</HyperlinkTextSource>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>.</Content>
 				<Br />
 				<Content>Ulin, Jeff. </Content>
 			</CharacterStyleRange>
@@ -3228,133 +3191,127 @@ e697917r3v3Xuve/de697917r3v3Xuve/de6/9k=]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 278" DestinationUniqueKey="380" Name="URL 278" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 279" DestinationUniqueKey="381" Name="URL 279" DestinationURL="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 280" DestinationUniqueKey="382" Name="URL 280" DestinationURL="http://mashable.com/2015/03/12/nielsen-ratings-2014" Hidden="false" />
-	<Hyperlink Self="u2831" Name="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World" Source="u280b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="372">
+	<Hyperlink Self="u2946" Name="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World" Source="u2936" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="372">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 270</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u282f" Name="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Source="u280c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="371">
+	<Hyperlink Self="u2947" Name="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Source="u2937" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="371">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 269</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u282d" Name="http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame" Source="u280d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="370">
+	<Hyperlink Self="u2948" Name="http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame" Source="u2938" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="370">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 268</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u282b" Name="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america" Source="u280e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="369">
+	<Hyperlink Self="u2949" Name="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america" Source="u2939" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="369">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 267</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2829" Name="https://www.privateinternetaccess.com/pages/buy-vpn" Source="u2810" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="368">
+	<Hyperlink Self="u294a" Name="https://www.privateinternetaccess.com/pages/buy-vpn" Source="u293b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="368">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 266</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2827" Name="https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829" Source="u2811" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="367">
+	<Hyperlink Self="u294b" Name="https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829" Source="u293c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="367">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 265</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2825" Name="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks" Source="u2812" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="366">
+	<Hyperlink Self="u294c" Name="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks" Source="u293d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="366">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 264</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2823" Name="https://support.google.com/youtube/answer/2797370?hl=en" Source="u2813" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="365">
+	<Hyperlink Self="u294d" Name="https://support.google.com/youtube/answer/2797370?hl=en" Source="u293e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="365">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 263</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2821" Name="http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk" Source="u2815" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="364">
+	<Hyperlink Self="u294e" Name="http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk" Source="u2940" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="364">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 262</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u281f" Name="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers" Source="u2816" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="363">
+	<Hyperlink Self="u294f" Name="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers" Source="u2941" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="363">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 261</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u281d" Name="http://mashable.com/2015/03/12/nielsen-ratings-2014" Source="u2817" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="362">
+	<Hyperlink Self="u2950" Name="http://mashable.com/2015/03/12/nielsen-ratings-2014" Source="u2942" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="362">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 260</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u281b" Name="http://www.smh.com.au/digital-life/digital-life-news/content-unlimited-20130713-2pr0k.html" Source="u2818" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/link</Destination>
-		</Properties>
-	</Hyperlink>
-	<Hyperlink Self="u2845" Name="http://mashable.com/2015/03/12/nielsen-ratings-2014 1" Source="u27de" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="382">
+	<Hyperlink Self="u2952" Name="http://mashable.com/2015/03/12/nielsen-ratings-2014 1" Source="u2905" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="382">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 280</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2843" Name="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html 1" Source="u27e2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="381">
+	<Hyperlink Self="u2953" Name="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html 1" Source="u2909" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="381">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 279</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2841" Name="https://www.privateinternetaccess.com/pages/buy-vpn 2" Source="u27e4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="380">
+	<Hyperlink Self="u2954" Name="https://www.privateinternetaccess.com/pages/buy-vpn 2" Source="u290b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="380">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 278</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u283f" Name="https://www.privateinternetaccess.com/pages/buy-vpn 1" Source="u27e6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="379">
+	<Hyperlink Self="u2955" Name="https://www.privateinternetaccess.com/pages/buy-vpn 1" Source="u290d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="379">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 277</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u283d" Name="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World 1" Source="u27f3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="378">
+	<Hyperlink Self="u2956" Name="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World 1" Source="u291d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="378">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 276</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u283b" Name="https://support.google.com/youtube/answer/2797370?hl=en 1" Source="u27fa" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="377">
+	<Hyperlink Self="u2957" Name="https://support.google.com/youtube/answer/2797370?hl=en 1" Source="u2923" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="377">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 275</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2839" Name="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks 1" Source="u2801" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="376">
+	<Hyperlink Self="u2958" Name="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks 1" Source="u292c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="376">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 274</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2837" Name="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers 1" Source="u2804" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="375">
+	<Hyperlink Self="u2959" Name="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers 1" Source="u292f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="375">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 273</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2835" Name="http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame" Source="u2806" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="374">
+	<Hyperlink Self="u295a" Name="http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame" Source="u2931" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="374">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 272</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2833" Name="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america 1" Source="u2809" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="373">
+	<Hyperlink Self="u295b" Name="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america 1" Source="u2934" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="373">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 271</Destination>

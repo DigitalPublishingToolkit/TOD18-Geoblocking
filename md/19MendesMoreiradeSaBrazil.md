@@ -300,7 +300,7 @@ among Netflix VPN pirates, which is quite different from the attitude of
 audiences that informally download content.[^14MendesMoreiradeSaBrazil_16] Some Netflix
 subscribers even mentioned that they have minimized or even ceased
 torrenting since they signed up for the service. Everyone who mentioned
-the monthly subscription of R\19.90 (about USD6) per month said the
+the monthly subscription of R$19.90 (about USD6) per month said the
 price was fair.
 
 Once again, it is important to note that only 60% of the population in

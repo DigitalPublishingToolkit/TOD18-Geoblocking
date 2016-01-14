@@ -44,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -617,7 +604,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Setareh Derakhshesh, Breaking the Law to go Online in Iran, </Content>
+							<Content>	Setareh Derakhshesh, ‘Breaking the Law to go Online in Iran’, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>New York Times</Content>
@@ -626,7 +613,7 @@
 							<Content>, 24 June 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2545" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2688" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -653,7 +640,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
-				<Content>The state has also employed more sophisticated and effective methods such as satellite jamming. Powerful noise signals are sent directly to satellites such as HotBird and Eutelsat, mixing frequencies and jamming their signals. Home viewers then see scrambled images on screen. BBC Persian and Voice of America (VoA) have been the typical targets. Iran has never acknowledged using such methods, but international organizations have claimed that the jamming signals are sent from within Iran. The UN telecommunications body (ITU) and the European Union have called on the Iranian government to stop satellite jamming and ‘electronic interference’. It is also widely believed that the Revolutionary Guard runs the jamming system. Not surprisingly, the regime uses this method more actively at times of political upheaval and during elections.</Content>
+				<Content>The state has also employed more sophisticated and effective methods such as satellite jamming. Powerful noise signals are sent directly to satellites such as HotBird and Eutelsat, mixing frequencies and jamming their signals. Home viewers then see scrambled images on screen. BBC Persian and Voice of America (VoA) have been the typical targets. Iran has never acknowledged using such methods, but international organizations have claimed that the jamming signals are sent from within Iran. The UN telecommunications body (ITU) and the European Union have called on the Iranian government to stop satellite jamming and electronic interference. It is also widely believed that the Revolutionary Guard runs the jamming system. Not surprisingly, the regime uses this method more actively at times of political upheaval and during elections.</Content>
 				<Br />
 				<Content>Despite the attempts outlined above, Iranians have integrated satellite television into their daily lives. Political channels such as BBC Persian and Voice of America (VoA) continue to influence public opinion by highlighting and disseminating news, images, videos and information that the state tries to suppress. Persian-language entertainment channels such as Manoto have attracted large audience by running western-style talent shows and competitions. Other channels such as GEM TV and Farsi One have attracted viewers by screening popular movies and soap operas. None of the above mentioned methods have proved effective in discouraging ordinary people from watching satellite TV. At times of political upheaval, the state has been relatively successful in jamming some political channels; at other times, however, satellite channels have managed to reach out to viewers and help create a video culture very different from the ideologically-fuelled one promoted by the state television.</Content>
 				<Br />
@@ -679,7 +666,7 @@
 							<Content>	Iran’s Internet Penetration Management Portal, 2014, Penetration Rate Report, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2549" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u268c" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.iriu.ir/matma/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -687,7 +674,7 @@
 							<Content>; The World Bank, Internet users by country, 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u254a" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u268d" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://data.worldbank.org/indicator/IT.NET.USER.P2</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -710,7 +697,7 @@
 							<Content>	Mehr News Agency, ‘9.5 Million Viber users in Iran’, 5 Feb 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u254c" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u268f" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.mehrnews.com/news/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -741,7 +728,7 @@
 							<Content>, 2014, p.26, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u254f" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2692" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://smallmedia.org.uk/revolutiondecoded/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -753,7 +740,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u2551" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2694" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -781,7 +768,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u2556" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="261 261" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.36796295906767446 0 0 0.36796295906767446 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u269a" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="261 261" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.36796295906767446 0 0 0.36796295906767446 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqADxlAQCAPp8vp/vmBwWDwKCQp/wx9QKGw+CxCBwSBvmJxaKRKHxiLw2DwaPQaEQuJR+UQmEy
@@ -2389,9 +2376,9 @@ owmWkhJOBcljSGxgc29WUWoKSfOq8eCcWIMSlio7lhjhJUwjiXKx2UPYcuqiMt+GkM4TQ7lpLeW0
 MnTy1lnLiYDq5hS/hsuSYkR0ETDlzLCYMyD3zKX1MeZcRXXyvlbEmaztkYxNlW4KU8popThd/KRv
 EXZzSfePJt5kY5LztjNI2Mr04zxpU4/6Rr256yIn0+BNZRo6SBoBICgUeWpvrJgQEAgAAABAzAAA
 OMwAANyYAAA2AAAAAQAAADYAAAABAAAADgAAAQQAAQAAADICAAABAQQAAQAAAIsBAAACAQMAAQAA
-AAgAAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAgAAABxlAQAVAQMAAQAAAAQAAAAWAQQA
+AAgA8D8DAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAgAAABxlAQAVAQMAAQAAAAQA738WAQQA
 AQAAAOkAAAAXAQQAAgAAACRlAQAaAQUAAQAAACxlAQAbAQUAAQAAADRlAQAcAQMAAQAAAAEAAABS
-AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
+AQMAAQAAAAIAAAA1ggEAAQAAAADvBQAAAAAA]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="748.4063816352929" Bottom="526.4341482043843" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -2400,7 +2387,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u2555" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/iran.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130897226500000000 173140" LinkImportModificationTime="2015-10-19T12:04:10" LinkImportTime="2015-12-15T14:34:04" LinkResourceSize="0~2a454" />
+						<Link Self="u2697" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/iran.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 173140" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T16:06:26" LinkResourceSize="0~2a454" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2416,7 +2403,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Taking office as President in 2013, Hassan Rouhani criticized internet censorship, raising hopes for reducing internet barriers (to be discussed further below). However, he faced fierce opposition from conservative rivals. In 2014, as soon as the ICT ministry issued 3G and 4G licenses to two mobile-phone operators, a leading cleric called on the government to revoke them because ‘dirty pictures and clips’ could poison young minds.</Content>
+				<Content>Taking office as President in 2013, Hassan Rouhani criticized internet censorship, raising hopes for reducing internet barriers (to be discussed further below). However, he faced fierce opposition from conservative rivals. In 2014, as soon as the ICT ministry issued 3G and 4G licenses to two mobile-phone operators, a leading cleric called on the government to revoke them because ‘dirty pictures and clips’ could poison young minds. Comparing these technologies to ‘unsanitary and muddy water’, and worrying about ‘all sorts of polluted films without any filtering’, he declared that ‘3G mobile communication services and higher are against Sharia [Islamic law] and moral and human norms’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -2434,7 +2421,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 2 September 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u255a" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u273e" Name="Hyperlink 73" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2445,7 +2432,6 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Comparing these technologies to ‘unsanitary and muddy water’, and worrying about ‘all sorts of polluted films without any filtering’, he declared that ‘3G mobile communication services and higher are against Sharia [Islamic law] and moral and human norms’.</Content>
 				<Br />
 				<Content>Perhaps Iran’s most ambitious plan for extending its control over the internet has been the launching of a ‘walled-off’ national internet. The network will connect government ministries, universities, banks, healthcare, tax systems, and other state institutions through local servers. Although users will benefit from higher speed and better cyber-security, many are concerned that the government’s main motive is to consolidate its control over the internet. In response to such concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national internet ‘is not in competition with the internet’ and that ‘if users cannot find the data that they are looking for on the national internet, then they will be able to access the internet to search for it, instead’.</Content>
 			</CharacterStyleRange>
@@ -2459,7 +2445,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Small Media, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u255c" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26a2" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.smallmedia.org.uk/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2488,7 +2474,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 28 May 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u255e" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26a4" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.wsj.com/articles/SB10001424052748704889404576277391449002016</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2524,7 +2510,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Iranian Student News Agency, 69 Per cent of Iranian Youth use Anti-filtering, According to the Findings of a New Survey, 27 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2561" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26a6" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://isna.ir/fa/news/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2547,7 +2533,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Small Media, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2564" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26aa" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://smallmedia.org.uk/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2576,7 +2562,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content> 3 July 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2566" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26ac" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2601,7 +2587,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Freedom House, ‘Country Report for End Users in Iran’, 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2568" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26ae" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2624,7 +2610,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Small Media, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u256a" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26b0" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.smallmedia.org.uk/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2653,7 +2639,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content> 22 Feb 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u256d" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26b3" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.dailydot.com/politics/iran-censorship-circumvention-tech/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2688,7 +2674,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 2010, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u256f" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26b5" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2712,7 +2698,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	It was recently announced that a malicious copy of this software has been circulated as ‘Simurgh-setup.zip’ that compromises all information on the infected computer. See: The Citizen Lab, ‘Iranian Anti-Censorship Software “Simurgh” Circulated with Malicious Backdoor’, 25 May 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2572" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26b8" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2732,7 +2718,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Despite common perceptions, most Iranians do not go online specifically in search of ‘forbidden’ political material; rather they wish to ‘live their normal lives’ by accessing social media such as Telegram, Viber, Facebook and the like to communicate with their family members and friends. They share photos, music videos, comedies, shows, and educational material within their social circles; they look for entertainment, search for all sorts of information and read news online. A question that naturally arises is: why then are authorities so sensitive about the free internet? The answer has to do with the ideological nature of the Iranian state.</Content>
+				<Content>Despite common perceptions, most Iranians do not go online specifically in search of ‘forbidden’ political material; rather they wish to ‘go about their everyday lives’ by accessing social media such as Telegram, Viber, Facebook and the like to communicate with their family members and friends. They share photos, music videos, comedies, shows, and educational material within their social circles; they look for entertainment, search for all sorts of information and read news online. A question that naturally arises is: why then are authorities so sensitive about the free internet? The answer has to do with the ideological nature of the Iranian state.</Content>
 				<Br />
 				<Content>The clerics and conservative rulers censor the internet for the same reason that they have put in place extremely restrictive measures to uphold Islamic principles and moral standards in public spaces. They are concerned that freedom will inevitably give rise to western lifestyles, mixing with the opposite sex and promiscuity. Despite extensive regulation, conservatives are constantly complaining about the growing un-Islamic practices in society. The same concerns lead them to oppose the unfettered internet. In their view, the free internet would weaken their grip over cultural production and consumption. In a country where interactions between young men and women are severely controlled, it is not surprising that the authorities are worried about online communication. The political power of religion in Iran does not allow for a cultural sphere separate from politics.</Content>
 				<Br />
@@ -2754,7 +2740,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 15 August 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2576" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26bd" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2797,7 +2783,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>, 1 September 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2578" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26bf" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2822,7 +2808,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 							<Content>	Michael Pizzi, ‘Iran Government Minister: Media Bans May Seem “laughable” in 5 years’, Aljazeera America, 19 Dec 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u257c" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26c3" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -2854,7 +2840,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 2014, p.26, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u257d" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26c4" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://smallmedia.org.uk/revolutiondecoded/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2864,7 +2850,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Derakhshesh, Setareh. ‘Breaking the Law to Go Online in Iran’, New York Times, 24 June 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u257e" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26c5" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2880,7 +2866,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 2 September 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u257f" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26c6" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2890,7 +2876,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Freedom House. ‘Country Report for End Users in Iran’, 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2581" Name="Hyperlink 59" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26c7" Name="Hyperlink 59" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2900,7 +2886,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Iranian Student News Agency. ‘69 Per Cent of Iranian Youth Use Anti-Filtering, According to the Findings of a New Survey’, 27 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2582" Name="Hyperlink 60" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26c9" Name="Hyperlink 60" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://isna.ir/fa/news/93061710204</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2910,7 +2896,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Iran’s Internet Penetration Management Portal. Penetration Rate Report, 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2583" Name="Hyperlink 61" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26ca" Name="Hyperlink 61" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.iriu.ir/matma/;</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2926,7 +2912,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content> 3 July 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2584" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26cb" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2942,7 +2928,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 1 September 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2585" Name="Hyperlink 63" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26cc" Name="Hyperlink 63" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2958,7 +2944,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 15 August 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2587" Name="Hyperlink 64" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26ce" Name="Hyperlink 64" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2968,7 +2954,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Mehr News Agency. ‘9.5 Million Viber Users in Iran’, 5 Feb 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2588" Name="Hyperlink 65" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26cf" Name="Hyperlink 65" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.mehrnews.com/news/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2984,7 +2970,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 2010, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258a" Name="Hyperlink 66" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d1" Name="Hyperlink 66" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2994,7 +2980,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>O’Neill, Patrick Howell. ‘The Big Money Behind Iran’s Internet Censorship’, 22 Feb 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258b" Name="Hyperlink 67" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d2" Name="Hyperlink 67" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.dailydot.com/politics/iran-censorship-circumvention-tech/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3004,7 +2990,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Pizzi, Michael. ‘Iran Government Minister: Media Bans May Seem “Laughable” in 5 Years’, Aljazeera America, 19 Dec 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258d" Name="Hyperlink 68" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d4" Name="Hyperlink 68" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3020,7 +3006,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>, 28 May 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258e" Name="Hyperlink 69" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d5" Name="Hyperlink 69" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.wsj.com/articles/SB10001424052748704889404576277391449002016</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3030,7 +3016,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>Small Media. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258f" Name="Hyperlink 70" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d6" Name="Hyperlink 70" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.smallmedia.org.uk/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3040,7 +3026,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>The Citizen Lab. ‘Iranian Anti-Censorship Software “Simurgh” Circulated with Malicious Backdoor’, 25 May 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2590" Name="Hyperlink 71" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d7" Name="Hyperlink 71" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3050,7 +3036,7 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 				<Content>The World Bank. Internet Users by Country, 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2591" Name="Hyperlink 72" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26d8" Name="Hyperlink 72" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://data.worldbank.org/indicator/IT.NET.USER.P2</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3323,217 +3309,217 @@ AQMAAQAAAAIAAAA1ggEAAQAAAAAAAAAAAAAA]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 261" DestinationUniqueKey="363" Name="URL 261" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 262" DestinationUniqueKey="364" Name="URL 262" DestinationURL="http://www.iriu.ir/matma/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 263" DestinationUniqueKey="365" Name="URL 263" DestinationURL="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Hidden="false" />
-	<Hyperlink Self="u25b2" Name="http://smallmedia.org.uk/revolutiondecoded/" Source="u257d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="346">
+	<Hyperlink Self="u26d9" Name="http://smallmedia.org.uk/revolutiondecoded/" Source="u26c4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="346">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 244</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b0" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Source="u257e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="345">
+	<Hyperlink Self="u26da" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Source="u26c5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="345">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 243</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ae" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Source="u257f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="344">
+	<Hyperlink Self="u26db" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Source="u26c6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="344">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 242</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ac" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Source="u2581" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="343">
+	<Hyperlink Self="u26dc" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Source="u26c7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="343">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 241</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25aa" Name="http://isna.ir/fa/news/93061710204" Source="u2582" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="342">
+	<Hyperlink Self="u26dd" Name="http://isna.ir/fa/news/93061710204" Source="u26c9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="342">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 240</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a8" Name="http://www.iriu.ir/matma/;" Source="u2583" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="341">
+	<Hyperlink Self="u26de" Name="http://www.iriu.ir/matma/;" Source="u26ca" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="341">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 239</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a6" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Source="u2584" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="340">
+	<Hyperlink Self="u26df" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Source="u26cb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="340">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 238</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a4" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Source="u2585" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="339">
+	<Hyperlink Self="u26e0" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Source="u26cc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="339">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 237</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a2" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Source="u2587" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="338">
+	<Hyperlink Self="u26e1" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Source="u26ce" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="338">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 236</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a0" Name="http://www.mehrnews.com/news/" Source="u2588" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="337">
+	<Hyperlink Self="u26e2" Name="http://www.mehrnews.com/news/" Source="u26cf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="337">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 235</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u259e" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Source="u258a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="336">
+	<Hyperlink Self="u26e3" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Source="u26d1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="336">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 234</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u259c" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Source="u258b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="335">
+	<Hyperlink Self="u26e4" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Source="u26d2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="335">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 233</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u259a" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Source="u258d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="334">
+	<Hyperlink Self="u26e5" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Source="u26d4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="334">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 232</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2598" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Source="u258e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="333">
+	<Hyperlink Self="u26e6" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Source="u26d5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="333">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 231</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2596" Name="http://www.smallmedia.org.uk/" Source="u258f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="332">
+	<Hyperlink Self="u26e7" Name="http://www.smallmedia.org.uk/" Source="u26d6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="332">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 230</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2594" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Source="u2590" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="331">
+	<Hyperlink Self="u26e8" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Source="u26d7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="331">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 229</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2592" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="u2591" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u26e9" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="u26d8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25d8" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html 1" Source="u2545" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="365">
+	<Hyperlink Self="u26ea" Name="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html 1" Source="u2688" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="365">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 263</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25d6" Name="http://www.iriu.ir/matma/" Source="u2549" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="364">
+	<Hyperlink Self="u26eb" Name="http://www.iriu.ir/matma/" Source="u268c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="364">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 262</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25d4" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2 1" Source="u254a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="363">
+	<Hyperlink Self="u26ec" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2 1" Source="u268d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="363">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 261</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25d2" Name="http://www.mehrnews.com/news/ 1" Source="u254c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="362">
+	<Hyperlink Self="u26ed" Name="http://www.mehrnews.com/news/ 1" Source="u268f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="362">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 260</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25d0" Name="http://smallmedia.org.uk/revolutiondecoded/ 1" Source="u254f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="361">
+	<Hyperlink Self="u26ee" Name="http://smallmedia.org.uk/revolutiondecoded/ 1" Source="u2692" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="361">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 259</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ce" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html 1" Source="u255a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="360">
+	<Hyperlink Self="u2742" Name="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html 2" Source="u273e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="360">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 258</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25cc" Name="http://www.smallmedia.org.uk/ 2" Source="u255c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="359">
+	<Hyperlink Self="u26f0" Name="http://www.smallmedia.org.uk/ 2" Source="u26a2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="359">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 257</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ca" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016 1" Source="u255e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="358">
+	<Hyperlink Self="u26f1" Name="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016 1" Source="u26a4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="358">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 256</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c8" Name="http://isna.ir/fa/news/" Source="u2561" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="357">
+	<Hyperlink Self="u26f2" Name="http://isna.ir/fa/news/" Source="u26a6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="357">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 255</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c6" Name="http://smallmedia.org.uk/" Source="u2564" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="356">
+	<Hyperlink Self="u26f3" Name="http://smallmedia.org.uk/" Source="u26aa" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="356">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 254</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c4" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views 1" Source="u2566" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="355">
+	<Hyperlink Self="u26f4" Name="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views 1" Source="u26ac" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="355">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 253</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c2" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf 1" Source="u2568" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="354">
+	<Hyperlink Self="u26f5" Name="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf 1" Source="u26ae" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="354">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 252</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c0" Name="http://www.smallmedia.org.uk/ 1" Source="u256a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="353">
+	<Hyperlink Self="u26f6" Name="http://www.smallmedia.org.uk/ 1" Source="u26b0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="353">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 251</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25be" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/ 1" Source="u256d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="352">
+	<Hyperlink Self="u26f7" Name="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/ 1" Source="u26b3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="352">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 250</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25bc" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf 1" Source="u256f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="351">
+	<Hyperlink Self="u26f8" Name="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf 1" Source="u26b5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="351">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 249</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ba" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/ 1" Source="u2572" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="350">
+	<Hyperlink Self="u26f9" Name="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/ 1" Source="u26b8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="350">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 248</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b8" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/ 1" Source="u2576" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="349">
+	<Hyperlink Self="u26fa" Name="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/ 1" Source="u26bd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="349">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 247</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b6" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html# 1" Source="u2578" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="348">
+	<Hyperlink Self="u26fb" Name="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html# 1" Source="u26bf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="348">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 246</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b4" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html 1" Source="u257c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="347">
+	<Hyperlink Self="u26fc" Name="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html 1" Source="u26c3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="347">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 245</Destination>

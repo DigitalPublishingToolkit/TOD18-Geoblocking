@@ -123,7 +123,7 @@ has never acknowledged using such methods, but international
 organizations have claimed that the jamming signals are sent from within
 Iran. The UN telecommunications body (ITU) and the European Union have
 called on the Iranian government to stop satellite jamming and
-‘electronic interference’. It is also widely believed that the
+electronic interference. It is also widely believed that the
 Revolutionary Guard runs the jamming system. Not surprisingly, the
 regime uses this method more actively at times of political upheaval and
 during elections.
@@ -273,8 +273,7 @@ software has been recently used by Syrian dissidents.[^16]
 ##The Political Context of Circumvention
 
 Despite common perceptions, most Iranians do not go online specifically
-in search of ‘forbidden’ political material; rather they wish to ‘live
-their normal lives’ by accessing social media such as Telegram, Viber,
+in search of ‘forbidden’ political material; rather they wish to ‘go about their everyday lives’ by accessing social media such as Telegram, Viber,
 Facebook and the like to communicate with their family members and
 friends. They share photos, music videos, comedies, shows, and
 educational material within their social circles; they look for
@@ -436,7 +435,7 @@ The World Bank. Internet Users by Country, 2014,
     iconic eulogist during Iran-Iraq war in the 1980s. His performance
     encouraged many young Iranians to volunteer in the war.
 
-[^2]: Setareh Derakhshesh, Breaking the Law to go Online in Iran, *New
+[^2]: Setareh Derakhshesh, 'Breaking the Law to go Online in Iran', *New
     York Times*, 24 June 2014,
     [http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
 

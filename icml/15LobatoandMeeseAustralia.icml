@@ -219,6 +219,15 @@
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aNotes" Name="$ID/Page &gt; Running Text:Notes">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" Name="Page &gt; Running Text:Notes:Footnote" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+					<Properties>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
+						<PreviewColor type="enumeration">Nothing</PreviewColor>
+						<Leading type="unit">10</Leading>
+					</Properties>
+				</ParagraphStyle>
+			</ParagraphStyleGroup>
 			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aReferences (end of each part)" Name="$ID/Page &gt; Running Text:References (end of each part)">
 				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" Name="Page &gt; Running Text:References (end of each part):Reference List" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" Justification="LeftAlign" GridAlignment="None">
 					<Properties>
@@ -229,13 +238,6 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10</Leading>
-			</Properties>
-		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" DiacriticPosition="OpentypePosition">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
@@ -537,7 +539,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -568,7 +570,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -582,7 +584,7 @@
 							<Content>, 13 October 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f82" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u20e8" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -597,7 +599,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -611,7 +613,7 @@
 							<Content>, 21 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f86" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u20ec" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -634,7 +636,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>By 2012 geoblocking had become a political issue. Sensing the mood of the public, Australian regulators were questioning the price-discrimination policies of U.S. tech companies and asking why our media and software products were more expensive than they needed to be. Opportunistic politicians started to see geoblocking as a popular issue, one that enabled a nationalist narrative (US-based multinationals ripping off Australians) to be fused with a free-market narrative (geoblocking as anti-competitive). In other words, it was a vote-winner. As Labor MP Ed Husic put it,</Content>
+				<Content>By 2012 geoblocking had become a political issue. Sensing the mood of the public, Australian regulators were questioning the price-discrimination policies of U.S. tech companies and asking why our media and software products were more expensive than they needed to be. Opportunistic politicians started to see geoblocking as a popular issue, one that enabled a nationalist narrative (US-based multinationals ripping off Australians) to be fused with a free-market narrative (geoblocking as anti-competitive). In other words, it was a vote-winner. As Labor MP Ed Husic put it:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -644,7 +646,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -652,7 +654,7 @@
 							<Content>	See </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f88" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u20ef" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -670,7 +672,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -685,7 +687,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -699,7 +701,7 @@
 							<Content> program, 23 March 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f8d" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u20f3" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -715,7 +717,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -723,7 +725,7 @@
 							<Content>	David Richardson, ‘Copyright and Monopoly Profits: Books, Records and Software’, Current Issues Brief 15, 1996, The Parliament of Australia, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f8f" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u20f5" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -738,7 +740,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -775,7 +777,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -795,11 +797,15 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Detailed how-to guides also began to appear on Australia tech websites. Forums overflowed with tips about which VPN had the best download speeds or customer service. National newspapers buzzed with reports of 200,000 unauthorised Netflix subscribers in Australia. Tech journalists openly instructed their readers on the finer points of VPN and proxy use, proclaiming the benefits of browser plugins like MediaHint and Hola. On tech websites, such as Gizmodo, Whirlpool and ITNews, the discussion about circumvention was even more ubiquitous, and unapologetic.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>This was the tip of the iceberg. By now, thousands of Australian households had taken up personal VPNs and proxies. In research we conducted during 2013 with Swinburne University’s World Internet Project, a biannual telephone survey of 1000 Australian users, it emerged that 18% of Australian internet users use VPNs or proxies – a much higher figure than expected.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -813,7 +819,7 @@
 							<Content>, October 2 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f95" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u20fb" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -828,7 +834,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -864,7 +870,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -879,7 +885,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -887,12 +893,9 @@
 							<Content>	Nick Murray, the managing director of TV producer Cornell Jigsaw Zapruder argues that these tools inhibit the ability of these companies to sell the same content to different regions, which is how ‘they make [their] money’. See </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f99" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2100" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634</Content>
 							</HyperlinkTextSource>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -902,7 +905,7 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
@@ -916,7 +919,7 @@
 							<Content>, July 22, 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1f9c" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u2102" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -931,7 +934,7 @@
 				<Br />
 				<Content>This legal uncertainty is an issue because it is clouding the Australian public’s understanding of VPNs, which can of course be used for many purposes unrelated to geo-evasion. In the wake of hacking scandals and daily reports of cybercrime, VPN use is being promoted by consumer and technology advocates as a way to stay safe online – an act of responsible cyber-citizenship. VPN use is also being recommended as an antidote to Australia’s controversial metadata retention law, the Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015, which has just come into effect. This law requires ISPs and telcos to retain logs of customer activity, NSA-style, for two years. Unsurprisingly there has been massive public backlash against this data retention regime, and VPN services are an appealing counter-measure. Savvy VPN companies such as PureVPN and IBVPN, now promote themselves to Australian users on this basis (see Figure 1).</Content>
 				<Br />
-				<Rectangle Self="u1f9e" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2103" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -959,7 +962,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1fa3" Space="$ID/#Links_RGB" ActualPpi="144 144" EffectivePpi="617 617" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.23342941093356492 0 0 0.23342941093356495 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u2109" Space="$ID/#Links_RGB" ActualPpi="144 144" EffectivePpi="617 617" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.23342941093356492 0 0 0.23342941093356495 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAFT3AACABtPBx/wKCQaCwOEweFQiHQ2IQyJQuKQ+JxaKxGMxeNRiPR2QRyRRuSR+RyaSyGUy
@@ -2073,9 +2076,9 @@ FZNi2XY9lWfZloWdaNqWna1m2xaVs2rbdr21b9uXBb1w3JcdZBMQgcoSM6CotdqCAHd143heV63p
 e933yAYJ3YEQ6B/cVu4FgNflecBHH/g2EYVhOD4bheHYZiWI4piGLYfjGJ4vjR/lgcJH47j5/lic
 WQKSpanqiWiqn+q6sq2rqvrCsayrOti1H+t64rmXS5Louy8L8vjC6IwDE6OxekMa2LWNhpumNdqG
 najp+q6pq+p6y5GtoCAIAAAA6J8AAN+fAABMVwAAJAAAAAEAAAAkAAAAAQAAAA4AAAEEAAEAAAB+
-AgAAAQEEAAEAAAAwAQAAAgEDAAEAAAAIAAAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAIA
-AAA09wAAFQEDAAEAAAAEAAAAFgEEAAEAAADNAAAAFwEEAAIAAAA89wAAGgEFAAEAAABE9wAAGwEF
-AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></GraphicProxy>
+AgAAAQEEAAEAAAAwAQAAAgEDAAEAAAAIAPA/AwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAIA
+AAA09wAAFQEDAAEAAAAEAO9/FgEEAAEAAADNAAAAFwEEAAIAAAA89wAAGgEFAAEAAABE9wAAGwEF
+AAEAAABM9wAAHAEDAAEAAAABAAAAUgEDAAEAAAACAAAANYIBAAEAAAAA7wUAAAAAAA==]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="1275.0655287405054" Bottom="606.5311711224444" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -2101,7 +2104,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1fa2" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/lobatomeese.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130929377090000000 543838" LinkImportModificationTime="2015-11-25T16:08:29" LinkImportTime="2015-12-15T13:44:36" LinkResourceSize="0~84c5e" />
+						<Link Self="u2106" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/lobatomeese.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 543838" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:31:47" LinkResourceSize="0~84c5e" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2114,7 +2117,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>Figure 1. Australia-specific VPN marketing. Source: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fa7" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u210f" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.ibvpn.com/australia-vpn-service/</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -2163,7 +2166,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content> program, 23 March 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fa9" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2112" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2183,7 +2186,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, 13 October 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fab" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2114" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2215,7 +2218,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, 21 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fad" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2115" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2239,7 +2242,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, October 2 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fae" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2117" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2249,7 +2252,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>Richardson, David. ‘Copyright and Monopoly Profits: Books, Records and Software’, Current Issues Brief 15, 1996, The Parliament of Australia, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1faf" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2118" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2265,7 +2268,7 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 				<Content>, July 22, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1fb0" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2119" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2407,91 +2410,91 @@ AAEAAABM9wAAHAEDAAEAAAABAAEDUgEDAAEAAAACAAAANYIBAAEAAAAAkuECAAAAAA==]]></Graphic
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 129" DestinationUniqueKey="231" Name="URL 129" DestinationURL="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 130" DestinationUniqueKey="232" Name="URL 130" DestinationURL="numbering.xml" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 131" DestinationUniqueKey="233" Name="URL 131" DestinationURL="../customXml/item1.xml" Hidden="false" />
-	<Hyperlink Self="u1fbd" Name="http://www.ibvpn.com/australia-vpn-service/" Source="u1fa7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="225">
+	<Hyperlink Self="u211a" Name="http://www.ibvpn.com/australia-vpn-service/" Source="u210f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="225">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 123</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fbb" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Source="u1fa9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="224">
+	<Hyperlink Self="u211b" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Source="u2112" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="224">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 122</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fb9" Name="https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax" Source="u1fab" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="223">
+	<Hyperlink Self="u211c" Name="https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax" Source="u2114" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="223">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 121</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fb7" Name="http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns" Source="u1fad" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="222">
+	<Hyperlink Self="u211d" Name="http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns" Source="u2115" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="222">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 120</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fb5" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373" Source="u1fae" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="221">
+	<Hyperlink Self="u211e" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373" Source="u2117" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="221">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 119</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fb3" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 1" Source="u1faf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="220">
+	<Hyperlink Self="u211f" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 1" Source="u2118" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="220">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 118</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fb1" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Source="u1fb0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u2120" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Source="u2119" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fcd" Name="../customXml/item1.xml" Source="u1f82" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
+	<Hyperlink Self="u2121" Name="../customXml/item1.xml" Source="u20e8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="233">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 131</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fcb" Name="numbering.xml" Source="u1f86" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
+	<Hyperlink Self="u2122" Name="numbering.xml" Source="u20ec" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="232">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 130</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fc9" Name="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Source="u1f88" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
+	<Hyperlink Self="u2123" Name="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Source="u20ef" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 129</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fc7" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164 1" Source="u1f8d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
+	<Hyperlink Self="u2124" Name="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164 1" Source="u20f3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="230">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 128</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fc5" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 2" Source="u1f8f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="229">
+	<Hyperlink Self="u2125" Name="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15 2" Source="u20f5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="229">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 127</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fc3" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373." Source="u1f95" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="228">
+	<Hyperlink Self="u2126" Name="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373." Source="u20fb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="228">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 126</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fc1" Name="http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634" Source="u1f99" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="227">
+	<Hyperlink Self="u2127" Name="http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634" Source="u2100" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="227">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 125</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1fbf" Name="http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/" Source="u1f9c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="226">
+	<Hyperlink Self="u2128" Name="http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/" Source="u2102" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="226">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 124</Destination>

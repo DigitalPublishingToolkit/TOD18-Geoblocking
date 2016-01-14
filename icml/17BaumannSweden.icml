@@ -44,19 +44,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -531,7 +518,7 @@
 							<Content> 20 November 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u254a" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26a9" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -647,7 +634,7 @@
 							<Content>, 29 April 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2552" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26b1" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -800,7 +787,7 @@
 							<Content>, 16 October 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u255c" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26bb" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -936,7 +923,7 @@
 							<Content>	Court of Justice of the European Union, Press release 54/14, 8 April 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2565" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26c4" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -971,7 +958,7 @@
 							<Content>, 11 April 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2568" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26c6" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -994,7 +981,7 @@
 							<Content>	Förvaltningsrätten i Stockholm, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u256b" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26c9" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1024,7 +1011,7 @@
 							<Content>, 16 November 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u256e" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26cd" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://5july.org/2014/11/16/lex-integrity/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1053,7 +1040,7 @@
 							<Content>, 16 November 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2570" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26cf" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1102,7 +1089,7 @@
 							<Content> 20 April 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u2572" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u26d1" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.flashback.org/p36938188#p36938188</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1132,7 +1119,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>), in addition to multiple uses of related terms like ‘safe’ or ‘secure.’ This, of course, is hardly a coincidence.</Content>
 				<Br />
-				<Rectangle Self="u2574" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -64.8818897637766">
+				<Rectangle Self="u26d3" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -64.8818897637766">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -1160,7 +1147,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u2579" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="271 271" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5529818294670279 0 0 0.5529818294670278 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u26d9" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="271 271" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5529818294670279 0 0 0.5529818294670278 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAHReAQCAO2BDiBO2CQOCweDQmGQiHQuHwqJQ2IRWJxGKReLRmORiPRuPxqRR2QSWRyGSSeTS
@@ -2739,7 +2726,7 @@ I+YcaIB1Uwk8YlZoBoM5plAYFBh2Z2s38+glDoINlCgf6z784NNDIf4LlDlDdDtC8eNA1EU/9Ec9
 FEtAFElFNE1FVFFFdFwxboNCInlGU6BiEtRhdG9FlE9HdHRFAgIASAAAAAEAAABIAAAAAQAAAA4A
 AAEEAAEAAADDAQAAAQEEAAEAAAAaAQAAAgEDAAEAAAAIAAAAAwEDAAEAAAAFAAAABgEDAAEAAAAC
 AAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAAaAQAAFwEEAAEAAABbXgEAGgEFAAEA
-AABkXgEAGwEFAAEAAABsXgEAHAEDAAEAAAABAFoUUgEDAAEAAAACAAAANYIBAAEAAAAAAAAAAAAA
+AABkXgEAGwEFAAEAAABsXgEAHAEDAAEAAAABAAAAUgEDAAEAAAACAAAANYIBAAEAAAAAAK5YAAAA
 AA==]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="450.68272735012454" Bottom="281.73669963208" />
 						</Properties>
@@ -2749,7 +2736,7 @@ AA==]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u2578" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BaumannImage1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130881221460000000 274729" LinkImportModificationTime="2015-09-30T23:29:06" LinkImportTime="2015-12-15T14:15:03" LinkResourceSize="0~43129" />
+						<Link Self="u26d6" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/BaumannImage1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 274729" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:40:00" LinkResourceSize="0~43129" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2803,8 +2790,6 @@ AA==]]></GraphicProxy>
 				<Content> Consequently, privacy remains high on the agenda for many internet users who have become accustomed to a country famed for its libertarian digital politics. Companies providing VPN services like Anonine surely will not complain about Swedish internet users’ quest for privacy.</Content>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>The author wishes to thank Patrick Vonderau for helpful suggestions.</Content>
 				<Br />
@@ -2827,7 +2812,7 @@ AA==]]></GraphicProxy>
 				<Content> 20 April 2012. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2580" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e2" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.flashback.org/p36938188#p36938188</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2843,7 +2828,7 @@ AA==]]></GraphicProxy>
 				<Content>, 20 March 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2581" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e3" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2859,7 +2844,7 @@ AA==]]></GraphicProxy>
 				<Content>, 29 April 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2582" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e4" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2869,7 +2854,7 @@ AA==]]></GraphicProxy>
 				<Content>Court of Justice of the European Union. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2583" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e5" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2887,7 +2872,7 @@ AA==]]></GraphicProxy>
 				<Content>Flashback. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2585" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e7" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.flashback.org/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2897,7 +2882,7 @@ AA==]]></GraphicProxy>
 				<Content>_____. ‘Den Bästa Appen för att Surfa Anonymt Med iPhone? (proxy/VPN)’, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2586" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e8" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.flashback.org/t2516629</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2907,7 +2892,7 @@ AA==]]></GraphicProxy>
 				<Content>_____. ‘Den Stora Frågetraden om VPN-tjänsten Anonine! [Sammanfogad]’, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2587" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26e9" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.flashback.org/t926057</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2917,7 +2902,7 @@ AA==]]></GraphicProxy>
 				<Content>_____. ‘Hur Anonymt är VPN Över Wifi, När det Kommer till Kritan’, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2588" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26ea" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.flashback.org/t2449802</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2927,7 +2912,7 @@ AA==]]></GraphicProxy>
 				<Content>Förvaltningsrätten i Stockholm. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2589" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26eb" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.forvaltningsrattenistockholm.domstol.se/ Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2937,7 +2922,7 @@ AA==]]></GraphicProxy>
 				<Content>Google Trends. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258a" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26ec" Name="Hyperlink 55" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.google.com/trends/topcharts#vm=cat&amp;geo=SE&amp;date=2012&amp;cid</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2953,7 +2938,7 @@ AA==]]></GraphicProxy>
 				<Content>. 16 November 2014. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258b" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26ed" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2969,7 +2954,7 @@ AA==]]></GraphicProxy>
 				<Content>, 16 October 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258d" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26ee" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3003,7 +2988,7 @@ AA==]]></GraphicProxy>
 				<Content>, 13 May 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258e" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26f0" Name="Hyperlink 58" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.flashback.org/p37334359#p37334359</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3033,7 +3018,7 @@ AA==]]></GraphicProxy>
 				<Content>, 16 November 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u258f" Name="Hyperlink 59" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26f1" Name="Hyperlink 59" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://5july.org/2014/11/16/lex-integrity/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3049,7 +3034,7 @@ AA==]]></GraphicProxy>
 				<Content>, 20 November 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2590" Name="Hyperlink 60" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26f2" Name="Hyperlink 60" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3073,7 +3058,7 @@ AA==]]></GraphicProxy>
 				<Content>, 15 August 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2592" Name="Hyperlink 61" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26f4" Name="Hyperlink 61" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3089,7 +3074,7 @@ AA==]]></GraphicProxy>
 				<Content>, 11 April 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u2593" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u26f5" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -3286,157 +3271,157 @@ AA==]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 175" DestinationUniqueKey="277" Name="URL 175" DestinationURL="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 176" DestinationUniqueKey="278" Name="URL 176" DestinationURL="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 177" DestinationUniqueKey="279" Name="URL 177" DestinationURL="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/" Hidden="false" />
-	<Hyperlink Self="u25b5" Name="https://www.flashback.org/p36938188#p36938188" Source="u2580" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="270">
+	<Hyperlink Self="u26f6" Name="https://www.flashback.org/p36938188#p36938188" Source="u26e2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="270">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 168</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b3" Name="http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar" Source="u2581" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="269">
+	<Hyperlink Self="u26f7" Name="http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar" Source="u26e3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="269">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 167</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b1" Name="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd" Source="u2582" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="268">
+	<Hyperlink Self="u26f8" Name="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd" Source="u26e4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="268">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 166</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25af" Name="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf" Source="u2583" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="267">
+	<Hyperlink Self="u26f9" Name="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf" Source="u26e5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="267">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 165</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ad" Name="https://www.flashback.org/" Source="u2585" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="266">
+	<Hyperlink Self="u26fa" Name="https://www.flashback.org/" Source="u26e7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="266">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 164</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25ab" Name="https://www.flashback.org/t2516629" Source="u2586" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="265">
+	<Hyperlink Self="u26fb" Name="https://www.flashback.org/t2516629" Source="u26e8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="265">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 163</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a9" Name="https://www.flashback.org/t926057" Source="u2587" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="264">
+	<Hyperlink Self="u26fc" Name="https://www.flashback.org/t926057" Source="u26e9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="264">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 162</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a7" Name="https://www.flashback.org/t2449802" Source="u2588" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="263">
+	<Hyperlink Self="u26fd" Name="https://www.flashback.org/t2449802" Source="u26ea" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="263">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 161</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a5" Name="http://www.forvaltningsrattenistockholm.domstol.se/%20Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf" Source="u2589" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="262">
+	<Hyperlink Self="u26fe" Name="http://www.forvaltningsrattenistockholm.domstol.se/%20Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf" Source="u26eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="262">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 160</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a3" Name="https://www.google.com/trends/topcharts#vm=cat&amp;geo=SE&amp;date=2012&amp;cid" Source="u258a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="261">
+	<Hyperlink Self="u26ff" Name="https://www.google.com/trends/topcharts#vm=cat&amp;geo=SE&amp;date=2012&amp;cid" Source="u26ec" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="261">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 159</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25a1" Name="https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering" Source="u258b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="260">
+	<Hyperlink Self="u2700" Name="https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering" Source="u26ed" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="260">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 158</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u259f" Name="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece" Source="u258d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="259">
+	<Hyperlink Self="u2701" Name="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece" Source="u26ee" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="259">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 157</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u259d" Name="https://www.flashback.org/p37334359#p37334359" Source="u258e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="258">
+	<Hyperlink Self="u2702" Name="https://www.flashback.org/p37334359#p37334359" Source="u26f0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="258">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 156</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u259b" Name="https://5july.org/2014/11/16/lex-integrity/" Source="u258f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="257">
+	<Hyperlink Self="u2703" Name="https://5july.org/2014/11/16/lex-integrity/" Source="u26f1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="257">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 155</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2599" Name="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/" Source="u2590" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="256">
+	<Hyperlink Self="u2704" Name="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/" Source="u26f2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="256">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 154</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2597" Name="http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920" Source="u2592" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="255">
+	<Hyperlink Self="u2705" Name="http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920" Source="u26f4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="255">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 153</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2595" Name="http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/" Source="u2593" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u2706" Name="http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/" Source="u26f5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c7" Name="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/ 1" Source="u254a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="279">
+	<Hyperlink Self="u2707" Name="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/ 1" Source="u26a9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="279">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 177</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c5" Name="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd 1" Source="u2552" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="278">
+	<Hyperlink Self="u2708" Name="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd 1" Source="u26b1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="278">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 176</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c3" Name="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece 1" Source="u255c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="277">
+	<Hyperlink Self="u2709" Name="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece 1" Source="u26bb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="277">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 175</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25c1" Name="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf 1" Source="u2565" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="276">
+	<Hyperlink Self="u270a" Name="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf 1" Source="u26c4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="276">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 174</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25bf" Name="http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/ 1" Source="u2568" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="275">
+	<Hyperlink Self="u270b" Name="http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/ 1" Source="u26c6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="275">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 173</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25bd" Name="http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf" Source="u256b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="274">
+	<Hyperlink Self="u270c" Name="http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf" Source="u26c9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="274">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 172</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25bb" Name="https://5july.org/2014/11/16/lex-integrity/ 1" Source="u256e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="273">
+	<Hyperlink Self="u270d" Name="https://5july.org/2014/11/16/lex-integrity/ 1" Source="u26cd" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="273">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 171</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b9" Name="https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering 1" Source="u2570" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="272">
+	<Hyperlink Self="u270e" Name="https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering 1" Source="u26cf" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="272">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 170</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u25b7" Name="https://www.flashback.org/p36938188#p36938188 1" Source="u2572" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="271">
+	<Hyperlink Self="u270f" Name="https://www.flashback.org/p36938188#p36938188 1" Source="u26d1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="271">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 169</Destination>

@@ -17,7 +17,7 @@ Font(s) used: Open Sans
 ...
 
 
-# The New Video Geography: An Introduction To *Geoblocking and Global Video Culture*
+# Introduction: The New Video Geography
 
 ###Ramon Lobato###
 
@@ -34,7 +34,7 @@ reach dispersed audiences through authorized and unauthorized channels.
 As an entry point into these wider issues, contributors to this book
 focus on a specific technology of access control: geoblocking.
 Geoblocking, a spatially-aware filtering technology that uses IP address
-detection to determine a user’s location, has become a key mechanism for
+databases to determine a user’s location, has become a key mechanism for
 managing international video streaming traffic and maintaining
 separation of national media markets. The process is simple: when you
 visit a website, your IP address (e.g. 198.8.80.200) is run through a
@@ -86,9 +86,9 @@ about internet blocking beyond the ‘digital divide’ paradigm.
 
 Geoblocking circumvention is closely linked to other issues including
 internet governance, censorship, and cultural policy, because the same
-privacy tools that can be used to hack into iPlayer or Netflix are in
+privacy tools that can be used to hack into iPlayer or Hulu are in
 other contexts used to get around state internet censorship. As
-researchers at Harvard University’s Berkman Center for internet and
+researchers at Harvard University’s Berkman Center for Internet and
 Society have documented, global circumvention – encompassing the use of
 commercial VPNs, activist-designed tools, simple web proxies and
 HTTP/SOCKS proxies – is an activity that involves tens of millions of
@@ -150,7 +150,7 @@ sometimes do not, depending on where you are located. Consider the
 following examples:
 
 -   YouTube is available in 70 different country-specific versions,
-    including dedicated platforms for small countries such as Latvia
+    including dedicated platforms for countries such as Latvia
     and Yemen. But it is blocked in China, Iran, Pakistan and Syria,
     among other countries, and is intermittently unavailable in
     Thailand, Turkey, Bangladesh and Morocco.
@@ -158,9 +158,7 @@ following examples:
 -   YouTube also has significantly restricted content in Germany because
     of a long-running copyright dispute with music collecting societies.
 
--   Netflix is available in approximately 80 territories but geoblocked
-    in the rest of the world, including China, Japan, Central and
-    Eastern Europe, and all of Africa.
+-   The Netflix streaming catalog (as of 2016, unblocked everywhere but China) varies markedly between countries, with the availability of movies and TV content reflecting local licensing, copyright and censorship arrangements.
 
 -   Major streaming sites including BBC iPlayer and Hulu are available
     only in their country of origin (the United Kingdom and United
@@ -218,7 +216,7 @@ To the delight of digital advertising companies, content could now be
 customised to local markets. Websites could now imagine, understand and
 process their customers in geographic market segments, down to their
 postcodes (Hulu, for example, boasts it ‘can target \[ads\] by Nielsen
-DMA, State or zip code’[^01LobatoIntroduction_5]). For internet idealists with their dreams
+DMA, State or zip code’)[^01LobatoIntroduction_5]. For internet idealists with their dreams
 of global connectivity and universal access, this resurgence of physical
 geography has been problematic. One widely discussed consequence is that
 there is now no such thing as a universal internet – understood as a

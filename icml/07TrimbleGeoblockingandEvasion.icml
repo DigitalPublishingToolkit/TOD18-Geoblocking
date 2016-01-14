@@ -571,7 +571,7 @@
 				<Br />
 				<Content>The idea that geoblocking could be used as a compliance tool is one part of the development of the relationship between geoblocking and legal compliance. This chapter outlines the three stages through which this development will proceed. In the first stage, geoblocking will be accepted as a tool of regulation and enforcement. While acceptance has already occurred in some countries in some contexts, this acceptance is certainly not yet general or widespread. In the second stage, minimum standards for geoblocking will be promulgated because the use of geoblocking for purposes of legal compliance necessarily calls for minimum technological standards that geoblocking tools must meet in order to create virtual borders sufficiently precise and impermeable to satisfy the law. In the third stage, circumvention of geoblocking and the tools that facilitate circumvention will be targeted by countries’ regulation. The three stages will likely begin at different times in different countries, industries, and contexts, but will eventually overlap and thereafter develop concurrently.</Content>
 				<Br />
-				<Rectangle Self="u1a0b" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1b3c" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -599,7 +599,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1a10" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="906 906" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.07944758858267718 0 0 0.0794475885826772 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1b42" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="906 906" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.07944758858267718 0 0 0.0794475885826772 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/Use Document Default</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEAEgASAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAEgAAAAEA
@@ -3662,7 +3662,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1a0f" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/TrimbleImage1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130884804020000000 590999" LinkImportModificationTime="2015-10-05T03:00:02" LinkImportTime="2015-12-14T16:39:52" LinkResourceSize="0~90497" />
+						<Link Self="u1b3f" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/TrimbleImage1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 590999" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T15:00:58" LinkResourceSize="0~90497" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -3758,7 +3758,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>As these two court decisions suggest, geoblocking may eventually be recognized by courts as </Content>
+				<Content>As these court decisions suggest, geoblocking may eventually be recognized by courts as </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>the</Content>
@@ -3825,7 +3825,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>Spanski Enterprises</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> filed (in 2007) resulted in a 2009 settlement agreement in which the parties agreed to &apos;maintain and continue all Internet geo-blocking which is currently in effect, and […] use their best efforts to conform their respective future geo-blocking efforts to the latest widely disseminated and financially practicable geo-blocking technologies.&apos;</Content>
+				<Content> filed (in 2007) resulted in a 2009 settlement agreement in which the parties agreed to &apos;maintain and continue all internet geo-blocking which is currently in effect, and […] use their best efforts to conform their respective future geo-blocking efforts to the latest widely disseminated and financially practicable geo-blocking technologies.&apos;</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -3852,7 +3852,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>Telewizja Polska</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> had &apos;turned off the geoblocking feature and thereby intentionally made available to viewers in the United States via the Internet thousands of episodes of shows to which [</Content>
+				<Content> had &apos;turned off the geoblocking feature and thereby intentionally made available to viewers in the United States via the internet thousands of episodes of shows to which [</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Spanski Enterprises</Content>
@@ -4054,7 +4054,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							<Content>	Michael Geist, ‘Nobody’s Perfect: Leaked Contract Reveals Sony Requires Netflix to Geo-Block But Acknowledges Technology is Imperfect’, Michael Geist’s blog, 17 April 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1a24" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1b58" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4211,7 +4211,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							<Content>, 31 July 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1a31" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1b65" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4225,7 +4225,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							<Content>, 25 January 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1a32" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1b66" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4254,7 +4254,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							<Content>	Nutzungsbedingunen für die Nutzung des Videoportals von Sat.1, § 4.1(g), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1a34" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1b68" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4381,7 +4381,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							<Content>	Jeremy Kirk, ‘Geoblocking Question Unresolved After New Zealand Lawsuit Ends’, PCWorld, 23 June 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1a3c" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1b71" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4434,7 +4434,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In discussing the three stages in the development of the relationship between geoblocking and legal compliance this chapter presumes that geoblocking will be more pervasive and eventually become the only means to achieve legal compliance, including compliance with territorial limitations of the law. The presumption is rooted in the conviction that legal compliance on the internet cannot be achieved without replicating national borders online. A single global law that would eliminate the need for national borders is unlikely to develop anytime soon, and the alternative – the harmonization of national laws – is unlikely to result in the uniformity necessary to make national borders obsolete for legal purposes. Because differences among national laws persist, a need for borders on the internet, and therefore for geoblocking, seems unavoidable.</Content>
+				<Content>In discussing the three stages in the development of the relationship between geoblocking and legal compliance this chapter presumes that geoblocking will be more pervasive and eventually become the only means to achieve compliance with territorial limitations of the law. The presumption is rooted in the conviction that legal compliance on the internet cannot be achieved without replicating national borders online. A single global law that would eliminate the need for national borders is unlikely to develop anytime soon, and the alternative – the harmonization of national laws – is unlikely to result in the uniformity necessary to make national borders obsolete for legal purposes. Because differences among national laws persist, a need for borders on the internet, and therefore for geoblocking, seems unavoidable.</Content>
 				<Br />
 				<Content>There is, of course, much opposition to geoblocking. Users complain about the inaccessibility of geoblocked content, and their increasing use of geoblocking circumvention tools evidences their displeasure with territorial limitations. In May 2015 the European Commission criticized the use of geoblocking in the European Union in ‘A Digital Single Market Strategy for Europe – Analysis and Evidence’</Content>
 			</CharacterStyleRange>
@@ -4505,7 +4505,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 							<Content> Marketa Trimble, Local Hosting and the Draft “Trade in Services Agreement”, Technology &amp; Marketing Law Blog, 22 September 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1a46" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1b7a" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -4592,7 +4592,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>, 31 July 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1a4d" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1b81" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4616,7 +4616,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>Geist, Michael. ‘Nobody’s Perfect: Leaked Contract Reveals Sony Requires Netflix to Geo-Block But Acknowledges Technology is Imperfect’, Michael Geist’s blog, 17 April 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1a4e" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1b82" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4632,7 +4632,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>, 25 January 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1a4f" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1b83" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4662,7 +4662,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>Kirk, Jeremy. ‘Geoblocking Question Unresolved After New Zealand Lawsuit Ends’, PCWorld, 23 June 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1a50" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1b84" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4716,7 +4716,7 @@ V+Roa93l1//Z]]></GraphicProxy>
 				<Content>Trimble, Marketa. ‘Local Hosting and the Draft “Trade in Services Agreement”’, Technology &amp; Marketing Law Blog, 22 September 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1a53" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1b87" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -4802,67 +4802,67 @@ V+Roa93l1//Z]]></GraphicProxy>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 66" DestinationUniqueKey="168" Name="URL 66" DestinationURL="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 67" DestinationUniqueKey="169" Name="URL 67" DestinationURL="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 68" DestinationUniqueKey="170" Name="URL 68" DestinationURL="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Hidden="false" />
-	<Hyperlink Self="u1a5c" Name="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Source="u1a4d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="164">
+	<Hyperlink Self="u1b88" Name="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Source="u1b81" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="164">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 62</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a5a" Name="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Source="u1a4e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="163">
+	<Hyperlink Self="u1b89" Name="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Source="u1b82" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="163">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 61</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a58" Name="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Source="u1a4f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="162">
+	<Hyperlink Self="u1b8a" Name="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Source="u1b83" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="162">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 60</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a56" Name="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html" Source="u1a50" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="161">
+	<Hyperlink Self="u1b8b" Name="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html" Source="u1b84" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="161">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 59</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a54" Name="http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm" Source="u1a53" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1b8c" Name="http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.htm" Source="u1b87" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a68" Name="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/ 1" Source="u1a24" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="170">
+	<Hyperlink Self="u1b8d" Name="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/ 1" Source="u1b58" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="170">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 68</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a66" Name="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731 1" Source="u1a31" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="169">
+	<Hyperlink Self="u1b8e" Name="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731 1" Source="u1b65" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="169">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 67</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a64" Name="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1 1" Source="u1a32" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="168">
+	<Hyperlink Self="u1b8f" Name="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1 1" Source="u1b66" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="168">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 66</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a62" Name="http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1" Source="u1a34" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="167">
+	<Hyperlink Self="u1b90" Name="http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1" Source="u1b68" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="167">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 65</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a60" Name="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html 1" Source="u1a3c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="166">
+	<Hyperlink Self="u1b91" Name="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html 1" Source="u1b71" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="166">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 64</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1a5e" Name="http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html" Source="u1a46" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="165">
+	<Hyperlink Self="u1b92" Name="http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html" Source="u1b7a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="165">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 63</Destination>

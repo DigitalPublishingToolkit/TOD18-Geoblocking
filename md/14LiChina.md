@@ -20,14 +20,14 @@ Font(s) used: Open Sans
 # China: The Techno-Politics of the Wall
 
 ### Jinying Li
-<div class="statbox">- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
+<div class="statbox">- 668 million: total number of internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese internet users who use VPNs and proxies to bypass the GFW
 
 >'If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’' – Murong Xuecun, Writer, 2015
 
 </div>
 
 The Great Firewall (GFW) is one of the most sophisticated and effective
-Internet blocking projects, and it functions as a powerful instrument
+internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a
 technological apparatus and a structure metaphor, is a symptomatic
 object of the global media network, shattering the myth of borderless
@@ -66,12 +66,12 @@ control. In the case of China’s Great Firewall, the space it seeks to
 divide, dominate, and control is obviously cyberspace, whose imagined
 'unruliness' pronounces both threat and vulnerability.
 
-When computers and the Internet were first introduced to China, they
+When computers and the internet were first introduced to China, they
 were seen as technological opportunities for economic growth and were
 highly promoted by the Chinese government. Since the early 1990s, China
-has invested significantly in network infrastructure, and its Internet
+has invested significantly in network infrastructure, and its internet
 user base has expanded at exponential speed. By 2015, China had 668
-million Internet users, the largest number in the world, and it is
+million internet users, the largest number in the world, and it is
 moving toward a fast-growing information society with over 3.35 million
 websites and 250 million microbloggers (China’s equivalent of
 Twitter).[^09LiChina_4]
@@ -98,17 +98,17 @@ networks highlight the fundamental tension in post-Socialist China,
 which struggles between the economic reform toward free-market
 neoliberalism and tightening political coercion.[^09LiChina_8] In 1996, a list of
 foreign websites was blocked in China for the first time. In 1997, the
-government issued the Computer Information and Internet Security
+government issued the Computer Information and internet Security
 Protection Management Regulation, a far-reaching law to dramatically
 tighten information control online. A comprehensive project was
 initiated in 1998 and launched in 2003 to systematically monitor,
-filter, and regulate Internet traffic between China and the outside
+filter, and regulate internet traffic between China and the outside
 world. The GFW was soon recognized as the world’s most sophisticated and
 ambitious system for information control.
 
 The construction of the GFW was never officially announced or
 acknowledged. Its existence, however, is widely known, because its
-effects are constantly experienced by hundreds of millions Internet
+effects are constantly experienced by hundreds of millions internet
 users in China. Whenever they try to get onto YouTube or search for a
 'sensitive word' (*mingan ci*), a page appears with the error message:
 '404 page not found'. The interface of blockage is so blatantly
