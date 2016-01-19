@@ -38,16 +38,15 @@ Theory on Demand #18
 
 **Editors:** Ramon Lobato and James Meese<br/>
 **Copy-editing:** Leonieke van Dipten<br/>
-**Editorial support:** Miriam Rasch<br/>
 
-**Cover Design:** Katja Stiphout<br/>
+**Editorial support:** Miriam Rasch<br/>
+**Cover Design:** Katja van Stiphout<br/>
 **DTP:** Leonieke van Dipten<br/>
-**Infographics:** Sandra Hanchard <br/>
-**EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 
+**EPUB development:** Leonieke van Dipten<br/> 
 **Infographics:** Sandra Hanchard
 
 **Printer:** Print on Demand<br/>
-**Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>
+**Publisher:** Institute of Network Cultures, Amsterdam, 2016s<br/>
 **ISBN:** 978-94-92302-03-8<br/> 
 
 

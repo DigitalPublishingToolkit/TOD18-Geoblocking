@@ -2,8 +2,9 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="11.0(72)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
-	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/u1de9" Model="Process" Space="CMYK" ColorValue="45 7.000000000000001 5 14.000000000000002" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/C=45 M=5 Y=7 K=14" Model="Process" Space="CMYK" ColorValue="45 5 7.000000000000001 14.000000000000002" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=45 M=5 Y=7 K=14" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
@@ -197,7 +198,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=45 M=5 Y=7 K=14" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -5617,35 +5618,35 @@ AAA1ggEAAQAAAADvBQAAAAAA]]></GraphicProxy>
 					<Column Self="u1ae0i1d79Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
 					<Column Self="u1ae0i1d79Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
 					<Column Self="u1ae0i1d79Column4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="68.5417322834646" />
-					<Cell Self="u1ae0i1d79i2d" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
+					<Cell Self="u1ae0i1d79i2d" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/u1de9" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Platform </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1d79i2e" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
+					<Cell Self="u1ae0i1d79i2e" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/u1de9" ClipContentToCell="false" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Do you need to pay? </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1d79i2f" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
+					<Cell Self="u1ae0i1d79i2f" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/u1de9" ClipContentToCell="false" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Timing </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1d79i30" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="5" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
+					<Cell Self="u1ae0i1d79i30" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/u1de9" ClipContentToCell="false" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="5" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Geographic restriction </Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u1ae0i1d79i31" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/C=91 M=23 Y=100 K=41" ClipContentToCell="false" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="5" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="5">
+					<Cell Self="u1ae0i1d79i31" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" FillColor="Color/u1de9" ClipContentToCell="false" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="5" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="5">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>&apos;Quality&apos; </Content>
