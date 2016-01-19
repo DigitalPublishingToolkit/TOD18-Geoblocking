@@ -40,10 +40,11 @@ Theory on Demand #18
 **Copy-editing:** Leonieke van Dipten<br/>
 **Editorial support:** Miriam Rasch<br/>
 
-**Cover Design:** Katja Schiphout<br/>
+**Cover Design:** Katja Stiphout<br/>
 **DTP:** Leonieke van Dipten<br/>
 **Infographics:** Sandra Hanchard <br/>
 **EPUB development:** Leonieke van Dipten, Gottfried Haider<br/> 
+**Infographics:** Sandra Hanchard
 
 **Printer:** Print on Demand<br/>
 **Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>
@@ -67,47 +68,47 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-<a href="ch004.xhtml">Introduction: The New Video Geography</a><br/>
+<a href="ch004.xhtml">**Introduction: The New Video Geography**</a><br/>
 *Ramon Lobato*<br/>
 
 ##PART I: PERSPECTIVES ON GEOBLOCKING
 
-<a href="ch006.xhtml">Tunneling Media: Geoblocking and Online Border Resistance</a><br/>*Juan Llamas-Rodriguez*<br/>
+<a href="ch006.xhtml">**Tunneling Media: Geoblocking and Online Border Resistance**</a><br/>*Juan Llamas-Rodriguez*<br/>
 
-<a href="ch007.xhtml">The Logics and Territorialities of Geoblocking</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León*<br/>
+<a href="ch007.xhtml">**The Logics and Territorialities of Geoblocking**</a><br/> *Cameran Ashraf and Luis Felipe Alvarez León*<br/>
 
-<a href="ch008.xhtml">Geoblocking, Technical Standards and the Law</a><br/>*Marketa Trimble*<br/>
+<a href="ch008.xhtml">**Geoblocking, Technical Standards and the Law**</a><br/>*Marketa Trimble*<br/>
 
-<a href="ch009.xhtml">Periscope, Live Streaming and Mobile Video Culture</a><br/>*Adam Rugg and Ben Burroughs*
+<a href="ch009.xhtml">**Periscope, Live Streaming and Mobile Video Culture**</a><br/>*Adam Rugg and Ben Burroughs*
 
-<a href="ch010.xhtml"> Circumvention, Media Sport and the Fragmentation of Video Culture
+<a href="ch010.xhtml"> **Circumvention, Media Sport and the Fragmentation of Video Culture**
 </a><br/>*James Meese and Aneta Podkalicka*
 
-<a href="ch011.xhtml">Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming
-Aggregation Platforms</a><br/>*Florian Hoof*
+<a href="ch011.xhtml">**Live Sports, Piracy and Uncertainty: Understanding Illegal Streaming
+Aggregation Platforms**</a><br/>*Florian Hoof*
 
-<a href="ch012.xhtml">The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988 - 1993</a><br/>*Roland Burke*
+<a href="ch012.xhtml">**The Future in a Vault of Plastic: Physical Geolocking in the Era of the 16-bit Video Game Cartridge, 1988 - 1993**</a><br/>*Roland Burke*
 
 ##PART II: CIRCUMVENTION CASE STUDIES<br/>
 
-<a href="ch014.xhtml"> China: The techno-politics of the Wall</a><br/>*Jinying Li*
+<a href="ch014.xhtml"> **China: The techno-politics of the Wall**</a><br/>*Jinying Li*
 
-<a href="ch015.xhtml">Australia: Circumvention Goes Mainstream</a><br/>*Ramon Lobato and James Meese*
+<a href="ch015.xhtml">**Australia: Circumvention Goes Mainstream**</a><br/>*Ramon Lobato and James Meese*
 
-<a href="ch016.xhtml">Turkey: Coping with Internet Censorship</a><br/>*Çiğdem Bozdağ*
+<a href="ch016.xhtml">**Turkey: Coping with Internet Censorship**</a><br/>*Çiğdem Bozdağ*
 
-<a href="ch017.xhtml"> Sweden: Circumvention and the Quest for Privacy</a><br/>*Chris Baumann*
+<a href="ch017.xhtml"> **Sweden: Circumvention and the Quest for Privacy**</a><br/>*Chris Baumann*
 
-<a href="ch018.xhtml">Malaysia: Global Binge-Viewing in a Restrictive State</a><br/>*Sandra Hanchard*
+<a href="ch018.xhtml">**Malaysia: Global Binge-Viewing in a Restrictive State**</a><br/>*Sandra Hanchard*
 
-<a href="ch019.xhtml">Brazil: Netflix, VPNs, and the 'Paying Pirates'</a><br/>*Vanessa Mendes Moreira de Sa*
+<a href="ch019.xhtml">**Brazil: Netflix, VPNs, and the 'Paying Pirates'**</a><br/>*Vanessa Mendes Moreira de Sa*
 
-<a href="ch020.xhtml">Iran: A Friction Between State Ideology and Network Society</a><br/>*Hadi Sohrabi and Behzad Dowran*
+<a href="ch020.xhtml">**Iran: A Friction Between State Ideology and Network Society**</a><br/>*Hadi Sohrabi and Behzad Dowran*
 
-<a href="ch021.xhtml">Cuba: *Videos to the Left* – Circumvention Practices and
-Audiovisual Ecologies</a><br/>*Fidel Alejandro Rodriguez*
+<a href="ch021.xhtml">**Cuba: *Videos to the Left* – Circumvention Practices and
+Audiovisual Ecologies**</a><br/>*Fidel Alejandro Rodriguez*
 
-<a href="ch022.xhtml">United States: Geoblocking in a Privileged Market</a><br/>*Evan Elkins*
+<a href="ch022.xhtml">**United States: Geoblocking in a Privileged Market**</a><br/>*Evan Elkins*
 
 
 
@@ -115,7 +116,7 @@ Audiovisual Ecologies</a><br/>*Fidel Alejandro Rodriguez*
 
 
 
-# The New Video Geography: An Introduction To *Geoblocking and Global Video Culture*
+# Introduction: The New Video Geography
 
 ###Ramon Lobato###
 
@@ -132,7 +133,7 @@ reach dispersed audiences through authorized and unauthorized channels.
 As an entry point into these wider issues, contributors to this book
 focus on a specific technology of access control: geoblocking.
 Geoblocking, a spatially-aware filtering technology that uses IP address
-detection to determine a user’s location, has become a key mechanism for
+databases to determine a user’s location, has become a key mechanism for
 managing international video streaming traffic and maintaining
 separation of national media markets. The process is simple: when you
 visit a website, your IP address (e.g. 198.8.80.200) is run through a
@@ -184,9 +185,9 @@ about internet blocking beyond the ‘digital divide’ paradigm.
 
 Geoblocking circumvention is closely linked to other issues including
 internet governance, censorship, and cultural policy, because the same
-privacy tools that can be used to hack into iPlayer or Netflix are in
+privacy tools that can be used to hack into iPlayer or Hulu are in
 other contexts used to get around state internet censorship. As
-researchers at Harvard University’s Berkman Center for internet and
+researchers at Harvard University’s Berkman Center for Internet and
 Society have documented, global circumvention – encompassing the use of
 commercial VPNs, activist-designed tools, simple web proxies and
 HTTP/SOCKS proxies – is an activity that involves tens of millions of
@@ -248,7 +249,7 @@ sometimes do not, depending on where you are located. Consider the
 following examples:
 
 -   YouTube is available in 70 different country-specific versions,
-    including dedicated platforms for small countries such as Latvia
+    including dedicated platforms for countries such as Latvia
     and Yemen. But it is blocked in China, Iran, Pakistan and Syria,
     among other countries, and is intermittently unavailable in
     Thailand, Turkey, Bangladesh and Morocco.
@@ -256,9 +257,7 @@ following examples:
 -   YouTube also has significantly restricted content in Germany because
     of a long-running copyright dispute with music collecting societies.
 
--   Netflix is available in approximately 80 territories but geoblocked
-    in the rest of the world, including China, Japan, Central and
-    Eastern Europe, and all of Africa.
+-   The Netflix streaming catalog (as of 2016, unblocked everywhere but China) varies markedly between countries, with the availability of movies and TV content reflecting local licensing, copyright and censorship arrangements.
 
 -   Major streaming sites including BBC iPlayer and Hulu are available
     only in their country of origin (the United Kingdom and United
@@ -316,7 +315,7 @@ To the delight of digital advertising companies, content could now be
 customised to local markets. Websites could now imagine, understand and
 process their customers in geographic market segments, down to their
 postcodes (Hulu, for example, boasts it ‘can target \[ads\] by Nielsen
-DMA, State or zip code’[^01LobatoIntroduction_5]). For internet idealists with their dreams
+DMA, State or zip code’)[^01LobatoIntroduction_5]. For internet idealists with their dreams
 of global connectivity and universal access, this resurgence of physical
 geography has been problematic. One widely discussed consequence is that
 there is now no such thing as a universal internet – understood as a
@@ -436,7 +435,7 @@ was used primarily as a business networking tool until the early 2000s
 when it morphed into a personal computing product. Since then hundreds
 of small VPN companies have appeared and disappeared (by our count,
 there are at least 140 VPN brands in the market). In addition to these
-international VPNs, there are also “local” VPNs running in some
+international VPNs, there are also 'local' VPNs running in some
 countries, notably Iran, which have Persian-language interfaces and
 local payment systems. There is much scepticism as to the bona fides of
 these companies, which are seen to be government-linked, but people use
@@ -785,26 +784,26 @@ pp. 124-132.
 
 ##Global Streaming: Scale and Infrastructure
 
-![](imgs/dataviz4.jpg)
+![](imgs/Figure1.tif)
 
 Figure 1. A cartogram of consumer internet video traffic.Data source: Cisco Visual Networking Index: Global IP Traffic Forecast, 2014–2019
 
-![](imgs/dataviz1.jpg)
+![](imgs/Figure2.tif)
 
 Figure 2. Income status of global internet users.Data source: The World Bank
 
 
-![](imgs/dataviz2.jpg)
+![](imgs/Figure3_v2.tif)
 
 Figure 3. Average internet connection speeds around the world.Data source: Akamai State of the Internet Report Q4 2014
 
 
 ##Netflix by Numbers
-![](imgs/dataviz7.jpg)
+![](imgs/Figure4.tif)
 
 Figure 4. US and international Netflix subscribers, 2013-2015.Data source: Netflix Inc. quarterly reports
 
-![](imgs/dataviz8.jpg)
+![](imgs/Figure4v2.tif)
 
 Figure 5. Countries where Netflix is officially available. Data source: Netflix, [https://help.netflix.com/en/node/14164](https://help.netflix.com/en/node/14164)
 
@@ -812,18 +811,18 @@ Figure 5. Countries where Netflix is officially available. Data source: Netflix,
 
 Figure 6. Size of Netflix catalogue in various countries (Number of available titles). Data source: UnblockUS, [https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region](https://blog.unblock-us.com/how-many-titles-are-available-in-each-netflix-region)
 
-![](imgs/dataviz9a.jpg)
+![](imgs/Figure7v2.tif)
 
 Figure 7. Countries with highest Netflix subscriber growth since 2014. Data source: Digital TV Research forecast
 
 ##VPN Geography
-![](imgs/dataviz5.jpg)
+![](imgs/Figure8.tif)
 
-Figure 8. Most popular VPN server locations. Data source: Swinburne University
+Figure 8. Number of VPNs by host country. Data source: Swinburne University
 
-![](imgs/dataviz6.jpg)
+![](imgs/Figure9v2.tif)
 
-Figure 9. Number of VPNs by host country.Data source: Swinburne University, Berkman Center for Internet and Society
+Figure 9. Most popular VPN server locations.Data source: Swinburne University, Berkman Center for Internet and Society
 
 
 
@@ -994,7 +993,7 @@ create an alternative world of connectivity.
 Tunnels come in multiple forms. The U.S. Department of Homeland Security
 identifies at least three different types of underground border tunnels.
 Rudimentary tunnels are small, shallow, often crudely constructed and
-used only to travel only a short distance. These are usually detected
+used to travel only a short distance. These are usually detected
 when they cause a sinkhole, or ground surface collapse. In December
 2013, officers from the U.S. Immigration and Customs Enforcement and
 Homeland Security Investigations found one of these tunnels in the
@@ -2049,14 +2048,14 @@ held an exclusive license.
 
 The first lawsuit that *Spanski Enterprises* filed (in 2007) resulted in
 a 2009 settlement agreement in which the parties agreed to 'maintain and
-continue all Internet geo-blocking which is currently in effect, and
+continue all internet geo-blocking which is currently in effect, and
 \[…\] use their best efforts to conform their respective future
 geo-blocking efforts to the latest widely disseminated and financially
 practicable geo-blocking technologies.'<span id="_Ref427140367"
 class="anchor"></span>[^04TrimbleGeoblockingandEvasion_8] Then, in 2012, *Spanski Enterprises* returned
 to court with allegations that *Telewizja Polska* had 'turned off the
 geoblocking feature and thereby intentionally made available to viewers
-in the United States via the Internet thousands of episodes of shows to
+in the United States via the internet thousands of episodes of shows to
 which \[*Spanski Enterprises*\] had the exclusive distribution rights in
 the United States.'[^04TrimbleGeoblockingandEvasion_9] As of September 2015 the case was still pending
 before the U.S. District Court for the District of Columbia with the
@@ -2110,7 +2109,7 @@ general language according to which Netflix would 'utilize an industry
 standard geolocation service'[^04TrimbleGeoblockingandEvasion_14] and language that specified that the
 geolocation service employed must, for example, 'provide geographic
 location information based on DNS registrations, WHOIS databases and
-Internet subnet mapping' and 'provide geolocation bypass detection
+internet subnet mapping' and 'provide geolocation bypass detection
 technology designed to detect IP addresses located in the Territory, but
 being used by Registered Users outside the Territory.'[^04TrimbleGeoblockingandEvasion_15] For the
 purposes of legal compliance, courts and regulators will play an
@@ -2151,7 +2150,7 @@ circumvention tool; it might be sufficient for the measure to prevent
 *average* users from accessing protected content.[^04TrimbleGeoblockingandEvasion_18] The U.S. District
 Court for the Northern District of California rejected an argument
 proposing that a measure not be considered effective if tools to
-circumvent the measure are 'widely available on the Internet.'[^04TrimbleGeoblockingandEvasion_19] The
+circumvent the measure are 'widely available on the internet.'[^04TrimbleGeoblockingandEvasion_19] The
 court said that the argument is 'equivalent to a claim that, since it is
 easy to find skeleton keys on the black market, a deadbolt is not an
 effective lock to a door.'[^04TrimbleGeoblockingandEvasion_20]
@@ -2210,7 +2209,7 @@ undesirable.
 In discussing the three stages in the development of the relationship
 between geoblocking and legal compliance this chapter presumes that
 geoblocking will be more pervasive and eventually become the only means
-to achieve legal compliance, including compliance with territorial
+to achieve compliance with territorial
 limitations of the law. The presumption is rooted in the conviction that
 legal compliance on the internet cannot be achieved without replicating
 national borders online. A single global law that would eliminate the
@@ -2593,7 +2592,6 @@ well.[^05RuggBurroughsPeriscope_13]
 Figure 1. The live-streaming app Periscope allows individuals to
 distribute and consume content in new ways that circumvent existing
 corporate and state media infrastructures Source: Anthony Quintano (CC BY 2.0)
-Quintano)
 
 In 2007, Viacom waged a long legal battle against YouTube, seeking
 damages for profiting off of the viewing of infringing content. The
@@ -3004,7 +3002,7 @@ Location’, *CNET*, 28 August 2012,
 ##Introduction 
 
 Lurid tales of football officials pocketing millions hit the headlines
-following the recent FIFA scandals The reporting rightly shone a light
+following the recent FIFA scandals. The reporting rightly shone a light
 on corruption in football, but also drove home a basic fact: sport is
 awash with money. This is largely because television networks spend a
 significant amount on purchasing rights to major sporting events. To
@@ -4523,7 +4521,7 @@ Figure 2. Internet users per 100 people. Data source: The World Bank
 
 ![](imgs/dataviz13.jpg)
 
-Figure 3.
+Figure 3. Income status of internet users. Data source: The World Bank.
 
 
 
@@ -4533,14 +4531,14 @@ Figure 3.
 # China: The Techno-Politics of the Wall
 
 ### Jinying Li
-<div class="statbox">- 668 million: total number of Internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese Internet users who use VPNs and proxies to bypass the GFW
+<div class="statbox">- 668 million: total number of internet users in China- 433 million: estimated number of online video consumers in China- 65,815: number of URLs that are currently blocked by the GFW- 20%: proportion of Chinese internet users who use VPNs and proxies to bypass the GFW
 
 >'If you are arrested, your freedom curtailed, your posts deleted, these can all be cases of being ‘walled.’' – Murong Xuecun, Writer, 2015
 
 </div>
 
 The Great Firewall (GFW) is one of the most sophisticated and effective
-Internet blocking projects, and it functions as a powerful instrument
+internet blocking projects, and it functions as a powerful instrument
 for censorship in China.[^09LiChina_1] The existence of the “wall,” as both a
 technological apparatus and a structure metaphor, is a symptomatic
 object of the global media network, shattering the myth of borderless
@@ -4577,14 +4575,14 @@ but the complex relation *between the wall and the space around it*, a
 relation that is marked by division, domination, containment, and
 control. In the case of China’s Great Firewall, the space it seeks to
 divide, dominate, and control is obviously cyberspace, whose imagined
-“unruliness” pronounces both threat and vulnerability.
+'unruliness' pronounces both threat and vulnerability.
 
-When computers and the Internet were first introduced to China, they
+When computers and the internet were first introduced to China, they
 were seen as technological opportunities for economic growth and were
 highly promoted by the Chinese government. Since the early 1990s, China
-has invested significantly in network infrastructure, and its Internet
+has invested significantly in network infrastructure, and its internet
 user base has expanded at exponential speed. By 2015, China had 668
-million Internet users, the largest number in the world, and it is
+million internet users, the largest number in the world, and it is
 moving toward a fast-growing information society with over 3.35 million
 websites and 250 million microbloggers (China’s equivalent of
 Twitter).[^09LiChina_4]
@@ -4592,8 +4590,8 @@ Twitter).[^09LiChina_4]
 Amidst such an eye-catching cyber boom, one of the fastest growing areas
 is video consumption. Currently, there are 433 million Chinese online
 viewers. Demand for online videos is so strong that some describe
-Chinese cyberspace as an “entertainment highway” instead of an
-“information highway.”[^09LiChina_5] The proliferation of video-sharing services,
+Chinese cyberspace as an 'entertainment highway' instead of an
+'information highway.'[^09LiChina_5] The proliferation of video-sharing services,
 such as Youku, Tudou, Xunlei, LeTV, and Bilibili, further nurtured a
 dynamic video culture including cell-phone movies, Flash animations,
 spoof videos, and amateur journalism.[^09LiChina_6] What is missing from this
@@ -4604,37 +4602,37 @@ as well as many human rights and democracy-related websites, blogs, and
 forums.[^09LiChina_7]
 
 The GFW was built at almost the same time as the space it sought to
-contain was dramatically expanding. Described as “networked
-authoritarianism” or “authoritarian informationalism”, the Chinese
+contain was dramatically expanding. Described as 'networked
+authoritarianism' or 'authoritarian informationalism', the Chinese
 government’s intertwined efforts to foster and control information
 networks highlight the fundamental tension in post-Socialist China,
 which struggles between the economic reform toward free-market
 neoliberalism and tightening political coercion.[^09LiChina_8] In 1996, a list of
 foreign websites was blocked in China for the first time. In 1997, the
-government issued the Computer Information and Internet Security
+government issued the Computer Information and internet Security
 Protection Management Regulation, a far-reaching law to dramatically
 tighten information control online. A comprehensive project was
 initiated in 1998 and launched in 2003 to systematically monitor,
-filter, and regulate Internet traffic between China and the outside
+filter, and regulate internet traffic between China and the outside
 world. The GFW was soon recognized as the world’s most sophisticated and
 ambitious system for information control.
 
 The construction of the GFW was never officially announced or
 acknowledged. Its existence, however, is widely known, because its
-effects are constantly experienced by hundreds of millions Internet
+effects are constantly experienced by hundreds of millions internet
 users in China. Whenever they try to get onto YouTube or search for a
-“sensitive word” (*mingan ci*), a page appears with the error message:
-“404 page not found”. The interface of blockage is so blatantly
+'sensitive word' (*mingan ci*), a page appears with the error message:
+'404 page not found'. The interface of blockage is so blatantly
 confrontational that Chinese users often characterize the GFW as an
-action instead of an object. Thus the “wall” is sometimes spoken of as a
-verb and a blocked access attempt is described as being “walled”
+action instead of an object. Thus the 'wall' is sometimes spoken of as a
+verb and a blocked access attempt is described as being 'walled'
 (*beiqiang*). The ways in which a certain website can be “walled” are
 diverse and comprehensive. These include DNS pollution, IP blocking, URL
 filtering, TCP packet inspection, and Man-on-the-side attack.[^09LiChina_9]
 
 It is widely believed that the purpose of the GFW is to block foreign
 content of a political nature – the kind of information sources that Min
-Jiang describes as “international deliberative spaces”.[^09LiChina_10] A closer
+Jiang describes as 'international deliberative spaces'.[^09LiChina_10] A closer
 look, however, reveals that many of the blocked sites are actually
 coming from inside China, which are nevertheless pushed outside because
 they deal with sensitive topics such as human rights, democracy, and
@@ -4657,7 +4655,7 @@ component. But the public response to the GFW is far more pronounced,
 because its blockage of international portals is tremendously blunt,
 with entire services such as Google rendered inaccessible. Such
 bluntness in its denial of access results in a highly visible encounter
-with void and disconnection (e.g. the “404 Not Found” message), and thus
+with void and disconnection (e.g. the '404 Not Found' message), and thus
 makes the GFW an iconic symbol of network control. The symbolic meaning
 is highlighted by the popular nickname itself, which is less
 metaphorical than allegorical. The affective experience generated by the
@@ -4665,9 +4663,9 @@ GFW resonates with the widespread feelings of entrapment, suppression,
 and control in people’s daily life online and offline. Thus the
 experience with, and the imagination of, the “wall” are often evoked to
 express the public anger and anxiety toward many different forms of
-suppression that go far beyond internet control. “If you are arrested,
+suppression that go far beyond internet control. 'If you are arrested,
 your freedom curtailed, your posts deleted, these can also all be cases
-of being ‘walled.’”[^09LiChina_12]
+of being walled.'[^09LiChina_12]
 
 The construction of the GFW is both technical and discursive. It is not
 only a technological project but also a cultural and political one. Its
@@ -4686,7 +4684,7 @@ alternative cultural space outside it.
 
 Ever since the GFW was built, there have been efforts to bypass it.
 Countless circumvention tools based on proxies, VPNs, and encryption
-technologies were developed and adopted. They are described as “ladders”
+technologies were developed and adopted. They are described as 'ladders'
 (*tizi*). Popular ladders include Tor (The Onion Router), FreeGate (a
 proxy network system), Ultrasurf (a freeware based on proxy servers and
 encryption protocols), I2P (the Invisible internet Project, a free,
@@ -4727,9 +4725,9 @@ references to the GFW, mostly in the form of jokes or spoofs. The public
 awareness of, and the widespread antagonism toward, the GFW is reflected
 in the popular anger toward its claimed creator, Fang Binxing, the
 former president of Beijing University of Posts and Telecommunication
-who is widely known as the “father of GFW”.[^09LiChina_15] Fang’s university
+who is widely known as the 'father of GFW'.[^09LiChina_15] Fang’s university
 website was often hacked by angry netizens and was once replaced with
-“Angry Shoes,” a video game that imitates *Angry Birds* and features
+'Angry Shoes,' a video game that imitates *Angry Birds* and features
 Fang as a villain to be attacked by flying shoes.
 
 ## The Right to Look: Popular Video Cultures Inside and Outside the Wall
@@ -4746,7 +4744,7 @@ inevitably leads to tightened restriction of video-sharing platforms,
 especially when the proliferation of portable and affordable digital
 devices resulted in a flourish of amateur journalism that radically
 challenges official media. With the recent rise of mass demonstrations,
-dubbed “public incidents” (*gonggong shijian*) in China, the images
+dubbed 'public incidents' (*gonggong shijian*) in China, the images
 produced and shared by citizen journalists play an important role in
 recording, publicizing, and mobilizing such events. Thus, it is not
 accidental that the GFW’s first blockage of YouTube in 2007 coincided
@@ -4779,13 +4777,13 @@ pornography is frequently the official excuse to tighten censorship. To
 access to pornographic videos, therefore, often becomes the reason to
 breach the GFW. For instance, when Japanese porn star Aoi Sora
 encouraged her Chinese fans to follow her on Twitter, many did so
-despite Twitter being blocked. She was thus credited for “having brought
-down China’s Great Firewall.”[^09LiChina_17] Sometimes, such a seemingly benign
+despite Twitter being blocked. She was thus credited for 'having brought
+down China’s Great Firewall.'[^09LiChina_17] Sometimes, such a seemingly benign
 desire for obscenity can deliver quite subversive messages. In 2009, the
 Chinese government launched a dramatic “anti-smut” campaign, whose true
 purpose however was to censor information about a pro-democratic online
 petition. Right in the middle of the campaign, an imaginary creature
-named “Grass Mud Horse” (*cao ni ma*) became a huge internet phenomenon
+named 'Grass Mud Horse' (*cao ni ma*) became a huge internet phenomenon
 after a series of widely circulated online videos attracted millions of
 viewers. The videos feature cute images of an alpaca-like animal as the
 embodiment of the homophone of a sexually charged profane curse, which
@@ -4822,15 +4820,15 @@ content, platforms, and target audiences.
 The division between what is inside and outside the GFW is marked by the
 peculiar function of YouTube as an effective distribution channel for
 Chinese underground films and videos that are barred from domestic
-release. Widely regarded in China as a “free” space beyond the control
+release. Widely regarded in China as a 'free' space beyond the control
 of censorship, YouTube has become a popular platform for Chinese
 independent filmmakers to publish those works that are considered
-“sensitive”, most of which are documentaries about political issues and
+'sensitive', most of which are documentaries about political issues and
 historical subjects. Artist Ai Weiwei’s critically claimed documentary
 *Disturbing the Peace* (*Lao Ma Ti Hua*, 2009) was primarily circulated
 through YouTube. Ai and his studio also established their own YouTube
 channel to distribute a series of documentaries that they produced as
-part of “citizens’ investigation” (*gongmin diaocha*), which probed
+part of 'citizens’ investigation' (*gongmin diaocha*), which probed
 China’s human-rights abuse with in-depth reportage. Similarly, filmmaker
 Ai Xiaoming’s investigative documentary series on the Sichuan earthquake
 and Hu Jie’s historical documentaries on the Cultural Revolution all
@@ -5063,7 +5061,7 @@ Xuecun, Murong. 'Scaling China’s Great Firewall', *The New York Times*,
 - 18%: proportion of Australians who use VPNs or proxies to access the
 internet
 - 200,000: estimated number of unauthorised Netflix subscribers in
-Australia, as of late 2014
+Australia, in late 2014
 - \$25- \$134: Monthly cost of a Foxtel pay-TV subscription, in A\$
 - \$15-\$20: Monthly cost of a US Netflix subscription and VPN, in A\$
 
@@ -5559,7 +5557,7 @@ internet
 ![](imgs/BozdagImage1.png)
 
 Figure 1. This image promoting DNS proxies circulated widely during the
-2013 Istanbul protests. Translation: "DNS - let your bird sing" (Author
+2014 Istanbul protests. Translation: "DNS - let your bird sing" (Author
 unknown)
 
 In recent years the acronyms DNS and VPN have entered into the everyday
@@ -6501,9 +6499,9 @@ video at least once a month[^13HanchardMalaysia_2]
 - RM8 (US$1.86): Monthly cost of an iFlix annual subscription
 
 
-> “iFlix will fight entertainment piracy and provide an entirely new and
+> 'iFlix will fight entertainment piracy and provide an entirely new and
 legitimate way for the region’s hundreds of millions of internet users
-to enjoy their favourite films and television shows.” -Press release
+to enjoy their favourite films and television shows.' -Press release
 from Catcha Group’s iFlix, March 2015.[^13HanchardMalaysia_1]
 
 </div>
@@ -6755,6 +6753,9 @@ stronger support with platforms committed to serving Malaysian films,
 dramas and documentaries. We are likely to see further cultural nuances
 of sharing content openly and privately, as Malaysians gain a greater
 appreciation of who may be watching them.
+
+##Postscript
+On 6 January, 2016, Netflix announced that it would be adding more than 130 countries to their global services, including Malaysia. Many users on social media in Malaysia were excited by the launch, while aware of the large price difference between iFlix and Netflix (RM8 and RM33-RM51 resepctively). Some users said they would need to invest in a VPN service to access titles only available in the U.S. Netflix catalogue; others were concerned that access to content would still be censored in Malaysia. Some users said they would use both services, so they could continue to access Asian-oriented content on iFlix.
 
 ## Acknowledgements
 
@@ -7136,7 +7137,7 @@ among Netflix VPN pirates, which is quite different from the attitude of
 audiences that informally download content.[^14MendesMoreiradeSaBrazil_16] Some Netflix
 subscribers even mentioned that they have minimized or even ceased
 torrenting since they signed up for the service. Everyone who mentioned
-the monthly subscription of R\19.90 (about USD6) per month said the
+the monthly subscription of R$19.90 (about USD6) per month said the
 price was fair.
 
 Once again, it is important to note that only 60% of the population in
@@ -7405,7 +7406,7 @@ has never acknowledged using such methods, but international
 organizations have claimed that the jamming signals are sent from within
 Iran. The UN telecommunications body (ITU) and the European Union have
 called on the Iranian government to stop satellite jamming and
-‘electronic interference’. It is also widely believed that the
+electronic interference. It is also widely believed that the
 Revolutionary Guard runs the jamming system. Not surprisingly, the
 regime uses this method more actively at times of political upheaval and
 during elections.
@@ -7455,8 +7456,8 @@ are throttled during political turmoils.[^5]
 ![](imgs/iran.png)
 
 Figure 1. Iranian internet users see this government notice when trying to
-access blocked websites. It reads: “Access to the requested website is
-not possible. Please click here to access reports and complaints”
+access blocked websites. It reads: 'Access to the requested website is
+not possible. Please click here to access reports and complaints'
 
 Taking office as President in 2013, Hassan Rouhani criticized internet
 censorship, raising hopes for reducing internet barriers (to be
@@ -7470,7 +7471,7 @@ any filtering’, he declared that ‘3G mobile communication services and
 higher are against Sharia \[Islamic law\] and moral and human norms’.
 
 Perhaps Iran’s most ambitious plan for extending its control over the
-internet has been the launching of a “walled-off” national internet. The
+internet has been the launching of a 'walled-off' national internet. The
 network will connect government ministries, universities, banks,
 healthcare, tax systems, and other state institutions through local
 servers. Although users will benefit from higher speed and better
@@ -7555,8 +7556,7 @@ software has been recently used by Syrian dissidents.[^16]
 ##The Political Context of Circumvention
 
 Despite common perceptions, most Iranians do not go online specifically
-in search of ‘forbidden’ political material; rather they wish to ‘live
-their normal lives’ by accessing social media such as Telegram, Viber,
+in search of ‘forbidden’ political material; rather they wish to ‘go about their everyday lives’ by accessing social media such as Telegram, Viber,
 Facebook and the like to communicate with their family members and
 friends. They share photos, music videos, comedies, shows, and
 educational material within their social circles; they look for
@@ -7718,7 +7718,7 @@ The World Bank. Internet Users by Country, 2014,
     iconic eulogist during Iran-Iraq war in the 1980s. His performance
     encouraged many young Iranians to volunteer in the war.
 
-[^2]: Setareh Derakhshesh, Breaking the Law to go Online in Iran, *New
+[^2]: Setareh Derakhshesh, 'Breaking the Law to go Online in Iran', *New
     York Times*, 24 June 2014,
     [http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html](http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html).
 
@@ -8463,7 +8463,7 @@ executive and author Jeff Ulin refers to as, naturally enough, ‘Ulin's
 Rule’, wherein the distribution value of media content is maximized
 through the exploitation of four factors: ‘time, repeat consumption
 (platforms), exclusivity, and differential pricing’.[^17ElkinsUSA_5] These factors
-are controlled through the development and maintenance of distinct
+are controlled through the development of distinct
 spatial and temporal distribution windows that geoblocking helps
 maintain. So, for instance, a film’s US theatrical run would represent
 one window, and subsequent availability of that film on Netflix in
@@ -8512,8 +8512,7 @@ If the US and its corporate interests are usually considered major
 forces shaping the geoblocking of platforms and content around the
 world, this makes geoblocking a tricky and curious phenomenon to
 investigate *within* the nation’s borders. Many major entertainment
-platforms that remain geoblocked in territories around the world –
-Netflix, Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
+platforms that remain geoblocked in territories around the world – Amazon Instant Video, Hulu, iTunes, HBO Go – were created by
 US-based corporate entities to serve the American market first and
 foremost. Hulu in particular can essentially be considered a national
 broadcasting platform. Although its library has since grown to
@@ -8798,7 +8797,7 @@ the other hand, for US-based audiences, circumventing geoblocked
 platforms can represent a kind of access entitlement presuming that in a
 digitally connected age, one *should* be able to access everything. When
 this access is interrupted, as in when \#NBCFail led many Americans to
-engage in geoblocking circumvention, they serve as reminders that the
+engage in geoblocking circumvention, it serves as a reminder that the
 United States is not a placeless, universal entity in the global media
 economy and that it can be subject to many of the disconnections and
 disjunctures that viewers around the world experience more regularly.
@@ -8871,7 +8870,7 @@ Ulin, Jeff. *The Business of Media Distribution: Monetizing Film, TV,
 and Video Content*, Burlington, MA: Focal Press, 2000.
 
 [^17ElkinsUSA_1]: Rex Santus, ‘Netflix is Now in 36% of Homes Across the United
-    States’ *Mashable*, 12 March 2015,
+    States’, *Mashable*, 12 March 2015,
     [http://mashable.com/2015/03/12/nielsen-ratings-2014](http://mashable.com/2015/03/12/nielsen-ratings-2014).
 
 [^17ElkinsUSA_2]: Jacob Appelbaum et al., ‘Prying Eyes: Inside the NSA’s War on
@@ -8897,7 +8896,7 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
     available around the world, but a comprehensive, if by this point
     somewhat out-of-date, snapshot of the global streaming film
     landscape can be found in the appendices in Dina Iordanova and
-    Stuart Cunningham (eds) *Digital Disruption: Cinema Moves On-Line*,
+    Stuart Cunningham (eds), *Digital Disruption: Cinema Moves On-Line*,
     St. Andrews: St. Andrews Film Studies, 2012.
 
 [^17ElkinsUSA_8]: Thomas Streeter, *Selling the Air: A Critique of the Policy of
@@ -8914,8 +8913,7 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
     foreign-film enthusiasts.’ James C. Luh, ‘Breaking Down DVD
     Borders’, *Washington Post*, 1 June 2001.
 
-[^17ElkinsUSA_11]: Adam Pash, ‘How to Access the BBC iPlayer (and TV Like Doctor
-    Who) from Outside the U.K’.
+[^17ElkinsUSA_11]: Adam Pash, 'How to Access the BBC iPlayer (and TV Like Doctor Who) from Outside the U.K.', Lifehacker, 29 March 2010, [http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk](http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk).
 
 [^17ElkinsUSA_12]: Lucas Hilderbrand, *Inherent Vice: Bootleg Histories of Video and
     Copyright*, Durham, NC: Duke University Press, 2009, p. 229.
@@ -8943,7 +8941,6 @@ and Video Content*, Burlington, MA: Focal Press, 2000.
 
 
 
-
-#Biographies**Luis Felipe Alvarez León** is a Ph.D. Candidate in Geography at the University of California, Los Angeles. His areas of interest are geospatial technologies and the political economic geography of information and communication. He is currently researching the geography of digital information economies. **Cameran Ashraf** is an international human rights consultant and co-founder of AccessNow, a global human rights organization selected as finalist for the 2010 Sakharov Prize for Freedom of Thought, Europe's highest human rights honor. He completed his Ph.D. at UCLA on the geopolitics of Internet control and cyberwar.**Chris Baumann** is a PhD Candidate in the Department of Media Studies at Stockholm University. He is currently busy working on a dissertation about streaming media players. His research interests include media and information technologies in the domestic space, digital distribution, and media access.**Çiğdem Bozdağ** is an assistant professor in the New Media department at the Kadir Has University, İstanbul. Her research and teaching interests are digital media, media and socio-cultural change, globalization, inter- and transcultural Communication and ICTs in education.**Roland Burke** is a senior lecturer in history at La Trobe University.  He is the author of Decolonization and the Evolution of International Human Rights and has published widely on the history of international human rights and internationalism.  **Benjamin Burroughs** is an assistant professor of emerging media in the Hank Greenspun School of Journalism and Media Studies at the University of Nevada, Las Vegas. His research focuses on streaming media and technology, media industries, and digital media. His work has been published in journals such as New Media and Society, Journal of Broadcasting and Electronic Media, and Games and Culture.**Behzad Dowran** is a faculty member in Iranian Research Institute for Information Science & Technology (IranDoc), Tehran. His research and teaching interests are social identity, new ICTs, and media studies. **Evan Elkins** is visiting assistant professor of Media, Journalism, and Film at Miami University. He is currently working on a book manuscript about regional restrictions in digital media technologies. He researches various issues surrounding digital media, media industries, globalization, and cultural identity.**Sandra Hanchard** completed her PhD at the Swinburne Institute for Social Research, Swinburne University of Technology, on social media information and everyday life in Malaysia. She has an industry background in big data analytics and data visualisation. Sandra is the founder of DataViz My, which facilitates the Data Science Primer course for the Malaysian Global Innovation and Creativity Centre.**Florian Hoof** is an assistant professor in the Department of Film and Media Studies at Goethe University Frankfurt. He conducts research on digital network markets, piracy and media sports and has published on the media history of consulting knowledge and managerial decision-making systems.**Juan Llamas-Rodriguez** is a PhD Candidate in Film and Media Studies at the University of California, Santa Barbara, working on a dissertation about life in the age of narco-trafficking. His research encompasses the materiality of media distribution, popular cultures of the Mexico-US border, and the precarity of contemporary labor.**Jinying Li** is assistant professor of Film Studies at University of Pittsburgh. Her research focuses on the media and visual culture of East Asia. Her essays have been published in Film International, Mechademia, and The International Journal of Communication, and Camera Obscura. **Ramon Lobato** is Senior Research Fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. His research focuses on the global dynamics of media distribution, copyright, and piracy. He is the author of Shadow Economies of Cinema: Mapping Informal Film Distribution and The Informal Media Economy (with Julian Thomas).**James Meese** is a lecturer in communication at the University of Technology Sydney. He conducts research on copyright law, mobile media, privacy law and media regulation and has published research in Television and New Media and the International Journal of Communication. **Vanessa Mendes Moreira De Sa** completed her Ph.D. at the University of Western Sydney. Her research interests lie in the area of media piracy with a focus on television distribution on the internet. Her work has been published in the International Journal of Communication and in the edited collection Piracy: Leakages From Modernity.**Aneta Podkalicka** is a research fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. Her current work focuses on media and consumption, including thrift-related consumption and sustainable practices. She is currently working on a book on media-based projects for social change with her colleague Ellie Rennie.**Hadi Sohrabi** is a lecturer in sociology at Swinburne University of Technology in Melbourne. His research interests include sociology of the internet and ethnic studies. He has published on the politics of the internet in Iran and Muslims in Australia. **Marketa Trimble** is the Samuel Lionel Intellectual Property Professor of Law at the William S. Boyd School of Law, University of Nevada, Las Vegas. Her major areas of expertise are public and private international law of intellectual property, including conflict of laws, transnational litigation, and enforcement of intellectual property rights on the Internet. **Fidel A. Rodríguez Fernández** is Professor of Hypermedia Communication at Havana University. He researches multimedia discourse on social networks in Cuba, the circulation of digital objects, migration and video games. He is also a journalist and multimedia producer.**Adam Rugg** is a PhD candidate in Media Studies at the University of Iowa. His research examines the evolution of sports video distribution and consumption amidst emerging digital media infrastructures. His work has been published in the Journal of Electronic Broadcasting and Media and Popular Communication. 
+#Biographies**Luis Felipe Alvarez León** is a Ph.D. Candidate in Geography at the University of California, Los Angeles. His areas of interest are geospatial technologies and the political economic geography of information and communication. He is currently researching the geography of digital information economies. **Cameran Ashraf** is an international human rights consultant and co-founder of AccessNow, a global human rights organization selected as finalist for the 2010 Sakharov Prize for Freedom of Thought, Europe's highest human rights honor. He completed his Ph.D. at UCLA on the geopolitics of internet control and cyberwar.**Chris Baumann** is a PhD Candidate in the Department of Media Studies at Stockholm University. He is currently busy working on a dissertation about streaming media players. His research interests include media and information technologies in the domestic space, digital distribution, and media access.**Çiğdem Bozdağ** is an assistant professor in the New Media department at the Kadir Has University, İstanbul. Her research and teaching interests are digital media, media and socio-cultural change, globalization, inter- and transcultural Communication and ICTs in education.**Roland Burke** is a senior lecturer in history at La Trobe University.  He is the author of Decolonization and the Evolution of International Human Rights and has published widely on the history of international human rights and internationalism.  **Benjamin Burroughs** is an assistant professor of emerging media in the Hank Greenspun School of Journalism and Media Studies at the University of Nevada, Las Vegas. His research focuses on streaming media and technology, media industries, and digital media. His work has been published in journals such as New Media and Society, Journal of Broadcasting and Electronic Media, and Games and Culture.**Behzad Dowran** is a faculty member in Iranian Research Institute for Information Science & Technology (IranDoc), Tehran. His research and teaching interests are social identity, new ICTs, and media studies. **Evan Elkins** is visiting assistant professor of Media, Journalism, and Film at Miami University. He is currently working on a book manuscript about regional restrictions in digital media technologies. He researches various issues surrounding digital media, media industries, globalization, and cultural identity.**Sandra Hanchard** completed her PhD at the Swinburne Institute for Social Research, Swinburne University of Technology, on social media information and everyday life in Malaysia. She has an industry background in big data analytics and data visualisation. Sandra is the founder of DataViz My, which facilitates the Data Science Primer course for the Malaysian Global Innovation and Creativity Centre.**Florian Hoof** is an assistant professor in the Department of Film and Media Studies at Goethe University Frankfurt. He conducts research on digital network markets, piracy and media sports and has published on the media history of consulting knowledge and managerial decision-making systems.**Juan Llamas-Rodriguez** is a PhD Candidate in Film and Media Studies at the University of California, Santa Barbara, working on a dissertation about life in the age of narco-trafficking. His research encompasses the materiality of media distribution, popular cultures of the Mexico-US border, and the precarity of contemporary labor.**Jinying Li** is assistant professor of Film Studies at University of Pittsburgh. Her research focuses on the media and visual culture of East Asia. Her essays have been published in Film International, Mechademia, and The International Journal of Communication, and Camera Obscura. **Ramon Lobato** is Senior Research Fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. His research focuses on the global dynamics of media distribution, copyright, and piracy. He is the author of Shadow Economies of Cinema: Mapping Informal Film Distribution and The Informal Media Economy (with Julian Thomas).**James Meese** is a lecturer in communication at the University of Technology Sydney. He conducts research on copyright law, mobile media, privacy law and media regulation and has published research in Television and New Media and the International Journal of Communication. **Vanessa Mendes Moreira De Sa** completed her Ph.D. at the University of Western Sydney. Her research interests lie in the area of media piracy with a focus on television distribution on the internet. Her work has been published in the International Journal of Communication and in the edited collection Piracy: Leakages From Modernity.**Aneta Podkalicka** is a research fellow at the Swinburne Institute for Social Research, Swinburne University of Technology, in Melbourne. Her current work focuses on media and consumption, including thrift-related consumption and sustainable practices. She is currently working on a book on media-based projects for social change with her colleague Ellie Rennie.**Hadi Sohrabi** is a lecturer in sociology at Swinburne University of Technology in Melbourne. His research interests include sociology of the internet and ethnic studies. He has published on the politics of the internet in Iran and Muslims in Australia. **Marketa Trimble** is the Samuel Lionel Intellectual Property Professor of Law at the William S. Boyd School of Law, University of Nevada, Las Vegas. Her major areas of expertise are public and private international law of intellectual property, including conflict of laws, transnational litigation, and enforcement of intellectual property rights on the Internet. **Fidel A. Rodríguez Fernández** is Professor of Hypermedia Communication at Havana University. He researches multimedia discourse on social networks in Cuba, the circulation of digital objects, migration and video games. He is also a journalist and multimedia producer.**Adam Rugg** is a PhD candidate in Media Studies at the University of Iowa. His research examines the evolution of sports video distribution and consumption amidst emerging digital media infrastructures. His work has been published in the Journal of Electronic Broadcasting and Media and Popular Communication. 
 
 

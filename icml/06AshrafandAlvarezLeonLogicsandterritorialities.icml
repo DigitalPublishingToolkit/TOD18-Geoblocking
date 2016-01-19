@@ -779,12 +779,6 @@
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>	Hal Roberts, David Larochelle, Rob Faris, and John Palfrey. 2011. “Mapping Local Internet Control.” In Computer Communications Workshop (Hyannis, CA, 2011), IEEE.</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
-							<Br />
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> </Content>
-						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />

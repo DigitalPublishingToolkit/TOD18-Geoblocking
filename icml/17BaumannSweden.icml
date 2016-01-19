@@ -815,6 +815,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> However, in light of the company’s recent announcement to launch its HBO Now video streaming service — essentially a carbon copy of HBO Nordic destined for the U.S. market — it can be argued that the Nordic countries, and Sweden in particular, served as a test market for the media giant, and a convenient way to quietly launch their new flagship video streaming product.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>As promising as this arrangement appears from a corporate perspective, however, it has surprisingly not resulted in any sizable consumer spending on subscription or transaction-based video streaming services. Swedes are generally open towards making their purchases online, with 85 percent of internet users regularly buying and paying for items or services via the internet.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">

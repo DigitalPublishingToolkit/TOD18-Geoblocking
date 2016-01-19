@@ -970,7 +970,9 @@
 				<Content>cao ni ma</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>) became a huge internet phenomenon after a series of widely circulated online videos attracted millions of viewers. The videos feature cute images of an alpaca-like animal as the embodiment of the homophone of a sexually charged profane curse, which expresses public anger toward censorship in a hilarious manner. Although the videos were quickly banned in Chinese cyberspace (but can be accessed on YouTube), the phenomenon continued in countless internet memes, video games, toys, and even clothing lines that all referenced the lovely </Content>
+				<Content>) became a huge internet phenomenon after a series of widely circulated online videos attracted millions of viewers. The videos feature cute images of an alpaca-like animal as the embodiment of the homophone of a sexually charged profane curse, which expresses public anger toward censorship in a hilarious manner. Although the videos were quickly banned in Chinese cyberspace (but can be accessed on YouTube), the phenomenon continued in countless internet memes, video games, toys, and even clothing lines that all referenced the lovely animal.</Content>
+				<Br />
+				<Content>. </Content>
 				<Rectangle Self="u1fd3" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="138508 524341953 11268 287113038" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -131.92125984251925">
 					<Properties>
 						<PathGeometry>
@@ -4550,35 +4552,64 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 				<Content>Figure 1. The Grass Mud Horse became a popular expression of resistance to internet censorship. Credit: chumsdock (CC BY SA 2.0)</Content>
 				<Br />
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>Equally provocative is the animation series </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>Kuang Kuang</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>, which was created by artist Pi San and his independent studio Huxiao Animation. The first installment of the series, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>Bombing the School</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content> (</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>Zha Xuexiao</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>), was released in 2008 on the Chinese video-sharing site Youku and became an instant hit that attracted millions of views. Combining youthful cuteness with rebellious violence, the video creates a dark, humorous metaphor of the oppressive social intuitions in China. Despite (or because of) its popularity, the video was banned from domestic sites and had to be re-posted on YouTube, requiring viewers to bypass the GFW to watch it. To avoid further trouble from the censors, subsequent videos in the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content>Kuang Kuang</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="enumeration">Auto</Leading>
+				</Properties>
+				<Content> series were divided into two groups: the seemingly benign ones were released on Chinese domestic sites for general viewers and the politically challenging ones were posted on YouTube for those who know how to cross the GFW. Such a practice reflects a popular strategy taken by Chinese artists and filmmakers who use the GFW (and wall crossing) as a shield from censorship. The GFW, in this regard, functions as the political division among different content, platforms, and target audiences.</Content>
+				<Br />
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Equally provocative is the animation series </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Kuang Kuang</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, which was created by artist Pi San and his independent studio Huxiao Animation. The first installment of the series, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Bombing the School</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Zha Xuexiao</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>), was released in 2008 on the Chinese video-sharing site Youku and became an instant hit that attracted millions of views. Combining youthful cuteness with rebellious violence, the video creates a dark, humorous metaphor of the oppressive social intuitions in China. Despite (or because of) its popularity, the video was banned from domestic sites and had to be re-posted on YouTube, requiring viewers to bypass the GFW to watch it. To avoid further trouble from the censors, subsequent videos in the </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Kuang Kuang</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> series were divided into two groups: the seemingly benign ones were released on Chinese domestic sites for general viewers and the politically challenging ones were posted on YouTube for those who know how to cross the GFW. Such a practice reflects a popular strategy taken by Chinese artists and filmmakers who use the GFW (and wall crossing) as a shield from censorship. The GFW, in this regard, functions as the political division among different content, platforms, and target audiences.</Content>
-				<Br />
 				<Content>The division between what is inside and outside the GFW is marked by the peculiar function of YouTube as an effective distribution channel for Chinese underground films and videos that are barred from domestic release. Widely regarded in China as a ‘free’ space beyond the control of censorship, YouTube has become a popular platform for Chinese independent filmmakers to publish those works that are considered ‘sensitive’, most of which are documentaries about political issues and historical subjects. Artist Ai Weiwei’s critically claimed documentary </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">

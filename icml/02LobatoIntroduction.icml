@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
-	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/C=45 M=5 Y=7 K=14" Model="Process" Space="CMYK" ColorValue="45 5 7.000000000000001 14.000000000000002" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=45 M=5 Y=7 K=14" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
@@ -170,7 +170,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=45 M=5 Y=7 K=14" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -542,7 +542,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, University of Illinois Press, 2015.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -602,7 +601,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, Cambridge, MA; MIT Press, 2012.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -658,7 +656,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, Toronto: University of Toronto Press, 2014, pp. 126.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -809,7 +806,6 @@
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, London: Routledge, 2009, p.8.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -17522,7 +17518,6 @@ EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content> Cambridge, MA: The Berkman Center for Internet and Society, Harvard University, 2007, p. 9.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -17561,12 +17556,6 @@ EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>. </Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
-							<Br />
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> </Content>
-						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
 				<Br />
@@ -17596,7 +17585,6 @@ EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -17677,7 +17665,6 @@ EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -17713,7 +17700,6 @@ EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content> 31 (2014), p. 191.</Content>
-							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -17895,7 +17881,6 @@ EHILABwBAwABAAAAAQDhAFIBAwABAAAAAgAAADWCAQABAAAAAFPhAAAAAAA=]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Toronto: University of Toronto Press, 2014, pp. 124-132.</Content>
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>

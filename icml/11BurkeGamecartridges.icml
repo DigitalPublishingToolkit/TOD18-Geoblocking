@@ -7807,6 +7807,9 @@ DnH/AJ6V/wAvT/uf/ZbB/wA0m/ydWre8rOok697917r3v3Xuve/de697917r3v3Xuve/de6//9k=
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Visible Public Networks: The Classroom VPNs of the early 1990s and the Prestige of Gaming Scarcity</Content>
 				<Br />

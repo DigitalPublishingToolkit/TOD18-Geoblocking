@@ -2433,6 +2433,11 @@ AQMAAQAAAAIAAAA1ggEAAQAAAADvBQAAAAAA]]></GraphicProxy>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Perhaps Iran’s most ambitious plan for extending its control over the internet has been the launching of a ‘walled-off’ national internet. The network will connect government ministries, universities, banks, healthcare, tax systems, and other state institutions through local servers. Although users will benefit from higher speed and better cyber-security, many are concerned that the government’s main motive is to consolidate its control over the internet. In response to such concerns, Iran’s ICT minister, Mahmoud Vaezi, claimed that the national internet ‘is not in competition with the internet’ and that ‘if users cannot find the data that they are looking for on the national internet, then they will be able to access the internet to search for it, instead’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">

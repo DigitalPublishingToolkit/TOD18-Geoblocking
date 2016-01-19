@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1{
     font-size:1.8em;
-    color: #04B45F;
+    color: #b2c7d2;
     page-break-before: always;
 }
 
@@ -125,22 +125,22 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #04B45F solid;
+    border-left: 1px #b2c7d2 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color: #04B45F;
+a { color: #b2c7d2;
     text-decoration: none;
   }
 
-a:hover { color: #04B45F;
+a:hover { color: #b2c7d2;
       text-decoration: underline;
   }
 
 
 table {
-    border: 1px #04B45F solid;
+    border: 1px #b2c7d2 solid;
     border-collapse: collapse;
     width:99%;
     vertical-align: top;
@@ -149,15 +149,15 @@ table {
 }
 
 table th {
-    border-bottom: 1px #04B45F solid;
+    border-bottom: 1px #b2c7d2 solid;
     color: #FFF;
-    background: #04B45F;
+    background: #b2c7d2;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px #04B45F solid;
-    border-right: 1px #04B45F solid;
+    border-left: 1px #b2c7d2 solid;
+    border-right: 1px #b2c7d2 solid;
 }
 
 th, td {
