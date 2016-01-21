@@ -274,6 +274,9 @@ content (Unblock-US, Getflix).
 
 Figure 1. A VPN server selection menu
 
+![](imgs/image002.png)
+
+Figure 1b. A Twitter exchange following Netflix’s global expansion on 6 January 2016
 
 ![](imgs/Lobato-Image2.png)
 

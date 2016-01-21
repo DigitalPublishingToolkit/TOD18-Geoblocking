@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
-	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/C=45 M=5 Y=7 K=14" Model="Process" Space="CMYK" ColorValue="45 5 7.000000000000001 14.000000000000002" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=45 M=5 Y=7 K=14" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
@@ -43,19 +43,6 @@
 		<Font Self="dia2FontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
 		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di86fFontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Substituted" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" TypekitID="$ID/" />
@@ -189,7 +176,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=45 M=5 Y=7 K=14" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -716,7 +703,7 @@
 							<Content>, Law School, Guantánamo University, 2013, Cuba, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u269c" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u27de" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -773,7 +760,7 @@
 							<Content>, 2015, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u26a2" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u27e4" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.one.cu/ticis2014.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -816,7 +803,7 @@
 							<Content> 116.41 (2014), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u26a5" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u27e7" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -860,7 +847,7 @@
 							<Content> 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u26a9" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u27eb" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -883,7 +870,7 @@
 							<Content>	Patricia Moloney, ‘Promoting Global Internet Freedom: Policy and Technology’, Congressional Research Service, 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u26ab" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u27ed" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>https://www.fas.org/sgp/crs/row/R41837.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1165,7 +1152,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u26b9" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u27fb" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -1193,7 +1180,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u26bf" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="411 411" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.3649077657925886 0 0 0.36490776579258855 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u2801" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="411 411" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.3649077657925886 0 0 0.36490776579258855 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqACgrAgCAONwuR/wKCOGEP9xOFxQpwQ1xN+IQ+HROLRWMOKKRqLxyMxuKOFwOF/uFuyRwt+US
@@ -3691,8 +3678,8 @@ mtdIfxoteoiojh/xrNhxsIoNjpux0xzxxxzU403U5U4U507U6xxBKibU9ClqGjxilhMBKjsorU+K
 G1BDw1D1CCMhKhKJrJxOU1HuvSMjNC2BpBnE7P6wthmhklOhnVOSODGCAgAIAAAAuPMBAK3zAQBP
 NwAASAAAAAEAAABIAAAAAQAAAA4AAAEEAAEAAACqAQAAAQEEAAEAAABUAQAAAgEDAAEAAAAIAAAA
 AwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAIAAAAIKwIAFQEDAAEAAAAEAAAAFgEEAAEAAAAz
-AQAAFwEEAAIAAAAQKwIAGgEFAAEAAAAYKwIAGwEFAAEAAAAgKwIAHAEDAAEAAAABAIEBUgEDAAEA
-AAACAAAANYIBAAEAAAAACaEBAAAAAA==]]></GraphicProxy>
+AQAAFwEEAAIAAAAQKwIAGgEFAAEAAAAYKwIAGwEFAAEAAAAgKwIAHAEDAAEAAAABAGABUgEDAAEA
+AAACAAAANYIBAAEAAAAAJ2ABAAAAAA==]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="425.2448311312144" Bottom="339.8118966601578" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -3701,7 +3688,7 @@ AAACAAAANYIBAAEAAAAACaEBAAAAAA==]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u26be" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130905527980000000 376935" LinkImportModificationTime="2015-10-29T01:39:58" LinkImportTime="2015-12-15T14:45:24" LinkResourceSize="0~5c067" />
+						<Link Self="u27fe" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image1.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 376935" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T17:47:57" LinkResourceSize="0~5c067" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -3745,7 +3732,7 @@ AAACAAAANYIBAAEAAAAACaEBAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>like compilation created by government-linked cultural organizations, offering a selection of pirated ‘quality’ content, including movies and TV series.</Content>
 				<Br />
-				<Rectangle Self="u26c2" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2806" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -3773,7 +3760,7 @@ AAACAAAANYIBAAEAAAAACaEBAAAAAA==]]></GraphicProxy>
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u27bf" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="405 405" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.36995825258396947 0 0 0.36995825258396947 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u280c" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="405 405" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.36995825258396947 0 0 0.36995825258396947 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAPTxBwCAOh4PJ/vZ7vx/sxkNV/s1iQx7Oh8v90NVvv9xstov9vsZkv9zNBqP9xNRvP9zt92v
@@ -12913,7 +12900,7 @@ jiSfBaNZAo5QXAuHEKG9wK7rAoHHC2Ft3QXwtPJDWGMK5JwwGyDSGAKpJwvwxDKFw20EHmhjC3Ci
 FRN4SE7C0cQMoXXkxDd0GQLpxCAgAAgAAABUmQcASpkHAH9YAABIAAAAAQAAAEgAAAABAAAADgAA
 AQQAAQAAAKoBAAABAQQAAQAAAEMBAAACAQMAAQAAAAgAAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIA
 AAARAQQAAgAAANTxBwAVAQMAAQAAAAQAAAAWAQQAAQAAADMBAAAXAQQAAgAAANzxBwAaAQUAAQAA
-AOTxBwAbAQUAAQAAAOzxBwAcAQMAAQAAAAEAQAdSAQMAAQAAAAIAAAA1ggEAAQAAAACIQAcAAAAA
+AOTxBwAbAQUAAQAAAOzxBwAcAQMAAQAAAAEAQQFSAQMAAQAAAAIAAAA1ggEAAQAAAAAaYAAAAAAA
 ]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="425.2448311312144" Bottom="322.5333256435396" />
 						</Properties>
@@ -12969,7 +12956,7 @@ AOTxBwAbAQUAAQAAAOzxBwAcAQMAAQAAAAEAQAdSAQMAAQAAAAIAAAA1ggEAAQAAAACIQAcAAAAA
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u26c6" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946701540000000 1220513" LinkImportModificationTime="2015-12-15T17:22:34" LinkImportTime="2015-12-15T17:22:38" LinkResourceSize="0~129fa1" />
+						<Link Self="u2809" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image2.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 1220513" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T17:47:57" LinkResourceSize="0~129fa1" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -13051,7 +13038,7 @@ AOTxBwAbAQUAAQAAAOzxBwAcAQMAAQAAAAEAQAdSAQMAAQAAAAIAAAA1ggEAAQAAAACIQAcAAAAA
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> is often available for download, thanks to an agreement with (and agreed payment to) the distributors. Some forms of local user-generated content are also available, including machinima, parody videos, flash mobs and remixes. FTP sharing etiquette is informally regulated, and has become a source of controversy within the community. Inappropriate downloading behavior can lead to a user being temporarily ‘banned’ through IP address blocking.</Content>
 				<Br />
-				<Rectangle Self="u26cf" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2819" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -13079,7 +13066,7 @@ AOTxBwAbAQUAAQAAAOzxBwAcAQMAAQAAAAEAQAdSAQMAAQAAAAIAAAA1ggEAAQAAAACIQAcAAAAA
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u27c5" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="316 316" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.4746950632025527 0 0 0.47469506320255284 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u281f" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="316 316" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.4746950632025527 0 0 0.47469506320255284 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqAKz/AQCAIovF9/wKCIeBv8+lUrP8/GQyw6IQqJn2KmMyQqMP8+Rs9mIxv89SB/nkwGGSyeUm
@@ -15380,10 +15367,10 @@ vYh8agzUB3eu8d/AImRMQqOHCi6Yi8MTgj/ifE84pE1rHKOYc46Z0llnWO2gU9iyFkIDQCeiMR7Y
 yRnP4f+NUaY2H7jcgCN5+oyxzQIdtA6CUHHUjyEZP4/0Jx+QwhhEEg0RoikMiFF6LpFIpROmBHEj
 0dSRSSkxI6S5KyUknJeTSLUSAfK6kRGEjUZI2QvJ0loR0VBaBoDY5QIibhFA4QWWBCQioVCIB0hK
 fiEhBXCENBB3JfhBUgphRykFIKUA0ckKQHCtAeJ0FcqIbgeA9H+QEAAAAEgAAAABAAAASAAAAAEA
-AAAOAAABBAABAAAAqgEAAAEBBAABAAAACgEAAAIBAwABAAAACADwPwMBAwABAAAABQAAAAYBAwAB
-AAAAAgAAABEBBAABAAAACAAAABUBAwABAAAABADvfxYBBAABAAAACgEAABcBBAABAAAAkf8BABoB
-BQABAAAAnP8BABsBBQABAAAApP8BABwBAwABAAAAAQAAAFIBAwABAAAAAgAAADWCAQABAAAAAGFF
-AAAAAAA=]]></GraphicProxy>
+AAAOAAABBAABAAAAqgEAAAEBBAABAAAACgEAAAIBAwABAAAACAAAAAMBAwABAAAABQAAAAYBAwAB
+AAAAAgAAABEBBAABAAAACAAAABUBAwABAAAABAAAABYBBAABAAAACgEAABcBBAABAAAAkf8BABoB
+BQABAAAAnP8BABsBBQABAAAApP8BABwBAwABAAAAAQBgAVIBAwABAAAAAgAAADWCAQABAAAAAC1h
+AQAAAAA=]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="425.2448311312144" Bottom="265.8980095335133" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -15438,7 +15425,7 @@ AAAAAAA=]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u26d3" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image3.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130946702480000000 294890" LinkImportModificationTime="2015-12-15T17:24:08" LinkImportTime="2015-12-15T17:24:14" LinkResourceSize="0~47fea" />
+						<Link Self="u281c" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image3.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 294890" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T17:47:57" LinkResourceSize="0~47fea" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -15499,7 +15486,7 @@ AAAAAAA=]]></GraphicProxy>
 				<Br />
 				<Content>Despite the access challenges, these forms of transnational video culture are increasingly widespread in Cuba. Video streaming is not practiced in the same way as in other countries, but the Cuban digital mediascape is nonetheless full of emergent forms of digital video consumption and communication that make efficient use of limited infrastructure.</Content>
 				<Br />
-				<Rectangle Self="u26d9" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u2827" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -15527,7 +15514,7 @@ AAAAAAA=]]></GraphicProxy>
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u26de" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="318 318" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.4713813643649693 0 0 0.47138136436496925 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u282d" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="318 318" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.4713813643649693 0 0 0.47138136436496925 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[SUkqALA5AQCAP+BQOCQWDQeEQmFQuGQ2HQ+IRGJROKRWLReMRmNRuOR2PR+QSGRSOSSWTSeUSmVS
@@ -16939,9 +16926,9 @@ EBDA8J5B0z2CWC5s9ldB66YCWUUh2h1CPB5h15ipRDBB/6QaROticgvgkughsByCKBxBuHKg6A+n
 aKbi3B7iwhwhxFdI7WVqMaWP+bFNzIMoKkOoZCHB+B8C8B1adCYB405mea5h3h5IFi57Ms6B6B8Q
 vCf6ylcps67qjTsB3iKB3h6Kei/i2hahOFwBQhqadiiB5C7kObX6Obibi7jbj7kDeD3qTm3hLgzY
 9AOgOFigYAetuhok9RPLNo/ax7k7u7vbv7wDhiAgAABIAAAAAQAAAEgAAAABAAAADgAAAQQAAQAA
-AKoBAAABAQQAAQAAANUAAAACAQMAAQAAAAgAAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQA
+AKoBAAABAQQAAQAAANUAAAACAQMAAQAAAAgAAAADAQMAAQAAAAUAIAAGAQMAAQAAAAIAAAARAQQA
 AQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAANUAAAAXAQQAAQAAAJY5AQAaAQUAAQAAAKA5AQAb
-AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></GraphicProxy>
+AQUAAQAAAKg5AQAcAQMAAQAAAAEAIQFSAQMAAQAAAAIAAAA1ggEAAQAAAACTAwMAAAAA]]></GraphicProxy>
 							<GraphicBounds Left="0" Top="0" Right="425.2448311312144" Bottom="212.14245525959004" />
 						</Properties>
 						<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
@@ -16950,7 +16937,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u26dd" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image4.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130881233120000000 233572" LinkImportModificationTime="2015-09-30T23:48:32" LinkImportTime="2015-12-15T14:45:25" LinkResourceSize="0~39064" />
+						<Link Self="u282a" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/diptl/Documents/TOD18-Geoblocking/md/imgs/Rodriguez-Image4.png" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130970645390000000 233572" LinkImportModificationTime="2016-01-12T10:28:59" LinkImportTime="2016-01-14T17:47:57" LinkResourceSize="0~39064" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -17003,7 +16990,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Content>, Law School, Guantánamo University, 2013, Cuba, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u26e3" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2834" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17059,7 +17046,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Content>, La Habana, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u26e5" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2836" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17085,7 +17072,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Content>International Telecommunication Union. ‘Measuring the Information Society Report’, Geneva, Switzerland 2014, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u26e6" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u2838" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014_without_Annex_4.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17105,7 +17092,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Content>Moloney, Patricia. ‘Promoting Global Internet Freedom: Policy and Technology’, Congressional Research Service, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u26e9" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u283a" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.fas.org/sgp/crs/row/R41837.pdf</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17115,7 +17102,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Content>National Statistics Office. ‘Tecnologías de Información y las Comunicaciones: Indicadores Seleccionados’, 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u26ea" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u283b" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.one.cu/ticis2014.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17167,7 +17154,7 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Content> 116.4 (2014), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u26eb" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u283c" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -17190,7 +17177,6 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" />
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
@@ -17441,67 +17427,67 @@ AQUAAQAAAKg5AQAcAQMAAQAAAAEAoQFSAQMAAQAAAAIAAAA1ggEAAQAAAACFoAEAAAAA]]></Graphic
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 246" DestinationUniqueKey="348" Name="URL 246" DestinationURL="http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 247" DestinationUniqueKey="349" Name="URL 247" DestinationURL="http://www.one.cu/ticis2014.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 248" DestinationUniqueKey="350" Name="URL 248" DestinationURL="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf" Hidden="false" />
-	<Hyperlink Self="u26f7" Name="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf" Source="u26e3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="345">
+	<Hyperlink Self="u283e" Name="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf" Source="u2834" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="345">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 243</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26f5" Name="https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es" Source="u26e5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="344">
+	<Hyperlink Self="u283f" Name="https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es" Source="u2836" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="344">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 242</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26f3" Name="http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014_without_Annex_4.pdf" Source="u26e6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="343">
+	<Hyperlink Self="u2840" Name="http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014_without_Annex_4.pdf" Source="u2838" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="343">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 241</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26f1" Name="https://www.fas.org/sgp/crs/row/R41837.pdf" Source="u26e9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="342">
+	<Hyperlink Self="u2841" Name="https://www.fas.org/sgp/crs/row/R41837.pdf" Source="u283a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="342">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 240</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26ef" Name="http://www.one.cu/ticis2014.html" Source="u26ea" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="341">
+	<Hyperlink Self="u2842" Name="http://www.one.cu/ticis2014.html" Source="u283b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="341">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 239</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26ed" Name="http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177" Source="u26eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u2843" Name="http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177" Source="u283c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u2701" Name="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf 1" Source="u269c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="350">
+	<Hyperlink Self="u2844" Name="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf 1" Source="u27de" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="350">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 248</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26ff" Name="http://www.one.cu/ticis2014.html 1" Source="u26a2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="349">
+	<Hyperlink Self="u2845" Name="http://www.one.cu/ticis2014.html 1" Source="u27e4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="349">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 247</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26fd" Name="http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177 1" Source="u26a5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="348">
+	<Hyperlink Self="u2846" Name="http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177 1" Source="u27e7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="348">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 246</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26fb" Name="https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es 1" Source="u26a9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="347">
+	<Hyperlink Self="u2847" Name="https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es 1" Source="u27eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="347">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 245</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u26f9" Name="https://www.fas.org/sgp/crs/row/R41837.pdf 1" Source="u26ab" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="346">
+	<Hyperlink Self="u2848" Name="https://www.fas.org/sgp/crs/row/R41837.pdf 1" Source="u27ed" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="346">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 244</Destination>

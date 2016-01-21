@@ -3,7 +3,7 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="11.0" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
-	<Color Self="Color/C=91 M=23 Y=100 K=41" Model="Process" Space="CMYK" ColorValue="91 23 100 41" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=91 M=23 Y=100 K=41" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/C=45 M=5 Y=7 K=14" Model="Process" Space="CMYK" ColorValue="45 5 7.000000000000001 14.000000000000002" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=45 M=5 Y=7 K=14" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
@@ -170,7 +170,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=91 M=23 Y=100 K=41" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" Name="Page &gt; Running Text:Headings:Header3 (author&apos;s name)" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader3 (author&apos;s name)" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/C=45 M=5 Y=7 K=14" FontStyle="Bold" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="8.503937007874017" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -5607,7 +5607,7 @@ AAAANYIBAAEAAAAA7wUAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Streams available for the German Bundesliga are either pirated coverage from the German branch of Sky Sports or from foreign broadcasters based in India, Russia, Italy, Spain, United States or China. Some streams are simply filmed from someone’s computer or television screen, while others directly access the original digital stream. Depending on the design of the platform and the available streams, between three and fifteen streams are typically listed per match. Popular matches that involve clubs with a worldwide fan base such as FC Bayern Munich tend to attract a larger number of streams. However the quality of these streams is quite diverse, ranging from high-definition resolution to low-quality, heavily compressed video in which it is often difficult to recognize the players. Blurring and compression marks are often visible, making it hard to follow the match (Fig. 3). In addition, streaming channels that infringe the intellectual property of Sky Sports Germany are often disconnected in the last third of a 90-minute football match, reflecting the time it takes to send and process takedown notices. Streams based on foreign broadcast channels are normally not affected by takedown notices. URLs for streaming aggregation platforms change frequently, and platforms often disappear then reappear with a slightly different address.</Content>
 				<Br />
-				<Content>There is also the risk that there are no streams available at all, or that the quality is too low. Previously stable, high-quality streams can turn into dysfunctional broadcasts if too many users are trying to access them. Other dangers relate to the diverse business models adopted by the streaming providers. Some operators generate profits as part of the ‘grey’ advertising market and utilize live streaming as an advertising platform, displaying multiple ads via popup windows or Flash content. Others utilize streaming channels as landing pages to spread malware, enabling them to extend bot-networks, conduct identity theft or commit credit card fraud. They use false plug-ins, updates or video player software installers; prepare hidden, transparent buttons; operate with Javascript-based drive-by-download attacks; or take advantage of security holes in software such as Flash (Fig. 4). Consumers that rely on illegal live streams significantly increase their risk of being affected by such attacks.</Content>
+				<Content>There is also the risk that there are no streams available at all, or that the quality is too low. Previously stable, high-quality streams can turn into dysfunctional broadcasts if too many users are trying to access them. Other dangers relate to the diverse business models adopted by the streaming providers. Some operators generate profits as part of the ‘grey’ advertising market and utilize live streaming as an advertising platform, displaying multiple ads via popup windows or Flash content. Others utilize streaming channels as landing pages to spread malware, enabling them to extend bot-networks, conduct identity theft or commit credit card fraud. They use false plug-ins, updates or video player software installers; prepare hidden, transparent buttons; operate with Javascript-based drive-by-download attacks; or take advantage of security holes in software such as Flash. Consumers that rely on illegal live streams significantly increase their risk of being affected by such attacks.</Content>
 				<Br />
 				<Content>While many people argue that digital network markets are new forms of collaborative capitalism, which can provide free goods, the case of live sports streaming demonstrates that there are significant costs involved. The whole process of locating and consuming illegal ‘live’ information goods has to be understood as a risky investment of resources that is continuously affected by the problem of ‘lemons’. The prevailing uncertainty is a result of different aspects that constitute information goods as ‘digital lemons’:</Content>
 				<Br />
@@ -5679,7 +5679,7 @@ AAAANYIBAAEAAAAA7wUAAAAAAA==]]></GraphicProxy>
 							<Content>Science, Technology and Human Values</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> 35.5 (2010): 601-617, p. 614.</Content>
+							<Content> 35.5 (2010): 614.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5828,7 +5828,7 @@ AAAANYIBAAEAAAAA7wUAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> 35.5 (2010): 601-617.</Content>
 				<Br />
-				<Content>tz. ‘Hier sehen Sie Borussia Dortmund gegen FK Krasnodar jetzt im TV und Live-Stream’, 17 September 2015, </Content>
+				<Content>Sophie Rohringer. ‘Hier sehen Sie Borussia Dortmund gegen FK Krasnodar jetzt im TV und Live-Stream’, tz, 17 September 2015, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u1e3c" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
